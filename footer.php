@@ -124,6 +124,7 @@
   <script src="assets/js/vanilla-tilt.js"></script>
   <script src="assets/js/jquery.meanmenu.min.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/header/header.js"></script>
   <!-- <script src="assets/js/particles.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/tsparticles@2.11.1/tsparticles.bundle.min.js"></script>
   <script src='//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>

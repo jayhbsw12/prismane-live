@@ -236,6 +236,20 @@
           <li><a href="contact.html">Connect</a></li>
         </ul>
       </div>
+      <div class="hamburger-holder">
+        <img src="./assets/imgs/header/open-menu.svg" alt="" width="42px">
+        <div class="mega-menu-mobile-holder">
+          <ul class=" hamburger-menu">
+            <li><a href="#" class="mobile-menu-item">Home</a></li>
+            <li><a href="#" class="mobile-menu-item">Who We Are</a></li>
+            <li><a href="#" class="mobile-menu-item">Market & Industries</a></li>
+            <li><a href="#" class="mobile-menu-item">Applications</a></li>
+            <li><a href="#" class="mobile-menu-item">News</a></li>
+            <li><a href="contact.html" class="mobile-menu-item">Connect</a></li>
+          </ul>
+        </div>
+        <img src="./assets/imgs/header/close-menu.svg" alt="" width="42px">
+      </div>
       <!-- <div class="header__nav-icon-2">
         <button class="menu-icon-2" id="open_offcanvas"><img src="assets/imgs/icon/menu-white.png" alt="Menubar Icon"></button>
       </div> -->
