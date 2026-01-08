@@ -96,3 +96,12 @@ a.mobile-menu-item {
         display: none !important;
     }
 }
+
+@media(max-width:1199px){
+    .header__area-2{
+        padding: 20px 0px;
+    }
+    .header__area{
+        display: none;
+    }
+}
