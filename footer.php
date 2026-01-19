@@ -14,7 +14,7 @@
               <div class="col-xxl-12">
                 <div class="footer__inner">
                   <div class="footer__widget">
-                    <a href="index.html"><img class="footer__logo" src="assets/imgs/logo/Prismane6-Text.svg" alt="Footer Logo"></a>
+                    <a href="./"><img class="footer__logo" src="assets/imgs/logo/Prismane6-Text.svg" alt="Footer Logo"></a>
                     
                     <p>When do they work well, and when do they on us and finally, when do we actually need how can we
                       avoid
@@ -58,7 +58,7 @@
                   </div>
 
                   <div class="footer__copyright">
-                    <p>© 2022 - 2025 | Alrights reserved by <a href="#"
+                    <p>© 2022 - 2026 | Alrights reserved by <a href="#"
                         target="_blank">Prismane6</a>
                     </p>
                   </div>

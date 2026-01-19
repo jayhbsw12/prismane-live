@@ -57,11 +57,11 @@
   <header class="header__area-2">
     <div class="header__inner-2">
       <div class="header__logo-2">
-        <a href="index.html"><img src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo"></a>
+        <a href="./"><img src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo"></a>
       </div>
       <div class="header__nav-2">
         <ul class="main-menu menu-anim">
-          <li class="has-megamenu"><a href="#">home</a>
+          <li class="has-megamenu"><a href="./">home</a>
             <!--<ul class="mega-menu-2">-->
             <!--  <li>-->
             <!--    <div class="menu-heading">Agency</div>-->
@@ -118,9 +118,9 @@
             <!--  </li>-->
             <!--</ul>-->
           </li>
-          <li><a href="#">Who We Are</a></li>
-          <li><a href="#">Markets & Industries</a></li>
-          <li class="has-megamenu"><a href="#">Applications</a>
+          <li><a href="./who-we-are.php">Who We Are</a></li>
+          <li><a href="./industries.php.php">Markets & Industries</a></li>
+          <li class="has-megamenu"><a href="./applications.php">Applications</a>
             <!--<ul class="mega-menu">-->
             <!--  <li>-->
             <!--    <a>Service</a>-->
@@ -199,7 +199,7 @@
             <!--  </li>-->
             <!--</ul>-->
           </li>
-          <li><a href="#">News</a>
+          <li><a href="./blogs.php">Blogs</a>
             <!--<ul class="main-dropdown">-->
             <!--  <li><a href="service.html">service</a>-->
             <!--    <ul class="sub-dropdown">-->
@@ -234,19 +234,19 @@
             <!--  <li><a href="blog-details.html">blog details</a></li>-->
             <!--</ul>-->
           <!-- </li> -->
-          <li><a href="contact.html">Connect</a></li>
+          <li><a href="contact.php">Connect</a></li>
         </ul>
       </div>
       <div class="hamburger-holder">
         <img src="./assets/imgs/header/open-menu.svg" alt="" width="42px">
         <div class="mega-menu-mobile-holder">
           <ul class=" hamburger-menu">
-            <li><a href="#" class="mobile-menu-item">Home</a></li>
-            <li><a href="#" class="mobile-menu-item">Who We Are</a></li>
-            <li><a href="#" class="mobile-menu-item">Market & Industries</a></li>
-            <li><a href="#" class="mobile-menu-item">Applications</a></li>
-            <li><a href="#" class="mobile-menu-item">News</a></li>
-            <li><a href="contact.html" class="mobile-menu-item">Connect</a></li>
+            <li><a href="./" class="mobile-menu-item">Home</a></li>
+            <li><a href="./who-we-are.php" class="mobile-menu-item">Who We Are</a></li>
+            <li><a href="./industries.php.php" class="mobile-menu-item">Market & Industries</a></li>
+            <li><a href="./applications.php" class="mobile-menu-item">Applications</a></li>
+            <li><a href="./blogs.php" class="mobile-menu-item">Blogs</a></li>
+            <li><a href="./contact.php" class="mobile-menu-item">Connect</a></li>
           </ul>
         </div>
         <img src="./assets/imgs/header/close-menu.svg" alt="" width="42px">
@@ -263,7 +263,7 @@
   <header class="header__area">
     <div class="header__inner">
       <div class="header__logo">
-        <a href="index.html">
+        <a href="./">
           <img class="logo-primary" src="assets/imgs/logo/Prismane6-Icon.svg" alt="Site Logo">
           <img class="logo-secondary" src="assets/imgs/logo/Prismane6-Icon.svg" alt="Moibile Logo">
         </a>
@@ -296,7 +296,7 @@
     <div class="offcanvas__body">
       <div class="offcanvas__left">
         <div class="offcanvas__logo">
-          <a href="index.html"><img src="assets/imgs/logo/site-logo-white-2.png" alt="Offcanvas Logo"></a>
+          <a href="./"><img src="assets/imgs/logo/site-logo-white-2.png" alt="Offcanvas Logo"></a>
         </div>
         <div class="offcanvas__social">
           <h3 class="social-title">Follow Us</h3>
