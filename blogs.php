@@ -15,7 +15,9 @@
             <div class="col-xxl-12">
               <div class="sec-title-wrapper text-anim pt-130">
                 <h2 class="sec-sub-title">Recent Blog</h2>
-                <h3 class="sec-title title-anim">Read Updated <br>Journal</h3>
+                <h3 class="sec-title title-anim">
+                  Read Updated <br>Journal
+                </h3>
                 <p>
                   Read our blog and try to see everything from every perspective.
                   Our passion lies in making everything accessible and aesthetic for everyone.
@@ -24,10 +26,8 @@
             </div>
           </div>
 
-          <!-- ✅ Dynamic Blogs Will Load Here -->
-          <div class="row" id="blog-list">
-            <!-- JS will inject blog cards -->
-          </div>
+          <!-- Dynamic Blogs -->
+          <div class="row" id="blog-list"></div>
 
         </div>
       </section>
@@ -62,53 +62,50 @@
   </div>
 </div>
 
-<!-- ✅ Blog Fetch Script -->
+<!-- ================= BLOG FETCH SCRIPT ================= -->
 <script>
-document.addEventListener("DOMContentLoaded", function () {
+  document.addEventListener("DOMContentLoaded", function () {
 
-  const blogContainer = document.getElementById("blog-list");
+    const blogContainer = document.getElementById("blog-list");
 
-  const myHeaders = new Headers();
-  myHeaders.append("Accept", "application/json");
-  myHeaders.append("Origin", "https://designmasters.in");
+    const headers = new Headers();
+    headers.append("Accept", "application/json");
+    headers.append("Origin", "https://designmasters.in");
 
-  fetch(
-    "https://hbapi.hbsoftweb.com/api/frontend/blogs?token=cf725a5ba7b2b3adc3f64ba16d2b2730c872af09ea3595dbb34893b2bd55b9c2",
-    {
-      method: "GET",
-      headers: myHeaders
-    }
-  )
-  .then(response => response.json())
-  .then(res => {
+    fetch(
+      "https://hbapi.hbsoftweb.com/api/frontend/blogs?token=cf725a5ba7b2b3adc3f64ba16d2b2730c872af09ea3595dbb34893b2bd55b9c2",
+      { method: "GET", headers }
+    )
+      .then(res => res.json())
+      .then(res => {
 
-    if (!res.isSuccessfull || !res.data || res.data.length === 0) {
-      blogContainer.innerHTML = "<p>No blogs found.</p>";
-      return;
-    }
+        if (!res.isSuccessfull || !Array.isArray(res.data) || !res.data.length) {
+          blogContainer.innerHTML = "<p>No blogs found.</p>";
+          return;
+        }
 
-    // ✅ Clear container before appending (safe for re-fetch)
-    blogContainer.innerHTML = "";
+        blogContainer.innerHTML = "";
 
-    res.data.forEach(blog => {
+        res.data.forEach(blog => {
 
-      const category =
-        Array.isArray(blog.categoryNames) && blog.categoryNames.length
-          ? blog.categoryNames.join(", ")
-          : "Blog";
+          const category = Array.isArray(blog.categoryNames) && blog.categoryNames.length
+            ? blog.categoryNames.join(", ")
+            : "Blog";
 
-      const blogHTML = `
+          const blogHTML = `
         <div class="col-xxl-6 col-xl-6 col-lg-6">
           <article class="blog__item-3">
             <div class="blog__img-wrapper-3">
-              <a href="blog-details.php?slug=${blog.blogUrl}">
+              <a href="/${blog.blogUrl}">
                 <div class="img-box">
                   <img class="image-box__item"
                        src="${blog.blogImage}"
-                       alt="${blog.blogTitle}">
+                       alt="${blog.blogTitle}"
+                       loading="lazy">
                   <img class="image-box__item"
                        src="${blog.blogImage}"
-                       alt="${blog.blogTitle}">
+                       alt="${blog.blogTitle}"
+                       loading="lazy">
                 </div>
               </a>
             </div>
@@ -119,14 +116,12 @@ document.addEventListener("DOMContentLoaded", function () {
               </h4>
 
               <h5>
-                <a href="blog-details.php?slug=${blog.blogUrl}"
-                   class="blog__title-3">
+                <a href="/${blog.blogUrl}" class="blog__title-3">
                   ${blog.blogTitle}
                 </a>
               </h5>
 
-              <a href="blog-details.php?slug=${blog.blogUrl}"
-                 class="blog__btn">
+              <a href="/${blog.blogUrl}" class="blog__btn">
                 Read More
                 <span><i class="fa-solid fa-arrow-right"></i></span>
               </a>
@@ -135,15 +130,14 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
       `;
 
-      blogContainer.insertAdjacentHTML("beforeend", blogHTML);
-    });
+          blogContainer.insertAdjacentHTML("beforeend", blogHTML);
+        });
 
-  })
-  .catch(error => {
-    console.error("Blog Fetch Error:", error);
-    blogContainer.innerHTML =
-      "<p>Unable to load blogs at the moment.</p>";
+      })
+      .catch(err => {
+        console.error("Blog Fetch Error:", err);
+        blogContainer.innerHTML = "<p>Unable to load blogs at the moment.</p>";
+      });
+
   });
-
-});
 </script>
