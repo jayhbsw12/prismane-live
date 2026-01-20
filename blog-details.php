@@ -33,7 +33,7 @@ if (!$slug) {
                         <!-- CONTENT -->
                         <div class="blog-detail-content-holder">
 
-                            <div class="col-xxl-8 col-xl-10">
+                            <div class="col-xxl-12 col-xl-12">
                                 <div class="blog__detail-top">
                                     <h2 class="blog__detail-date animation__word_come"></h2>
                                     <h3 class="blog__detail-title animation__word_come"></h3>
