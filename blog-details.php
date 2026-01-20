@@ -227,7 +227,7 @@ if (!$slug) {
         width: 100%;
         background: none;
         border: none;
-        color: #fff;
+        /* color: #fff; */
         font-size: 18px;
         text-align: left;
         cursor: pointer;
