@@ -96,7 +96,7 @@
         <div class="col-xxl-6 col-xl-6 col-lg-6">
           <article class="blog__item-3">
             <div class="blog__img-wrapper-3">
-              <a href="/${blog.blogUrl}">
+              <a href="./${blog.blogUrl}">
                 <div class="img-box">
                   <img class="image-box__item"
                        src="${blog.blogImage}"
@@ -116,12 +116,12 @@
               </h4>
 
               <h5>
-                <a href="/${blog.blogUrl}" class="blog__title-3">
+                <a href="./${blog.blogUrl}" class="blog__title-3">
                   ${blog.blogTitle}
                 </a>
               </h5>
 
-              <a href="/${blog.blogUrl}" class="blog__btn">
+              <a href="./${blog.blogUrl}" class="blog__btn">
                 Read More
                 <span><i class="fa-solid fa-arrow-right"></i></span>
               </a>
