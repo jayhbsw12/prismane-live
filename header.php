@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="assets/css/footer/footer.css">
   <!-- <link rel="stylesheet" href="assets/css/header/header.css"> -->
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/css/blog-detail.css">
 
   </head>
 

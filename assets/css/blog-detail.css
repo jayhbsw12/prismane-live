@@ -1,0 +1,36 @@
+.blog-detail-toc-holder {
+  width: 25%;
+  z-index: 100;
+  height: fit-content;
+}
+
+.blog-detail-toc-wrapper {
+  background: #0d0d0d;
+  position: sticky;  /* Makes the element sticky */
+  top: 20px; /* Adjust this to give some space from the top */
+  max-height: calc(100vh - 40px);  /* Ensure it does not exceed viewport height */
+  overflow-y: auto;  /* Adds scrolling if content overflows */
+}
+
+.blog-detail-main-row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: stretch;
+  position: relative;
+}
+
+.blog-detail-content-holder {
+  width: 75%;
+}
+
+.toc-item:hover {
+  color: #c9f31d !important;
+  cursor: pointer;
+}
+
+.prismane-hr-blog {
+  border: 1px solid #c9f31d;
+  margin: 5px 0px;
+  opacity: 1;
+}
