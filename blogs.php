@@ -82,37 +82,51 @@ document.addEventListener("DOMContentLoaded", function () {
   .then(response => response.json())
   .then(res => {
 
-    if (!res || !res.data || res.data.length === 0) {
+    if (!res.isSuccessfull || !res.data || res.data.length === 0) {
       blogContainer.innerHTML = "<p>No blogs found.</p>";
       return;
     }
 
+    // ✅ Clear container before appending (safe for re-fetch)
+    blogContainer.innerHTML = "";
+
     res.data.forEach(blog => {
+
+      const category =
+        Array.isArray(blog.categoryNames) && blog.categoryNames.length
+          ? blog.categoryNames.join(", ")
+          : "Blog";
 
       const blogHTML = `
         <div class="col-xxl-6 col-xl-6 col-lg-6">
           <article class="blog__item-3">
             <div class="blog__img-wrapper-3">
-              <a href="blog-details.php?slug=${blog.slug}">
+              <a href="blog-details.php?slug=${blog.blogUrl}">
                 <div class="img-box">
-                  <img class="image-box__item" src="${blog.image}" alt="${blog.title}">
-                  <img class="image-box__item" src="${blog.image}" alt="${blog.title}">
+                  <img class="image-box__item"
+                       src="${blog.blogImage}"
+                       alt="${blog.blogTitle}">
+                  <img class="image-box__item"
+                       src="${blog.blogImage}"
+                       alt="${blog.blogTitle}">
                 </div>
               </a>
             </div>
 
             <div class="blog__info-3">
               <h4 class="blog__meta">
-                <a href="#">${blog.category_name ?? "Blog"}</a> · ${blog.publish_date}
+                <a href="#">${category}</a> · ${blog.publishDate}
               </h4>
 
               <h5>
-                <a href="blog-details.php?slug=${blog.slug}" class="blog__title-3">
-                  ${blog.title}
+                <a href="blog-details.php?slug=${blog.blogUrl}"
+                   class="blog__title-3">
+                  ${blog.blogTitle}
                 </a>
               </h5>
 
-              <a href="blog-details.php?slug=${blog.slug}" class="blog__btn">
+              <a href="blog-details.php?slug=${blog.blogUrl}"
+                 class="blog__btn">
                 Read More
                 <span><i class="fa-solid fa-arrow-right"></i></span>
               </a>
@@ -127,7 +141,8 @@ document.addEventListener("DOMContentLoaded", function () {
   })
   .catch(error => {
     console.error("Blog Fetch Error:", error);
-    blogContainer.innerHTML = "<p>Unable to load blogs at the moment.</p>";
+    blogContainer.innerHTML =
+      "<p>Unable to load blogs at the moment.</p>";
   });
 
 });
