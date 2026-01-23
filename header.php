@@ -120,7 +120,7 @@
             <!--</ul>-->
           </li>
           <li><a href="./who-we-are.php">Who We Are</a></li>
-          <li><a href="./industries.php.php">Services</a></li>
+          <!-- <li><a href="./industries.php.php">Services</a></li> -->
           <li class="has-megamenu"><a href="./applications.php">Applications</a>
             <!--<ul class="mega-menu">-->
             <!--  <li>-->
@@ -244,7 +244,7 @@
           <ul class=" hamburger-menu">
             <li><a href="./" class="mobile-menu-item">Home</a></li>
             <li><a href="./who-we-are.php" class="mobile-menu-item">Who We Are</a></li>
-            <li><a href="./industries.php.php" class="mobile-menu-item">Services</a></li>
+            <!-- <li><a href="./industries.php.php" class="mobile-menu-item">Services</a></li> -->
             <li><a href="./applications.php" class="mobile-menu-item">Applications</a></li>
             <li><a href="./blogs.php" class="mobile-menu-item">Blogs</a></li>
             <li><a href="./contact.php" class="mobile-menu-item">Connect</a></li>

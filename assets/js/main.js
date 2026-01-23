@@ -919,15 +919,19 @@
     // 24. Portfolio 5 Animation 
     let skewSetter = gsap.quickTo(".portfolio__item-5 img", "skewY"),
       clamp = gsap.utils.clamp(-15, 15);
-    const smoother = ScrollSmoother.create({
-      smooth: 1.35,
-      effects: device_width < 1025 ? false : true,
-      smoothTouch: false,
-      normalizeScroll: false,
-      ignoreMobileResize: true,
-      onUpdate: self => skewSetter(clamp(self.getVelocity() / -80)),
-      onStop: () => skewSetter(0)
-    });
+    
+    // Check if smooth scroll is disabled for this page
+    if (!window.disableSmoothScroll) {
+      const smoother = ScrollSmoother.create({
+        smooth: 1.35,
+        effects: device_width < 1025 ? false : true,
+        smoothTouch: false,
+        normalizeScroll: false,
+        ignoreMobileResize: true,
+        onUpdate: self => skewSetter(clamp(self.getVelocity() / -80)),
+        onStop: () => skewSetter(0)
+      });
+    }
 
     /////////////////////////////////////////////////////
 

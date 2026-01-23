@@ -239,3 +239,8 @@ if (!$slug) {
         color: #ccc;
     }
 </style>
+
+<!-- Disable Smooth Scroll for Blog Detail Page -->
+<script>
+    window.disableSmoothScroll = true;
+</script>
