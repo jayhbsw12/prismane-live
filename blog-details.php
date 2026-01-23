@@ -2,6 +2,11 @@
 <meta name="robots" content="noindex,nofollow">
 <?php include("header.php"); ?>
 
+<!-- Disable Smooth Scroll for Blog Detail Page -->
+<script>
+    window.disableSmoothScroll = true;
+</script>
+
 <?php
 $slug = $_GET['slug'] ?? '';
 if (!$slug) {
@@ -239,8 +244,3 @@ if (!$slug) {
         color: #ccc;
     }
 </style>
-
-<!-- Disable Smooth Scroll for Blog Detail Page -->
-<script>
-    window.disableSmoothScroll = true;
-</script>
