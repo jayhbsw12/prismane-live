@@ -680,7 +680,7 @@ header.header__area-2 {
 
 
         <!-- Brand area start -->
-        <section class="brand__area">
+        <!-- <section class="brand__area">
           <div class="container g-0 line pt-140 pb-130">
             <span class="line-3"></span>
             <div class="row">
@@ -714,32 +714,32 @@ header.header__area-2 {
                   <div class="brand__item fade_bottom">
                     <img src="assets/imgs/brand/Choksi-colours-unit-2-22-150_100.png" alt="Brand Logo">
                   </div>
-                  <!-- <div class="brand__item fade_bottom">
+                  <div class="brand__item fade_bottom">
                     <img src="assets/imgs/brand/Prismane6.png" alt="Brand Logo">
-                  </div> -->
+                  </div>
                   <div class="brand__item fade_bottom">
                     <img src="assets/imgs/brand/indosahara.png" alt="Brand Logo">
                   </div>
-                  <!-- <div class="brand__item fade_bottom">
+                  <div class="brand__item fade_bottom">
                     <img src="assets/imgs/brand/6.png" alt="Brand Logo">
-                  </div> -->
-                  <!-- <div class="brand__item fade_bottom">
+                  </div>
+                  <div class="brand__item fade_bottom">
                     <img src="assets/imgs/brand/1.png" alt="Brand Logo">
                   </div>
                   <div class="brand__item fade_bottom">
                     <img src="assets/imgs/brand/2.png" alt="Brand Logo">
-                  </div> -->
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
         <!-- Brand area end -->
 
         
 
         <!-- Testimonial area start -->
-        <section class="testimonial__area pb-130">
+        <!-- <section class="testimonial__area pb-130">
           <div class="container g-0 line">
             <span class="line-3"></span>
             <div class="row">
@@ -789,7 +789,7 @@ header.header__area-2 {
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
         <!-- Testimonial area end -->
 
           <!-- Solution area start -->
@@ -818,7 +818,7 @@ header.header__area-2 {
           <!-- Solution area end -->
 
         <!-- Blog area start -->
-        <section class="blog__area no-pb blog__animation">
+        <!-- <section class="blog__area no-pb blog__animation">
           <div class="container g-0 line pt-150 pb-140">
             <span class="line-3"></span>
             <div class="row">
@@ -883,13 +883,13 @@ header.header__area-2 {
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
         <!-- Blog area end -->
 
 
         <!-- CTA area start -->
         <section class="cta__area">
-          <div class="container line pb-110">
+          <div class="container line pb-110 pt-110">
             <div class="line-3"></div>
             <div class="row">
               <div class="col-xxl-12">
