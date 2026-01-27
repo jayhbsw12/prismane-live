@@ -27,7 +27,9 @@ if ($name === '' || !$email || $subject === '' || $message === '') {
 }
 
 /* ---------- Mail Content ---------- */
-$mailSubject = 'New Enquiry from Website - Prismane 6';
+$senderLabel = $name ?: $email;
+$mailSubject = 'Received Inquiry From Website: Prismane 6 - ' . $senderLabel;
+
 
 $body = '
 <!doctype html>
@@ -35,17 +37,17 @@ $body = '
 <head><meta charset="utf-8"></head>
 <body style="font-family:Arial,Helvetica,sans-serif;background:#f5f5f5;padding:20px;">
   <div style="max-width:600px;margin:auto;background:#ffffff;padding:24px;border-top:4px solid #000;">
-    <h2 style="margin-bottom:20px;">New Contact Enquiry – Prismane 6</h2>
+    <h2 style="margin-bottom:20px;">Received Inquiry From Website: Prismane 6 </h2>
 
-    <p><strong>Name:</strong> '.htmlspecialchars($name).'</p>
-    <p><strong>Email:</strong> '.htmlspecialchars($email).'</p>
-    <p><strong>Phone:</strong> '.htmlspecialchars($phone ?: 'Not provided').'</p>
-    <p><strong>Subject:</strong> '.htmlspecialchars($subject).'</p>
+    <p style="font-size:16px"><strong>Name:</strong> '.htmlspecialchars($name).'</p>
+    <p style="font-size:16px"><strong>Email:</strong> '.htmlspecialchars($email).'</p>
+    <p style="font-size:16px"><strong>Phone:</strong> '.htmlspecialchars($phone ?: 'Not provided').'</p>
+    <p style="font-size:16px"><strong>Subject:</strong> '.htmlspecialchars($subject).'</p>
 
     <hr style="margin:20px 0;">
 
-    <p><strong>Message:</strong></p>
-    <p>'.nl2br(htmlspecialchars($message)).'</p>
+    <p style="font-size:16px"><strong>Message:</strong></p>
+    <p style="font-size:16px">'.nl2br(htmlspecialchars($message)).'</p>
 
     <hr style="margin:20px 0;">
     <p style="font-size:13px;color:#777;">

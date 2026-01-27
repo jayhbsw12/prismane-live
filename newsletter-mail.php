@@ -23,7 +23,9 @@ if (!$email) {
 }
 
 /* ---------- Mail Content ---------- */
-$mailSubject = 'New Newsletter Subscription – Prismane 6';
+$senderLabel = $email;
+$mailSubject = 'Received Newsletter Request From Website: Prismane 6 - ' . $senderLabel;
+
 
 $body = '
 <!doctype html>
@@ -31,9 +33,9 @@ $body = '
 <head><meta charset="utf-8"></head>
 <body style="font-family:Arial,Helvetica,sans-serif;background:#f5f5f5;padding:20px;">
   <div style="max-width:600px;margin:auto;background:#ffffff;padding:24px;border-top:4px solid #000;">
-    <h2 style="margin-bottom:20px;">New Newsletter Subscription</h2>
+    <h2 style="margin-bottom:20px;">Received Newsletter Request From Website: Prismane 6</h2>
 
-    <p style="font-size:15px;">
+    <p style="font-size:16px;">
       <strong>Email:</strong> '.htmlspecialchars($email).'
     </p>
 
