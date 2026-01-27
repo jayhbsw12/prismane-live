@@ -12,27 +12,27 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come">Web and mobile development</h2>
+                                <h2 class="sec-title animation__char_come">TY-300 Direct-to-Film Printer</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                             <div class="development__wrapper">
                                 <div class="development__content">
-                                    <p>Every decision we make needs to answer the million-dollar question: how will this
-                                        benefit our
-                                        partner’s goal best? We work to develop solutions</p>
-                                    <p>We like to be different, in the same way that every mission is different. Every
-                                        project is an
-                                        opportunity to create result that will help you</p>
+                                    <p>
+                                        You care about producing work that looks exceptional. The TY-300 helps you achieve it with richer colour, stronger detail and more consistent results than other DTF systems. Faster output and expanded white capacity keep production moving, even on demanding days.
+                                    </p>
+                                    <p>
+                                        It is a complete Roland DG DTF setup with premium inks and powder, backed by the reliability and support you can build your reputation on.
+                                    </p>
                                 </div>
-                                <ul>
+                                <!-- <ul>
                                     <li>+ API Development</li>
                                     <li>+ WordPress</li>
                                     <li>+ Cloud Migration</li>
                                     <li>+ Front End Development</li>
                                     <li>+ JavaScript</li>
                                     <li>+ Fluter Framework</li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                         <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
@@ -63,18 +63,13 @@
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h3 class="sec-title title-anim">We are leading digital marketing agency.</h3>
+                                <h3 class="sec-title title-anim">Your Complete Roland DG DTF Workflow</h3>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
-                                    <p>We’re a team of strategic mdigital marketing working globally with largest
-                                        brands, We believe
-                                        that
-                                        progress only happens when you refused to play things safe. We combine ideas and
-                                        behaviors, and
-                                        insights with design, technological data to produce brand experiences that
-                                        customers love our
-                                        services.</p>
+                                    <p>
+                                        You want transfers you can trust, shift after shift. TY-300 sits at the heart of a complete Roland DG DTF setup, combining the TY-300 DTF printer with VersaWorks RIP, premium Roland DG inks and powder, and Roland DG Care support to keep colour, detail and uptime consistent. It also integrates with compatible shaker and dryer units to automate the powder stage and sustain high-volume production.
+                                    </p>
                                     <div class="btn_wrapper">
                                         <a class="wc-btn-light btn-hover btn-item" href="about.html"><span></span>
                                             Explore Us <i class="fa-solid fa-arrow-right"></i></a>
@@ -95,81 +90,81 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="service-details.html">
-                                        <h3 class="service__title-7">Branding <span>design</span></h3>
+                                        <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
                                     </a>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design mainly
-                                        philosophy.
+                                    <p>
+                                        Deliver bold, durable prints with balanced whites and vibrant tones designed for real production conditions.
                                     </p>
-                                    <ul>
+                                    <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
                                         <li>+ Promotion</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="service-details.html">
-                                        <h3 class="service__title-7">Interactive <span>Design</span> </h3>
+                                        <h3 class="service__title-7">Precision <span>Detail</span> </h3>
                                     </a>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design mainly
-                                        philosophy.
+                                    <p>
+                                        Reproduce fine graphics, small text, and complex designs accurately across a wide range of fabrics.
                                     </p>
-                                    <ul>
+                                    <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
                                         <li>+ Promotion</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="service-details.html">
-                                        <h3 class="service__title-7">Web & Mobile <span>Development</span> </h3>
+                                        <h3 class="service__title-7">Continuous <span>Productivity</span> </h3>
                                     </a>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design mainly
-                                        philosophy.
+                                    <p>
+                                       Four white channels and fast drying times mean fewer interruptions and higher daily output.
                                     </p>
-                                    <ul>
+                                    <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
                                         <li>+ Promotion</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="service-details.html">
-                                        <h3 class="service__title-7">Digital <span> Marketing</span> </h3>
+                                        <h3 class="service__title-7">Proven <span>Reliability</span> </h3>
                                     </a>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design mainly
-                                        philosophy.
+                                    <p>
+                                        Built on Roland DG’s trusted print technology for consistent performance and minimal downtime.
                                     </p>
-                                    <ul>
+                                    <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
                                         <li>+ Promotion</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="service-details.html">
-                                        <h3 class="service__title-7">Business <span>Strategy</span></h3>
+                                        <h3 class="service__title-7">Reduced Running <span>Costs</span></h3>
                                     </a>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design mainly
-                                        philosophy.
+                                    <p>
+                                        Efficient ink usage and simplified maintenance help lower long-term operational expenses.
                                     </p>
-                                    <ul>
+                                    <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
                                         <li>+ Promotion</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="service-details.html">
-                                        <h3 class="service__title-7">Illustration <span>Modelling</span> </h3>
+                                        <h3 class="service__title-7">Simple, Smart <span>Operation</span> </h3>
                                     </a>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design mainly
-                                        philosophy.
+                                    <p>
+                                        Control every print with intuitive RIP software, colour LCD interface, and production-ready presets.
                                     </p>
-                                    <ul>
+                                    <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
                                         <li>+ Promotion</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -205,7 +200,7 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">T-Shirts</h3>
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Workwear</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -214,7 +209,7 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">T-Shirts</h3>
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Aprons</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -223,7 +218,7 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">T-Shirts</h3>
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Sportswear</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -248,13 +243,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come"> I MAKE THE Service BETTER.</h2>
+                            <h2 class="sec-title animation__char_come">Proven DTF Gains</h2>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
-                                <p>Static and dynamic secure code review can prevent a 0day before your product is even
-                                    released. We
-                                    can integrate with your dev environment</p>
+                                <p>
+                                    The TY-300 is engineered for high-volume environments, delivering faster output speeds, consistent colour, and the reliability needed for demanding production schedules. Every improvement helps you work cleaner, move quicker, and achieve better results across more fabrics.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -263,36 +258,45 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="service-details.html">
-                                        <h3 class="ps-title">Frontend <br> Developemnt</h3>
-                                        <ul>
+                                        <h3 class="ps-title">4X<br> Faster Production</h3>
+                                        <p>
+                                            Internal testing shows the TY-300 printing up to four times faster than competitor models where tested, giving you the speed to take on higher volumes with confidence.
+                                        </p>
+                                        <!-- <ul>
                                             <li>+ WordPress</li>
                                             <li>+ Python</li>
                                             <li>+ PHP & Laravel</li>
-                                        </ul>
+                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="service-details.html">
-                                        <h3 class="ps-title">Backend<br> Developemnt</h3>
-                                        <ul>
+                                        <h3 class="ps-title">100%<br> Integrated Workflow</h3>
+                                        <p>
+                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and powder, for a complete, production-ready setup with consistent output quality.
+                                        </p>
+                                        <!-- <ul>
                                             <li>+ WordPress</li>
                                             <li>+ Python</li>
                                             <li>+ PHP & Laravel</li>
-                                        </ul>
+                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="service-details.html">
-                                        <h3 class="ps-title">Android<br> Developemnt</h3>
-                                        <ul>
+                                        <h3 class="ps-title">Save<br> On Running Costs</h3>
+                                        <p>
+                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and powder, delivering a complete, production-ready setup with consistent output quality.                                    
+                                        </p>
+                                        <!-- <ul>
                                             <li>+ WordPress</li>
                                             <li>+ Python</li>
                                             <li>+ PHP & Laravel</li>
-                                        </ul>
+                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
@@ -311,27 +315,17 @@
 
                         <div class="row">
                             <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                                <h2 class="sec-sub-title title-anim">Digital Studio</h2>
-                                <h3 class="sec-title title-anim">Our story</h3>
+                                <h2 class="sec-sub-title title-anim">Powerful Performance.</h2>
+                                <h3 class="sec-title title-anim">Maximum Productivity.</h3>
                             </div>
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
-                                    <p>Your brand is the most important asset in your company let our team of
-                                        professionals help you
-                                        with a good strategy took the runway next with an edgy collection featuring dyed
-                                        denim pieces. The
-                                        collection included patchwork denim, a trend that has recently exploded in
-                                        younger generations.
-                                        Playing on aspects of sustainability, the pieces appeared to be upcycled to
-                                        establish dimension
-                                        and flair. This take on grunge and streetwear took sustainable fashion to an
-                                        entirely new level.
+                                    <p>
+                                        The TY-300 delivers exceptional CMYK + White performance, printing at up to 10.9 m²/h in standard mode and 17.48 m²/h in high-speed mode, as much as 45 percent faster than comparable DTF printers tested.
                                     </p>
-                                    <p>ur specialized team of researchers, strategists, designers, developers, and
-                                        project managers work
-                                        with streamlined processes to break through organizational roadblocks. We
-                                        translate research into
-                                        solutions, crafting thoughtful and unified brands.</p>
+                                    <p>
+                                        This increased throughput supports continuous production and reduces the need for operator intervention, helping you meet high-volume demand with confidence.
+                                    </p>
                                 </div>
                             </div>
 
