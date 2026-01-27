@@ -192,7 +192,7 @@
             <!--      <li><a href="about-dark.html">about dark</a></li>-->
             <!--      <li><a href="faq.html">FAQs</a></li>-->
             <!--      <li><a href="faq-dark.html">FAQs dark</a></li>-->
-            <!--      <li><a href="contact.html">contact</a></li>-->
+            <!--      <li><a href="connect.php">contact</a></li>-->
             <!--      <li><a href="contact-dark.html">contact dark</a></li>-->
             <!--      <li><a href="404.html">404</a></li>-->
             <!--      <li><a href="404-dark.html">404 dark</a></li>-->
@@ -235,7 +235,7 @@
             <!--  <li><a href="blog-details.html">blog details</a></li>-->
             <!--</ul>-->
           <!-- </li> -->
-          <li><a href="contact.php">Connect</a></li>
+          <li><a href="connect.php">Connect</a></li>
         </ul>
       </div>
       <div class="hamburger-holder">
@@ -247,7 +247,7 @@
             <!-- <li><a href="./industries.php.php" class="mobile-menu-item">Services</a></li> -->
             <li><a href="./applications.php" class="mobile-menu-item">Applications</a></li>
             <li><a href="./blogs.php" class="mobile-menu-item">Blogs</a></li>
-            <li><a href="./contact.php" class="mobile-menu-item">Connect</a></li>
+            <li><a href="./connect.php" class="mobile-menu-item">Connect</a></li>
           </ul>
         </div>
         <img src="./assets/imgs/header/close-menu.svg" alt="" width="42px">
@@ -313,7 +313,7 @@
         <div class="offcanvas__links">
           <ul>
             <li><a href="about.html">About</a></li>
-            <li><a href="contact.html">contact</a></li>
+            <li><a href="connect.php">contact</a></li>
             <li><a href="career.html">Career</a></li>
             <li><a href="blog.html">blog</a></li>
           </ul>
@@ -451,7 +451,7 @@
                       <li><a href="about-dark.html">about dark</a></li>
                       <li><a href="faq.html">FAQs</a></li>
                       <li><a href="faq-dark.html">FAQs dark</a></li>
-                      <li><a href="contact.html">contact</a></li>
+                      <li><a href="connect.php">contact</a></li>
                       <li><a href="contact-dark.html">contact dark</a></li>
                       <li><a href="404.html">404</a></li>
                       <li><a href="404-dark.html">404 dark</a></li>
@@ -471,7 +471,7 @@
                   <li><a href="blog-details-dark.html">blog details dark</a></li>
                 </ul>
               </li>
-              <li><a href="contact.html">contact</a></li>
+              <li><a href="connect.php">contact</a></li>
             </ul>
           </nav>
         </div>
