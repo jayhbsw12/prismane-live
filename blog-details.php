@@ -45,7 +45,7 @@ if (!$slug) {
 
                                     <div class="blog__detail-metalist">
                                         <div class="blog__detail-meta">
-                                            <img src="assets/imgs/blog/detail/author.png" alt="Author Picture">
+                                            <img id="blog-author-image" src="" alt="Author Picture">
                                             <p>Written by <span id="blog-author"></span></p>
                                         </div>
                                         <div class="blog__detail-meta">
@@ -123,6 +123,7 @@ if (!$slug) {
                 document.querySelector(".blog__detail-date").textContent = blog.categoryNames.join(", ");
                 document.getElementById("blog-author").textContent = blog.authorName;
                 document.getElementById("blog-image").src = blog.blogImage;
+                document.getElementById("blog-author-image").src = blog.authorImage || "assets/imgs/blog/detail/author.png";
 
                 /* ===== CONTENT + TOC ===== */
                 const content = document.getElementById("blog-content");
@@ -242,5 +243,12 @@ if (!$slug) {
         display: none;
         padding-top: 10px;
         color: #ccc;
+    }
+
+    .blog__detail-meta img {
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 50%;
     }
 </style>
