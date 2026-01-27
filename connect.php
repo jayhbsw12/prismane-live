@@ -34,7 +34,7 @@
               </div>
               <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                 <div class="contact__form">
-                  <form action="assets/mail.php" method="POST">
+                  <form action="contact-mail.php" method="POST">
                     <div class="row g-3">
                       <div class="col-xxl-6 col-xl-6 col-12">
                         <input type="text" name="name" placeholder="Name *">
