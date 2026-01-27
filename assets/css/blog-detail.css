@@ -1,6 +1,6 @@
 .blog-detail-toc-holder {
   width: 25%;
-  z-index: 100;
+  /* z-index: 100; */
   height: fit-content;
 }
 
