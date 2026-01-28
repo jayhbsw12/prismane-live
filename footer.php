@@ -321,6 +321,61 @@
   loop();
 </script>
 
+<!-- <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tabButtons = document.querySelectorAll(
+    '.mega-menu-2 .nav-pills .nav-link'
+  );
+
+  tabButtons.forEach(button => {
+    button.addEventListener('mouseenter', function () {
+      if (!this.classList.contains('active')) {
+        const tab = new bootstrap.Tab(this);
+        tab.show();
+      }
+    });
+  });
+});
+</script> -->
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const megaMenu = document.querySelector('.mega-menu-2');
+  if (!megaMenu) return;
+
+  const tabButtons = megaMenu.querySelectorAll('.nav-pills .nav-link');
+  const firstTab = tabButtons[0];
+
+  // Activate tab on hover
+  tabButtons.forEach(button => {
+    button.addEventListener('mouseenter', function () {
+      const tab = new bootstrap.Tab(this);
+      tab.show();
+    });
+  });
+
+  // Always reset to first tab on exit
+  megaMenu.addEventListener('mouseleave', function () {
+    if (firstTab) {
+      const tab = new bootstrap.Tab(firstTab);
+      tab.show();
+    }
+  });
+
+  // Safety: ensure first tab is active on initial entry
+  megaMenu.addEventListener('mouseenter', function () {
+    if (firstTab && !firstTab.classList.contains('active')) {
+      const tab = new bootstrap.Tab(firstTab);
+      tab.show();
+    }
+  });
+});
+</script>
+
+
+
 </body>
 
 </html>
