@@ -456,6 +456,7 @@
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim">Sublimation Dispersion</h3>
+                                <span class="text-white fs-1">Specification A:</span>
                             </div>
                             <div class="col-12">
                                 <div class="col-12  table-responsive">
@@ -497,6 +498,62 @@
                                                 <td>30-35</td>
                                                 <td>30-35</td>
                                                 <td>30-35</td>
+                                            </tr>
+                                            <tr>
+                                                <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
+                                                <td>Upto 195nm</td>
+                                                <td>Upto 100nm</td>
+                                                <td>Upto 170nm</td>
+                                                <td>Upto 100nm</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1">Specification B:</span>
+                            </div>
+                            <div class="col-12">
+                                <div class="col-12  table-responsive">
+                                    <table class="table table-dark rounded">
+                                        <thead>
+                                            <tr class="table-active">
+                                                <th scope="col" class="fw-normal">Parameters</th>
+                                                <th scope="col" class="fw-normal">YELLOW</th>
+                                                <th scope="col" class="fw-normal">CYAN</th>
+                                                <th scope="col" class="fw-normal">MAGENTA</th>
+                                                <th scope="col" class="fw-normal">Black</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
+                                                <td>8-8.5</td>
+                                                <td>8-8.5</td>
+                                                <td>8-8.5</td>
+                                                <td>8-8.5</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
+                                                <td>Upto 20</td>
+                                                <td>Upto 20</td>
+                                                <td>Upto 20</td>
+                                                <td>Upto 20</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
+                                                <td>25-35</td>
+                                                <td>25-35</td>
+                                                <td>25-35</td>
+                                                <td>25-35</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
+                                                <td>35-45</td>
+                                                <td>35-45</td>
+                                                <td>35-45</td>
+                                                <td>45-55</td>
                                             </tr>
                                             <tr>
                                                 <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
