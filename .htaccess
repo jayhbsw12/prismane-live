@@ -14,7 +14,12 @@
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^(.+)\.php$ /$1 [R=301,L]
 
-  # Rewrite clean URLs to .php files
+  # Blog slug routing - MUST come before generic page rewrite
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^([a-zA-Z0-9-]+)/?$ blog-details.php?slug=$1 [L,QSA]
+
+  # Rewrite clean URLs to .php files (for regular pages only)
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteCond %{REQUEST_URI} !^/assets/
