@@ -341,7 +341,7 @@
                   <p class="cta__sub-title">WORK WITH US</p>
                   <h2 class="cta__title title-anim">Let’s discuss your formulation requirements</h2>
                   <div class="btn_wrapper">
-                    <a href="connect.php" class="wc-btn-primary btn-hover btn-item"><span></span>Let’s talk us <i
+                    <a href="connect" class="wc-btn-primary btn-hover btn-item"><span></span>Let's talk us <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
                 </div>

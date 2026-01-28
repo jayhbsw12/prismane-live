@@ -119,9 +119,9 @@
              </li>
             </ul> -->
           </li>
-          <li><a href="./who-we-are.php">Who We Are</a></li>
-          <!-- <li><a href="./industries.php.php">Services</a></li> -->
-          <li class="has-megamenu"><a href="./applications.php">Applications</a>
+          <li><a href="./who-we-are">Who We Are</a></li>
+          <!-- <li><a href="./industries">Services</a></li> -->
+          <li class="has-megamenu"><a href="./applications">Applications</a>
             <ul class="mega-menu-2 d-flex p-3 bg-light">
               <div class="d-flex align-items-start w-100">
                 <!-- Tabs -->
@@ -187,7 +187,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span>
                     </div>
                     <!-- Sublimation Inks content here -->
-                    <a href="./sublimation-inks.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-inks" role="tabpanel"
@@ -197,7 +197,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span>
                     </div>
                     <!-- DTF Inks content here -->
-                    <a href="./DTF-Inks.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-sublimation-dispersions" role="tabpanel"
@@ -207,7 +207,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span>
                     </div>
                     <!-- Sublimation Dispersions content here -->
-                    <a href="./sublimation-dispersions.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-pigment-dispersions" role="tabpanel"
@@ -217,7 +217,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span>
                     </div>
                     <!-- Pigment Dispersions content here -->
-                    <a href="./pigment-dispersions.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-printers" role="tabpanel"
@@ -227,7 +227,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span>
                     </div>
                     <!-- DTF Printers content here -->
-                    <a href="./DTF-printers.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-film" role="tabpanel"
@@ -237,7 +237,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span>
                     </div>
                     <!-- DTF Film content here -->
-                    <a href="./DTF-film.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-tpu-powder" role="tabpanel"
@@ -247,7 +247,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span>
                     </div>
                     <!-- TPU Powder content here -->
-                    <a href="./TPU-powder.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-pigments-dyes" role="tabpanel"
@@ -257,7 +257,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span>
                     </div>
                     <!-- Pigments & Dyes content here -->
-                    <a href="./pigments-and-dyes.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
+                    <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                 </div>
@@ -334,7 +334,7 @@
                   <li><a href="about-dark.html">about dark</a></li>
                   <li><a href="faq.html">FAQs</a></li>
                   <li><a href="faq-dark.html">FAQs dark</a></li>
-                  <li><a href="connect.php">contact</a></li>
+                  <li><a href="connect">contact</a></li>
                   <li><a href="contact-dark.html">contact dark</a></li>
                   <li><a href="404.html">404</a></li>
                   <li><a href="404-dark.html">404 dark</a></li>
@@ -342,7 +342,7 @@
               </li>
             </ul> -->
           </li>
-          <li><a href="./blogs.php">Blogs</a>
+          <li><a href="./blogs">Blogs</a>
             <!--<ul class="main-dropdown">-->
             <!--  <li><a href="service.html">service</a>-->
             <!--    <ul class="sub-dropdown">-->
@@ -377,7 +377,7 @@
           <!--  <li><a href="blog-details.html">blog details</a></li>-->
           <!--</ul>-->
           <!-- </li> -->
-          <li><a href="connect.php">Connect</a></li>
+          <li><a href="connect">Connect</a></li>
         </ul>
       </div>
       <div class="hamburger-holder">
@@ -385,22 +385,22 @@
         <div class="mega-menu-mobile-holder">
           <ul class=" hamburger-menu">
             <li><a href="./" class="mobile-menu-item">Home</a></li>
-            <li><a href="./who-we-are.php" class="mobile-menu-item">Who We Are</a></li>
-            <!-- <li><a href="./industries.php.php" class="mobile-menu-item">Services</a></li> -->
-            <li><a href="./applications.php" class="mobile-menu-item">Applications</a>
+            <li><a href="./who-we-are" class="mobile-menu-item">Who We Are</a></li>
+            <!-- <li><a href="./industries" class="mobile-menu-item">Services</a></li> -->
+            <li><a href="./applications" class="mobile-menu-item">Applications</a>
               <ul>
-                <li><a href="./sublimation-inks.php" class="mobile-menu-item">Sublimation Inks</a></li>
-                <li><a href="./dtf-inks.php" class="mobile-menu-item">DTF Inks</a></li>
-                <li><a href="./sublimation-dispersions.php" class="mobile-menu-item">Sublimation Dispersions</a></li>
-                <li><a href="./pigment-dispersions.php" class="mobile-menu-item">Pigment Dispersions</a></li>
-                <li><a href="./dtf-printers.php" class="mobile-menu-item">DTF Printers</a></li>
-                <li><a href="./dtf-film.php" class="mobile-menu-item">DTF FILM</a></li>
-                <li><a href="./tpu-powder.php" class="mobile-menu-item">TPU Powder</a></li>
-                <li><a href="./pigments-dyes.php" class="mobile-menu-item">Pigments &amp; Dyes</a></li>
+                <li><a href="./sublimation-inks" class="mobile-menu-item">Sublimation Inks</a></li>
+                <li><a href="./dtf-inks" class="mobile-menu-item">DTF Inks</a></li>
+                <li><a href="./sublimation-dispersions" class="mobile-menu-item">Sublimation Dispersions</a></li>
+                <li><a href="./pigment-dispersions" class="mobile-menu-item">Pigment Dispersions</a></li>
+                <li><a href="./dtf-printers" class="mobile-menu-item">DTF Printers</a></li>
+                <li><a href="./dtf-film" class="mobile-menu-item">DTF FILM</a></li>
+                <li><a href="./tpu-powder" class="mobile-menu-item">TPU Powder</a></li>
+                <li><a href="./pigments-dyes" class="mobile-menu-item">Pigments &amp; Dyes</a></li>
               </ul>
             </li>
-            <li><a href="./blogs.php" class="mobile-menu-item">Blogs</a></li>
-            <li><a href="./connect.php" class="mobile-menu-item">Connect</a></li>
+            <li><a href="./blogs" class="mobile-menu-item">Blogs</a></li>
+            <li><a href="./connect" class="mobile-menu-item">Connect</a></li>
           </ul>
         </div>
         <img src="./assets/imgs/header/close-menu.svg" alt="" width="42px">
@@ -466,7 +466,7 @@
         <div class="offcanvas__links">
           <ul>
             <li><a href="about.html">About</a></li>
-            <li><a href="connect.php">contact</a></li>
+            <li><a href="connect">contact</a></li>
             <li><a href="career.html">Career</a></li>
             <li><a href="blog.html">blog</a></li>
           </ul>
@@ -604,7 +604,7 @@
                       <li><a href="about-dark.html">about dark</a></li>
                       <li><a href="faq.html">FAQs</a></li>
                       <li><a href="faq-dark.html">FAQs dark</a></li>
-                      <li><a href="connect.php">contact</a></li>
+                      <li><a href="connect">contact</a></li>
                       <li><a href="contact-dark.html">contact dark</a></li>
                       <li><a href="404.html">404</a></li>
                       <li><a href="404-dark.html">404 dark</a></li>
@@ -624,7 +624,7 @@
                   <li><a href="blog-details-dark.html">blog details dark</a></li>
                 </ul>
               </li>
-              <li><a href="connect.php">contact</a></li>
+              <li><a href="connect">contact</a></li>
             </ul>
           </nav>
         </div>

@@ -63,7 +63,7 @@
             </div>
 
             <div class="footer__subscribe">
-              <form action="newsletter-mail.php" method="POST">
+              <form action="newsletter-mail" method="POST">
                 <input type="email" name="email" placeholder="Enter your email" required>
                 <button type="submit" class="subs-btn">
                   <i class="fa-solid fa-paper-plane"></i>

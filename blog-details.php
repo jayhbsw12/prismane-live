@@ -81,7 +81,7 @@ if (!$slug) {
                                 <p class="cta__sub-title">Work with us</p>
                                 <h2 class="cta__title title-anim">We would love to hear more about your project</h2>
                                 <div class="btn_wrapper">
-                                    <a href="connect.php" class="wc-btn-primary btn-item btn-hover">
+                                    <a href="connect" class="wc-btn-primary btn-item btn-hover">
                                         <span></span>Let’s talk us <i class="fa-solid fa-arrow-right"></i>
                                     </a>
                                 </div>

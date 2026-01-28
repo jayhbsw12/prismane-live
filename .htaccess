@@ -1,9 +1,24 @@
-RewriteEngine On
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+#   RewriteBase /
+  RewriteBase /prismane-live
 
-# Ignore existing files and folders
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^ - [L]
 
-# Blog slug routing
-RewriteRule ^([a-zA-Z0-9-]+)/?$ blog-details.php?slug=$1 [L,QSA]
+  # Ignore existing files and folders
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Remove .php extension from URLs (redirect .php to clean URLs)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.+)\.php$ /$1 [R=301,L]
+
+  # Rewrite clean URLs to .php files
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !^/assets/
+  RewriteCond %{REQUEST_URI} !^/PHPMailer/
+  RewriteRule ^([a-zA-Z0-9/_-]+)/?$ $1.php [L,QSA]
+
+</IfModule>
