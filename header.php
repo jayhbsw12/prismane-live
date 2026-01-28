@@ -187,7 +187,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span>
                     </div>
                     <!-- Sublimation Inks content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./sublimation-inks.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-inks" role="tabpanel"
@@ -197,7 +197,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span>
                     </div>
                     <!-- DTF Inks content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./DTF-Inks.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-sublimation-dispersions" role="tabpanel"
@@ -207,7 +207,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span>
                     </div>
                     <!-- Sublimation Dispersions content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./sublimation-dispersions.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-pigment-dispersions" role="tabpanel"
@@ -217,7 +217,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span>
                     </div>
                     <!-- Pigment Dispersions content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./pigment-dispersions.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-printers" role="tabpanel"
@@ -227,7 +227,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span>
                     </div>
                     <!-- DTF Printers content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./DTF-printers.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-film" role="tabpanel"
@@ -237,7 +237,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span>
                     </div>
                     <!-- DTF Film content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./DTF-film.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-tpu-powder" role="tabpanel"
@@ -247,7 +247,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span>
                     </div>
                     <!-- TPU Powder content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./TPU-powder.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                   <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-pigments-dyes" role="tabpanel"
@@ -257,7 +257,7 @@
                       <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span>
                     </div>
                     <!-- Pigments & Dyes content here -->
-                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                    <a href="./pigments-and-dyes.php" class="bg-prismane py-3 px-5 fs-5">Visit</a>
                   </div>
 
                 </div>
