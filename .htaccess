@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
-#   RewriteBase /
-  RewriteBase /prismane-live
+    # RewriteBase /prismane-live
+  RewriteBase /
 
 
   # Ignore existing files and folders
