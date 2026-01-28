@@ -1,26 +1,26 @@
 <!-- Fav Icon -->
-  <link rel="icon" type="image/x-icon" href="assets/imgs/logo/favicon-icon.ico">
+<link rel="icon" type="image/x-icon" href="assets/imgs/logo/favicon-icon.ico">
 
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-  <!-- All CSS files -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/all.min.css">
-  <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-  <link rel="stylesheet" href="assets/css/progressbar.css">
-  <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-  <link rel="stylesheet" href="assets/css/master.css">
-  <link rel="stylesheet" href="assets/css/header-css.css">
-  <link rel="stylesheet" href="assets/css/header/header.css">
-  <link rel="stylesheet" href="assets/css/footer/footer.css">
-  <!-- <link rel="stylesheet" href="assets/css/header/header.css"> -->
-  <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="stylesheet" href="assets/css/blog-detail.css">
+<!-- All CSS files -->
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/all.min.css">
+<link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+<link rel="stylesheet" href="assets/css/progressbar.css">
+<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+<link rel="stylesheet" href="assets/css/master.css">
+<link rel="stylesheet" href="assets/css/header-css.css">
+<link rel="stylesheet" href="assets/css/header/header.css">
+<link rel="stylesheet" href="assets/css/footer/footer.css">
+<!-- <link rel="stylesheet" href="assets/css/header/header.css"> -->
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/blog-detail.css">
 
-  </head>
+</head>
 
 <body class="">
 
@@ -43,10 +43,10 @@
     </div>
   </div>
 
-<!-- Scroll Smoother -->
+  <!-- Scroll Smoother -->
   <div class="has-smooth" id="has_smooth"></div>
 
-  
+
   <!-- Client Cursor -->
   <div class="cursor" id="client_cursor">Play</div>
 
@@ -122,7 +122,146 @@
           <li><a href="./who-we-are.php">Who We Are</a></li>
           <!-- <li><a href="./industries.php.php">Services</a></li> -->
           <li class="has-megamenu"><a href="./applications.php">Applications</a>
-            <ul class="mega-menu-2">
+            <ul class="mega-menu-2 d-flex p-3 bg-light">
+              <div class="d-flex align-items-start w-100">
+                <!-- Tabs -->
+                <div class="nav flex-column align-items-start nav-pills me-3 gap-0 " id="v-pills-tab" role="tablist" aria-orientation="vertical">
+
+                  <div class="nav-link w-100 text-start rounded-none p-3 bg-prismane active" id="v-pills-sublimation-inks-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-sublimation-inks" type="button" role="tab"
+                    aria-controls="v-pills-sublimation-inks" aria-selected="true">
+                    Sublimation Inks
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-inks-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-dtf-inks" type="button" role="tab" aria-controls="v-pills-dtf-inks"
+                    aria-selected="false">
+                    DTF Inks
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-sublimation-dispersions-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-sublimation-dispersions" type="button" role="tab"
+                    aria-controls="v-pills-sublimation-dispersions" aria-selected="false">
+                    Sublimation Dispersions
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-pigment-dispersions-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-pigment-dispersions" type="button" role="tab"
+                    aria-controls="v-pills-pigment-dispersions" aria-selected="false">
+                    Pigment Dispersions
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-printers-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-dtf-printers" type="button" role="tab" aria-controls="v-pills-dtf-printers"
+                    aria-selected="false">
+                    DTF Printers
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-film-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-dtf-film" type="button" role="tab" aria-controls="v-pills-dtf-film"
+                    aria-selected="false">
+                    DTF Film
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-tpu-powder-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-tpu-powder" type="button" role="tab" aria-controls="v-pills-tpu-powder"
+                    aria-selected="false">
+                    TPU Powder
+                  </div>
+
+                  <div class="nav-link w-100 text-start rounded-none p-3" id="v-pills-pigments-dyes-tab" data-bs-toggle="pill"
+                    data-bs-target="#v-pills-pigments-dyes" type="button" role="tab"
+                    aria-controls="v-pills-pigments-dyes" aria-selected="false">
+                    Pigments &amp; Dyes
+                  </div>
+
+                </div>
+
+                <!-- Tab Content -->
+                <div class="tab-content flex-grow-1 h-100" id="v-pills-tabContent">
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade show active" id="v-pills-sublimation-inks" role="tabpanel"
+                    aria-labelledby="v-pills-sublimation-inks-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/Sublimation Inks.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span>
+                    </div>
+                    <!-- Sublimation Inks content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-inks" role="tabpanel"
+                    aria-labelledby="v-pills-dtf-inks-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/DTF inks.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span>
+                    </div>
+                    <!-- DTF Inks content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-sublimation-dispersions" role="tabpanel"
+                    aria-labelledby="v-pills-sublimation-dispersions-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span>
+                    </div>
+                    <!-- Sublimation Dispersions content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-pigment-dispersions" role="tabpanel"
+                    aria-labelledby="v-pills-pigment-dispersions-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span>
+                    </div>
+                    <!-- Pigment Dispersions content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-printers" role="tabpanel"
+                    aria-labelledby="v-pills-dtf-printers-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/DTF Printer.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span>
+                    </div>
+                    <!-- DTF Printers content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-dtf-film" role="tabpanel"
+                    aria-labelledby="v-pills-dtf-film-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/DTF Film.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span>
+                    </div>
+                    <!-- DTF Film content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-tpu-powder" role="tabpanel"
+                    aria-labelledby="v-pills-tpu-powder-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/TPU Powder.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span>
+                    </div>
+                    <!-- TPU Powder content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                  <div class="tab-pane bg-white h-100 align-self-stretch d-flex align-items-center justify-content-center flex-column gap-2 fade" id="v-pills-pigments-dyes" role="tabpanel"
+                    aria-labelledby="v-pills-pigments-dyes-tab">
+                    <div class="mega-image-holder w-100 position-relative">
+                      <img src="assets/imgs/header/Printing Dye.webp" alt="" class="w-100">
+                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span>
+                    </div>
+                    <!-- Pigments & Dyes content here -->
+                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Visit</button>
+                  </div>
+
+                </div>
+              </div>
 
             </ul>
             <!-- <ul class="mega-menu-2">
@@ -225,18 +364,18 @@
             <!--</ul>-->
           </li>
           <!-- <li><a href="#">Updates</a> -->
-            <!--<ul class="main-dropdown">-->
-            <!--  <li><a href="team.html">team</a></li>-->
-            <!--  <li><a href="team-details.html">team details</a></li>-->
-            <!--</ul>-->
+          <!--<ul class="main-dropdown">-->
+          <!--  <li><a href="team.html">team</a></li>-->
+          <!--  <li><a href="team-details.html">team details</a></li>-->
+          <!--</ul>-->
           <!-- </li> -->
           <!-- <li><a href="blog.html">Blog</a> -->
-            <!--<ul class="main-dropdown">-->
-            <!--  <li><a href="blog.html">blog</a></li>-->
-            <!--  <li><a href="blog-2.html">blog v.2</a></li>-->
-            <!--  <li><a href="category.html">category</a></li>-->
-            <!--  <li><a href="blog-details.html">blog details</a></li>-->
-            <!--</ul>-->
+          <!--<ul class="main-dropdown">-->
+          <!--  <li><a href="blog.html">blog</a></li>-->
+          <!--  <li><a href="blog-2.html">blog v.2</a></li>-->
+          <!--  <li><a href="category.html">category</a></li>-->
+          <!--  <li><a href="blog-details.html">blog details</a></li>-->
+          <!--</ul>-->
           <!-- </li> -->
           <li><a href="connect.php">Connect</a></li>
         </ul>
@@ -274,18 +413,18 @@
       </div>
       <div class="header__nav-icon">
         <div class="social-line">
-					<ul class="social-list">
-						<!-- <li>
-							<a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-						</li>
-						<li>
-							<a href="#"><i class="fa-brands fa-instagram"></i></a>
-						</li> -->
-						<li>
-							<a href="#"><i class="fa-brands fa-linkedin"></i></a>
-						</li>
-					</ul>
-				</div>
+          <ul class="social-list">
+            <!-- <li>
+              <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            </li>
+            <li>
+              <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            </li> -->
+            <li>
+              <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="header__support">
         <p>Support center <a href="tel:+6580103613">+65 80103613</a></p>

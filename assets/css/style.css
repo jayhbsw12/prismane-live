@@ -14,3 +14,47 @@
 .bg-prismane{
     background: #c9f31d;
 }
+
+.rounded-none{
+    border-radius: 0 !important;
+}
+
+*{
+    outline: none;
+}
+
+/* Hide all tab panes by default */
+.mega-menu-2 .tab-pane {
+  display: none !important;
+}
+
+/* Show only active tab */
+.mega-menu-2 .tab-pane.active.show {
+  display: flex !important; /* since you're using flex utilities */
+}
+
+/* Applications Mega Menu – Vertical Pills Styling */
+.header__area-2 .nav-pills .nav-link {
+  background-color: #000;      /* Normal state */
+  color: #fff;
+  border-radius: 0;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+/* Hover state */
+.header__area-2 .nav-pills .nav-link:hover {
+  background-color: #c9f31d;
+  color: #000;
+}
+
+/* Active state */
+.header__area-2 .nav-pills .nav-link.active,
+.header__area-2 .nav-pills .show > .nav-link {
+  background-color: #c9f31d;
+  color: #000;
+}
+
+
+.z-1{
+    z-index: 1;
+}
