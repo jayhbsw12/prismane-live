@@ -387,7 +387,18 @@
             <li><a href="./" class="mobile-menu-item">Home</a></li>
             <li><a href="./who-we-are.php" class="mobile-menu-item">Who We Are</a></li>
             <!-- <li><a href="./industries.php.php" class="mobile-menu-item">Services</a></li> -->
-            <li><a href="./applications.php" class="mobile-menu-item">Applications</a></li>
+            <li><a href="./applications.php" class="mobile-menu-item">Applications</a>
+              <ul>
+                <li><a href="./sublimation-inks.php" class="mobile-menu-item">Sublimation Inks</a></li>
+                <li><a href="./dtf-inks.php" class="mobile-menu-item">DTF Inks</a></li>
+                <li><a href="./sublimation-dispersions.php" class="mobile-menu-item">Sublimation Dispersions</a></li>
+                <li><a href="./pigment-dispersions.php" class="mobile-menu-item">Pigment Dispersions</a></li>
+                <li><a href="./dtf-printers.php" class="mobile-menu-item">DTF Printers</a></li>
+                <li><a href="./dtf-film.php" class="mobile-menu-item">DTF FILM</a></li>
+                <li><a href="./tpu-powder.php" class="mobile-menu-item">TPU Powder</a></li>
+                <li><a href="./pigments-dyes.php" class="mobile-menu-item">Pigments &amp; Dyes</a></li>
+              </ul>
+            </li>
             <li><a href="./blogs.php" class="mobile-menu-item">Blogs</a></li>
             <li><a href="./connect.php" class="mobile-menu-item">Connect</a></li>
           </ul>

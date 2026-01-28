@@ -448,6 +448,73 @@
             </section>
             <!-- Story area end -->
 
+            <!-- About area start -->
+            <section class="about__area-3">
+                <div class="container pt-140 pb-110">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Technical Data</h2>
+                                <h3 class="sec-title title-anim">Sublimation Dispersion</h3>
+                            </div>
+                            <div class="col-12">
+                                <div class="col-12  table-responsive">
+                                    <table class="table table-dark rounded">
+                                        <thead>
+                                            <tr class="table-active">
+                                                <th scope="col" class="fw-normal">Parameters</th>
+                                                <th scope="col" class="fw-normal">YELLOW</th>
+                                                <th scope="col" class="fw-normal">CYAN</th>
+                                                <th scope="col" class="fw-normal">MAGENTA</th>
+                                                <th scope="col" class="fw-normal">Black</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
+                                                <td>8-8.5</td>
+                                                <td>8-8.5</td>
+                                                <td>8-8.5</td>
+                                                <td>8-8.5</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
+                                                <td>Upto 10</td>
+                                                <td>Upto 10</td>
+                                                <td>Upto 10</td>
+                                                <td>Upto 10</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
+                                                <td>45-55</td>
+                                                <td>45-55</td>
+                                                <td>45-55</td>
+                                                <td>45-55</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
+                                                <td>30-35</td>
+                                                <td>30-35</td>
+                                                <td>30-35</td>
+                                                <td>30-35</td>
+                                            </tr>
+                                            <tr>
+                                                <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
+                                                <td>Upto 195nm</td>
+                                                <td>Upto 100nm</td>
+                                                <td>Upto 170nm</td>
+                                                <td>Upto 100nm</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- About area end -->
+
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">
@@ -456,8 +523,8 @@
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title-2 animation__char_come">FAQ</h2>
-                                <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
+                                <h3 class="sec-title title-anim">FAQ</h3>
+                                <!-- <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p> -->
                             </div>
                         </div>
                     </div>

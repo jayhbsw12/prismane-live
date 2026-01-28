@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const closeMenu = hamburgerHolder.querySelector('img[src*="close-menu"]');
     const mobileMenu = document.querySelector('.mega-menu-mobile-holder');
     const menuItems = document.querySelectorAll('.mobile-menu-item');
+    const mobileMenuListItems = document.querySelectorAll('.hamburger-menu > li');
 
     let isMenuOpen = false;
 
@@ -48,11 +49,45 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // Close menu when clicking on menu items
+    // Handle dropdown submenus
+    mobileMenuListItems.forEach(item => {
+        const submenu = item.querySelector('ul');
+        if (submenu) {
+            const link = item.querySelector('a');
+            if (link) {
+                // Create a toggle button for dropdown
+                const toggleBtn = document.createElement('span');
+                toggleBtn.className = 'dropdown-toggle';
+                toggleBtn.innerHTML = '';
+                link.parentNode.insertBefore(toggleBtn, submenu);
+
+                // Toggle submenu on click
+                toggleBtn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    submenu.classList.toggle('show');
+                    toggleBtn.classList.toggle('active');
+                });
+
+                // Prevent default link behavior when there's a submenu
+                link.addEventListener('click', function(e) {
+                    if (submenu) {
+                        e.preventDefault();
+                        submenu.classList.toggle('show');
+                        toggleBtn.classList.toggle('active');
+                    }
+                });
+            }
+        }
+    });
+
+    // Close menu when clicking on direct links (not dropdowns)
     menuItems.forEach(item => {
-        item.addEventListener('click', function() {
-            closeMobileMenu();
-        });
+        // Only close if it doesn't have a submenu
+        if (!item.parentElement.querySelector('ul')) {
+            item.addEventListener('click', function() {
+                closeMobileMenu();
+            });
+        }
     });
 
     // Optional: Close menu on outside click
