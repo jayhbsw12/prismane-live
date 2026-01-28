@@ -1,10 +1,79 @@
 <?php include "header-top.php"; ?>
 <meta name="robots" content="noindex,nofollow">
+
+<style>
+    .hero-padding-remove {
+        padding-top: 0px !important;
+    }
+</style>
 <?php include "header.php"; ?>
 
 <div id="smooth-wrapper">
     <div id="smooth-content">
         <main>
+
+            <!-- Hero area start -->
+            <section class="hero__area hero-product d-flex align-items-center">
+                <video autoplay muted loop id="hero-video">
+                    <source src="./assets/video/red-color-example-video.mp4" type="video/mp4">
+                </video>
+                <!-- <div class="overlay"></div> -->
+
+                <div class="container">
+                    <div class="row flex-column flex-lg-row gap-5 gap-lg-0">
+                        <div class="col-12 col-lg-6 d-flex align-items-center">
+                            <div class="hero__content animation__hero_one pt-0">
+                                <div
+                                    class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
+                                    <h1 class="sec-title text-white">Sublimation Inks</h1>
+                                    <p class="text-white">Sed ut unde omnis iste natus sit volur tatem accus antium
+                                        laudan tium totam rem aperiam eaque ipsa illo veritatis et architecto.</p>
+                                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Primary</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex flex-column gap-3" style="z-index: 1">
+                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
+                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
+                                <div>
+                                    <h5 class="mb-1">Feature 1</h5>
+                                    <p class="text-secondary mb-0">
+                                        Quis autem repreh ender velit esse nihil vel illum.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Card 2 -->
+                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
+                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
+                                <div>
+                                    <h5 class="mb-1">Feature 2</h5>
+                                    <p class="text-secondary mb-0">
+                                        Quis autem repreh ender velit esse nihil vel illum.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Card 3 -->
+                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
+                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
+                                <div>
+                                    <h5 class="mb-1">Feature 3</h5>
+                                    <p class="text-secondary mb-0">
+                                        Quis autem repreh ender velit esse nihil vel illum.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div id="tsparticles"></div> -->
+                <!-- <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg"> -->
+                <!-- <div id="js-map-canvas" class="map-canvas">
+                </div> -->
+            </section>
+            <!-- Hero area end -->
+
             <!-- Development area start -->
             <section class="development__area">
                 <div class="container g-0 line pt-130 pb-150">
@@ -19,10 +88,14 @@
                             <div class="development__wrapper">
                                 <div class="development__content">
                                     <p>
-                                        You care about producing work that looks exceptional. The TY-300 helps you achieve it with richer colour, stronger detail and more consistent results than other DTF systems. Faster output and expanded white capacity keep production moving, even on demanding days.
+                                        You care about producing work that looks exceptional. The TY-300 helps you
+                                        achieve it with richer colour, stronger detail and more consistent results than
+                                        other DTF systems. Faster output and expanded white capacity keep production
+                                        moving, even on demanding days.
                                     </p>
                                     <p>
-                                        It is a complete Roland DG DTF setup with premium inks and powder, backed by the reliability and support you can build your reputation on.
+                                        It is a complete Roland DG DTF setup with premium inks and powder, backed by the
+                                        reliability and support you can build your reputation on.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -68,7 +141,11 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        You want transfers you can trust, shift after shift. TY-300 sits at the heart of a complete Roland DG DTF setup, combining the TY-300 DTF printer with VersaWorks RIP, premium Roland DG inks and powder, and Roland DG Care support to keep colour, detail and uptime consistent. It also integrates with compatible shaker and dryer units to automate the powder stage and sustain high-volume production.
+                                        You want transfers you can trust, shift after shift. TY-300 sits at the heart of
+                                        a complete Roland DG DTF setup, combining the TY-300 DTF printer with VersaWorks
+                                        RIP, premium Roland DG inks and powder, and Roland DG Care support to keep
+                                        colour, detail and uptime consistent. It also integrates with compatible shaker
+                                        and dryer units to automate the powder stage and sustain high-volume production.
                                     </p>
                                     <div class="btn_wrapper">
                                         <a class="wc-btn-light btn-hover btn-item" href="about.html"><span></span>
@@ -93,7 +170,8 @@
                                         <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
                                     </a>
                                     <p>
-                                        Deliver bold, durable prints with balanced whites and vibrant tones designed for real production conditions.
+                                        Deliver bold, durable prints with balanced whites and vibrant tones designed for
+                                        real production conditions.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -106,7 +184,8 @@
                                         <h3 class="service__title-7">Precision <span>Detail</span> </h3>
                                     </a>
                                     <p>
-                                        Reproduce fine graphics, small text, and complex designs accurately across a wide range of fabrics.
+                                        Reproduce fine graphics, small text, and complex designs accurately across a
+                                        wide range of fabrics.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -119,7 +198,8 @@
                                         <h3 class="service__title-7">Continuous <span>Productivity</span> </h3>
                                     </a>
                                     <p>
-                                       Four white channels and fast drying times mean fewer interruptions and higher daily output.
+                                        Four white channels and fast drying times mean fewer interruptions and higher
+                                        daily output.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -132,7 +212,8 @@
                                         <h3 class="service__title-7">Proven <span>Reliability</span> </h3>
                                     </a>
                                     <p>
-                                        Built on Roland DG’s trusted print technology for consistent performance and minimal downtime.
+                                        Built on Roland DG’s trusted print technology for consistent performance and
+                                        minimal downtime.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -145,7 +226,8 @@
                                         <h3 class="service__title-7">Reduced Running <span>Costs</span></h3>
                                     </a>
                                     <p>
-                                        Efficient ink usage and simplified maintenance help lower long-term operational expenses.
+                                        Efficient ink usage and simplified maintenance help lower long-term operational
+                                        expenses.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -158,7 +240,8 @@
                                         <h3 class="service__title-7">Simple, Smart <span>Operation</span> </h3>
                                     </a>
                                     <p>
-                                        Control every print with intuitive RIP software, colour LCD interface, and production-ready presets.
+                                        Control every print with intuitive RIP software, colour LCD interface, and
+                                        production-ready presets.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -248,7 +331,10 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    The TY-300 is engineered for high-volume environments, delivering faster output speeds, consistent colour, and the reliability needed for demanding production schedules. Every improvement helps you work cleaner, move quicker, and achieve better results across more fabrics.
+                                    The TY-300 is engineered for high-volume environments, delivering faster output
+                                    speeds, consistent colour, and the reliability needed for demanding production
+                                    schedules. Every improvement helps you work cleaner, move quicker, and achieve
+                                    better results across more fabrics.
                                 </p>
                             </div>
                         </div>
@@ -260,7 +346,9 @@
                                     <a href="service-details.html">
                                         <h3 class="ps-title">4X<br> Faster Production</h3>
                                         <p>
-                                            Internal testing shows the TY-300 printing up to four times faster than competitor models where tested, giving you the speed to take on higher volumes with confidence.
+                                            Internal testing shows the TY-300 printing up to four times faster than
+                                            competitor models where tested, giving you the speed to take on higher
+                                            volumes with confidence.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -275,7 +363,9 @@
                                     <a href="service-details.html">
                                         <h3 class="ps-title">100%<br> Integrated Workflow</h3>
                                         <p>
-                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and powder, for a complete, production-ready setup with consistent output quality.
+                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and
+                                            powder, for a complete, production-ready setup with consistent output
+                                            quality.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -290,7 +380,9 @@
                                     <a href="service-details.html">
                                         <h3 class="ps-title">Save<br> On Running Costs</h3>
                                         <p>
-                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and powder, delivering a complete, production-ready setup with consistent output quality.                                    
+                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and
+                                            powder, delivering a complete, production-ready setup with consistent output
+                                            quality.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -321,10 +413,13 @@
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
                                     <p>
-                                        The TY-300 delivers exceptional CMYK + White performance, printing at up to 10.9 m²/h in standard mode and 17.48 m²/h in high-speed mode, as much as 45 percent faster than comparable DTF printers tested.
+                                        The TY-300 delivers exceptional CMYK + White performance, printing at up to 10.9
+                                        m²/h in standard mode and 17.48 m²/h in high-speed mode, as much as 45 percent
+                                        faster than comparable DTF printers tested.
                                     </p>
                                     <p>
-                                        This increased throughput supports continuous production and reduces the need for operator intervention, helping you meet high-volume demand with confidence.
+                                        This increased throughput supports continuous production and reduces the need
+                                        for operator intervention, helping you meet high-volume demand with confidence.
                                     </p>
                                 </div>
                             </div>

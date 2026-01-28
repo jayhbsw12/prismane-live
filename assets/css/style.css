@@ -5,3 +5,12 @@
 .thank-you-top-margin{
     margin-top: 200px;
 }
+
+.hero-product{
+    height: auto;
+    padding: 120px 20px;
+}
+
+.bg-prismane{
+    background: #c9f31d;
+}
