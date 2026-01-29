@@ -58,3 +58,15 @@
 .z-1{
     z-index: 1;
 }
+
+th{
+  padding: 12px 24px !important;
+}
+
+td{
+  padding: 16px 24px !important;
+}
+
+.text-table-head{
+  color: #82878c;
+}
