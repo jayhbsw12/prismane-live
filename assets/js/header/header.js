@@ -107,3 +107,36 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+
+  const megaMenu = document.querySelector('.mega-menu-2');
+  if (!megaMenu) return;
+
+  const tabLinks = megaMenu.querySelectorAll('.nav-pills .nav-link');
+
+  tabLinks.forEach(link => {
+    link.addEventListener('mouseenter', function () {
+      const tab = new bootstrap.Tab(this);
+      tab.show();
+    });
+  });
+
+  tabLinks.forEach(link => {
+    link.addEventListener('click', function (e) {
+      e.stopImmediatePropagation();
+      const url = this.getAttribute('href');
+      if (url && url !== '#') {
+        window.location.href = url;
+      }
+    });
+  });
+
+  megaMenu.addEventListener('mouseleave', function () {
+    tabLinks.forEach(link => link.classList.remove('active'));
+    megaMenu.querySelectorAll('.tab-pane').forEach(pane => {
+      pane.classList.remove('show', 'active');
+    });
+  });
+
+});

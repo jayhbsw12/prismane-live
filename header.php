@@ -151,7 +151,7 @@
                     Pigment Dispersions
                   </a>
 
-                  <a href="./DTF-printers.php" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-printers-tab" data-bs-toggle="pill"
+                  <a href="./DTF-printers" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-printers-tab" data-bs-toggle="pill"
                     data-bs-target="#v-pills-dtf-printers" type="button" role="tab" aria-controls="v-pills-dtf-printers"
                     aria-selected="false">
                     DTF Printers
