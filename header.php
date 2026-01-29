@@ -121,7 +121,7 @@
           </li>
           <li><a href="./who-we-are">Who We Are</a></li>
           <!-- <li><a href="./industries">Services</a></li> -->
-          <li class="has-megamenu"><a href="./applications">Applications</a>
+          <li class="has-megamenu"><a href="#">Applications</a>
             <ul class="mega-menu-2 d-flex p-0 bg-light">
               <div class="d-flex align-items-start w-100">
                 <!-- Tabs -->

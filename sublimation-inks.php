@@ -32,7 +32,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-lg-6 d-flex flex-column gap-3" style="z-index: 1">
+                        <!-- <div class="col-12 col-lg-6 d-flex flex-column gap-3" style="z-index: 1">
                             <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
                                 <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
                                 <div>
@@ -43,7 +43,6 @@
                                 </div>
                             </div>
 
-                            <!-- Card 2 -->
                             <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
                                 <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
                                 <div>
@@ -54,7 +53,6 @@
                                 </div>
                             </div>
 
-                            <!-- Card 3 -->
                             <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
                                 <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
                                 <div>
@@ -64,7 +62,7 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <!-- <div id="tsparticles"></div> -->
