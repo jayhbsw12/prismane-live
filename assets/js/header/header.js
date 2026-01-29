@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         mobileMenu.classList.add('slide-in');
 
         // Animate menu items
-        gsap.fromTo(menuItems, { opacity: 0, y: -10 }, { opacity: 1, y: 0, duration: 0.3, stagger: 0.1, delay: 0.2, ease: "power2.out" });
+        gsap.fromTo(menuItems, { opacity: 0, y: -10 }, { opacity: 1, y: 0, duration: 0.1, stagger: 0.1, delay: 0.2, ease: "power2.out" });
     }
 
     // Function to close menu
