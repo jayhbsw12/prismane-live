@@ -14,9 +14,9 @@
 
             <!-- Hero area start -->
             <section class="hero__area hero-product d-flex align-items-center">
-                <video autoplay muted loop id="hero-video">
+                <!-- <video autoplay muted loop id="hero-video">
                     <source src="./assets/video/red-color-example-video.mp4" type="video/mp4">
-                </video>
+                </video> -->
                 <!-- <div class="overlay"></div> -->
 
                 <div class="container">
@@ -65,10 +65,51 @@
                         </div> -->
                     </div>
                 </div>
-                <!-- <div id="tsparticles"></div> -->
-                <!-- <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg"> -->
-                <!-- <div id="js-map-canvas" class="map-canvas">
-                </div> -->
+
+                <!-- waves bottom  -->
+                <!-- BACK WAVES -->
+                <div class="waves back">
+                    <svg viewBox="0 24 150 28" preserveAspectRatio="none">
+                        <defs>
+                            <path id="gentle-wave"
+                                d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+                        </defs>
+                        <use href="#gentle-wave" x="48" y="5"></use>
+                        <use href="#gentle-wave" x="48" y="7"></use>
+                    </svg>
+                </div>
+
+                <!-- FRONT WAVES -->
+                <div class="waves front">
+                    <svg viewBox="0 24 150 28" preserveAspectRatio="none">
+                        <defs>
+                            <path id="gentle-wave-front"
+                                d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+                        </defs>
+                        <use href="#gentle-wave-front" x="48" y="0"></use>
+                        <use href="#gentle-wave-front" x="48" y="3"></use>
+                    </svg>
+                </div>
+
+                <!-- NEW WAVE -->
+                <div class="waves new">
+                    <svg viewBox="0 24 150 28" preserveAspectRatio="none">
+                        <defs>
+                            <path id="gentle-wave-new"
+                                d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+                        </defs>
+                        <use href="#gentle-wave-new" x="48" y="0"></use>
+                        <use href="#gentle-wave-new" x="48" y="3"></use>
+                    </svg>
+                </div>
+
+
+
+
+                <!-- <div id="tsparticles"></div>
+                <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
+                <div id="js-map-canvas" class="map-canvas"> </div> -->
+
             </section>
             <!-- Hero area end -->
 
