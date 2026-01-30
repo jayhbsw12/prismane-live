@@ -102,3 +102,6 @@ tr td{
     display: block;
     border-radius: 0;
 }
+.table{
+    width: 1296px;
+}
