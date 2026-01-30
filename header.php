@@ -342,7 +342,7 @@
               </li>
             </ul> -->
           </li>
-          <li><a href="./blogs">Blogs</a>
+          <!-- <li><a href="./blogs">Blogs</a> -->
             <!--<ul class="main-dropdown">-->
             <!--  <li><a href="service.html">service</a>-->
             <!--    <ul class="sub-dropdown">-->
@@ -362,7 +362,7 @@
             <!--  <li><a href="service-6.html">service V.6</a></li>-->
             <!--  <li><a href="service-details.html">service details</a></li>-->
             <!--</ul>-->
-          </li>
+          <!-- </li> -->
           <!-- <li><a href="#">Updates</a> -->
           <!--<ul class="main-dropdown">-->
           <!--  <li><a href="team.html">team</a></li>-->
@@ -399,7 +399,7 @@
                 <li><a href="./pigments-dyes" class="mobile-menu-item">Pigments &amp; Dyes</a></li>
               </ul>
             </li>
-            <li><a href="./blogs" class="mobile-menu-item">Blogs</a></li>
+            <!-- <li><a href="./blogs" class="mobile-menu-item">Blogs</a></li> -->
             <li><a href="./connect" class="mobile-menu-item">Connect</a></li>
           </ul>
         </div>
