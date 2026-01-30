@@ -21,14 +21,14 @@
 
                 <div class="container">
                     <div class="row flex-column flex-lg-row gap-5 gap-lg-0">
-                        <div class="col-12 col-lg-6 d-flex align-items-center">
+                        <div class="col-12 col-lg-12 d-flex align-items-center">
                             <div class="hero__content animation__hero_one pt-0">
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white">Sublimation Inks</h1>
                                     <p class="text-white">Sed ut unde omnis iste natus sit volur tatem accus antium
                                         laudan tium totam rem aperiam eaque ipsa illo veritatis et architecto.</p>
-                                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Primary</button>
+                                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button>
                                 </div>
                             </div>
                         </div>
