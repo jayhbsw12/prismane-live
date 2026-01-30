@@ -66,45 +66,6 @@
                     </div>
                 </div>
 
-                <!-- waves bottom  -->
-                <!-- BACK WAVES -->
-                <!-- <div class="waves back">
-                    <svg viewBox="0 24 150 28" preserveAspectRatio="none">
-                        <defs>
-                            <path id="gentle-wave"
-                                d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-                        </defs>
-                        <use href="#gentle-wave" x="48" y="5"></use>
-                        <use href="#gentle-wave" x="48" y="7"></use>
-                    </svg>
-                </div> -->
-
-                <!-- FRONT WAVES -->
-                <!-- <div class="waves front">
-                    <svg viewBox="0 24 150 28" preserveAspectRatio="none">
-                        <defs>
-                            <path id="gentle-wave-front"
-                                d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-                        </defs>
-                        <use href="#gentle-wave-front" x="48" y="0"></use>
-                        <use href="#gentle-wave-front" x="48" y="3"></use>
-                    </svg>
-                </div> -->
-
-                <!-- NEW WAVE -->
-                <!-- <div class="waves new">
-                    <svg viewBox="0 24 150 28" preserveAspectRatio="none">
-                        <defs>
-                            <path id="gentle-wave-new"
-                                d="M-160 44c30 0 58-18 88-18s58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-                        </defs>
-                        <use href="#gentle-wave-new" x="48" y="0"></use>
-                        <use href="#gentle-wave-new" x="48" y="3"></use>
-                    </svg>
-                </div> -->
-
-
-
 
                 <!-- <div id="tsparticles"></div>
                 <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
@@ -113,10 +74,9 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 405px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 415px; ">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
-                    viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none"
-                    style="width: 100%; height: 220px;">
+                    viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
                         d="m0 131.906 34.4-20.017c34.4-19.9 103.2-59.936 171.68-82.979 68.64-23.043 136.8-29.328003 205.44-4.306 68.48 25.022 137.28 81.35 205.76 80.768 68.64-.582 136.8-58.074 205.44-84.608 68.48-26.535 137.28-22.345 205.76-16.06 68.64 6.168 136.8 14.315 205.44 22.811 68.48 8.612 137.28 17.457 171.68 22l34.4 4.422v396.851h-1440z"
                         fill-opacity=".09" style="fill: #c9f31d">
