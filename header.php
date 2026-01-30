@@ -123,7 +123,7 @@
           <!-- <li><a href="./industries">Services</a></li> -->
           <li class="has-megamenu"><a href="#">Applications</a>
             <ul class="mega-menu-2 d-flex p-0 bg-transparent">
-              <div class="d-flex align-items-start w-100">
+              <div class="d-flex align-items-start w-100 flex-row-reverse">
                 <!-- Tabs -->
                 <div class="nav flex-column align-items-start nav-pills me-0 gap-0 " id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
