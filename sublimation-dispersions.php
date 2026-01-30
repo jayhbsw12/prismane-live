@@ -489,114 +489,89 @@
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim">Sublimation Dispersion</h3>
-                                <span class="text-white fs-1">Specification A:</span>
+                                <span class="text-white fs-1">Glojet Disperse Dye Series</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal">Parameters</th>
-                                            <th scope="col" class="fw-normal">YELLOW</th>
-                                            <th scope="col" class="fw-normal">CYAN</th>
-                                            <th scope="col" class="fw-normal">MAGENTA</th>
-                                            <th scope="col" class="fw-normal">Black</th>
+                                            <th scope="col" class="fw-normal">Product</th>
+                                            <th scope="col" class="fw-normal">Color Index</th>
+                                            <th scope="col" class="fw-normal">Light Fastness</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
+                                            <td>Glojet Yellow 005</td>
+                                            <td>Disperse Yellow 54</td>
+                                            <td>6</td>
+                                            <td>Brilliant Yellow</td>
                                         </tr>
                                         <tr>
-                                            <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
+                                            <td>Glojet Yellow 008</td>
+                                            <td>Disperse Yellow 82</td>
+                                            <td>4</td>
+                                            <td>Fluorescent Green light Yellow</td>
                                         </tr>
                                         <tr>
-                                            <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
+                                            <td>Glojet Orange 008</td>
+                                            <td>Disperse Orange 25</td>
+                                            <td>6</td>
+                                            <td>Red light Orange</td>
                                         </tr>
                                         <tr>
-                                            <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
+                                            <td>Glojet Red 001</td>
+                                            <td>Disperse Red 60</td>
+                                            <td>6-7</td>
+                                            <td>Bright red Blue light</td>
                                         </tr>
                                         <tr>
-                                            <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
-                                            <td>Upto 195nm</td>
-                                            <td>Upto 100nm</td>
-                                            <td>Upto 170nm</td>
-                                            <td>Upto 100nm</td>
+                                            <td>Glojet Blue 006</td>
+                                            <td>Disperse Blue 60</td>
+                                            <td>7</td>
+                                            <td>Colorful Green light Blue</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Blue 007</td>
+                                            <td>Disperse Blue 72</td>
+                                            <td>6-7</td>
+                                            <td>Red light Blue</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Blue 008</td>
+                                            <td>Disperse Blue 359</td>
+                                            <td>5-6</td>
+                                            <td>Brilliant Blue</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Blue 009</td>
+                                            <td>Disperse Blue 360</td>
+                                            <td>5-6</td>
+                                            <td>Brilliant Blue</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Brown 002</td>
+                                            <td>Disperse Brown 27</td>
+                                            <td>6</td>
+                                            <td>Deep Brown</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Black 001</td>
+                                            <td>Disperse Black mix</td>
+                                            <td>5-6</td>
+                                            <td>Blue black</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Black 002</td>
+                                            <td>Disperse Black mix</td>
+                                            <td>5-6</td>
+                                            <td>Red black</td>
                                         </tr>
                                     </tbody>
                                 </table>
-                            </div>
 
-
-                            <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">Specification B:</span>
-                            </div>
-
-                            <div class="col-12  table-responsive">
-                                <table class="table table-dark rounded fw-light z-1 position-relative">
-                                    <thead>
-                                        <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal">Parameters</th>
-                                            <th scope="col" class="fw-normal">YELLOW</th>
-                                            <th scope="col" class="fw-normal">CYAN</th>
-                                            <th scope="col" class="fw-normal">MAGENTA</th>
-                                            <th scope="col" class="fw-normal">Black</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>45-55</td>
-                                        </tr>
-                                        <tr>
-                                            <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
-                                            <td>Upto 195nm</td>
-                                            <td>Upto 100nm</td>
-                                            <td>Upto 170nm</td>
-                                            <td>Upto 100nm</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
                             </div>
 
                         </div>
@@ -604,7 +579,7 @@
                 </div>
             </section>
             <!-- Table section -->
-             
+
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">

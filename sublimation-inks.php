@@ -489,7 +489,7 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim">Sublimation Dispersion</h3>
+                                <h3 class="sec-title title-anim">Sublimation Inks</h3>
                                 <span class="text-white fs-1">Specification A:</span>
                             </div>
 
