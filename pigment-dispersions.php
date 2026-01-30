@@ -490,117 +490,274 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim">Sublimation Dispersion</h3>
-                                <span class="text-white fs-1">Specification A:</span>
+                                <h3 class="sec-title title-anim">Pigment Dispersions</h3>
+                                <span class="text-white fs-1">Glojet - U Series</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal">Parameters</th>
-                                            <th scope="col" class="fw-normal">YELLOW</th>
-                                            <th scope="col" class="fw-normal">CYAN</th>
-                                            <th scope="col" class="fw-normal">MAGENTA</th>
-                                            <th scope="col" class="fw-normal">Black</th>
+                                            <th scope="col" class="fw-normal"></th>
+                                            <th scope="col" class="fw-normal">Product</th>
+                                            <th scope="col" class="fw-normal">Color Index</th>
+                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <th scope="col" class="fw-normal">Light Fastness</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
+                                            <td><span class="color-item" style="background: #fff109"></span></td>
+                                            <td>Glojet Yellow N5-U</td>
+                                            <td>P.Y.74</td>
+                                            <td>Monoazo</td>
+                                            <td>6</td>
+                                            <td>High performance standard yellow</td>
                                         </tr>
                                         <tr>
-                                            <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
+                                            <td><span class="color-item" style="background: #fece21"></span></td>
+                                            <td>Glojet Yellow R49-U</td>
+                                            <td>P.Y.138</td>
+                                            <td>Monoazo</td>
+                                            <td>6–7</td>
+                                            <td>High performance green shade yellow</td>
                                         </tr>
                                         <tr>
-                                            <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
+                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
+                                            <td>Glojet Yellow E66-U</td>
+                                            <td>P.Y.155</td>
+                                            <td>Double Azo</td>
+                                            <td>7</td>
+                                            <td>High performance strong green shade</td>
                                         </tr>
                                         <tr>
-                                            <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
+                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
+                                            <td>Glojet Orange E4-U</td>
+                                            <td>P.O.13</td>
+                                            <td>Disazopyrazolone</td>
+                                            <td>6</td>
+                                            <td>High performance yellow shade orange</td>
                                         </tr>
                                         <tr>
-                                            <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
-                                            <td>Upto 195nm</td>
-                                            <td>Upto 100nm</td>
-                                            <td>Upto 170nm</td>
-                                            <td>Upto 100nm</td>
+                                            <td><span class="color-item" style="background: #fa5e21"></span></td>
+                                            <td>Glojet Orange E5-U</td>
+                                            <td>P.O.34</td>
+                                            <td>Disazopyrazolone</td>
+                                            <td>6</td>
+                                            <td>High performance mid shade orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f58025"></span></td>
+                                            <td>Glojet Orange C47-U</td>
+                                            <td>P.O.36</td>
+                                            <td>Benzimidazolone</td>
+                                            <td>6–7</td>
+                                            <td>High performance red shade orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ac0000"></span></td>
+                                            <td>Glojet Red M21-U</td>
+                                            <td>P.R.210</td>
+                                            <td>Single azo</td>
+                                            <td>6</td>
+                                            <td>High performance red with bluish tone</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
+                                            <td>Glojet Red R33-U</td>
+                                            <td>P.R.122</td>
+                                            <td>Quinacridone</td>
+                                            <td>7–8</td>
+                                            <td>High performance standard magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
+                                            <td>Glojet Violet R10-U</td>
+                                            <td>P.V.19</td>
+                                            <td>Quinacridone</td>
+                                            <td>7–8</td>
+                                            <td>High performance red shade magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #280653"></span></td>
+                                            <td>Glojet Violet E4-U</td>
+                                            <td>P.V.23</td>
+                                            <td>Dioxazine Carbazole</td>
+                                            <td>7–8</td>
+                                            <td>High performance blue shade violet</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #211f6e"></span></td>
+                                            <td>Glojet Blue C64-U</td>
+                                            <td>P.B.15:3</td>
+                                            <td>Cu-Phthalocyanine</td>
+                                            <td>8</td>
+                                            <td>High performance standard cyan</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #00352d"></span></td>
+                                            <td>Glojet Green Q8-U</td>
+                                            <td>P.G.7</td>
+                                            <td>Cu-Phthalogreen</td>
+                                            <td>7–8</td>
+                                            <td>High performance standard green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #0c5537"></span></td>
+                                            <td>Glojet Green Q47-U</td>
+                                            <td>P.G.36</td>
+                                            <td>Cu-Phthalogreen (Brominated)</td>
+                                            <td>7</td>
+                                            <td>High performance yellower green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #040504"></span></td>
+                                            <td>Glojet Black D8-U</td>
+                                            <td>P.B.7</td>
+                                            <td>Oxidised Carbon Black</td>
+                                            <td>8</td>
+                                            <td>High performance jet black</td>
                                         </tr>
                                     </tbody>
                                 </table>
+
                             </div>
 
-
-                            <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">Specification B:</span>
+                            <div class="sec-title-wrapper">
+                                <span class="text-white fs-1">Glojet - M Series</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal">Parameters</th>
-                                            <th scope="col" class="fw-normal">YELLOW</th>
-                                            <th scope="col" class="fw-normal">CYAN</th>
-                                            <th scope="col" class="fw-normal">MAGENTA</th>
-                                            <th scope="col" class="fw-normal">Black</th>
+                                            <th scope="col" class="fw-normal"></th>
+                                            <th scope="col" class="fw-normal">Product</th>
+                                            <th scope="col" class="fw-normal">Color Index</th>
+                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <th scope="col" class="fw-normal">Light Fastness</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
+                                            <td><span class="color-item" style="background: #fff109"></span></td>
+                                            <td>Glojet Yellow N5-M</td>
+                                            <td>P.Y.74</td>
+                                            <td>Monoase</td>
+                                            <td>6</td>
+                                            <td>High performance standard yellow</td>
                                         </tr>
                                         <tr>
-                                            <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
+                                            <td><span class="color-item" style="background: #fece21"></span></td>
+                                            <td>Glojet Yellow R49-M</td>
+                                            <td>P.Y.138</td>
+                                            <td>Monoase</td>
+                                            <td>6-7</td>
+                                            <td>High performance green shade yellow</td>
                                         </tr>
                                         <tr>
-                                            <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
+                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
+                                            <td>Glojet Yellow E66-M</td>
+                                            <td>P.Y.155</td>
+                                            <td>Double Azo</td>
+                                            <td>7</td>
+                                            <td>High performance strong green shade</td>
                                         </tr>
                                         <tr>
-                                            <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>45-55</td>
+                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
+                                            <td>Glojet Orange E4-M</td>
+                                            <td>P.0.13</td>
+                                            <td>Disazopyrazolone</td>
+                                            <td>6</td>
+                                            <td>High performance yellow shade Orange</td>
                                         </tr>
                                         <tr>
-                                            <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
-                                            <td>Upto 195nm</td>
-                                            <td>Upto 100nm</td>
-                                            <td>Upto 170nm</td>
-                                            <td>Upto 100nm</td>
+                                            <td><span class="color-item" style="background: #f58025"></span></td>
+                                            <td>Glojet Orange C47-M</td>
+                                            <td>P.0.36</td>
+                                            <td>Benzimidazalone</td>
+                                            <td>6-7</td>
+                                            <td>High Performance Red Shade Orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f15122"></span></td>
+                                            <td>Glojet Orange C75-M</td>
+                                            <td>P.0.64</td>
+                                            <td>Benzimidazalone</td>
+                                            <td>6</td>
+                                            <td>High Performance mid Shade Orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ac0000"></span></td>
+                                            <td>Glojet Red M21-M</td>
+                                            <td>P.R.210</td>
+                                            <td>Single Azo</td>
+                                            <td>6</td>
+                                            <td>High Performance Red with Bluish tone</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
+                                            <td>Glojet Red R33-M</td>
+                                            <td>P.R.122</td>
+                                            <td>Quinacridone</td>
+                                            <td>7-8</td>
+                                            <td>High performance standard magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
+                                            <td>Glojet Violet R10-M</td>
+                                            <td>P.V.19</td>
+                                            <td>Quinacridone</td>
+                                            <td>7-8</td>
+                                            <td>High performance red shade magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #280653"></span></td>
+                                            <td>Glojet Violet E4-M</td>
+                                            <td>P.V.23</td>
+                                            <td>Dioxazin Carbazole</td>
+                                            <td>7-8</td>
+                                            <td>High performance blue shade violet</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #211f6e"></span></td>
+                                            <td>Glojet Blue C64-M</td>
+                                            <td>P.B.15.3</td>
+                                            <td>Cu-Phthalocyanine</td>
+                                            <td>8</td>
+                                            <td>High performance standard cyan</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #00352d"></span></td>
+                                            <td>Glojet Green Q8-M</td>
+                                            <td>P.G.7</td>
+                                            <td>Cu-Phthalogreen</td>
+                                            <td>7-8</td>
+                                            <td>High performance standard green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #0c5537"></span></td>
+                                            <td>Glojet Green Q47-M</td>
+                                            <td>P.G.36</td>
+                                            <td>Cu- Phthalogreen Bromination</td>
+                                            <td>7</td>
+                                            <td>High performance Yellower green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #040504"></span></td>
+                                            <td>Glojet Black D8-M</td>
+                                            <td>P.B.7</td>
+                                            <td>Oxidized Carbon Black</td>
+                                            <td>8</td>
+                                            <td>High performance Jet black</td>
                                         </tr>
                                     </tbody>
                                 </table>
-                            </div>
 
+
+                            </div>
                         </div>
                     </div>
                 </div>

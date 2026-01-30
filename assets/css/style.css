@@ -90,3 +90,15 @@ td{
 .waves path {
     animation: colorChange 3s ease-in-out infinite;
 }
+
+
+tr td{
+    align-content: center;
+}
+
+.color-item {
+    width: 40px;
+    height: 20px;
+    display: block;
+    border-radius: 50px;
+}
