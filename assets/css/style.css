@@ -8,7 +8,7 @@
 
 .hero-product{
     height: auto;
-    padding: 120px 20px;
+    padding: 200px 20px;
 }
 
 .bg-prismane{
@@ -149,4 +149,24 @@ td{
   100% {
     fill: rgb(120, 255, 0); /* Light green */
   }
+}
+
+@keyframes colorChange {
+    0% {
+        fill: rgb(255, 0, 0); /* Red */
+    }
+    33% {
+        fill: rgb(0, 255, 0); /* Green */
+    }
+    66% {
+        fill: rgb(0, 0, 255); /* Blue */
+    }
+    100% {
+        fill: rgb(255, 0, 0); /* Red */
+    }
+}
+
+/* Apply animation to wave paths */
+.waves path {
+    animation: colorChange 3s ease-in-out infinite;
 }
