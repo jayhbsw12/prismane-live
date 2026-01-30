@@ -624,7 +624,7 @@
 
                             </div>
 
-                            <div class="sec-title-wrapper">
+                            <div class="sec-title-wrapper mt-5">
                                 <span class="text-white fs-1">Glojet - M Series</span>
                             </div>
 
