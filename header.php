@@ -196,7 +196,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation Inks.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span> -->
                       <!-- Sublimation Inks content here -->
-                      <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -206,7 +206,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF inks.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span> -->
                       <!-- DTF Inks content here -->
-                      <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -216,7 +216,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span> -->
                       <!-- Sublimation Dispersions content here -->
-                      <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -226,7 +226,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span> -->
                       <!-- Pigment Dispersions content here -->
-                      <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -236,7 +236,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Printer.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span> -->
                       <!-- DTF Printers content here -->
-                      <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -246,7 +246,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Film.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span> -->
                       <!-- DTF Film content here -->
-                      <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -256,7 +256,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/TPU Powder.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span> -->
                       <!-- TPU Powder content here -->
-                      <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 
@@ -266,7 +266,7 @@
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Printing Dye.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span> -->
                       <!-- Pigments & Dyes content here -->
-                      <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
+                      <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
                     </div>
                   </div>
 

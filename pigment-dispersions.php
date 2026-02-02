@@ -147,12 +147,15 @@
                         </div>
                         <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
                             <div class="development__img">
-                                <img src="assets/imgs/pigment-imgs/ink-splash-2.mp4" alt="Development Image" data-speed="auto">
+                                <video src="assets/imgs/pigment-imgs/ink-splash-2.mp4" autoplay loop muted playsinline
+                                    data-speed="auto">
+                                </video>
+
                             </div>
                         </div>
                         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                             <div class="development__img">
-                                <img src="assets/imgs/thumb/dev-2.jpg" alt="Development Image">
+                                <img src="assets/imgs/pigment-imgs/410 x 400.jpg" alt="Development Image">
                             </div>
                         </div>
                     </div>
@@ -166,7 +169,7 @@
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="about__img-3">
-                                <img src="assets/imgs/about/3/1.jpg" alt="About Thumbnail" data-speed="auto">
+                                <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail" data-speed="auto">
                             </div>
                         </div>
 
@@ -314,7 +317,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                                <img src="assets/imgs/pigment-imgs/Printing Inks.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
@@ -323,7 +326,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                                <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
@@ -332,7 +335,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                                <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
@@ -341,7 +344,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio__title-3 mt-5 mt-sm-0">Cosmetics Products</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                                <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
@@ -403,7 +406,8 @@
                                         <h3 class="ps-title">Seamless System Compatibility</h3>
                                         <p>
                                             Ready-to-use dispersions integrate smoothly with commonly used binders and
-                                            formulations, reducing formulation complexity and ensuring consistent output.
+                                            formulations, reducing formulation complexity and ensuring consistent
+                                            output.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -451,10 +455,17 @@
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
                                     <p>
-                                        Our pigment dispersions are developed to deliver consistent colour strength, fine particle stability, and reliable performance across a wide range of ink, coating, and textile applications. Engineered for controlled processing and compatibility, they support efficient production while maintaining uniform quality from batch to batch.
+                                        Our pigment dispersions are developed to deliver consistent colour strength,
+                                        fine particle stability, and reliable performance across a wide range of ink,
+                                        coating, and textile applications. Engineered for controlled processing and
+                                        compatibility, they support efficient production while maintaining uniform
+                                        quality from batch to batch.
                                     </p>
                                     <p>
-                                        Pigment dispersions designed for dependable colour accuracy, processing stability, and smooth integration into modern formulations. Built to perform under real production conditions, they help manufacturers achieve consistent results, improved efficiency, and reduced variability across applications.
+                                        Pigment dispersions designed for dependable colour accuracy, processing
+                                        stability, and smooth integration into modern formulations. Built to perform
+                                        under real production conditions, they help manufacturers achieve consistent
+                                        results, improved efficiency, and reduced variability across applications.
                                     </p>
                                 </div>
                             </div>
@@ -464,18 +475,18 @@
                     <div class="row">
                         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
                             <div class="story__img-wrapper">
-                                <img src="assets/imgs/story/1.jpg" alt="Story Thumbnail" class="w-100">
+                                <img src="assets/imgs/pigment-imgs/300 X 415.jpg" alt="Story Thumbnail" class="w-100">
                             </div>
                         </div>
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="story__img-wrapper img-anim">
-                                <img src="assets/imgs/story/2.jpg" alt="Story Thumbnail" data-speed="auto">
+                                <img src="assets/imgs/pigment-imgs/520 X 700.jpg" alt="Story Thumbnail" data-speed="auto">
                             </div>
                         </div>
                         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                             <div class="story__img-wrapper">
-                                <img src="assets/imgs/story/3.jpg" alt="Story Thumbnail">
-                                <img src="assets/imgs/story/4.jpg" alt="Story Thumbnail">
+                                <img src="assets/imgs/pigment-imgs/230 X 140.jpg" alt="Story Thumbnail">
+                                <img src="assets/imgs/pigment-imgs/410 X 330.jpg" alt="Story Thumbnail">
                             </div>
                         </div>
                     </div>
@@ -793,7 +804,11 @@
                                         <div id="collapseOne" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>Pigment dispersions are finely milled pigment particles evenly distributed in a liquid medium using dispersing agents. They are ready to use in inks, coatings, plastics, and textile applications, providing consistent colour strength, stability, and reliable processing performance.
+                                                <p>Pigment dispersions are finely milled pigment particles evenly
+                                                    distributed in a liquid medium using dispersing agents. They are
+                                                    ready to use in inks, coatings, plastics, and textile applications,
+                                                    providing consistent colour strength, stability, and reliable
+                                                    processing performance.
                                                 </p>
                                             </div>
                                         </div>
@@ -810,7 +825,10 @@
                                         <div id="collapseTwo" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>Pigment dispersions are used in printing inks, textile printing, industrial and decorative coatings, plastics, and cosmetic formulations. They are designed to integrate easily into different systems depending on the carrier medium and binder compatibility.
+                                                <p>Pigment dispersions are used in printing inks, textile printing,
+                                                    industrial and decorative coatings, plastics, and cosmetic
+                                                    formulations. They are designed to integrate easily into different
+                                                    systems depending on the carrier medium and binder compatibility.
                                                 </p>
                                             </div>
                                         </div>
@@ -827,7 +845,10 @@
                                         <div id="collapseThree" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>Pigment dispersions offer better colour consistency, improved stability, easier handling, and reduced processing time. Unlike dry pigments, they minimise dust, prevent agglomeration, and ensure uniform colour development across batches.
+                                                <p>Pigment dispersions offer better colour consistency, improved
+                                                    stability, easier handling, and reduced processing time. Unlike dry
+                                                    pigments, they minimise dust, prevent agglomeration, and ensure
+                                                    uniform colour development across batches.
                                                 </p>
                                             </div>
                                         </div>
@@ -844,7 +865,10 @@
                                         <div id="collapseFour" class="accordion-collapse collapse"
                                             aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>Yes, pigment dispersions are formulated to be compatible with commonly used binders and formulation systems. Compatibility depends on whether the dispersion is water-based, solvent-based, or resin-based, so selecting the right type is important.
+                                                <p>Yes, pigment dispersions are formulated to be compatible with
+                                                    commonly used binders and formulation systems. Compatibility depends
+                                                    on whether the dispersion is water-based, solvent-based, or
+                                                    resin-based, so selecting the right type is important.
                                                 </p>
                                             </div>
                                         </div>
@@ -861,7 +885,10 @@
                                         <div id="collapseFive" class="accordion-collapse collapse"
                                             aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>Pigment dispersions should be stored in tightly sealed containers, away from extreme temperatures and direct sunlight. Proper storage helps maintain dispersion stability, colour strength, and performance over time.
+                                                <p>Pigment dispersions should be stored in tightly sealed containers,
+                                                    away from extreme temperatures and direct sunlight. Proper storage
+                                                    helps maintain dispersion stability, colour strength, and
+                                                    performance over time.
                                                 </p>
                                             </div>
                                         </div>
