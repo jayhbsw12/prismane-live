@@ -147,7 +147,7 @@
                         </div>
                         <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
                             <div class="development__img">
-                                <img src="assets/imgs/thumb/dev-1.jpg" alt="Development Image" data-speed="auto">
+                                <img src="assets/imgs/pigment-imgs/ink-splash-2.mp4" alt="Development Image" data-speed="auto">
                             </div>
                         </div>
                         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
