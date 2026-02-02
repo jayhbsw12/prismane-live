@@ -26,8 +26,10 @@
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white">Pigment Dispersions</h1>
-                                    <p class="text-white">Sed ut unde omnis iste natus sit volur tatem accus antium
-                                        laudan tium totam rem aperiam eaque ipsa illo veritatis et architecto.</p>
+                                    <p class="text-white">High-performance pigment dispersions engineered for consistent
+                                        colour strength, excellent stability, and easy integration across inks,
+                                        coatings, plastics, and industrial applications. Designed to deliver reliable
+                                        performance, batch after batch.</p>
                                     <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button>
                                 </div>
                             </div>
@@ -115,7 +117,7 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come">⁠Pigment Dispersions</h2>
+                                <h2 class="sec-title animation__char_come">Our Pigment Dispersion Range</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
@@ -171,19 +173,20 @@
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h3 class="sec-title title-anim">Your Complete Roland DG DTF Workflow</h3>
+                                <h3 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h3>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        You want transfers you can trust, shift after shift. TY-300 sits at the heart of
-                                        a complete Roland DG DTF setup, combining the TY-300 DTF printer with VersaWorks
-                                        RIP, premium Roland DG inks and powder, and Roland DG Care support to keep
-                                        colour, detail and uptime consistent. It also integrates with compatible shaker
-                                        and dryer units to automate the powder stage and sustain high-volume production.
+                                        We develop and supply high-performance pigment dispersions engineered for
+                                        consistency, stability, and seamless integration into modern ink and coating
+                                        systems. Our dispersions are designed to deliver dependable colour strength,
+                                        smooth processing, and repeatable results across textile, packaging, and graphic
+                                        applications. With a focus on formulation compatibility and production
+                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
                                     </p>
                                     <div class="btn_wrapper">
-                                        <a class="wc-btn-light btn-hover btn-item" href="about.html"><span></span>
+                                        <a class="wc-btn-light btn-hover btn-item" href=""><span></span>
                                             Explore Us <i class="fa-solid fa-arrow-right"></i></a>
                                     </div>
                                 </div>
@@ -201,12 +204,13 @@
                         <div class="col-xxl-12">
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
+                                    <a href="">
                                         <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
                                     </a>
                                     <p>
-                                        Deliver bold, durable prints with balanced whites and vibrant tones designed for
-                                        real production conditions.
+                                        Engineered to deliver uniform shade, colour strength, and stability across
+                                        batches, ensuring reliable output under real production and processing
+                                        conditions.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -215,12 +219,12 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Precision <span>Detail</span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7">Precision Colour <span>Development</span> </h3>
                                     </a>
                                     <p>
-                                        Reproduce fine graphics, small text, and complex designs accurately across a
-                                        wide range of fabrics.
+                                        Finely dispersed pigment particles enable sharp detail, smooth gradients, and
+                                        accurate colour reproduction across inks, coatings, and textile applications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -229,12 +233,12 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Continuous <span>Productivity</span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7">Stable Production<span> Flow</span> </h3>
                                     </a>
                                     <p>
-                                        Four white channels and fast drying times mean fewer interruptions and higher
-                                        daily output.
+                                        High dispersion stability helps prevent settling, clogging, and viscosity
+                                        fluctuations, supporting uninterrupted and efficient manufacturing processes.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -243,12 +247,12 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Proven <span>Reliability</span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7">Proven Formulation <span>Reliability</span> </h3>
                                     </a>
                                     <p>
-                                        Built on Roland DG’s trusted print technology for consistent performance and
-                                        minimal downtime.
+                                        Designed for long-term storage stability and system compatibility, maintaining
+                                        performance from formulation through final application.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -257,12 +261,12 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Reduced Running <span>Costs</span></h3>
+                                    <a href="">
+                                        <h3 class="service__title-7">Lower Operational <span>Costs</span></h3>
                                     </a>
                                     <p>
-                                        Efficient ink usage and simplified maintenance help lower long-term operational
-                                        expenses.
+                                        High colour strength and efficient pigment utilisation reduce dosage
+                                        requirements, minimise waste, and improve overall cost efficiency.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -271,12 +275,12 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Simple, Smart <span>Operation</span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7">Easy System <span>Integration</span> </h3>
                                     </a>
                                     <p>
-                                        Control every print with intuitive RIP software, colour LCD interface, and
-                                        production-ready presets.
+                                        Compatible with commonly used binders and formulations, allowing simple
+                                        incorporation into existing production systems with minimal adjustments.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -297,7 +301,7 @@
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Featured <br>Work</h2>
+                                <h2 class="sec-sub-title title-anim">Examples</h2>
                             </div>
                         </div>
                     </div>
@@ -308,8 +312,8 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">T-Shirts</h3>
+                                            <a href="">
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -317,8 +321,8 @@
 
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Workwear</h3>
+                                            <a href="">
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -326,8 +330,8 @@
 
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Aprons</h3>
+                                            <a href="">
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -335,8 +339,8 @@
 
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Sportswear</h3>
+                                            <a href="">
+                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Cosmetics Products</h3>
                                                 <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -361,15 +365,15 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come">Proven DTF Gains</h2>
+                            <h2 class="sec-title animation__char_come">PROVEN GAINS</h2>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    The TY-300 is engineered for high-volume environments, delivering faster output
-                                    speeds, consistent colour, and the reliability needed for demanding production
-                                    schedules. Every improvement helps you work cleaner, move quicker, and achieve
-                                    better results across more fabrics.
+                                    Pigment dispersions are formulated to enhance colour consistency, processing
+                                    stability, and overall production efficiency. Designed for demanding industrial
+                                    applications, they help manufacturers achieve reliable results, improved throughput,
+                                    and controlled costs across batches and systems.
                                 </p>
                             </div>
                         </div>
@@ -378,12 +382,12 @@
                         <div class="row">
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
-                                    <a href="service-details.html">
-                                        <h3 class="ps-title">4X<br> Faster Production</h3>
+                                    <a href="">
+                                        <h3 class="ps-title">Higher Colour <br>Strength</h3>
                                         <p>
-                                            Internal testing shows the TY-300 printing up to four times faster than
-                                            competitor models where tested, giving you the speed to take on higher
-                                            volumes with confidence.
+                                            Optimised particle dispersion delivers strong, uniform colour at lower
+                                            pigment loading, ensuring shade consistency and improved material
+                                            efficiency.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -395,12 +399,11 @@
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
-                                    <a href="service-details.html">
-                                        <h3 class="ps-title">100%<br> Integrated Workflow</h3>
+                                    <a href="">
+                                        <h3 class="ps-title">Seamless System Compatibility</h3>
                                         <p>
-                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and
-                                            powder, for a complete, production-ready setup with consistent output
-                                            quality.
+                                            Ready-to-use dispersions integrate smoothly with commonly used binders and
+                                            formulations, reducing formulation complexity and ensuring consistent output.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -412,12 +415,12 @@
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
-                                    <a href="service-details.html">
-                                        <h3 class="ps-title">Save<br> On Running Costs</h3>
+                                    <a href="">
+                                        <h3 class="ps-title">Reduced <br>Operating Costs</h3>
                                         <p>
-                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and
-                                            powder, delivering a complete, production-ready setup with consistent output
-                                            quality.
+                                            Efficient pigment utilisation and stable performance help minimise waste,
+                                            lower reprocessing, and reduce long-term production and operational
+                                            expenses.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -442,19 +445,16 @@
 
                         <div class="row">
                             <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                                <h2 class="sec-sub-title title-anim">Powerful Performance.</h2>
-                                <h3 class="sec-title title-anim">Maximum Productivity.</h3>
+                                <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
+                                <h3 class="sec-title title-anim">About</h3>
                             </div>
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
                                     <p>
-                                        The TY-300 delivers exceptional CMYK + White performance, printing at up to 10.9
-                                        m²/h in standard mode and 17.48 m²/h in high-speed mode, as much as 45 percent
-                                        faster than comparable DTF printers tested.
+                                        Our pigment dispersions are developed to deliver consistent colour strength, fine particle stability, and reliable performance across a wide range of ink, coating, and textile applications. Engineered for controlled processing and compatibility, they support efficient production while maintaining uniform quality from batch to batch.
                                     </p>
                                     <p>
-                                        This increased throughput supports continuous production and reduces the need
-                                        for operator intervention, helping you meet high-volume demand with confidence.
+                                        Pigment dispersions designed for dependable colour accuracy, processing stability, and smooth integration into modern formulations. Built to perform under real production conditions, they help manufacturers achieve consistent results, improved efficiency, and reduced variability across applications.
                                     </p>
                                 </div>
                             </div>
@@ -787,25 +787,14 @@
                                             <button class="accordion-button " type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseOne" aria-expanded="true"
                                                 aria-controls="collapseOne">
-                                                Design should enrich our day
+                                                What are pigment dispersions?
                                             </button>
                                         </h2>
                                         <div id="collapseOne" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                                <p>Pigment dispersions are finely milled pigment particles evenly distributed in a liquid medium using dispersing agents. They are ready to use in inks, coatings, plastics, and textile applications, providing consistent colour strength, stability, and reliable processing performance.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -815,25 +804,14 @@
                                             <button class="accordion-button  collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                 aria-expanded="false" aria-controls="collapseTwo">
-                                                Bring their individual experience and creative
+                                                Where can pigment dispersions be used?
                                             </button>
                                         </h2>
                                         <div id="collapseTwo" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                                <p>Pigment dispersions are used in printing inks, textile printing, industrial and decorative coatings, plastics, and cosmetic formulations. They are designed to integrate easily into different systems depending on the carrier medium and binder compatibility.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -843,25 +821,14 @@
                                             <button class="accordion-button  collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                 aria-expanded="false" aria-controls="collapseThree">
-                                                Human centred design to challenges
+                                                What are the advantages of using pigment dispersions over dry pigments?
                                             </button>
                                         </h2>
                                         <div id="collapseThree" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                                <p>Pigment dispersions offer better colour consistency, improved stability, easier handling, and reduced processing time. Unlike dry pigments, they minimise dust, prevent agglomeration, and ensure uniform colour development across batches.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -871,25 +838,14 @@
                                             <button class="accordion-button  collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                 aria-expanded="false" aria-controls="collapseFour">
-                                                Design should enrich our day
+                                                Are pigment dispersions compatible with different binders and systems?
                                             </button>
                                         </h2>
                                         <div id="collapseFour" class="accordion-collapse collapse"
                                             aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                                <p>Yes, pigment dispersions are formulated to be compatible with commonly used binders and formulation systems. Compatibility depends on whether the dispersion is water-based, solvent-based, or resin-based, so selecting the right type is important.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -899,25 +855,14 @@
                                             <button class="accordion-button  collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                 aria-expanded="false" aria-controls="collapseFive">
-                                                Developing core web applications
+                                                How should pigment dispersions be stored?
                                             </button>
                                         </h2>
                                         <div id="collapseFive" class="accordion-collapse collapse"
                                             aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                                <p>Pigment dispersions should be stored in tightly sealed containers, away from extreme temperatures and direct sunlight. Proper storage helps maintain dispersion stability, colour strength, and performance over time.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>

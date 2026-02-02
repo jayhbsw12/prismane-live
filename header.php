@@ -20,6 +20,16 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="assets/css/blog-detail.css">
 
+<!-- Preload Images -->
+<link rel="preload" as="image" href="assets/imgs/header/Sublimation Inks.webp">
+<link rel="preload" as="image" href="assets/imgs/header/DTF inks.webp">
+<link rel="preload" as="image" href="assets/imgs/header/Sublimation dispersions.webp">
+<link rel="preload" as="image" href="assets/imgs/header/Pigment Dispersions.webp">
+<link rel="preload" as="image" href="assets/imgs/header/DTF Printer.webp">
+<link rel="preload" as="image" href="assets/imgs/header/DTF Film.webp">
+<link rel="preload" as="image" href="assets/imgs/header/TPU Powder.webp">
+<link rel="preload" as="image" href="assets/imgs/header/Printing Dye.webp">
+
 </head>
 
 <body class="">
@@ -183,8 +193,8 @@
                   <div class="tab-pane h-100  bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade show active" id="v-pills-sublimation-inks" role="tabpanel"
                     aria-labelledby="v-pills-sublimation-inks-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/Sublimation Inks.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation Inks.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span> -->
                     </div>
                     <!-- Sublimation Inks content here -->
                     <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -193,8 +203,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-inks" role="tabpanel"
                     aria-labelledby="v-pills-dtf-inks-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/DTF inks.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF inks.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span> -->
                     </div>
                     <!-- DTF Inks content here -->
                     <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -203,8 +213,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-sublimation-dispersions" role="tabpanel"
                     aria-labelledby="v-pills-sublimation-dispersions-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span> -->
                     </div>
                     <!-- Sublimation Dispersions content here -->
                     <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -213,8 +223,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-pigment-dispersions" role="tabpanel"
                     aria-labelledby="v-pills-pigment-dispersions-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span> -->
                     </div>
                     <!-- Pigment Dispersions content here -->
                     <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -223,8 +233,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-printers" role="tabpanel"
                     aria-labelledby="v-pills-dtf-printers-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/DTF Printer.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Printer.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span> -->
                     </div>
                     <!-- DTF Printers content here -->
                     <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -233,8 +243,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-film" role="tabpanel"
                     aria-labelledby="v-pills-dtf-film-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/DTF Film.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Film.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span> -->
                     </div>
                     <!-- DTF Film content here -->
                     <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -243,8 +253,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-tpu-powder" role="tabpanel"
                     aria-labelledby="v-pills-tpu-powder-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/TPU Powder.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/TPU Powder.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span> -->
                     </div>
                     <!-- TPU Powder content here -->
                     <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
@@ -253,8 +263,8 @@
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-pigments-dyes" role="tabpanel"
                     aria-labelledby="v-pills-pigments-dyes-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img src="assets/imgs/header/Printing Dye.webp" alt="" class="w-100 h-100">
-                      <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span>
+                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Printing Dye.webp" alt="" class="w-100 h-100">
+                      <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span> -->
                     </div>
                     <!-- Pigments & Dyes content here -->
                     <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
