@@ -147,7 +147,7 @@
                         </div>
                         <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
                             <div class="development__img">
-                                <video src="assets/imgs/pigment-imgs/ink-splash-2.mp4" autoplay loop muted playsinline
+                                <video src="assets/imgs/pigment-imgs/Ink-splash-2.mp4" autoplay loop muted playsinline
                                     data-speed="auto">
                                 </video>
 
