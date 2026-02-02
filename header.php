@@ -195,9 +195,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation Inks.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span> -->
+                      <!-- Sublimation Inks content here -->
+                      <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- Sublimation Inks content here -->
-                    <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-inks" role="tabpanel"
@@ -205,9 +205,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF inks.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span> -->
+                      <!-- DTF Inks content here -->
+                      <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- DTF Inks content here -->
-                    <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-sublimation-dispersions" role="tabpanel"
@@ -215,9 +215,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span> -->
+                      <!-- Sublimation Dispersions content here -->
+                      <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- Sublimation Dispersions content here -->
-                    <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-pigment-dispersions" role="tabpanel"
@@ -225,9 +225,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span> -->
+                      <!-- Pigment Dispersions content here -->
+                      <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- Pigment Dispersions content here -->
-                    <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-printers" role="tabpanel"
@@ -235,9 +235,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Printer.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span> -->
+                      <!-- DTF Printers content here -->
+                      <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- DTF Printers content here -->
-                    <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-film" role="tabpanel"
@@ -245,9 +245,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Film.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span> -->
+                      <!-- DTF Film content here -->
+                      <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- DTF Film content here -->
-                    <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-tpu-powder" role="tabpanel"
@@ -255,9 +255,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/TPU Powder.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span> -->
+                      <!-- TPU Powder content here -->
+                      <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- TPU Powder content here -->
-                    <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                   <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-pigments-dyes" role="tabpanel"
@@ -265,9 +265,9 @@
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Printing Dye.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span> -->
+                      <!-- Pigments & Dyes content here -->
+                      <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Visit</a>
                     </div>
-                    <!-- Pigments & Dyes content here -->
-                    <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5 w-100 text-center text-black">Visit</a>
                   </div>
 
                 </div>
@@ -663,3 +663,114 @@
     </div>
   </div>
   <!-- Offcanvas area end -->
+  <script>
+    // Preload and decode mega-menu images so tabs show instantly on hover
+    document.addEventListener('DOMContentLoaded', function () {
+      const imgs = document.querySelectorAll('.mega-image-holder img');
+      imgs.forEach(img => {
+        const src = img.getAttribute('src');
+        if (!src) return;
+        if (img.dataset.prismanePreloaded === 'true') return;
+        img.dataset.prismanePreloaded = 'true';
+
+        // Hint browser to load eagerly and create a cached Image object
+        try { img.loading = 'eager'; } catch (e) {}
+
+        const pre = new Image();
+        pre.src = src;
+
+        // try to decode the image so it's ready to paint immediately
+        if (pre.decode) {
+          pre.decode().catch(() => {});
+        }
+      });
+    });
+  </script>
+  <style>
+    /* Make sure tab panes show instantly with no fade or opacity transition */
+    .mega-menu-2 .tab-pane {
+      transition: none !important;
+      opacity: 1 !important;
+    }
+  </style>
+  <script>
+    // Custom mega-menu tab logic (replaces Bootstrap tab switching for instant changes)
+    document.addEventListener('DOMContentLoaded', function () {
+      const mega = document.querySelector('.mega-menu-2');
+      if (!mega) return;
+
+      const tabList = mega.querySelector('.nav-pills');
+      if (!tabList) return;
+
+      const tabLinks = Array.from(tabList.querySelectorAll('.nav-link'));
+      const panes = Array.from(mega.querySelectorAll('.tab-pane'));
+
+      // Ensure panes don't use Bootstrap fade class and hide non-active panes immediately
+      panes.forEach(p => p.classList.remove('fade'));
+
+      function hideAllPanes() {
+        panes.forEach(p => {
+          p.classList.remove('active', 'show');
+          p.style.display = 'none';
+        });
+      }
+
+      function showPaneBySelector(selector, linkEl) {
+        if (!selector) return;
+        const target = mega.querySelector(selector);
+        if (!target) return;
+
+        hideAllPanes();
+
+        // activate nav link
+        tabLinks.forEach(t => t.classList.remove('active'));
+        if (linkEl) linkEl.classList.add('active');
+
+        // show pane immediately
+        target.style.display = '';
+        target.classList.add('active', 'show');
+
+        // ensure images in pane are decoded/ready
+        const imgs = Array.from(target.querySelectorAll('img'));
+        imgs.forEach(img => {
+          try { img.loading = 'eager'; } catch (e) {}
+          try { img.removeAttribute('decoding'); } catch (e) {}
+          if (!img.complete) {
+            const pre = new Image();
+            pre.src = img.src;
+            if (pre.decode) pre.decode().catch(() => {});
+          }
+        });
+      }
+
+      // Initialize: hide all non-active panes so there's no bootstrap flicker
+      const initialActive = panes.find(p => p.classList.contains('active')) || panes[0];
+      hideAllPanes();
+      if (initialActive) {
+        initialActive.style.display = '';
+        initialActive.classList.add('active', 'show');
+      }
+
+      // Attach hover/focus handlers to nav links for instant switching
+      tabLinks.forEach(link => {
+        const target = link.getAttribute('data-bs-target') || link.dataset.bsTarget;
+        if (!target) return;
+
+        // Hover shows the pane instantly
+        link.addEventListener('mouseenter', function (e) {
+          showPaneBySelector(target, link);
+        });
+
+        // Keyboard focus also shows
+        link.addEventListener('focus', function () {
+          showPaneBySelector(target, link);
+        });
+
+        // Click should still navigate (do not prevent default) but also show instantly if user clicks without navigation
+        link.addEventListener('click', function () {
+          // small delay allow browser to handle navigation; still show immediate visual feedback
+          showPaneBySelector(target, link);
+        });
+      });
+    });
+  </script>
