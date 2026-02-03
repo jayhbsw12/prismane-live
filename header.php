@@ -69,8 +69,8 @@
     <div class="header__inner-2">
       <div class="header__logo-2">
         <a href="./">
-          <img class="logo-primary" src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo" style="filter: none">
-          <img class="logo-secondary" src="assets/imgs/logo/Prismane6-Text 2.svg" alt="Site Logo" style="padding-top:10px">
+          <img class="logo-primary" src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo" style="filter: none,padding-top:0px">
+          <img class="logo-secondary" src="assets/imgs/logo/Prismane6-Text 2.svg" alt="Site Logo" style="padding-top:0px">
         </a>
       </div>
       <div class="header__nav-2">
