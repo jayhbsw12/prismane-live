@@ -65,7 +65,7 @@
   <button id="scroll_top" class="scroll-top"><i class="fa-solid fa-arrow-up"></i></button>
 
   <!-- Header area start -->
-  <header class="header__area-2">
+  <header class="header__area-2 header-z-index">
     <div class="header__inner-2">
       <div class="header__logo-2">
         <a href="./"><img src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo"></a>

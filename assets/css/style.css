@@ -105,3 +105,12 @@ tr td{
 .table{
     width: 1296px;
 }
+
+/* Portfolio title in product page */
+.portfolio-title-new {
+    font-size: 85px;
+}
+
+.header-z-index {
+    z-index: 100;
+}

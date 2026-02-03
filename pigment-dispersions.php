@@ -26,6 +26,7 @@
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white">Pigment Dispersions</h1>
+                                    <h1 class="sec-title text-white">色素分散体</h1>
                                     <p class="text-white">High-performance pigment dispersions engineered for consistent
                                         colour strength, excellent stability, and easy integration across inks,
                                         coatings, plastics, and industrial applications. Designed to deliver reliable
@@ -76,7 +77,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 425px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 520px; ">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -117,19 +118,24 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come">Our Pigment Dispersion Range</h2>
+                                <h2 class="sec-title animation__char_come">Our Pigment Dispersion Range</h2> <br>
+                                <h2 class="sec-title animation__char_come">我们的色素分散体系列</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                             <div class="development__wrapper">
                                 <div class="development__content">
                                     <p>
-                                        <b> GLOJET – U SERIES</b> <br><br> Specially developed range of water-based
+                                        <b> Leon – U SERIES</b> <br>
+                                        <b> 莱昂 – U系列</b>
+                                        <br><br> Specially developed range of water-based
                                         pigment dispersions for digital inks for textiles. Suitable for inks for wide
                                         format, DTG & DTF Printers.
                                     </p>
                                     <p>
-                                        <b> GLOJET – M SERIES</b> <br><br> Specially developed range of water-based
+                                        <b> Leon – M SERIES</b> <br>
+                                        <b> 莱昂 – M系列</b>
+                                        <br><br> Specially developed range of water-based
                                         pigment dispersions for digital inks for flexible packaging / Graphic Industry.
                                         Our products are compatible with most of commonly used binders for flexible
                                         packaging inks.
@@ -176,7 +182,8 @@
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h3 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h3>
+                                <h4 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h4>
+                                <h4 class="sec-title title-anim">您可靠的色素分散体合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
@@ -209,6 +216,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
+                                        <h3 class="service__title-7">色彩 致性 性能表现<span>性能表现</span></h3>
                                     </a>
                                     <p>
                                         Engineered to deliver uniform shade, colour strength, and stability across
@@ -224,6 +232,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Precision Colour <span>Development</span> </h3>
+                                        <h3 class="service__title-7">精密色彩 <span>开发</span> </h3>
                                     </a>
                                     <p>
                                         Finely dispersed pigment particles enable sharp detail, smooth gradients, and
@@ -238,6 +247,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Stable Production<span> Flow</span> </h3>
+                                        <h3 class="service__title-7">稳定生产<span> 流程</span> </h3>
                                     </a>
                                     <p>
                                         High dispersion stability helps prevent settling, clogging, and viscosity
@@ -252,6 +262,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Proven Formulation <span>Reliability</span> </h3>
+                                        <h3 class="service__title-7">久经考验的配方 <span>可靠性</span> </h3>
                                     </a>
                                     <p>
                                         Designed for long-term storage stability and system compatibility, maintaining
@@ -266,6 +277,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Lower Operational <span>Costs</span></h3>
+                                        <h3 class="service__title-7">降低运营<span>成本</span></h3>
                                     </a>
                                     <p>
                                         High colour strength and efficient pigment utilisation reduce dosage
@@ -280,6 +292,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Easy System <span>Integration</span> </h3>
+                                        <h3 class="service__title-7">轻松系统 <span>集成</span> </h3>
                                     </a>
                                     <p>
                                         Compatible with commonly used binders and formulations, allowing simple
@@ -316,7 +329,8 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
+                                                <!-- <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">印刷油墨</h3> -->
                                                 <img src="assets/imgs/pigment-imgs/Printing Inks.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -325,7 +339,8 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
+                                                <!-- <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">涂料</h3> -->
                                                 <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -334,7 +349,8 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3>
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3> 
+                                                <!-- <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">塑料与聚合物</h3> -->
                                                 <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -343,7 +359,7 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Cosmetics Products</h3>
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Cosmetics Products</h3>
                                                 <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -450,7 +466,8 @@
                         <div class="row">
                             <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                                 <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
-                                <h3 class="sec-title title-anim">About</h3>
+                                <h3 class="sec-title title-anim">About</h3> <br>
+                                <h3 class="sec-title title-anim">关于</h3>
                             </div>
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
@@ -502,7 +519,9 @@
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim">Pigment Dispersions</h3>
-                                <span class="text-white fs-1">Glojet - U Series</span>
+                                <h3 class="sec-title title-anim">颜料分散体</h3>
+                                <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1">莱昂 - U系列</span> 
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -520,7 +539,7 @@
                                     <tbody>
                                         <tr>
                                             <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Glojet Yellow N5-U</td>
+                                            <td>Leon Yellow N5-U</td>
                                             <td>P.Y.74</td>
                                             <td>Monoazo</td>
                                             <td>6</td>
@@ -528,7 +547,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Glojet Yellow R49-U</td>
+                                            <td>Leon Yellow R49-U</td>
                                             <td>P.Y.138</td>
                                             <td>Monoazo</td>
                                             <td>6–7</td>
@@ -536,7 +555,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Glojet Yellow E66-U</td>
+                                            <td>Leon Yellow E66-U</td>
                                             <td>P.Y.155</td>
                                             <td>Double Azo</td>
                                             <td>7</td>
@@ -544,7 +563,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Glojet Orange E4-U</td>
+                                            <td>Leon Orange E4-U</td>
                                             <td>P.O.13</td>
                                             <td>Disazopyrazolone</td>
                                             <td>6</td>
@@ -552,7 +571,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #fa5e21"></span></td>
-                                            <td>Glojet Orange E5-U</td>
+                                            <td>Leon Orange E5-U</td>
                                             <td>P.O.34</td>
                                             <td>Disazopyrazolone</td>
                                             <td>6</td>
@@ -560,7 +579,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Glojet Orange C47-U</td>
+                                            <td>Leon Orange C47-U</td>
                                             <td>P.O.36</td>
                                             <td>Benzimidazolone</td>
                                             <td>6–7</td>
@@ -568,7 +587,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Glojet Red M21-U</td>
+                                            <td>Leon Red M21-U</td>
                                             <td>P.R.210</td>
                                             <td>Single azo</td>
                                             <td>6</td>
@@ -576,7 +595,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Glojet Red R33-U</td>
+                                            <td>Leon Red R33-U</td>
                                             <td>P.R.122</td>
                                             <td>Quinacridone</td>
                                             <td>7–8</td>
@@ -584,7 +603,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Glojet Violet R10-U</td>
+                                            <td>Leon Violet R10-U</td>
                                             <td>P.V.19</td>
                                             <td>Quinacridone</td>
                                             <td>7–8</td>
@@ -592,7 +611,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Glojet Violet E4-U</td>
+                                            <td>Leon Violet E4-U</td>
                                             <td>P.V.23</td>
                                             <td>Dioxazine Carbazole</td>
                                             <td>7–8</td>
@@ -600,7 +619,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Glojet Blue C64-U</td>
+                                            <td>Leon Blue C64-U</td>
                                             <td>P.B.15:3</td>
                                             <td>Cu-Phthalocyanine</td>
                                             <td>8</td>
@@ -608,7 +627,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Glojet Green Q8-U</td>
+                                            <td>Leon Green Q8-U</td>
                                             <td>P.G.7</td>
                                             <td>Cu-Phthalogreen</td>
                                             <td>7–8</td>
@@ -616,7 +635,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Glojet Green Q47-U</td>
+                                            <td>Leon Green Q47-U</td>
                                             <td>P.G.36</td>
                                             <td>Cu-Phthalogreen (Brominated)</td>
                                             <td>7</td>
@@ -624,7 +643,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Glojet Black D8-U</td>
+                                            <td>Leon Black D8-U</td>
                                             <td>P.B.7</td>
                                             <td>Oxidised Carbon Black</td>
                                             <td>8</td>
@@ -636,7 +655,8 @@
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">Glojet - M Series</span>
+                                <span class="text-white fs-1">Leon - M Series</span>  &nbsp; &nbsp;
+                                <span class="text-white fs-1">莱昂 - M系列</span> 
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -654,7 +674,7 @@
                                     <tbody>
                                         <tr>
                                             <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Glojet Yellow N5-M</td>
+                                            <td>Leon Yellow N5-M</td>
                                             <td>P.Y.74</td>
                                             <td>Monoase</td>
                                             <td>6</td>
@@ -662,7 +682,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Glojet Yellow R49-M</td>
+                                            <td>Leon Yellow R49-M</td>
                                             <td>P.Y.138</td>
                                             <td>Monoase</td>
                                             <td>6-7</td>
@@ -670,7 +690,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Glojet Yellow E66-M</td>
+                                            <td>Leon Yellow E66-M</td>
                                             <td>P.Y.155</td>
                                             <td>Double Azo</td>
                                             <td>7</td>
@@ -678,7 +698,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Glojet Orange E4-M</td>
+                                            <td>Leon Orange E4-M</td>
                                             <td>P.0.13</td>
                                             <td>Disazopyrazolone</td>
                                             <td>6</td>
@@ -686,7 +706,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Glojet Orange C47-M</td>
+                                            <td>Leon Orange C47-M</td>
                                             <td>P.0.36</td>
                                             <td>Benzimidazalone</td>
                                             <td>6-7</td>
@@ -694,7 +714,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #f15122"></span></td>
-                                            <td>Glojet Orange C75-M</td>
+                                            <td>Leon Orange C75-M</td>
                                             <td>P.0.64</td>
                                             <td>Benzimidazalone</td>
                                             <td>6</td>
@@ -702,7 +722,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Glojet Red M21-M</td>
+                                            <td>Leon Red M21-M</td>
                                             <td>P.R.210</td>
                                             <td>Single Azo</td>
                                             <td>6</td>
@@ -710,7 +730,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Glojet Red R33-M</td>
+                                            <td>Leon Red R33-M</td>
                                             <td>P.R.122</td>
                                             <td>Quinacridone</td>
                                             <td>7-8</td>
@@ -718,7 +738,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Glojet Violet R10-M</td>
+                                            <td>Leon Violet R10-M</td>
                                             <td>P.V.19</td>
                                             <td>Quinacridone</td>
                                             <td>7-8</td>
@@ -726,7 +746,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Glojet Violet E4-M</td>
+                                            <td>Leon Violet E4-M</td>
                                             <td>P.V.23</td>
                                             <td>Dioxazin Carbazole</td>
                                             <td>7-8</td>
@@ -734,7 +754,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Glojet Blue C64-M</td>
+                                            <td>Leon Blue C64-M</td>
                                             <td>P.B.15.3</td>
                                             <td>Cu-Phthalocyanine</td>
                                             <td>8</td>
@@ -742,7 +762,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Glojet Green Q8-M</td>
+                                            <td>Leon Green Q8-M</td>
                                             <td>P.G.7</td>
                                             <td>Cu-Phthalogreen</td>
                                             <td>7-8</td>
@@ -750,7 +770,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Glojet Green Q47-M</td>
+                                            <td>Leon Green Q47-M</td>
                                             <td>P.G.36</td>
                                             <td>Cu- Phthalogreen Bromination</td>
                                             <td>7</td>
@@ -758,7 +778,7 @@
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Glojet Black D8-M</td>
+                                            <td>Leon Black D8-M</td>
                                             <td>P.B.7</td>
                                             <td>Oxidized Carbon Black</td>
                                             <td>8</td>
@@ -783,7 +803,8 @@
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title-2 animation__char_come">FAQ</h2>
+                                <h2 class="sec-title-2 animation__char_come">FAQ</h2> <br>
+                                <h2 class="sec-title-2 animation__char_come">常见问题解答</h2>
                                 <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
                             </div>
                         </div>
