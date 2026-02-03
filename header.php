@@ -68,7 +68,10 @@
   <header class="header__area-2 header-z-index">
     <div class="header__inner-2">
       <div class="header__logo-2">
-        <a href="./"><img src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo"></a>
+        <a href="./">
+          <img class="logo-primary" src="assets/imgs/logo/Prismane6-Text.svg" alt="Site Logo" style="filter: none">
+          <img class="logo-secondary" src="assets/imgs/logo/Prismane6-Text 2.svg" alt="Site Logo" style="padding-top:10px">
+        </a>
       </div>
       <div class="header__nav-2">
         <ul class="main-menu menu-anim">
@@ -135,53 +138,56 @@
             <ul class="mega-menu-2 d-flex p-0 bg-transparent">
               <div class="d-flex align-items-start w-100 flex-row-reverse">
                 <!-- Tabs -->
-                <div class="nav flex-column align-items-start nav-pills me-0 gap-0 " id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <div class="nav flex-column align-items-start nav-pills me-0 gap-0 " id="v-pills-tab" role="tablist"
+                  aria-orientation="vertical">
 
-                  <a href="./sublimation-inks" class="nav-link w-100 text-start rounded-none p-3 bg-prismane active" id="v-pills-sublimation-inks-tab" data-bs-toggle="pill"
-                    data-bs-target="#v-pills-sublimation-inks" type="button" role="tab"
-                    aria-controls="v-pills-sublimation-inks" aria-selected="true">
+                  <a href="./sublimation-inks" class="nav-link w-100 text-start rounded-none p-3 bg-prismane active"
+                    id="v-pills-sublimation-inks-tab" data-bs-toggle="pill" data-bs-target="#v-pills-sublimation-inks"
+                    type="button" role="tab" aria-controls="v-pills-sublimation-inks" aria-selected="true">
                     Sublimation Inks
                   </a>
 
-                  <a href="./DTF-Inks" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-inks-tab" data-bs-toggle="pill"
-                    data-bs-target="#v-pills-dtf-inks" type="button" role="tab" aria-controls="v-pills-dtf-inks"
-                    aria-selected="false">
+                  <a href="./DTF-Inks" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-inks-tab"
+                    data-bs-toggle="pill" data-bs-target="#v-pills-dtf-inks" type="button" role="tab"
+                    aria-controls="v-pills-dtf-inks" aria-selected="false">
                     DTF Inks
                   </a>
 
-                  <a href="./sublimation-dispersions" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-sublimation-dispersions-tab" data-bs-toggle="pill"
+                  <a href="./sublimation-dispersions" class="nav-link w-100 text-start rounded-none p-3"
+                    id="v-pills-sublimation-dispersions-tab" data-bs-toggle="pill"
                     data-bs-target="#v-pills-sublimation-dispersions" type="button" role="tab"
                     aria-controls="v-pills-sublimation-dispersions" aria-selected="false">
                     Sublimation Dispersions
                   </a>
 
-                  <a href="./pigment-dispersions" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-pigment-dispersions-tab" data-bs-toggle="pill"
+                  <a href="./pigment-dispersions" class="nav-link w-100 text-start rounded-none p-3"
+                    id="v-pills-pigment-dispersions-tab" data-bs-toggle="pill"
                     data-bs-target="#v-pills-pigment-dispersions" type="button" role="tab"
                     aria-controls="v-pills-pigment-dispersions" aria-selected="false">
                     Pigment Dispersions
                   </a>
 
-                  <a href="./DTF-printers" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-printers-tab" data-bs-toggle="pill"
-                    data-bs-target="#v-pills-dtf-printers" type="button" role="tab" aria-controls="v-pills-dtf-printers"
-                    aria-selected="false">
+                  <a href="./DTF-printers" class="nav-link w-100 text-start rounded-none p-3"
+                    id="v-pills-dtf-printers-tab" data-bs-toggle="pill" data-bs-target="#v-pills-dtf-printers"
+                    type="button" role="tab" aria-controls="v-pills-dtf-printers" aria-selected="false">
                     DTF Printers
                   </a>
 
-                  <a href="./DTF-film" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-film-tab" data-bs-toggle="pill"
-                    data-bs-target="#v-pills-dtf-film" type="button" role="tab" aria-controls="v-pills-dtf-film"
-                    aria-selected="false">
+                  <a href="./DTF-film" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-dtf-film-tab"
+                    data-bs-toggle="pill" data-bs-target="#v-pills-dtf-film" type="button" role="tab"
+                    aria-controls="v-pills-dtf-film" aria-selected="false">
                     DTF Film
                   </a>
 
-                  <a href="./TPU-powder" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-tpu-powder-tab" data-bs-toggle="pill"
-                    data-bs-target="#v-pills-tpu-powder" type="button" role="tab" aria-controls="v-pills-tpu-powder"
-                    aria-selected="false">
+                  <a href="./TPU-powder" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-tpu-powder-tab"
+                    data-bs-toggle="pill" data-bs-target="#v-pills-tpu-powder" type="button" role="tab"
+                    aria-controls="v-pills-tpu-powder" aria-selected="false">
                     TPU Powder
                   </a>
 
-                  <a href="./pigments-and-dyes" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-pigments-dyes-tab" data-bs-toggle="pill"
-                    data-bs-target="#v-pills-pigments-dyes" type="button" role="tab"
-                    aria-controls="v-pills-pigments-dyes" aria-selected="false">
+                  <a href="./pigments-and-dyes" class="nav-link w-100 text-start rounded-none p-3"
+                    id="v-pills-pigments-dyes-tab" data-bs-toggle="pill" data-bs-target="#v-pills-pigments-dyes"
+                    type="button" role="tab" aria-controls="v-pills-pigments-dyes" aria-selected="false">
                     Pigments &amp; Dyes
                   </a>
 
@@ -190,83 +196,116 @@
                 <!-- Tab Content -->
                 <div class="tab-content flex-grow-1 h-100" id="v-pills-tabContent">
 
-                  <div class="tab-pane h-100  bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade show active" id="v-pills-sublimation-inks" role="tabpanel"
-                    aria-labelledby="v-pills-sublimation-inks-tab">
+                  <div
+                    class="tab-pane h-100  bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade show active"
+                    id="v-pills-sublimation-inks" role="tabpanel" aria-labelledby="v-pills-sublimation-inks-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation Inks.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Sublimation Inks.webp"
+                        alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Inks</span> -->
                       <!-- Sublimation Inks content here -->
-                      <a href="./sublimation-inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./sublimation-inks"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-inks" role="tabpanel"
-                    aria-labelledby="v-pills-dtf-inks-tab">
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-dtf-inks" role="tabpanel" aria-labelledby="v-pills-dtf-inks-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF inks.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/DTF inks.webp" alt=""
+                        class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Inks</span> -->
                       <!-- DTF Inks content here -->
-                      <a href="./DTF-Inks" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./DTF-Inks"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-sublimation-dispersions" role="tabpanel"
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-sublimation-dispersions" role="tabpanel"
                     aria-labelledby="v-pills-sublimation-dispersions-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async"
+                        src="assets/imgs/header/Sublimation dispersions.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Sublimation Dispersions</span> -->
                       <!-- Sublimation Dispersions content here -->
-                      <a href="./sublimation-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./sublimation-dispersions"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-pigment-dispersions" role="tabpanel"
-                    aria-labelledby="v-pills-pigment-dispersions-tab">
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-pigment-dispersions" role="tabpanel" aria-labelledby="v-pills-pigment-dispersions-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async"
+                        src="assets/imgs/header/Pigment Dispersions.webp" alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigment Dispersions</span> -->
                       <!-- Pigment Dispersions content here -->
-                      <a href="./pigment-dispersions" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./pigment-dispersions"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-printers" role="tabpanel"
-                    aria-labelledby="v-pills-dtf-printers-tab">
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-dtf-printers" role="tabpanel" aria-labelledby="v-pills-dtf-printers-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Printer.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/DTF Printer.webp"
+                        alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Printers</span> -->
                       <!-- DTF Printers content here -->
-                      <a href="./DTF-printers" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./DTF-printers"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-dtf-film" role="tabpanel"
-                    aria-labelledby="v-pills-dtf-film-tab">
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-dtf-film" role="tabpanel" aria-labelledby="v-pills-dtf-film-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/DTF Film.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/DTF Film.webp" alt=""
+                        class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">DTF Film</span> -->
                       <!-- DTF Film content here -->
-                      <a href="./DTF-film" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./DTF-film"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-tpu-powder" role="tabpanel"
-                    aria-labelledby="v-pills-tpu-powder-tab">
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-tpu-powder" role="tabpanel" aria-labelledby="v-pills-tpu-powder-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/TPU Powder.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/TPU Powder.webp"
+                        alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">TPU Powder</span> -->
                       <!-- TPU Powder content here -->
-                      <a href="./TPU-powder" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./TPU-powder"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
-                  <div class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade" id="v-pills-pigments-dyes" role="tabpanel"
-                    aria-labelledby="v-pills-pigments-dyes-tab">
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-pigments-dyes" role="tabpanel" aria-labelledby="v-pills-pigments-dyes-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async"  src="assets/imgs/header/Printing Dye.webp" alt="" class="w-100 h-100">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Printing Dye.webp"
+                        alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span> -->
                       <!-- Pigments & Dyes content here -->
-                      <a href="./pigments-and-dyes" class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read More</a>
+                      <a href="./pigments-and-dyes"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
                     </div>
                   </div>
 
@@ -353,25 +392,25 @@
             </ul> -->
           </li>
           <!-- <li><a href="./blogs">Blogs</a> -->
-            <!--<ul class="main-dropdown">-->
-            <!--  <li><a href="service.html">service</a>-->
-            <!--    <ul class="sub-dropdown">-->
-            <!--      <li><a href="service-dark.html">service dark</a></li>-->
-            <!--      <li><a href="service-2-dark.html">service V.2 dark</a></li>-->
-            <!--      <li><a href="service-3-dark.html">service V.3 dark</a></li>-->
-            <!--      <li><a href="service-4-dark.html">service V.4 dark</a></li>-->
-            <!--      <li><a href="service-5-dark.html">service V.5 dark</a></li>-->
-            <!--      <li><a href="service-6-dark.html">service V.6 dark</a></li>-->
-            <!--      <li><a href="service-details-dark.html">service details dark</a></li>-->
-            <!--    </ul>-->
-            <!--  </li>-->
-            <!--  <li><a href="service-2.html">service V.2</a></li>-->
-            <!--  <li><a href="service-3.html">service V.3</a></li>-->
-            <!--  <li><a href="service-4.html">service V.4</a></li>-->
-            <!--  <li><a href="service-5.html">service V.5</a></li>-->
-            <!--  <li><a href="service-6.html">service V.6</a></li>-->
-            <!--  <li><a href="service-details.html">service details</a></li>-->
-            <!--</ul>-->
+          <!--<ul class="main-dropdown">-->
+          <!--  <li><a href="service.html">service</a>-->
+          <!--    <ul class="sub-dropdown">-->
+          <!--      <li><a href="service-dark.html">service dark</a></li>-->
+          <!--      <li><a href="service-2-dark.html">service V.2 dark</a></li>-->
+          <!--      <li><a href="service-3-dark.html">service V.3 dark</a></li>-->
+          <!--      <li><a href="service-4-dark.html">service V.4 dark</a></li>-->
+          <!--      <li><a href="service-5-dark.html">service V.5 dark</a></li>-->
+          <!--      <li><a href="service-6-dark.html">service V.6 dark</a></li>-->
+          <!--      <li><a href="service-details-dark.html">service details dark</a></li>-->
+          <!--    </ul>-->
+          <!--  </li>-->
+          <!--  <li><a href="service-2.html">service V.2</a></li>-->
+          <!--  <li><a href="service-3.html">service V.3</a></li>-->
+          <!--  <li><a href="service-4.html">service V.4</a></li>-->
+          <!--  <li><a href="service-5.html">service V.5</a></li>-->
+          <!--  <li><a href="service-6.html">service V.6</a></li>-->
+          <!--  <li><a href="service-details.html">service details</a></li>-->
+          <!--</ul>-->
           <!-- </li> -->
           <!-- <li><a href="#">Updates</a> -->
           <!--<ul class="main-dropdown">-->
@@ -674,14 +713,14 @@
         img.dataset.prismanePreloaded = 'true';
 
         // Hint browser to load eagerly and create a cached Image object
-        try { img.loading = 'eager'; } catch (e) {}
+        try { img.loading = 'eager'; } catch (e) { }
 
         const pre = new Image();
         pre.src = src;
 
         // try to decode the image so it's ready to paint immediately
         if (pre.decode) {
-          pre.decode().catch(() => {});
+          pre.decode().catch(() => { });
         }
       });
     });
@@ -733,12 +772,12 @@
         // ensure images in pane are decoded/ready
         const imgs = Array.from(target.querySelectorAll('img'));
         imgs.forEach(img => {
-          try { img.loading = 'eager'; } catch (e) {}
-          try { img.removeAttribute('decoding'); } catch (e) {}
+          try { img.loading = 'eager'; } catch (e) { }
+          try { img.removeAttribute('decoding'); } catch (e) { }
           if (!img.complete) {
             const pre = new Image();
             pre.src = img.src;
-            if (pre.decode) pre.decode().catch(() => {});
+            if (pre.decode) pre.decode().catch(() => { });
           }
         });
       }
@@ -774,3 +813,21 @@
       });
     });
   </script>
+
+  <script>
+  // Get the logo container and the two logos
+  const logoContainer = document.querySelector('.header__logo-2');
+  const logoPrimary = logoContainer.querySelector('.logo-primary');
+  const logoSecondary = logoContainer.querySelector('.logo-secondary');
+
+  // Add event listeners for hover effect
+  logoContainer.addEventListener('mouseover', function() {
+    logoPrimary.style.display = 'none';  // Hide the primary logo
+    logoSecondary.style.display = 'block';  // Show the secondary logo
+  });
+
+  logoContainer.addEventListener('mouseout', function() {
+    logoPrimary.style.display = 'block';  // Show the primary logo
+    logoSecondary.style.display = 'none';  // Hide the secondary logo
+  });
+</script>

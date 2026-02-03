@@ -1,26 +1,26 @@
-.bg-img-none{
-    background-image: none;
+.bg-img-none {
+  background-image: none;
 }
 
-.thank-you-top-margin{
-    margin-top: 200px;
+.thank-you-top-margin {
+  margin-top: 200px;
 }
 
-.hero-product{
-    height: auto;
-    padding: 200px 20px;
+.hero-product {
+  height: auto;
+  padding: 200px 20px;
 }
 
-.bg-prismane{
-    background: #c9f31d;
+.bg-prismane {
+  background: #c9f31d;
 }
 
-.rounded-none{
-    border-radius: 0 !important;
+.rounded-none {
+  border-radius: 0 !important;
 }
 
-*{
-    outline: none;
+* {
+  outline: none;
 }
 
 /* Hide all tab panes by default */
@@ -35,10 +35,12 @@
 
 /* Applications Mega Menu – Vertical Pills Styling */
 .header__area-2 .nav-pills .nav-link {
-  background-color: #000;      /* Normal state */
+  background-color: #000; /* Normal state */
   color: #fff;
   border-radius: 0;
-  transition: background-color 0.25s ease, color 0.25s ease;
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease;
 }
 
 /* Hover state */
@@ -54,63 +56,74 @@
   color: #000;
 }
 
-
-.z-1{
-    z-index: 1;
+.z-1 {
+  z-index: 1;
 }
 
-th{
+th {
   padding: 12px 24px !important;
 }
 
-td{
+td {
   padding: 16px 24px !important;
 }
 
-.text-table-head{
+.text-table-head {
   color: #82878c;
 }
 
 @keyframes colorChange {
-    0% {
-        fill: rgb(255, 0, 0); /* Red */
-    }
-    33% {
-        fill: rgb(0, 255, 0); /* Green */
-    }
-    66% {
-        fill: rgb(0, 0, 255); /* Blue */
-    }
-    100% {
-        fill: rgb(255, 0, 0); /* Red */
-    }
+  0% {
+    fill: rgb(255, 0, 0); /* Red */
+  }
+  33% {
+    fill: rgb(0, 255, 0); /* Green */
+  }
+  66% {
+    fill: rgb(0, 0, 255); /* Blue */
+  }
+  100% {
+    fill: rgb(255, 0, 0); /* Red */
+  }
 }
 
 /* Apply animation to wave paths */
 .waves path {
-    animation: colorChange 3s ease-in-out infinite;
+  animation: colorChange 3s ease-in-out infinite;
 }
 
-
-tr td{
-    align-content: center;
+tr td {
+  align-content: center;
 }
 
 .color-item {
-    width: 30px;
-    height: 30px;
-    display: block;
-    border-radius: 0;
+  width: 30px;
+  height: 30px;
+  display: block;
+  border-radius: 0;
 }
-.table{
-    width: 1296px;
+.table {
+  width: 1296px;
 }
 
 /* Portfolio title in product page */
 .portfolio-title-new {
-    font-size: 85px;
+  font-size: 85px;
+}
+
+.portfolio-title-new-2 {
+  font-size: 85px;
+  margin-top: 100px !important;
 }
 
 .header-z-index {
-    z-index: 100;
+  z-index: 100;
+}
+
+.header__logo-2 img {
+  transition: opacity 0.3s ease;  /* Smooth transition */
+}
+
+.logo-secondary {
+  display: none; /* Hide the secondary logo by default */
 }

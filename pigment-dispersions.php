@@ -317,7 +317,7 @@
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Examples</h2>
+                                <h2 class="sec-sub-title title-anim">Applications</h2>
                             </div>
                         </div>
                     </div>
@@ -330,7 +330,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
-                                                <!-- <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">印刷油墨</h3> -->
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >印刷油墨</h3>
                                                 <img src="assets/imgs/pigment-imgs/Printing Inks.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -340,7 +340,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
-                                                <!-- <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">涂料</h3> -->
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >涂料</h3>
                                                 <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -350,7 +350,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3> 
-                                                <!-- <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">塑料与聚合物</h3> -->
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >塑料与聚合物</h3>
                                                 <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -359,7 +359,8 @@
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
                                             <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Cosmetics Products</h3>
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Cosmetics</h3>
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >塑料与聚合物</h3>
                                                 <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
