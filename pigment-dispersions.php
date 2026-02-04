@@ -26,7 +26,7 @@
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white">Pigment Dispersions</h1>
-                                    <h1 class="sec-title text-white">色素分散体</h1>
+                                    <span class="sec-title text-white mandarin-title-1">色素分散体</span>
                                     <p class="text-white">High-performance pigment dispersions engineered for consistent
                                         colour strength, excellent stability, and easy integration across inks,
                                         coatings, plastics, and industrial applications. Designed to deliver reliable
@@ -77,7 +77,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 520px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 500px; ">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -119,7 +119,7 @@
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title animation__char_come">Our Pigment Dispersion Range</h2> <br>
-                                <h2 class="sec-title animation__char_come">我们的色素分散体系列</h2>
+                                <h2 class="sec-title animation__char_come mandarin-title-1">我们的色素分散体系列</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
@@ -183,7 +183,7 @@
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
                                 <h4 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h4>
-                                <h4 class="sec-title title-anim">您可靠的色素分散体合作伙伴</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1">您可靠的色素分散体合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
@@ -216,7 +216,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
-                                        <h3 class="service__title-7">色彩 致性 性能表现<span>性能表现</span></h3>
+                                        
                                     </a>
                                     <p>
                                         Engineered to deliver uniform shade, colour strength, and stability across
@@ -232,7 +232,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Precision Colour <span>Development</span> </h3>
-                                        <h3 class="service__title-7">精密色彩 <span>开发</span> </h3>
+                                        
                                     </a>
                                     <p>
                                         Finely dispersed pigment particles enable sharp detail, smooth gradients, and
@@ -247,7 +247,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Stable Production<span> Flow</span> </h3>
-                                        <h3 class="service__title-7">稳定生产<span> 流程</span> </h3>
+                                        
                                     </a>
                                     <p>
                                         High dispersion stability helps prevent settling, clogging, and viscosity
@@ -262,7 +262,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Proven Formulation <span>Reliability</span> </h3>
-                                        <h3 class="service__title-7">久经考验的配方 <span>可靠性</span> </h3>
+                                        
                                     </a>
                                     <p>
                                         Designed for long-term storage stability and system compatibility, maintaining
@@ -277,7 +277,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Lower Operational <span>Costs</span></h3>
-                                        <h3 class="service__title-7">降低运营<span>成本</span></h3>
+                                       
                                     </a>
                                     <p>
                                         High colour strength and efficient pigment utilisation reduce dosage
@@ -292,7 +292,7 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7">Easy System <span>Integration</span> </h3>
-                                        <h3 class="service__title-7">轻松系统 <span>集成</span> </h3>
+                                        
                                     </a>
                                     <p>
                                         Compatible with commonly used binders and formulations, allowing simple
@@ -330,7 +330,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >印刷油墨</h3>
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >印刷油墨</h3>
                                                 <img src="assets/imgs/pigment-imgs/Printing Inks.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -340,7 +340,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >涂料</h3>
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >涂料</h3>
                                                 <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -350,7 +350,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3> 
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >塑料与聚合物</h3>
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >塑料与聚合物</h3>
                                                 <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -360,7 +360,7 @@
                                         <div class="portfolio__slide-3">
                                             <a href="">
                                                 <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Cosmetics</h3>
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0" >塑料与聚合物</h3>
+                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >塑料与聚合物</h3>
                                                 <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
@@ -468,7 +468,7 @@
                             <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                                 <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
                                 <h3 class="sec-title title-anim">About</h3> <br>
-                                <h3 class="sec-title title-anim">关于</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1">关于</h3>
                             </div>
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
@@ -519,10 +519,10 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim">Pigment Dispersions</h3>
-                                <h3 class="sec-title title-anim">颜料分散体</h3>
+                                <h3 class="sec-title title-anim pb-2">Pigment Dispersions</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1">颜料分散体</h3>
                                 <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1">莱昂 - U系列</span> 
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span> 
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -657,7 +657,7 @@
 
                             <div class="sec-title-wrapper mt-5">
                                 <span class="text-white fs-1">Leon - M Series</span>  &nbsp; &nbsp;
-                                <span class="text-white fs-1">莱昂 - M系列</span> 
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 - M系列</span> 
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -805,7 +805,7 @@
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title-2 animation__char_come">FAQ</h2> <br>
-                                <h2 class="sec-title-2 animation__char_come">常见问题解答</h2>
+                                <h2 class="sec-title-2 animation__char_come mandarin-title-1">常见问题解答</h2>
                                 <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
                             </div>
                         </div>

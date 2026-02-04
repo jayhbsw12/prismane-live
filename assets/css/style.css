@@ -127,3 +127,9 @@ tr td {
 .logo-secondary {
   display: none; /* Hide the secondary logo by default */
 }
+.mandarin-title-1{
+  font-size: 36px;
+}
+.mandarin-title-2{
+  font-size: 28px !important;
+}
