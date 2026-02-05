@@ -28,10 +28,13 @@
                                     <h1 class="sec-title text-white">Pigment Dispersions</h1>
                                     <span class="sec-title text-white mandarin-title-1">色素分散体</span>
                                     <p class="text-white">High-performance pigment dispersions engineered for consistent
-                                        colour strength, excellent stability, and easy integration across inks,
-                                        coatings, plastics, and industrial applications. Designed to deliver reliable
-                                        performance, batch after batch.</p>
-                                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button>
+                                        colour strength, excellent stability, and easy integration Across all types of
+                                        water based Digital Inks applications</p>
+                                    <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
+                                    <div class=" z-1">
+                                        <a href="assets/data/Pigment-Dispersions-data.pdf" class="blog__btn about_btn"
+                                            download>Download Brochure</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -123,8 +126,8 @@
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
-                            <div class="development__wrapper">
-                                <div class="development__content">
+                            <div class="development__wrapper pb-0">
+                                <div class="development__content border-0 mb-0 pb-0">
                                     <p>
                                         <b> Leon – U SERIES</b> <br>
                                         <b> 莱昂 – U系列</b>
@@ -151,370 +154,27 @@
                                 </ul> -->
                             </div>
                         </div>
-                        <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
+                        <!-- <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
                             <div class="development__img">
                                 <video src="assets/imgs/pigment-imgs/Ink-splash-2.mp4" autoplay loop muted playsinline
                                     data-speed="auto">
                                 </video>
 
                             </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                        </div> -->
+                        <!-- <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                             <div class="development__img">
                                 <img src="assets/imgs/pigment-imgs/410 x 400.jpg" alt="Development Image">
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
             <!-- Development area end -->
 
-            <!-- About area start -->
-            <section class="about__area-3">
-                <div class="container pt-140 pb-110">
-                    <div class="row">
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                            <div class="about__img-3">
-                                <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail" data-speed="auto">
-                            </div>
-                        </div>
-
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                            <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h4 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h4>
-                                <h4 class="sec-title title-anim mandarin-title-1">您可靠的色素分散体合作伙伴</h4>
-                            </div>
-                            <div class="sec-text-wrapper">
-                                <div class="sec-text text-anim">
-                                    <p>
-                                        We develop and supply high-performance pigment dispersions engineered for
-                                        consistency, stability, and seamless integration into modern ink and coating
-                                        systems. Our dispersions are designed to deliver dependable colour strength,
-                                        smooth processing, and repeatable results across textile, packaging, and graphic
-                                        applications. With a focus on formulation compatibility and production
-                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
-                                    </p>
-                                    <div class="btn_wrapper">
-                                        <a class="wc-btn-light btn-hover btn-item" href=""><span></span>
-                                            Explore Us <i class="fa-solid fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- About area end -->
-
-            <!-- Service area start -->
-            <section class="service__area-7 pt-130">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="service__items-7 animation_service_7">
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
-                                        
-                                    </a>
-                                    <p>
-                                        Engineered to deliver uniform shade, colour strength, and stability across
-                                        batches, ensuring reliable output under real production and processing
-                                        conditions.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7">Precision Colour <span>Development</span> </h3>
-                                        
-                                    </a>
-                                    <p>
-                                        Finely dispersed pigment particles enable sharp detail, smooth gradients, and
-                                        accurate colour reproduction across inks, coatings, and textile applications.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7">Stable Production<span> Flow</span> </h3>
-                                        
-                                    </a>
-                                    <p>
-                                        High dispersion stability helps prevent settling, clogging, and viscosity
-                                        fluctuations, supporting uninterrupted and efficient manufacturing processes.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7">Proven Formulation <span>Reliability</span> </h3>
-                                        
-                                    </a>
-                                    <p>
-                                        Designed for long-term storage stability and system compatibility, maintaining
-                                        performance from formulation through final application.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7">Lower Operational <span>Costs</span></h3>
-                                       
-                                    </a>
-                                    <p>
-                                        High colour strength and efficient pigment utilisation reduce dosage
-                                        requirements, minimise waste, and improve overall cost efficiency.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7">Easy System <span>Integration</span> </h3>
-                                        
-                                    </a>
-                                    <p>
-                                        Compatible with commonly used binders and formulations, allowing simple
-                                        incorporation into existing production systems with minimal adjustments.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Service area end -->
-
-            <!-- Portfolio area start -->
-            <section class="portfolio__area-3">
-                <div class="container pt-100 pb-150">
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Applications</h2>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="swiper portfolio__slider-3">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing Inks</h3>
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >印刷油墨</h3>
-                                                <img src="assets/imgs/pigment-imgs/Printing Inks.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints</h3>
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >涂料</h3>
-                                                <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics & Polymer</h3> 
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >塑料与聚合物</h3>
-                                                <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Cosmetics</h3>
-                                                <h3 class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1" >塑料与聚合物</h3>
-                                                <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-pagination"></div>
-
-                                <div class="swiper-btn">
-                                    <div class="pp-prev"><i class="fa-solid fa-arrow-left"></i></div>
-                                    <div class="pp-next"><i class="fa-solid fa-arrow-right"></i></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Portfolio area end -->
-
-            <!-- Medium Cards area start -->
-            <section class="portfolio__service service-v5 pt-140 pb-140 bg-white bg-img-none">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come">PROVEN GAINS</h2>
-                        </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
-                            <div class="sec-text">
-                                <p>
-                                    Pigment dispersions are formulated to enhance colour consistency, processing
-                                    stability, and overall production efficiency. Designed for demanding industrial
-                                    applications, they help manufacturers achieve reliable results, improved throughput,
-                                    and controlled costs across batches and systems.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="portfolio__service-list">
-                        <div class="row">
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                                <div class="portfolio__service-item">
-                                    <a href="">
-                                        <h3 class="ps-title">Higher Colour <br>Strength</h3>
-                                        <p>
-                                            Optimised particle dispersion delivers strong, uniform colour at lower
-                                            pigment loading, ensuring shade consistency and improved material
-                                            efficiency.
-                                        </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                                <div class="portfolio__service-item">
-                                    <a href="">
-                                        <h3 class="ps-title">Seamless System Compatibility</h3>
-                                        <p>
-                                            Ready-to-use dispersions integrate smoothly with commonly used binders and
-                                            formulations, reducing formulation complexity and ensuring consistent
-                                            output.
-                                        </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                                <div class="portfolio__service-item">
-                                    <a href="">
-                                        <h3 class="ps-title">Reduced <br>Operating Costs</h3>
-                                        <p>
-                                            Efficient pigment utilisation and stable performance help minimise waste,
-                                            lower reprocessing, and reduce long-term production and operational
-                                            expenses.
-                                        </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Medium Cards area start -->
-
-            <!-- Story area start -->
-            <section class="story__area bg-light">
-                <div class="container g-0 line pt-140">
-                    <span class="line-3"></span>
-                    <div class="sec-title-wrapper">
-                        <!-- <div class="from-text">from <span>1990</span></div> -->
-
-                        <div class="row">
-                            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                                <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
-                                <h3 class="sec-title title-anim">About</h3> <br>
-                                <h3 class="sec-title title-anim mandarin-title-1">关于</h3>
-                            </div>
-                            <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
-                                <div class="story__text">
-                                    <p>
-                                        Our pigment dispersions are developed to deliver consistent colour strength,
-                                        fine particle stability, and reliable performance across a wide range of ink,
-                                        coating, and textile applications. Engineered for controlled processing and
-                                        compatibility, they support efficient production while maintaining uniform
-                                        quality from batch to batch.
-                                    </p>
-                                    <p>
-                                        Pigment dispersions designed for dependable colour accuracy, processing
-                                        stability, and smooth integration into modern formulations. Built to perform
-                                        under real production conditions, they help manufacturers achieve consistent
-                                        results, improved efficiency, and reduced variability across applications.
-                                    </p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
-                            <div class="story__img-wrapper">
-                                <img src="assets/imgs/pigment-imgs/300 X 415.jpg" alt="Story Thumbnail" class="w-100">
-                            </div>
-                        </div>
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                            <div class="story__img-wrapper img-anim">
-                                <img src="assets/imgs/pigment-imgs/520 X 700.jpg" alt="Story Thumbnail" data-speed="auto">
-                            </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                            <div class="story__img-wrapper">
-                                <img src="assets/imgs/pigment-imgs/230 X 140.jpg" alt="Story Thumbnail">
-                                <img src="assets/imgs/pigment-imgs/410 X 330.jpg" alt="Story Thumbnail">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Story area end -->
-
             <!-- Table section -->
             <section class="about__area-3">
-                <div class="container pt-140 pb-110">
+                <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-12">
                             <div class="sec-title-wrapper">
@@ -522,7 +182,7 @@
                                 <h3 class="sec-title title-anim pb-2">Pigment Dispersions</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1">颜料分散体</h3>
                                 <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span> 
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -656,8 +316,8 @@
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">Leon - M Series</span>  &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - M系列</span> 
+                                <span class="text-white fs-1">Leon - M Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 - M系列</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -790,11 +450,379 @@
 
 
                             </div>
+
+                            <div class="mt-5 z-1 d-flex justify-content-center">
+                                <a href="assets/data/Pigment-Dispersions-data.pdf" class="blog__btn about_btn"
+                                    download>Download Brochure</a>
+
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
             <!-- Table section -->
+
+            <!-- Service area start -->
+            <section class="service__area-7 pt-130">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-12">
+                            <div class="service__items-7 animation_service_7">
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
+
+                                    </a>
+                                    <p>
+                                        Engineered to deliver uniform shade, colour strength, and stability across
+                                        batches, ensuring reliable output under real production and processing
+                                        conditions.
+                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7">Precision Colour <span>Development</span> </h3>
+
+                                    </a>
+                                    <p>
+                                        Finely dispersed pigment particles enable sharp detail, smooth gradients, and
+                                        accurate colour reproduction across inks, coatings, and textile applications.
+                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7">Stable Production<span> Flow</span> </h3>
+
+                                    </a>
+                                    <p>
+                                        High dispersion stability helps prevent settling, clogging, and viscosity
+                                        fluctuations, supporting uninterrupted and efficient manufacturing processes.
+                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7">Proven Formulation <span>Reliability</span> </h3>
+
+                                    </a>
+                                    <p>
+                                        Designed for long-term storage stability and system compatibility, maintaining
+                                        performance from formulation through final application.
+                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7">Lower Operational <span>Costs</span></h3>
+
+                                    </a>
+                                    <p>
+                                        High colour strength and efficient pigment utilisation reduce dosage
+                                        requirements, minimise waste, and improve overall cost efficiency.
+                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7">Easy System <span>Integration</span> </h3>
+
+                                    </a>
+                                    <p>
+                                        Compatible with commonly used binders and formulations, allowing simple
+                                        incorporation into existing production systems with minimal adjustments.
+                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Service area end -->
+
+            <!-- Portfolio area start -->
+            <!-- <section class="portfolio__area-3">
+                <div class="container pt-100 pb-150">
+                    <div class="row">
+                        <div class="col-xxl-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Applications</h2>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-xxl-12">
+                            <div class="swiper portfolio__slider-3">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio__slide-3">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing
+                                                    Inks</h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    印刷油墨</h3>
+                                                <img src="assets/imgs/pigment-imgs/Printing Inks.jpg"
+                                                    alt="Portfolio Image">
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio__slide-3">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints
+                                                </h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    涂料</h3>
+                                                <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio__slide-3">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics
+                                                    & Polymer</h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    塑料与聚合物</h3>
+                                                <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio__slide-3">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">
+                                                    Cosmetics</h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    塑料与聚合物</h3>
+                                                <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-pagination"></div>
+
+                                <div class="swiper-btn">
+                                    <div class="pp-prev"><i class="fa-solid fa-arrow-left"></i></div>
+                                    <div class="pp-next"><i class="fa-solid fa-arrow-right"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> -->
+            <!-- Portfolio area end -->
+
+
+            <!-- About area start -->
+            <section class="about__area-3">
+                <div class="container pt-140 pb-140">
+                    <div class="row">
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                            <div class="about__img-3">
+                                <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
+                                    data-speed="auto">
+                            </div>
+                        </div>
+
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
+                                <h4 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1">您可靠的色素分散体合作伙伴</h4>
+                            </div>
+                            <div class="sec-text-wrapper">
+                                <div class="sec-text text-anim">
+                                    <p>
+                                        We develop and supply high-performance pigment dispersions engineered for
+                                        consistency, stability, and seamless integration into modern ink and coating
+                                        systems. Our dispersions are designed to deliver dependable colour strength,
+                                        smooth processing, and repeatable results across textile, packaging, and graphic
+                                        applications. With a focus on formulation compatibility and production
+                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
+                                    </p>
+                                    <div class=" z-1">
+                                        <a href="assets/data/Pigment-Dispersions-data.pdf" class="blog__btn about_btn"
+                                            download>Download Brochure</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- About area end -->
+
+            <!-- Medium Cards area start -->
+            <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
+                            <h2 class="sec-title animation__char_come">PROVEN GAINS</h2>
+                        </div>
+                        <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
+                            <div class="sec-text">
+                                <p>
+                                    Pigment dispersions are formulated to enhance colour consistency, processing
+                                    stability, and overall production efficiency. Designed for demanding industrial
+                                    applications, they help manufacturers achieve reliable results, improved throughput,
+                                    and controlled costs across batches and systems.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="portfolio__service-list">
+                        <div class="row">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                                <div class="portfolio__service-item">
+                                    <a href="">
+                                        <h3 class="ps-title">Higher Colour <br>Strength</h3>
+                                        <p>
+                                            Optimised particle dispersion delivers strong, uniform colour at lower
+                                            pigment loading, ensuring shade consistency and improved material
+                                            efficiency.
+                                        </p>
+                                        <!-- <ul>
+                                            <li>+ WordPress</li>
+                                            <li>+ Python</li>
+                                            <li>+ PHP & Laravel</li>
+                                        </ul> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                                <div class="portfolio__service-item">
+                                    <a href="">
+                                        <h3 class="ps-title">Seamless System Compatibility</h3>
+                                        <p>
+                                            Ready-to-use dispersions integrate smoothly with commonly used binders and
+                                            formulations, reducing formulation complexity and ensuring consistent
+                                            output.
+                                        </p>
+                                        <!-- <ul>
+                                            <li>+ WordPress</li>
+                                            <li>+ Python</li>
+                                            <li>+ PHP & Laravel</li>
+                                        </ul> -->
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                                <div class="portfolio__service-item">
+                                    <a href="">
+                                        <h3 class="ps-title">Reduced <br>Operating Costs</h3>
+                                        <p>
+                                            Efficient pigment utilisation and stable performance help minimise waste,
+                                            lower reprocessing, and reduce long-term production and operational
+                                            expenses.
+                                        </p>
+                                        <!-- <ul>
+                                            <li>+ WordPress</li>
+                                            <li>+ Python</li>
+                                            <li>+ PHP & Laravel</li>
+                                        </ul> -->
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Medium Cards area start -->
+
+            <!-- Story area start -->
+            <!-- <section class="story__area bg-light">
+                <div class="container g-0 line pt-140">
+                    <span class="line-3"></span>
+                    <div class="sec-title-wrapper">
+                    
+
+                        <div class="row">
+                            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+                                <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
+                                <h3 class="sec-title title-anim">About</h3> <br>
+                                <h3 class="sec-title title-anim mandarin-title-1">关于</h3>
+                            </div>
+                            <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
+                                <div class="story__text">
+                                    <p>
+                                        Our pigment dispersions are developed to deliver consistent colour strength,
+                                        fine particle stability, and reliable performance across a wide range of ink,
+                                        coating, and textile applications. Engineered for controlled processing and
+                                        compatibility, they support efficient production while maintaining uniform
+                                        quality from batch to batch.
+                                    </p>
+                                    <p>
+                                        Pigment dispersions designed for dependable colour accuracy, processing
+                                        stability, and smooth integration into modern formulations. Built to perform
+                                        under real production conditions, they help manufacturers achieve consistent
+                                        results, improved efficiency, and reduced variability across applications.
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
+                            <div class="story__img-wrapper">
+                                <img src="assets/imgs/pigment-imgs/300 X 415.jpg" alt="Story Thumbnail" class="w-100">
+                            </div>
+                        </div>
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+                            <div class="story__img-wrapper img-anim">
+                                <img src="assets/imgs/pigment-imgs/520 X 700.jpg" alt="Story Thumbnail"
+                                    data-speed="auto">
+                            </div>
+                        </div>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                            <div class="story__img-wrapper">
+                                <img src="assets/imgs/pigment-imgs/230 X 140.jpg" alt="Story Thumbnail">
+                                <img src="assets/imgs/pigment-imgs/410 X 330.jpg" alt="Story Thumbnail">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> -->
+            <!-- Story area end -->
+
+
 
             <!-- FAQ area start -->
             <section class="faq__area-6">
