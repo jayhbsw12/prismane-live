@@ -133,3 +133,11 @@ tr td {
 .mandarin-title-2{
   font-size: 28px !important;
 }
+
+
+.text-prismane{
+  color:#c9f31d !important;
+}
+.about_btn::before{
+  background-color: #bce31c;
+}

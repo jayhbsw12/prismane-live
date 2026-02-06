@@ -32,8 +32,23 @@
                                         water based Digital Inks applications</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
-                                        <a href="assets/data/Pigment-Dispersions-data.pdf" class="blog__btn about_btn"
-                                            download>Download Brochure</a>
+                                        <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
+                                            onclick="downloadPDF()">
+                                            Download Brochure
+                                            <span><i class="fa-solid fa-arrow-right"></i></span>
+                                        </p>
+
+                                        <script>
+                                            function downloadPDF() {
+                                                const link = document.createElement('a');
+                                                link.href = 'assets/data/Pigment-Dispersions-data.pdf';
+                                                link.download = 'Pigment-Dispersions-data.pdf';
+                                                document.body.appendChild(link);
+                                                link.click();
+                                                document.body.removeChild(link);
+                                            }
+                                        </script>
+
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +95,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 500px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 450px; ">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -452,8 +467,9 @@
                             </div>
 
                             <div class="mt-5 z-1 d-flex justify-content-center">
-                                <a href="assets/data/Pigment-Dispersions-data.pdf" class="blog__btn about_btn"
-                                    download>Download Brochure</a>
+                                <a href="assets/data/Pigment-Dispersions-data.pdf"
+                                    class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
+                                            class="fa-solid fa-arrow-right"></i></span></a>
 
                             </div>
                         </div>
@@ -677,8 +693,9 @@
                                         efficiency, we help manufacturers achieve reliable output, batch after batch.
                                     </p>
                                     <div class=" z-1">
-                                        <a href="assets/data/Pigment-Dispersions-data.pdf" class="blog__btn about_btn"
-                                            download>Download Brochure</a>
+                                        <a href="assets/data/Pigment-Dispersions-data.pdf"
+                                            class="blog__btn about_btn text-prismane" download>Download Brochure
+                                            <span><i class="fa-solid fa-arrow-right"></i></span></a>
 
                                     </div>
                                 </div>
