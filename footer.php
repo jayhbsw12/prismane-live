@@ -4,7 +4,7 @@
     <div class="container footer-line"></div>
     <!-- <img src="assets/imgs/thumb/footer.jpg" alt="Footer Image" data-speed="0.75"> -->
     <video autoplay muted loop class="mobile-hide-video">
-      <source src="assets/imgs/thumb/Video.mp4" type="video/mp4">
+      <source src="./assets/video/bottom.webm" type="video/mp4">
     </video>
   </div>
 

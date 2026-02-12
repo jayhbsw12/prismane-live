@@ -687,8 +687,11 @@
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="about__img-3">
-                                <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
-                                    data-speed="auto">
+                                <!-- <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
+                                    data-speed="auto"> -->
+                                <video width="100%" height="100%" autoplay muted loop>
+                                    <source src="./assets/video/top 1.webm" type="video/mp4">
+                                </video>
                             </div>
                         </div>
 
