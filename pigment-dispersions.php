@@ -25,18 +25,18 @@
                             <div class="hero__content animation__hero_one pt-0">
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
-                                    <h1 class="sec-title text-white">Pigment Dispersions</h1>
-                                    <span class="sec-title text-white mandarin-title-1">色素分散体</span>
+                                    <h1 class="sec-title text-white text-prismane">Pigment Dispersions</h1>
+                                    <span class="sec-title text-white mandarin-title-1 text-prismane">色素分散体</span>
                                     <p class="text-white">High-performance pigment dispersions engineered for consistent
                                         colour strength, excellent stability, and easy integration Across all types of
                                         water based Digital Inks applications</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
-                                        <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
+                                        <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
                                             onclick="downloadPDF()">
                                             Download Brochure
                                             <span><i class="fa-solid fa-arrow-right"></i></span>
-                                        </p>
+                                        </p> -->
 
                                         <script>
                                             function downloadPDF() {
@@ -95,7 +95,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 450px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; ">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -136,8 +136,8 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come">Our Pigment Dispersion Range</h2> <br>
-                                <h2 class="sec-title animation__char_come mandarin-title-1">我们的色素分散体系列</h2>
+                                <h2 class="sec-title animation__char_come ">Our Pigment Dispersion Range</h2> <br>
+                                <h2 class="sec-title animation__char_come mandarin-title-1 ">我们的色素分散体系列</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
@@ -194,8 +194,8 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim pb-2">Pigment Dispersions</h3>
-                                <h3 class="sec-title title-anim mandarin-title-1">颜料分散体</h3>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Pigment Dispersions</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">颜料分散体</h3>
                                 <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
                                 <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
                             </div>
@@ -325,14 +325,22 @@
                                             <td>8</td>
                                             <td>High performance jet black</td>
                                         </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ffffff"></span></td>
+                                            <td>Leon White D8-U</td>
+                                            <td>P.W. TiO2.</td>
+                                            <td>Titanium Di-Oxide.</td>
+                                            <td>8</td>
+                                            <td>Highly Opaque White</td>
+                                        </tr>
                                     </tbody>
                                 </table>
 
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">Leon - M Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - M系列</span>
+                                <span class="text-white fs-1 ">Leon - M Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -460,18 +468,26 @@
                                             <td>8</td>
                                             <td>High performance Jet black</td>
                                         </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ffffff"></span></td>
+                                            <td>Leon White D8-M</td>
+                                            <td>P.W. TiO2.</td>
+                                            <td>Titanium Di-Oxide.</td>
+                                            <td>8</td>
+                                            <td>Highly Opaque White</td>
+                                        </tr>
                                     </tbody>
                                 </table>
 
 
                             </div>
 
-                            <div class="mt-5 z-1 d-flex justify-content-center">
+                            <!-- <div class="mt-5 z-1 d-flex justify-content-center">
                                 <a href="assets/data/Pigment-Dispersions-data.pdf"
                                     class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
                                             class="fa-solid fa-arrow-right"></i></span></a>
 
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -679,8 +695,9 @@
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h4 class="sec-title title-anim">YOUR RELIABLE PIGMENT DISPERSION PARTNER</h4>
-                                <h4 class="sec-title title-anim mandarin-title-1">您可靠的色素分散体合作伙伴</h4>
+                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE PIGMENT DISPERSION PARTNER
+                                </h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的色素分散体合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
@@ -692,12 +709,12 @@
                                         applications. With a focus on formulation compatibility and production
                                         efficiency, we help manufacturers achieve reliable output, batch after batch.
                                     </p>
-                                    <div class=" z-1">
+                                    <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
                                             class="blog__btn about_btn text-prismane" download>Download Brochure
                                             <span><i class="fa-solid fa-arrow-right"></i></span></a>
 
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

@@ -28,7 +28,7 @@
             </div>
 
             <div class="footer__widget-2">
-              <h2 class="footer__widget-title">Information</h2>
+              <h2 class="footer__widget-title text-prismane">Information</h2>
               <ul class="footer__link">
                 <li><a href="#">Who We Are</a></li>
                 <li><a href="#">Markets & Industries</a></li>
@@ -39,7 +39,7 @@
             </div>
 
             <div class="footer__widget-3">
-              <h2 class="footer__widget-title">Contact Us</h2>
+              <h2 class="footer__widget-title text-prismane">Contact Us</h2>
               <ul class="footer__contact">
                 <li>151 Chin Swee Road #02-04A Manhattan House Singapore 169876</li>
                 <li><a href="tel:+6580103613" class="phone">+65 80103613</a></li>
@@ -48,7 +48,7 @@
             </div>
 
             <div class="footer__widget-4">
-              <h2 class="project-title">Have a project in your mind?</h2>
+              <h2 class="project-title text-prismane">Have a project in your mind?</h2>
               <div class="btn_wrapper">
                 <a href="#" class="wc-btn-primary btn-hover btn-item"><span></span> contact us <i
                     class="fa-solid fa-arrow-right"></i></a>
