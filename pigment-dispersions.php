@@ -136,9 +136,9 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come text-prismane">Our Pigment Dispersion Range
+                                <h2 class="sec-title animation__char_come text-prismane-2">Our Pigment Dispersion Range
                                 </h2> <br>
-                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane">我们的色素分散体系列
+                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">我们的色素分散体系列
                                 </h2>
                             </div>
                         </div>
@@ -733,8 +733,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come text-prismane" style="max-width:none">PROVEN GAINS</h2>
-                            <span class="mandarin-title-1 animation__char_come text-prismane" style="max-width:none">已证实的收益</span>
+                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">PROVEN GAINS</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">已证实的收益</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
@@ -886,8 +886,8 @@
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title-2 animation__char_come text-prismane">FAQ</h2>
-                                <span class="animation__char_come mandarin-title-1 text-prismane">常见问题解答</span>
+                                <h2 class="sec-title-2 animation__char_come text-prismane-2">FAQ</h2>
+                                <span class="animation__char_come mandarin-title-1 text-prismane-2">常见问题解答</span>
                                 <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
                             </div>
                         </div>

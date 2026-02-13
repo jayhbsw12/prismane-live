@@ -138,6 +138,10 @@ tr td {
 .text-prismane{
   color:#c9f31d !important;
 }
+
+.text-prismane-2{
+  color:#BAE800 !important;
+}
 .about_btn::before{
   background-color: #bce31c;
 }
