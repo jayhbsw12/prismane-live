@@ -26120,7 +26120,8 @@ main {
   top: 25px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  background-color: var(--black-2);
+  /* background-color: var(--black-2); */
+  background-color: #bae800;
 }
 
 .portfolio__area-7 {

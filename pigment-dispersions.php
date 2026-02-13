@@ -504,7 +504,7 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7">Consistent Colour <span>Performance </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Consistent Colour <span>Performance </span></h3>
 
                                     </a>
                                     <p>
@@ -520,7 +520,7 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7">Precision Colour <span>Development</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Precision Colour <span>Development</span> </h3>
 
                                     </a>
                                     <p>
@@ -535,7 +535,7 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7">Stable Production<span> Flow</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Stable Production<span> Flow</span> </h3>
 
                                     </a>
                                     <p>
@@ -550,7 +550,7 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7">Proven Formulation <span>Reliability</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Proven Formulation <span>Reliability</span> </h3>
 
                                     </a>
                                     <p>
@@ -565,7 +565,7 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7">Lower Operational <span>Costs</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lower Operational <span>Costs</span></h3>
 
                                     </a>
                                     <p>
@@ -580,7 +580,7 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7">Easy System <span>Integration</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Easy System <span>Integration</span> </h3>
 
                                     </a>
                                     <p>
@@ -888,7 +888,7 @@
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title-2 animation__char_come text-prismane-2">FAQ</h2>
                                 <span class="animation__char_come mandarin-title-1 text-prismane-2">常见问题解答</span>
-                                <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
+                                <!-- <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p> -->
                             </div>
                         </div>
 
