@@ -136,8 +136,10 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come ">Our Pigment Dispersion Range</h2> <br>
-                                <h2 class="sec-title animation__char_come mandarin-title-1 ">我们的色素分散体系列</h2>
+                                <h2 class="sec-title animation__char_come text-prismane">Our Pigment Dispersion Range
+                                </h2> <br>
+                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane">我们的色素分散体系列
+                                </h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
@@ -731,7 +733,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come">PROVEN GAINS</h2>
+                            <h2 class="sec-title animation__char_come text-prismane" style="max-width:none">PROVEN GAINS</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane" style="max-width:none">已证实的收益</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
@@ -866,7 +869,7 @@
                 <div class="container g-0 line pt-130 pb-140">
                     <div class="line-3"></div>
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-xxl-12 ">
                             <div class="masked-title-holder position-relative">
                                 <video autoplay muted loop preload poster="" class="masked-video">
@@ -874,122 +877,140 @@
                                     
                                 </video>
                                 <h2 class="display-1 masked-title" style="">FAQ <br style="display: block"><span class="masked-title-mandarin">常见问题解答</span></h2>
-                                <!-- <h2 class="sec-title-2 animation__char_come mandarin-title-1">常见问题解答</h2> -->
+                                
                             </div>
                                 <p class="mb-5">Frequently asked question (FAQ) <br> pages to find answars.</p>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="row">
                         <div class="col-xxl-12">
-                            <div class="faq__list-6">
-                                <div class="accordion" id="accordionExample">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingOne">
-                                            <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                                data-bs-target="#collapseOne" aria-expanded="true"
-                                                aria-controls="collapseOne">
-                                                What are pigment dispersions?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show"
-                                            aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Pigment dispersions are finely milled pigment particles evenly
-                                                    distributed in a liquid medium using dispersing agents. They are
-                                                    ready to use in inks, coatings, plastics, and textile applications,
-                                                    providing consistent colour strength, stability, and reliable
-                                                    processing performance.
-                                                </p>
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-title-2 animation__char_come text-prismane">FAQ</h2>
+                                <span class="animation__char_come mandarin-title-1 text-prismane">常见问题解答</span>
+                                <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-xxl-12">
+                                <div class="faq__list-6">
+                                    <div class="accordion" id="accordionExample">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingOne">
+                                                <button class="accordion-button " type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                    What are pigment dispersions?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions are finely milled pigment particles evenly
+                                                        distributed in a liquid medium using dispersing agents. They are
+                                                        ready to use in inks, coatings, plastics, and textile
+                                                        applications,
+                                                        providing consistent colour strength, stability, and reliable
+                                                        processing performance.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingTwo">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                aria-expanded="false" aria-controls="collapseTwo">
-                                                Where can pigment dispersions be used?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Pigment dispersions are used in printing inks, textile printing,
-                                                    industrial and decorative coatings, plastics, and cosmetic
-                                                    formulations. They are designed to integrate easily into different
-                                                    systems depending on the carrier medium and binder compatibility.
-                                                </p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingTwo">
+                                                <button class="accordion-button  collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                    Where can pigment dispersions be used?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                                aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions are used in printing inks, textile printing,
+                                                        industrial and decorative coatings, plastics, and cosmetic
+                                                        formulations. They are designed to integrate easily into
+                                                        different
+                                                        systems depending on the carrier medium and binder
+                                                        compatibility.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingThree">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                                aria-expanded="false" aria-controls="collapseThree">
-                                                What are the advantages of using pigment dispersions over dry pigments?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseThree" class="accordion-collapse collapse"
-                                            aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Pigment dispersions offer better colour consistency, improved
-                                                    stability, easier handling, and reduced processing time. Unlike dry
-                                                    pigments, they minimise dust, prevent agglomeration, and ensure
-                                                    uniform colour development across batches.
-                                                </p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingThree">
+                                                <button class="accordion-button  collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    What are the advantages of using pigment dispersions over dry
+                                                    pigments?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions offer better colour consistency, improved
+                                                        stability, easier handling, and reduced processing time. Unlike
+                                                        dry
+                                                        pigments, they minimise dust, prevent agglomeration, and ensure
+                                                        uniform colour development across batches.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFour">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                                aria-expanded="false" aria-controls="collapseFour">
-                                                Are pigment dispersions compatible with different binders and systems?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFour" class="accordion-collapse collapse"
-                                            aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Yes, pigment dispersions are formulated to be compatible with
-                                                    commonly used binders and formulation systems. Compatibility depends
-                                                    on whether the dispersion is water-based, solvent-based, or
-                                                    resin-based, so selecting the right type is important.
-                                                </p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingFour">
+                                                <button class="accordion-button  collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                                    aria-expanded="false" aria-controls="collapseFour">
+                                                    Are pigment dispersions compatible with different binders and
+                                                    systems?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseFour" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Yes, pigment dispersions are formulated to be compatible with
+                                                        commonly used binders and formulation systems. Compatibility
+                                                        depends
+                                                        on whether the dispersion is water-based, solvent-based, or
+                                                        resin-based, so selecting the right type is important.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFive">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                                aria-expanded="false" aria-controls="collapseFive">
-                                                How should pigment dispersions be stored?
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFive" class="accordion-collapse collapse"
-                                            aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>Pigment dispersions should be stored in tightly sealed containers,
-                                                    away from extreme temperatures and direct sunlight. Proper storage
-                                                    helps maintain dispersion stability, colour strength, and
-                                                    performance over time.
-                                                </p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingFive">
+                                                <button class="accordion-button  collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                                    aria-expanded="false" aria-controls="collapseFive">
+                                                    How should pigment dispersions be stored?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseFive" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions should be stored in tightly sealed
+                                                        containers,
+                                                        away from extreme temperatures and direct sunlight. Proper
+                                                        storage
+                                                        helps maintain dispersion stability, colour strength, and
+                                                        performance over time.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
             </section>
             <!-- FAQ area end -->
 
