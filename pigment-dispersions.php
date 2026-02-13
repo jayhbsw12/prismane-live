@@ -867,12 +867,16 @@
                     <div class="line-3"></div>
 
                     <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="sec-title-wrapper">
-                                <h2 class="sec-title-2 animation__char_come">FAQ</h2> <br>
-                                <h2 class="sec-title-2 animation__char_come mandarin-title-1">常见问题解答</h2>
-                                <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
+                        <div class="col-xxl-12 ">
+                            <div class="masked-title-holder position-relative">
+                                <video autoplay muted loop preload poster="" class="masked-video">
+                                    <source src="./assets/video/top 1.webm" />
+                                    
+                                </video>
+                                <h2 class="display-1 masked-title" style="">FAQ <br style="display: block"><span class="masked-title-mandarin">常见问题解答</span></h2>
+                                <!-- <h2 class="sec-title-2 animation__char_come mandarin-title-1">常见问题解答</h2> -->
                             </div>
+                                <p class="mb-5">Frequently asked question (FAQ) <br> pages to find answars.</p>
                         </div>
                     </div>
 
