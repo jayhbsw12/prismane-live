@@ -894,7 +894,7 @@
 
                         <div class="row">
                             <div class="col-xxl-12">
-                                <div class="faq__list-6 pe-4">
+                                <div class="faq__list-6">
                                     <div class="accordion" id="accordionExample">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingOne">
