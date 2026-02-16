@@ -25,10 +25,31 @@
                             <div class="hero__content animation__hero_one pt-0">
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
-                                    <h1 class="sec-title text-white">TPU Powder</h1>
-                                    <p class="text-white">Sed ut unde omnis iste natus sit volur tatem accus antium
-                                        laudan tium totam rem aperiam eaque ipsa illo veritatis et architecto.</p>
-                                    <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button>
+                                    <h1 class="sec-title text-white text-prismane">TPU Powder</h1>
+                                    <span class="sec-title text-white mandarin-title-1 text-prismane">时间磷U粉末</span>
+                                    <p class="text-white">High-performance pigment dispersions engineered for consistent
+                                        colour strength, excellent stability, and easy integration Across all types of
+                                        water based Digital Inks applications</p>
+                                    <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
+                                    <div class=" z-1">
+                                        <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
+                                            onclick="downloadPDF()">
+                                            Download Brochure
+                                            <span><i class="fa-solid fa-arrow-right"></i></span>
+                                        </p> -->
+
+                                        <script>
+                                            function downloadPDF() {
+                                                const link = document.createElement('a');
+                                                link.href = 'assets/data/Pigment-Dispersions-data.pdf';
+                                                link.download = 'Pigment-Dispersions-data.pdf';
+                                                document.body.appendChild(link);
+                                                link.click();
+                                                document.body.removeChild(link);
+                                            }
+                                        </script>
+
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -70,10 +91,11 @@
                 <!-- <div id="tsparticles"></div>
                 <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
                 <div id="js-map-canvas" class="map-canvas"> </div> -->
+
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 425px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; " class="wave-path-prismane">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -114,21 +136,29 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come">TY-300 Direct-to-Film Printer</h2>
+                                <h2 class="sec-title animation__char_come text-prismane-2">Our TPU Powder Range
+                                </h2> <br>
+                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">我们的TPU粉末系列
+                                </h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
-                            <div class="development__wrapper">
-                                <div class="development__content">
+                            <div class="development__wrapper pb-0">
+                                <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        You care about producing work that looks exceptional. The TY-300 helps you
-                                        achieve it with richer colour, stronger detail and more consistent results than
-                                        other DTF systems. Faster output and expanded white capacity keep production
-                                        moving, even on demanding days.
+                                        <b> Leon – U SERIES</b> <br>
+                                        <b> 莱昂 – U系列</b>
+                                        <br><br> Specially developed range of water-based
+                                        pigment dispersions for digital inks for textiles. Suitable for inks for wide
+                                        format, DTG & DTF Printers.
                                     </p>
                                     <p>
-                                        It is a complete Roland DG DTF setup with premium inks and powder, backed by the
-                                        reliability and support you can build your reputation on.
+                                        <b> Leon – M SERIES</b> <br>
+                                        <b> 莱昂 – M系列</b>
+                                        <br><br> Specially developed range of water-based
+                                        pigment dispersions for digital inks for flexible packaging / Graphic Industry.
+                                        Our products are compatible with most of commonly used binders for flexible
+                                        packaging inks.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -141,56 +171,330 @@
                                 </ul> -->
                             </div>
                         </div>
-                        <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
+                        <!-- <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
                             <div class="development__img">
-                                <img src="assets/imgs/thumb/dev-1.jpg" alt="Development Image" data-speed="auto">
+                                <video src="assets/imgs/pigment-imgs/Ink-splash-2.mp4" autoplay loop muted playsinline
+                                    data-speed="auto">
+                                </video>
+
                             </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                        </div> -->
+                        <!-- <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                             <div class="development__img">
-                                <img src="assets/imgs/thumb/dev-2.jpg" alt="Development Image">
+                                <img src="assets/imgs/pigment-imgs/410 x 400.jpg" alt="Development Image">
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
             <!-- Development area end -->
 
-            <!-- About area start -->
+            <!-- Table section -->
             <section class="about__area-3">
-                <div class="container pt-140 pb-110">
+                <div class="container pt-140 pb-140">
                     <div class="row">
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                            <div class="about__img-3">
-                                <img src="assets/imgs/about/3/1.jpg" alt="About Thumbnail" data-speed="auto">
-                            </div>
-                        </div>
-
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h3 class="sec-title title-anim">Your Complete Roland DG DTF Workflow</h3>
+                                <h2 class="sec-sub-title title-anim">Technical Data</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">TPU Powder</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">时间磷U粉末</h3>
+                                <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
                             </div>
-                            <div class="sec-text-wrapper">
-                                <div class="sec-text text-anim">
-                                    <p>
-                                        You want transfers you can trust, shift after shift. TY-300 sits at the heart of
-                                        a complete Roland DG DTF setup, combining the TY-300 DTF printer with VersaWorks
-                                        RIP, premium Roland DG inks and powder, and Roland DG Care support to keep
-                                        colour, detail and uptime consistent. It also integrates with compatible shaker
-                                        and dryer units to automate the powder stage and sustain high-volume production.
-                                    </p>
-                                    <div class="btn_wrapper">
-                                        <a class="wc-btn-light btn-hover btn-item" href="about.html"><span></span>
-                                            Explore Us <i class="fa-solid fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
+
+                            <div class="col-12  table-responsive">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal"></th>
+                                            <th scope="col" class="fw-normal">Product</th>
+                                            <th scope="col" class="fw-normal">Color Index</th>
+                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <th scope="col" class="fw-normal">Light Fastness</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #fff109"></span></td>
+                                            <td>Leon Yellow N5-U</td>
+                                            <td>P.Y.74</td>
+                                            <td>Monoazo</td>
+                                            <td>6</td>
+                                            <td>High performance standard yellow</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #fece21"></span></td>
+                                            <td>Leon Yellow R49-U</td>
+                                            <td>P.Y.138</td>
+                                            <td>Monoazo</td>
+                                            <td>6–7</td>
+                                            <td>High performance green shade yellow</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
+                                            <td>Leon Yellow E66-U</td>
+                                            <td>P.Y.155</td>
+                                            <td>Double Azo</td>
+                                            <td>7</td>
+                                            <td>High performance strong green shade</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
+                                            <td>Leon Orange E4-U</td>
+                                            <td>P.O.13</td>
+                                            <td>Disazopyrazolone</td>
+                                            <td>6</td>
+                                            <td>High performance yellow shade orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #fa5e21"></span></td>
+                                            <td>Leon Orange E5-U</td>
+                                            <td>P.O.34</td>
+                                            <td>Disazopyrazolone</td>
+                                            <td>6</td>
+                                            <td>High performance mid shade orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f58025"></span></td>
+                                            <td>Leon Orange C47-U</td>
+                                            <td>P.O.36</td>
+                                            <td>Benzimidazolone</td>
+                                            <td>6–7</td>
+                                            <td>High performance red shade orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ac0000"></span></td>
+                                            <td>Leon Red M21-U</td>
+                                            <td>P.R.210</td>
+                                            <td>Single azo</td>
+                                            <td>6</td>
+                                            <td>High performance red with bluish tone</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
+                                            <td>Leon Red R33-U</td>
+                                            <td>P.R.122</td>
+                                            <td>Quinacridone</td>
+                                            <td>7–8</td>
+                                            <td>High performance standard magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
+                                            <td>Leon Violet R10-U</td>
+                                            <td>P.V.19</td>
+                                            <td>Quinacridone</td>
+                                            <td>7–8</td>
+                                            <td>High performance red shade magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #280653"></span></td>
+                                            <td>Leon Violet E4-U</td>
+                                            <td>P.V.23</td>
+                                            <td>Dioxazine Carbazole</td>
+                                            <td>7–8</td>
+                                            <td>High performance blue shade violet</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #211f6e"></span></td>
+                                            <td>Leon Blue C64-U</td>
+                                            <td>P.B.15:3</td>
+                                            <td>Cu-Phthalocyanine</td>
+                                            <td>8</td>
+                                            <td>High performance standard cyan</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #00352d"></span></td>
+                                            <td>Leon Green Q8-U</td>
+                                            <td>P.G.7</td>
+                                            <td>Cu-Phthalogreen</td>
+                                            <td>7–8</td>
+                                            <td>High performance standard green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #0c5537"></span></td>
+                                            <td>Leon Green Q47-U</td>
+                                            <td>P.G.36</td>
+                                            <td>Cu-Phthalogreen (Brominated)</td>
+                                            <td>7</td>
+                                            <td>High performance yellower green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #040504"></span></td>
+                                            <td>Leon Black D8-U</td>
+                                            <td>P.B.7</td>
+                                            <td>Oxidised Carbon Black</td>
+                                            <td>8</td>
+                                            <td>High performance jet black</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ffffff"></span></td>
+                                            <td>Leon White D8-U</td>
+                                            <td>P.W. TiO2.</td>
+                                            <td>Titanium Di-Oxide.</td>
+                                            <td>8</td>
+                                            <td>Highly Opaque White</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
                             </div>
+
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1 ">Leon - M Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
+                            </div>
+
+                            <div class="col-12  table-responsive">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal"></th>
+                                            <th scope="col" class="fw-normal">Product</th>
+                                            <th scope="col" class="fw-normal">Color Index</th>
+                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <th scope="col" class="fw-normal">Light Fastness</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #fff109"></span></td>
+                                            <td>Leon Yellow N5-M</td>
+                                            <td>P.Y.74</td>
+                                            <td>Monoase</td>
+                                            <td>6</td>
+                                            <td>High performance standard yellow</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #fece21"></span></td>
+                                            <td>Leon Yellow R49-M</td>
+                                            <td>P.Y.138</td>
+                                            <td>Monoase</td>
+                                            <td>6-7</td>
+                                            <td>High performance green shade yellow</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
+                                            <td>Leon Yellow E66-M</td>
+                                            <td>P.Y.155</td>
+                                            <td>Double Azo</td>
+                                            <td>7</td>
+                                            <td>High performance strong green shade</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
+                                            <td>Leon Orange E4-M</td>
+                                            <td>P.0.13</td>
+                                            <td>Disazopyrazolone</td>
+                                            <td>6</td>
+                                            <td>High performance yellow shade Orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f58025"></span></td>
+                                            <td>Leon Orange C47-M</td>
+                                            <td>P.0.36</td>
+                                            <td>Benzimidazalone</td>
+                                            <td>6-7</td>
+                                            <td>High Performance Red Shade Orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #f15122"></span></td>
+                                            <td>Leon Orange C75-M</td>
+                                            <td>P.0.64</td>
+                                            <td>Benzimidazalone</td>
+                                            <td>6</td>
+                                            <td>High Performance mid Shade Orange</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ac0000"></span></td>
+                                            <td>Leon Red M21-M</td>
+                                            <td>P.R.210</td>
+                                            <td>Single Azo</td>
+                                            <td>6</td>
+                                            <td>High Performance Red with Bluish tone</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
+                                            <td>Leon Red R33-M</td>
+                                            <td>P.R.122</td>
+                                            <td>Quinacridone</td>
+                                            <td>7-8</td>
+                                            <td>High performance standard magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
+                                            <td>Leon Violet R10-M</td>
+                                            <td>P.V.19</td>
+                                            <td>Quinacridone</td>
+                                            <td>7-8</td>
+                                            <td>High performance red shade magenta</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #280653"></span></td>
+                                            <td>Leon Violet E4-M</td>
+                                            <td>P.V.23</td>
+                                            <td>Dioxazin Carbazole</td>
+                                            <td>7-8</td>
+                                            <td>High performance blue shade violet</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #211f6e"></span></td>
+                                            <td>Leon Blue C64-M</td>
+                                            <td>P.B.15.3</td>
+                                            <td>Cu-Phthalocyanine</td>
+                                            <td>8</td>
+                                            <td>High performance standard cyan</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #00352d"></span></td>
+                                            <td>Leon Green Q8-M</td>
+                                            <td>P.G.7</td>
+                                            <td>Cu-Phthalogreen</td>
+                                            <td>7-8</td>
+                                            <td>High performance standard green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #0c5537"></span></td>
+                                            <td>Leon Green Q47-M</td>
+                                            <td>P.G.36</td>
+                                            <td>Cu- Phthalogreen Bromination</td>
+                                            <td>7</td>
+                                            <td>High performance Yellower green</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #040504"></span></td>
+                                            <td>Leon Black D8-M</td>
+                                            <td>P.B.7</td>
+                                            <td>Oxidized Carbon Black</td>
+                                            <td>8</td>
+                                            <td>High performance Jet black</td>
+                                        </tr>
+                                        <tr>
+                                            <td><span class="color-item" style="background: #ffffff"></span></td>
+                                            <td>Leon White D8-M</td>
+                                            <td>P.W. TiO2.</td>
+                                            <td>Titanium Di-Oxide.</td>
+                                            <td>8</td>
+                                            <td>Highly Opaque White</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+
+                            <!-- <div class="mt-5 z-1 d-flex justify-content-center">
+                                <a href="assets/data/Pigment-Dispersions-data.pdf"
+                                    class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
+                                            class="fa-solid fa-arrow-right"></i></span></a>
+
+                            </div> -->
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- About area end -->
+            <!-- Table section -->
 
             <!-- Service area start -->
             <section class="service__area-7 pt-130">
@@ -199,11 +503,14 @@
                         <div class="col-xxl-12">
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Soft & flexible <span>in nature </span></h3>
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Consistent Colour <span>Performance </span></h3>
+
                                     </a>
                                     <p>
-                                        Applications in lingerie, under garments & lycra fabrics.
+                                        Engineered to deliver uniform shade, colour strength, and stability across
+                                        batches, ensuring reliable output under real production and processing
+                                        conditions.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -212,11 +519,13 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">Low Melting <span> Point</span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Precision Colour <span>Development</span> </h3>
+
                                     </a>
                                     <p>
-                                        Can be used on heat sensitive material.
+                                        Finely dispersed pigment particles enable sharp detail, smooth gradients, and
+                                        accurate colour reproduction across inks, coatings, and textile applications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -225,11 +534,13 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">UV <span>Resistance </span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Stable Production<span> Flow</span> </h3>
+
                                     </a>
                                     <p>
-                                        No yellowing & UV resistance material available.
+                                        High dispersion stability helps prevent settling, clogging, and viscosity
+                                        fluctuations, supporting uninterrupted and efficient manufacturing processes.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -238,11 +549,13 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <a href="service-details.html">
-                                        <h3 class="service__title-7">High <span>Elongation </span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Proven Formulation <span>Reliability</span> </h3>
+
                                     </a>
                                     <p>
-                                        Outlasts garments.
+                                        Designed for long-term storage stability and system compatibility, maintaining
+                                        performance from formulation through final application.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -251,13 +564,14 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <!-- <a href="service-details.html">
-                                        <h3 class="service__title-7">Reduced Running <span>Costs</span></h3>
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Lower Operational <span>Costs</span></h3>
+
                                     </a>
                                     <p>
-                                        Efficient ink usage and simplified maintenance help lower long-term operational
-                                        expenses.
-                                    </p> -->
+                                        High colour strength and efficient pigment utilisation reduce dosage
+                                        requirements, minimise waste, and improve overall cost efficiency.
+                                    </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
@@ -265,13 +579,14 @@
                                     </ul> -->
                                 </div>
                                 <div class="service__item-7">
-                                    <!-- <a href="service-details.html">
-                                        <h3 class="service__title-7">Simple, Smart <span>Operation</span> </h3>
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Easy System <span>Integration</span> </h3>
+
                                     </a>
                                     <p>
-                                        Control every print with intuitive RIP software, colour LCD interface, and
-                                        production-ready presets.
-                                    </p> -->
+                                        Compatible with commonly used binders and formulations, allowing simple
+                                        incorporation into existing production systems with minimal adjustments.
+                                    </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
                                         <li>+ Advertisement</li>
@@ -286,12 +601,12 @@
             <!-- Service area end -->
 
             <!-- Portfolio area start -->
-            <section class="portfolio__area-3">
+            <!-- <section class="portfolio__area-3">
                 <div class="container pt-100 pb-150">
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Featured <br>Work</h2>
+                                <h2 class="sec-sub-title title-anim">Applications</h2>
                             </div>
                         </div>
                     </div>
@@ -302,36 +617,53 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">T-Shirts</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing
+                                                    Inks</h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    印刷油墨</h3>
+                                                <img src="assets/imgs/pigment-imgs/Printing Inks.jpg"
+                                                    alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
 
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Workwear</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints
+                                                </h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    涂料</h3>
+                                                <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
 
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Aprons</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics
+                                                    & Polymer</h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    塑料与聚合物</h3>
+                                                <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
 
                                     <div class="swiper-slide">
                                         <div class="portfolio__slide-3">
-                                            <a href="service-details.html">
-                                                <h3 class="portfolio__title-3 mt-5 mt-sm-0">Sportswear</h3>
-                                                <img src="assets/imgs/portfolio/3/2.jpg" alt="Portfolio Image">
+                                            <a href="">
+                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">
+                                                    Cosmetics</h3>
+                                                <h3
+                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
+                                                    塑料与聚合物</h3>
+                                                <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
                                             </a>
                                         </div>
                                     </div>
@@ -347,23 +679,70 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Portfolio area end -->
 
+
+            <!-- About area start -->
+            <section class="about__area-3">
+                <div class="container pt-140 pb-140">
+                    <div class="row">
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                            <div class="about__img-3">
+                                <!-- <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
+                                    data-speed="auto"> -->
+                                <video width="100%" height="100%" autoplay muted loop>
+                                    <source src="./assets/video/top 1.webm" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
+                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE TPU POWDER PARTNER
+                                </h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的TPU粉末合作伙伴</h4>
+                            </div>
+                            <div class="sec-text-wrapper">
+                                <div class="sec-text text-anim">
+                                    <p>
+                                        We develop and supply high-performance pigment dispersions engineered for
+                                        consistency, stability, and seamless integration into modern ink and coating
+                                        systems. Our dispersions are designed to deliver dependable colour strength,
+                                        smooth processing, and repeatable results across textile, packaging, and graphic
+                                        applications. With a focus on formulation compatibility and production
+                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
+                                    </p>
+                                    <!-- <div class=" z-1">
+                                        <a href="assets/data/Pigment-Dispersions-data.pdf"
+                                            class="blog__btn about_btn text-prismane" download>Download Brochure
+                                            <span><i class="fa-solid fa-arrow-right"></i></span></a>
+
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- About area end -->
+
             <!-- Medium Cards area start -->
-            <section class="portfolio__service service-v5 pt-140 pb-140 bg-white bg-img-none">
+            <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come">Proven DTF Gains</h2>
+                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">PROVEN GAINS</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">已证实的收益</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    The TY-300 is engineered for high-volume environments, delivering faster output
-                                    speeds, consistent colour, and the reliability needed for demanding production
-                                    schedules. Every improvement helps you work cleaner, move quicker, and achieve
-                                    better results across more fabrics.
+                                    Pigment dispersions are formulated to enhance colour consistency, processing
+                                    stability, and overall production efficiency. Designed for demanding industrial
+                                    applications, they help manufacturers achieve reliable results, improved throughput,
+                                    and controlled costs across batches and systems.
                                 </p>
                             </div>
                         </div>
@@ -372,12 +751,12 @@
                         <div class="row">
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
-                                    <a href="service-details.html">
-                                        <h3 class="ps-title">4X<br> Faster Production</h3>
+                                    <a href="">
+                                        <h3 class="ps-title">Higher Colour <br>Strength</h3>
                                         <p>
-                                            Internal testing shows the TY-300 printing up to four times faster than
-                                            competitor models where tested, giving you the speed to take on higher
-                                            volumes with confidence.
+                                            Optimised particle dispersion delivers strong, uniform colour at lower
+                                            pigment loading, ensuring shade consistency and improved material
+                                            efficiency.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -389,12 +768,12 @@
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
-                                    <a href="service-details.html">
-                                        <h3 class="ps-title">100%<br> Integrated Workflow</h3>
+                                    <a href="">
+                                        <h3 class="ps-title">Seamless System Compatibility</h3>
                                         <p>
-                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and
-                                            powder, for a complete, production-ready setup with consistent output
-                                            quality.
+                                            Ready-to-use dispersions integrate smoothly with commonly used binders and
+                                            formulations, reducing formulation complexity and ensuring consistent
+                                            output.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -406,12 +785,12 @@
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
-                                    <a href="service-details.html">
-                                        <h3 class="ps-title">Save<br> On Running Costs</h3>
+                                    <a href="">
+                                        <h3 class="ps-title">Reduced <br>Operating Costs</h3>
                                         <p>
-                                            Works seamlessly with VersaWorks RIP software, certified DTF film, and
-                                            powder, delivering a complete, production-ready setup with consistent output
-                                            quality.
+                                            Efficient pigment utilisation and stable performance help minimise waste,
+                                            lower reprocessing, and reduce long-term production and operational
+                                            expenses.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -428,27 +807,32 @@
             <!-- Medium Cards area start -->
 
             <!-- Story area start -->
-            <section class="story__area bg-light">
+            <!-- <section class="story__area bg-light">
                 <div class="container g-0 line pt-140">
                     <span class="line-3"></span>
                     <div class="sec-title-wrapper">
-                        <!-- <div class="from-text">from <span>1990</span></div> -->
+                    
 
                         <div class="row">
                             <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                                <h2 class="sec-sub-title title-anim">Powerful Performance.</h2>
-                                <h3 class="sec-title title-anim">Maximum Productivity.</h3>
+                                <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
+                                <h3 class="sec-title title-anim">About</h3> <br>
+                                <h3 class="sec-title title-anim mandarin-title-1">关于</h3>
                             </div>
                             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                                 <div class="story__text">
                                     <p>
-                                        The TY-300 delivers exceptional CMYK + White performance, printing at up to 10.9
-                                        m²/h in standard mode and 17.48 m²/h in high-speed mode, as much as 45 percent
-                                        faster than comparable DTF printers tested.
+                                        Our pigment dispersions are developed to deliver consistent colour strength,
+                                        fine particle stability, and reliable performance across a wide range of ink,
+                                        coating, and textile applications. Engineered for controlled processing and
+                                        compatibility, they support efficient production while maintaining uniform
+                                        quality from batch to batch.
                                     </p>
                                     <p>
-                                        This increased throughput supports continuous production and reduces the need
-                                        for operator intervention, helping you meet high-volume demand with confidence.
+                                        Pigment dispersions designed for dependable colour accuracy, processing
+                                        stability, and smooth integration into modern formulations. Built to perform
+                                        under real production conditions, they help manufacturers achieve consistent
+                                        results, improved efficiency, and reduced variability across applications.
                                     </p>
                                 </div>
                             </div>
@@ -458,312 +842,175 @@
                     <div class="row">
                         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
                             <div class="story__img-wrapper">
-                                <img src="assets/imgs/story/1.jpg" alt="Story Thumbnail" class="w-100">
+                                <img src="assets/imgs/pigment-imgs/300 X 415.jpg" alt="Story Thumbnail" class="w-100">
                             </div>
                         </div>
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="story__img-wrapper img-anim">
-                                <img src="assets/imgs/story/2.jpg" alt="Story Thumbnail" data-speed="auto">
+                                <img src="assets/imgs/pigment-imgs/520 X 700.jpg" alt="Story Thumbnail"
+                                    data-speed="auto">
                             </div>
                         </div>
                         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                             <div class="story__img-wrapper">
-                                <img src="assets/imgs/story/3.jpg" alt="Story Thumbnail">
-                                <img src="assets/imgs/story/4.jpg" alt="Story Thumbnail">
+                                <img src="assets/imgs/pigment-imgs/230 X 140.jpg" alt="Story Thumbnail">
+                                <img src="assets/imgs/pigment-imgs/410 X 330.jpg" alt="Story Thumbnail">
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Story area end -->
 
-            <!-- Table section -->
-            <section class="about__area-3">
-                <div class="container pt-140 pb-110">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim">Sublimation Dispersion</h3>
-                                <span class="text-white fs-1">Specification A:</span>
-                            </div>
 
-                            <div class="col-12  table-responsive">
-                                <table class="table table-dark rounded fw-light z-1 position-relative">
-                                    <thead>
-                                        <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal">Parameters</th>
-                                            <th scope="col" class="fw-normal">YELLOW</th>
-                                            <th scope="col" class="fw-normal">CYAN</th>
-                                            <th scope="col" class="fw-normal">MAGENTA</th>
-                                            <th scope="col" class="fw-normal">Black</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                            <td>Upto 10</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                        </tr>
-                                        <tr>
-                                            <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
-                                            <td>Upto 195nm</td>
-                                            <td>Upto 100nm</td>
-                                            <td>Upto 170nm</td>
-                                            <td>Upto 100nm</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-
-                            <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">Specification B:</span>
-                            </div>
-
-                            <div class="col-12  table-responsive">
-                                <table class="table table-dark rounded fw-light z-1 position-relative">
-                                    <thead>
-                                        <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal">Parameters</th>
-                                            <th scope="col" class="fw-normal">YELLOW</th>
-                                            <th scope="col" class="fw-normal">CYAN</th>
-                                            <th scope="col" class="fw-normal">MAGENTA</th>
-                                            <th scope="col" class="fw-normal">Black</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>pH : <br>Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Viscosity (Cps) : <br>Measured by Haake Rheostress 1 Rheometer</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                            <td>Upto 20</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Surface Tension (mN/m) :<br>Measured by KRUSS Tensiometer</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Solid (%) :<br>Measured by Sartorius Solid Analyser</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>45-55</td>
-                                        </tr>
-                                        <tr>
-                                            <td>PSD (D90) : <br>Measured by Malvern Mastersizer-3000.</td>
-                                            <td>Upto 195nm</td>
-                                            <td>Upto 100nm</td>
-                                            <td>Upto 170nm</td>
-                                            <td>Upto 100nm</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Table section -->
 
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">
                     <div class="line-3"></div>
 
-                    <div class="row">
+                    <!-- <div class="row">
+                        <div class="col-xxl-12 ">
+                            <div class="masked-title-holder position-relative">
+                                <video autoplay muted loop preload poster="" class="masked-video">
+                                    <source src="./assets/video/top 1.webm" />
+                                    
+                                </video>
+                                <h2 class="display-1 masked-title" style="">FAQ <br style="display: block"><span class="masked-title-mandarin">常见问题解答</span></h2>
+                                
+                            </div>
+                                <p class="mb-5">Frequently asked question (FAQ) <br> pages to find answars.</p>
+                        </div>
+                    </div> -->
+
+                    <div class="row d-flex flex-column align-items-center">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title-2 animation__char_come">FAQ</h2>
-                                <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p>
+                                <h2 class="sec-title-2 animation__char_come text-prismane-2">FAQ</h2>
+                                <span class="animation__char_come mandarin-title-1 text-prismane-2">常见问题解答</span>
+                                <!-- <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p> -->
                             </div>
                         </div>
-                    </div>
 
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="faq__list-6">
-                                <div class="accordion" id="accordionExample">
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingOne">
-                                            <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                                data-bs-target="#collapseOne" aria-expanded="true"
-                                                aria-controls="collapseOne">
-                                                Design should enrich our day
-                                            </button>
-                                        </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show"
-                                            aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                        <div class="row">
+                            <div class="col-xxl-12">
+                                <div class="faq__list-6">
+                                    <div class="accordion" id="accordionExample">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingOne">
+                                                <button class="accordion-button  pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                    What are pigment dispersions?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions are finely milled pigment particles evenly
+                                                        distributed in a liquid medium using dispersing agents. They are
+                                                        ready to use in inks, coatings, plastics, and textile
+                                                        applications,
+                                                        providing consistent colour strength, stability, and reliable
+                                                        processing performance.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingTwo">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                aria-expanded="false" aria-controls="collapseTwo">
-                                                Bring their individual experience and creative
-                                            </button>
-                                        </h2>
-                                        <div id="collapseTwo" class="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingTwo">
+                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                    Where can pigment dispersions be used?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                                aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions are used in printing inks, textile printing,
+                                                        industrial and decorative coatings, plastics, and cosmetic
+                                                        formulations. They are designed to integrate easily into
+                                                        different
+                                                        systems depending on the carrier medium and binder
+                                                        compatibility.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingThree">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                                aria-expanded="false" aria-controls="collapseThree">
-                                                Human centred design to challenges
-                                            </button>
-                                        </h2>
-                                        <div id="collapseThree" class="accordion-collapse collapse"
-                                            aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingThree">
+                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    What are the advantages of using pigment dispersions over dry
+                                                    pigments?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions offer better colour consistency, improved
+                                                        stability, easier handling, and reduced processing time. Unlike
+                                                        dry
+                                                        pigments, they minimise dust, prevent agglomeration, and ensure
+                                                        uniform colour development across batches.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFour">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                                aria-expanded="false" aria-controls="collapseFour">
-                                                Design should enrich our day
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFour" class="accordion-collapse collapse"
-                                            aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingFour">
+                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                                    aria-expanded="false" aria-controls="collapseFour">
+                                                    Are pigment dispersions compatible with different binders and
+                                                    systems?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseFour" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Yes, pigment dispersions are formulated to be compatible with
+                                                        commonly used binders and formulation systems. Compatibility
+                                                        depends
+                                                        on whether the dispersion is water-based, solvent-based, or
+                                                        resin-based, so selecting the right type is important.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="headingFive">
-                                            <button class="accordion-button  collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                                aria-expanded="false" aria-controls="collapseFive">
-                                                Developing core web applications
-                                            </button>
-                                        </h2>
-                                        <div id="collapseFive" class="accordion-collapse collapse"
-                                            aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
-                                                <p>People know what an FAQ is, so make that your page title. Don’t
-                                                    overcomplicate things by
-                                                    calling it “Good to Know” or “More Info”. Sometimes people put the
-                                                    frequently asked
-                                                    questions section on their Contact page, but you can create your own
-                                                    page and put it right
-                                                    in your website navigation menu or website footer so it’s easy to
-                                                    find. Getting a straight,
-                                                    quick answer to your question is a relief. So keep answers to a
-                                                    short paragraph if you can,
-                                                    less than 100 words. Answer the entire question in the FAQ without
-                                                    linking away to another
-                                                    page</p>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingFive">
+                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                                    aria-expanded="false" aria-controls="collapseFive">
+                                                    How should pigment dispersions be stored?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseFive" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Pigment dispersions should be stored in tightly sealed
+                                                        containers,
+                                                        away from extreme temperatures and direct sunlight. Proper
+                                                        storage
+                                                        helps maintain dispersion stability, colour strength, and
+                                                        performance over time.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
             </section>
             <!-- FAQ area end -->
 
