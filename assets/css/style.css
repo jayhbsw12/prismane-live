@@ -121,38 +121,38 @@ tr td {
 }
 
 .header__logo-2 img {
-  transition: opacity 0.3s ease;  /* Smooth transition */
+  transition: opacity 0.3s ease; /* Smooth transition */
 }
 
 .logo-secondary {
   display: none; /* Hide the secondary logo by default */
 }
-.mandarin-title-1{
+.mandarin-title-1 {
   font-size: 36px;
 }
-.mandarin-title-2{
+.mandarin-title-2 {
   font-size: 28px !important;
 }
 
-
-.text-prismane{
-  color:#c9f31d !important;
+.text-prismane {
+  color: #c9f31d !important;
 }
 
-.text-prismane-2{
-  color:#BAE800 !important;
+.text-prismane-2 {
+  color: #bae800 !important;
 }
-.about_btn::before{
+.about_btn::before {
   background-color: #bce31c;
 }
 
-.masked-video, .masked-title {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 180px;
-    margin: 0;
+.masked-video,
+.masked-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 180px;
+  margin: 0;
 }
 
 .masked-video {
@@ -161,21 +161,27 @@ tr td {
 }
 
 .masked-title {
-    font-size: 100px;
-    /* font-family: Biko, sans-serif; */
-    font-weight: 500;
-    line-height: 70PX;
-    text-transform: uppercase;
-    text-align: left;
-    background: white;
-    mix-blend-mode: screen;
-    height: 200px;
+  font-size: 100px;
+  /* font-family: Biko, sans-serif; */
+  font-weight: 500;
+  line-height: 70px;
+  text-transform: uppercase;
+  text-align: left;
+  background: white;
+  mix-blend-mode: screen;
+  height: 200px;
 }
 
 .masked-title-holder {
-    margin-bottom: 170px;
+  margin-bottom: 170px;
 }
 
-.masked-title-mandarin{
+.masked-title-mandarin {
   font-size: 50px;
+}
+
+@media (max-width: 410px) {
+  .wave-path-prismane {
+    top: 470px !important;
+  }
 }

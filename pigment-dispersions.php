@@ -95,7 +95,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; ">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; " class="wave-path-prismane">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -883,7 +883,7 @@
                         </div>
                     </div> -->
 
-                    <div class="row">
+                    <div class="row d-flex flex-column align-items-center">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title-2 animation__char_come text-prismane-2">FAQ</h2>
