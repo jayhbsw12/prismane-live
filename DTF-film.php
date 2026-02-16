@@ -702,7 +702,7 @@
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
                                 <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE DTF FILMS PARTNER
                                 </h4>
-                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的DTF 电影合作伙伴</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的DTF  电影合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
