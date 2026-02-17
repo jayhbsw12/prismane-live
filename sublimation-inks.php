@@ -27,9 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Sublimation Inks</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">热升华墨水</span>
-                                    <p class="text-white">High-performance pigment dispersions engineered for consistent
-                                        colour strength, excellent stability, and easy integration Across all types of
-                                        water based Digital Inks applications</p>
+                                    <p class="text-white">Dye sublimation printing is quite a popular form of printing due to its versatility. It is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -148,17 +146,12 @@
                                     <p>
                                         <b> Leon – U SERIES</b> <br>
                                         <b> 莱昂 – U系列</b>
-                                        <br><br> Specially developed range of water-based
-                                        pigment dispersions for digital inks for textiles. Suitable for inks for wide
-                                        format, DTG & DTF Printers.
+                                        <br><br> Dye sublimation printing is quite a popular form of printing due to its versatility. It is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat.
                                     </p>
                                     <p>
                                         <b> Leon – M SERIES</b> <br>
                                         <b> 莱昂 – M系列</b>
-                                        <br><br> Specially developed range of water-based
-                                        pigment dispersions for digital inks for flexible packaging / Graphic Industry.
-                                        Our products are compatible with most of commonly used binders for flexible
-                                        packaging inks.
+                                        <br><br> This type of printing creates more durable products because it imbeds the ink directly into the surface and companies have the ability to use these prints both inside and outside.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -206,283 +199,110 @@
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
-                                            <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
+                                            <th scope="col" class="fw-normal">PRODUCT</th>
+                                            <th scope="col" class="fw-normal">COLOUR INDEX</th>
+                                            <th scope="col" class="fw-normal">LIGHT FASTNESS</th>
+                                            <th scope="col" class="fw-normal">CHARACTERISTICS</th>
+                                            <!-- <th scope="col" class="fw-normal">Characteristics</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-U</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoazo</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>Glojet Yellow 005</td>
+                                            <td>Disperse Yellow 54</td>
                                             <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <td>Brilliant Yellow</td>
+                                            <!-- <td>High performance standard yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-U</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoazo</td>
-                                            <td>6–7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>Glojet Yellow 008</td>
+                                            <td>Disperse Yellow 82</td>
+                                            <td>4</td>
+                                            <td>Fluorescent Green light Yellow</td>
+                                            <!-- <td>High performance green shade yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-U</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
+                                            <td>Glojet Orange 008</td>
+                                            <td>Disperse Orange 25</td>
+                                            <td>6</td>
+                                            <td>Red light Orange</td>
+                                            <!-- <td>High performance strong green shade</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
+                                            <td>Glojet red 001</td>
+                                            <td>Disperse Red 60</td>
+                                            <td>6-7</td>
+                                            <td>Bright red Blue light</td>
+                                            <!-- <td>High performance yellow shade orange</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #fa5e21"></span></td> -->
+                                            <td>Glojet Blue 006</td>
+                                            <td>Disperse Blue 60</td>
                                             <td>7</td>
-                                            <td>High performance strong green shade</td>
+                                            <td>Colorful Green light Blue</td>
+                                            <!-- <td>High performance mid shade orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-U</td>
-                                            <td>P.O.13</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
+                                            <td>Glojet Blue 007</td>
+                                            <td>Disperse Blue 72</td>
+                                            <td>6-7</td>
+                                            <td>Red light Blue</td>
+                                            <!-- <td>High performance red shade orange</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
+                                            <td>Glojet Blue 008</td>
+                                            <td>Disperse Blue 359</td>
+                                            <td>5-6</td>
+                                            <td>Brilliant Blue</td>
+                                            <!-- <td>High performance red with bluish tone</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #aa1b25"></span></td> -->
+                                            <td>Glojet Blue 009</td>
+                                            <td>Disperse Blue 360</td>
+                                            <td>5-6</td>
+                                            <td>Brilliant Blue</td>
+                                            <!-- <td>High performance standard magenta</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #5f1c61"></span></td> -->
+                                            <td>Glojet Brown 002</td>
+                                            <td>Disperse Brown 27</td>
                                             <td>6</td>
-                                            <td>High performance yellow shade orange</td>
+                                            <td>Deep Brown</td>
+                                            <!-- <td>High performance red shade magenta</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fa5e21"></span></td>
-                                            <td>Leon Orange E5-U</td>
-                                            <td>P.O.34</td>
-                                            <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance mid shade orange</td>
+                                            <!-- <td><span class="color-item" style="background: #280653"></span></td> -->
+                                            <td>Glojet Black 001</td>
+                                            <td>Disperse Black mix</td>
+                                            <td>5-6</td>
+                                            <td>Blue black</td>
+                                            <!-- <td>High performance blue shade violet</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-U</td>
-                                            <td>P.O.36</td>
-                                            <td>Benzimidazolone</td>
-                                            <td>6–7</td>
-                                            <td>High performance red shade orange</td>
+                                            <!-- <td><span ="color-item" style="background: #211f6e"></span></td> -->
+                                            <td>Glojet Black 002</td>
+                                            <td>Disperse Black mix</td>
+                                            <td>5-6</td>
+                                            <td>Red black</td>
+                                            <!-- <td>High performance standard cyan</td> -->
                                         </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Leon Red M21-U</td>
-                                            <td>P.R.210</td>
-                                            <td>Single azo</td>
-                                            <td>6</td>
-                                            <td>High performance red with bluish tone</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Leon Red R33-U</td>
-                                            <td>P.R.122</td>
-                                            <td>Quinacridone</td>
-                                            <td>7–8</td>
-                                            <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Leon Violet R10-U</td>
-                                            <td>P.V.19</td>
-                                            <td>Quinacridone</td>
-                                            <td>7–8</td>
-                                            <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Leon Violet E4-U</td>
-                                            <td>P.V.23</td>
-                                            <td>Dioxazine Carbazole</td>
-                                            <td>7–8</td>
-                                            <td>High performance blue shade violet</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Leon Blue C64-U</td>
-                                            <td>P.B.15:3</td>
-                                            <td>Cu-Phthalocyanine</td>
-                                            <td>8</td>
-                                            <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Leon Green Q8-U</td>
-                                            <td>P.G.7</td>
-                                            <td>Cu-Phthalogreen</td>
-                                            <td>7–8</td>
-                                            <td>High performance standard green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Leon Green Q47-U</td>
-                                            <td>P.G.36</td>
-                                            <td>Cu-Phthalogreen (Brominated)</td>
-                                            <td>7</td>
-                                            <td>High performance yellower green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Leon Black D8-U</td>
-                                            <td>P.B.7</td>
-                                            <td>Oxidised Carbon Black</td>
-                                            <td>8</td>
-                                            <td>High performance jet black</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ffffff"></span></td>
-                                            <td>Leon White D8-U</td>
-                                            <td>P.W. TiO2.</td>
-                                            <td>Titanium Di-Oxide.</td>
-                                            <td>8</td>
-                                            <td>Highly Opaque White</td>
-                                        </tr>
+                                      
                                     </tbody>
                                 </table>
 
                             </div>
 
-                            <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">Leon - M Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
-                            </div>
-
-                            <div class="col-12  table-responsive">
-                                <table class="table table-dark rounded fw-light z-1 position-relative">
-                                    <thead>
-                                        <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
-                                            <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-M</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoase</td>
-                                            <td>6</td>
-                                            <td>High performance standard yellow</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-M</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoase</td>
-                                            <td>6-7</td>
-                                            <td>High performance green shade yellow</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-M</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
-                                            <td>7</td>
-                                            <td>High performance strong green shade</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-M</td>
-                                            <td>P.0.13</td>
-                                            <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance yellow shade Orange</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-M</td>
-                                            <td>P.0.36</td>
-                                            <td>Benzimidazalone</td>
-                                            <td>6-7</td>
-                                            <td>High Performance Red Shade Orange</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f15122"></span></td>
-                                            <td>Leon Orange C75-M</td>
-                                            <td>P.0.64</td>
-                                            <td>Benzimidazalone</td>
-                                            <td>6</td>
-                                            <td>High Performance mid Shade Orange</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Leon Red M21-M</td>
-                                            <td>P.R.210</td>
-                                            <td>Single Azo</td>
-                                            <td>6</td>
-                                            <td>High Performance Red with Bluish tone</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Leon Red R33-M</td>
-                                            <td>P.R.122</td>
-                                            <td>Quinacridone</td>
-                                            <td>7-8</td>
-                                            <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Leon Violet R10-M</td>
-                                            <td>P.V.19</td>
-                                            <td>Quinacridone</td>
-                                            <td>7-8</td>
-                                            <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Leon Violet E4-M</td>
-                                            <td>P.V.23</td>
-                                            <td>Dioxazin Carbazole</td>
-                                            <td>7-8</td>
-                                            <td>High performance blue shade violet</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Leon Blue C64-M</td>
-                                            <td>P.B.15.3</td>
-                                            <td>Cu-Phthalocyanine</td>
-                                            <td>8</td>
-                                            <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Leon Green Q8-M</td>
-                                            <td>P.G.7</td>
-                                            <td>Cu-Phthalogreen</td>
-                                            <td>7-8</td>
-                                            <td>High performance standard green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Leon Green Q47-M</td>
-                                            <td>P.G.36</td>
-                                            <td>Cu- Phthalogreen Bromination</td>
-                                            <td>7</td>
-                                            <td>High performance Yellower green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Leon Black D8-M</td>
-                                            <td>P.B.7</td>
-                                            <td>Oxidized Carbon Black</td>
-                                            <td>8</td>
-                                            <td>High performance Jet black</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ffffff"></span></td>
-                                            <td>Leon White D8-M</td>
-                                            <td>P.W. TiO2.</td>
-                                            <td>Titanium Di-Oxide.</td>
-                                            <td>8</td>
-                                            <td>Highly Opaque White</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-
-                            </div>
+                        
 
                             <!-- <div class="mt-5 z-1 d-flex justify-content-center">
                                 <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -707,12 +527,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        We develop and supply high-performance pigment dispersions engineered for
-                                        consistency, stability, and seamless integration into modern ink and coating
-                                        systems. Our dispersions are designed to deliver dependable colour strength,
-                                        smooth processing, and repeatable results across textile, packaging, and graphic
-                                        applications. With a focus on formulation compatibility and production
-                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
+                                       Ink plays a crucial factor in this as the fade resistance varies from ink to ink. Depending on the need, selecting the appropriate ink will directly affect how long your print lasts. In order to have the correct Ink Properties, the Dispersions used have to be extremely stable and with the best Properties.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"

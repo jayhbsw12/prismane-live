@@ -27,9 +27,9 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">TPU Powder</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">时间磷U粉末</span>
-                                    <p class="text-white">High-performance pigment dispersions engineered for consistent
-                                        colour strength, excellent stability, and easy integration Across all types of
-                                        water based Digital Inks applications</p>
+                                    <p class="text-white">
+                                        The Glojet powder is loaded into a specialized container, either manually or via an automatic mechanism (such as a screw or cyclone system). It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush.
+                                    </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -148,17 +148,12 @@
                                     <p>
                                         <b> Leon – U SERIES</b> <br>
                                         <b> 莱昂 – U系列</b>
-                                        <br><br> Specially developed range of water-based
-                                        pigment dispersions for digital inks for textiles. Suitable for inks for wide
-                                        format, DTG & DTF Printers.
+                                        <br><br>This powder is activated by exposure to an IR field, using either an oven or a heater. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive.
                                     </p>
                                     <p>
                                         <b> Leon – M SERIES</b> <br>
                                         <b> 莱昂 – M系列</b>
-                                        <br><br> Specially developed range of water-based
-                                        pigment dispersions for digital inks for flexible packaging / Graphic Industry.
-                                        Our products are compatible with most of commonly used binders for flexible
-                                        packaging inks.
+                                        <br><br> Alternatively, this powder scattering process can be integrated with a flatbed laminator for enhanced lamination quality.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -206,146 +201,43 @@
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
-                                            <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
+                                            <th scope="col" class="fw-normal">Item</th>
+                                            <th scope="col" class="fw-normal">Temp (°C)</th>
+                                            <th scope="col" class="fw-normal">Dry Cleaning Resistance</th>
+                                            <th scope="col" class="fw-normal">Washing Resistance (°C)</th>
+                                            <th scope="col" class="fw-normal">Description</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-U</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoazo</td>
-                                            <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>GLO 6</td>
+                                            <td>105-115</td>
+                                            <td>Good</td>
+                                            <td>90</td>
+                                            <td>Strong Fastness, Good Toughness Good Tension</td>
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-U</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoazo</td>
-                                            <td>6–7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>GLO 8</td>
+                                            <td>108-118</td>
+                                            <td>Good</td>
+                                            <td>90</td>
+                                            <td>Soft powder, so the feel is best</td>
                                         </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-U</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
-                                            <td>7</td>
-                                            <td>High performance strong green shade</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-U</td>
-                                            <td>P.O.13</td>
-                                            <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance yellow shade orange</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #fa5e21"></span></td>
-                                            <td>Leon Orange E5-U</td>
-                                            <td>P.O.34</td>
-                                            <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance mid shade orange</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-U</td>
-                                            <td>P.O.36</td>
-                                            <td>Benzimidazolone</td>
-                                            <td>6–7</td>
-                                            <td>High performance red shade orange</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Leon Red M21-U</td>
-                                            <td>P.R.210</td>
-                                            <td>Single azo</td>
-                                            <td>6</td>
-                                            <td>High performance red with bluish tone</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Leon Red R33-U</td>
-                                            <td>P.R.122</td>
-                                            <td>Quinacridone</td>
-                                            <td>7–8</td>
-                                            <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Leon Violet R10-U</td>
-                                            <td>P.V.19</td>
-                                            <td>Quinacridone</td>
-                                            <td>7–8</td>
-                                            <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Leon Violet E4-U</td>
-                                            <td>P.V.23</td>
-                                            <td>Dioxazine Carbazole</td>
-                                            <td>7–8</td>
-                                            <td>High performance blue shade violet</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Leon Blue C64-U</td>
-                                            <td>P.B.15:3</td>
-                                            <td>Cu-Phthalocyanine</td>
-                                            <td>8</td>
-                                            <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Leon Green Q8-U</td>
-                                            <td>P.G.7</td>
-                                            <td>Cu-Phthalogreen</td>
-                                            <td>7–8</td>
-                                            <td>High performance standard green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Leon Green Q47-U</td>
-                                            <td>P.G.36</td>
-                                            <td>Cu-Phthalogreen (Brominated)</td>
-                                            <td>7</td>
-                                            <td>High performance yellower green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Leon Black D8-U</td>
-                                            <td>P.B.7</td>
-                                            <td>Oxidised Carbon Black</td>
-                                            <td>8</td>
-                                            <td>High performance jet black</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ffffff"></span></td>
-                                            <td>Leon White D8-U</td>
-                                            <td>P.W. TiO2.</td>
-                                            <td>Titanium Di-Oxide.</td>
-                                            <td>8</td>
-                                            <td>Highly Opaque White</td>
-                                        </tr>
+                                     
                                     </tbody>
                                 </table>
 
                             </div>
 
-                            <div class="sec-title-wrapper mt-5">
+                            <!-- <div class="sec-title-wrapper mt-5">
                                 <span class="text-white fs-1 ">Leon - M Series</span> &nbsp; &nbsp;
                                 <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
-                            </div>
+                            </div> -->
 
-                            <div class="col-12  table-responsive">
+                            <!-- <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
@@ -482,7 +374,7 @@
                                 </table>
 
 
-                            </div>
+                            </div> -->
 
                             <!-- <div class="mt-5 z-1 d-flex justify-content-center">
                                 <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -504,13 +396,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Consistent Colour <span>Performance </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Soft & flexible <span>in nature </span></h3>
 
                                     </a>
                                     <p>
-                                        Engineered to deliver uniform shade, colour strength, and stability across
-                                        batches, ensuring reliable output under real production and processing
-                                        conditions.
+                                        Applications in lingerie, under garments & lycra fabrics.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -520,12 +410,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Precision Colour <span>Development</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Low Melting <span>Point</span> </h3>
 
                                     </a>
                                     <p>
-                                        Finely dispersed pigment particles enable sharp detail, smooth gradients, and
-                                        accurate colour reproduction across inks, coatings, and textile applications.
+                                        Can be used on heat sensitive material.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -535,12 +424,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Stable Production<span> Flow</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">UV<span> Resistance</span> </h3>
 
                                     </a>
                                     <p>
-                                        High dispersion stability helps prevent settling, clogging, and viscosity
-                                        fluctuations, supporting uninterrupted and efficient manufacturing processes.
+                                       No yellowing & UV resistance material available.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -550,12 +438,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Proven Formulation <span>Reliability</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">High <span>Elongation</span> </h3>
 
                                     </a>
                                     <p>
-                                        Designed for long-term storage stability and system compatibility, maintaining
-                                        performance from formulation through final application.
+                                        Outlasts garments
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -563,7 +450,7 @@
                                         <li>+ Promotion</li>
                                     </ul> -->
                                 </div>
-                                <div class="service__item-7">
+                                <!-- <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7 text-prismane-2">Lower Operational <span>Costs</span></h3>
 
@@ -572,13 +459,8 @@
                                         High colour strength and efficient pigment utilisation reduce dosage
                                         requirements, minimise waste, and improve overall cost efficiency.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
+                                </div> -->
+                                <!-- <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7 text-prismane-2">Easy System <span>Integration</span> </h3>
 
@@ -587,12 +469,7 @@
                                         Compatible with commonly used binders and formulations, allowing simple
                                         incorporation into existing production systems with minimal adjustments.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -707,12 +584,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        We develop and supply high-performance pigment dispersions engineered for
-                                        consistency, stability, and seamless integration into modern ink and coating
-                                        systems. Our dispersions are designed to deliver dependable colour strength,
-                                        smooth processing, and repeatable results across textile, packaging, and graphic
-                                        applications. With a focus on formulation compatibility and production
-                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
+                                        The Glojet powder is loaded into a specialized container, either manually or via an automatic mechanism (such as a screw or cyclone system). It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush. This powder is activated by exposure to an IR field, using either an oven or a heater. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -739,10 +611,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Pigment dispersions are formulated to enhance colour consistency, processing
-                                    stability, and overall production efficiency. Designed for demanding industrial
-                                    applications, they help manufacturers achieve reliable results, improved throughput,
-                                    and controlled costs across batches and systems.
+                                    This powder is activated by exposure to an IR field, using either an oven or a heater. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive.
                                 </p>
                             </div>
                         </div>
