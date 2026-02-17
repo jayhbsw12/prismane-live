@@ -27,9 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">DTF Films</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">DTF 胶片</span>
-                                    <p class="text-white">High-performance pigment dispersions engineered for consistent
-                                        colour strength, excellent stability, and easy integration Across all types of
-                                        water based Digital Inks applications</p>
+                                    <p class="text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -146,19 +144,14 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Leon – U SERIES</b> <br>
+                                        <b> Lorem Ipsum</b> <br>
                                         <b> 莱昂 – U系列</b>
-                                        <br><br> Specially developed range of water-based
-                                        pigment dispersions for digital inks for textiles. Suitable for inks for wide
-                                        format, DTG & DTF Printers.
+                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <p>
-                                        <b> Leon – M SERIES</b> <br>
+                                        <b> Lorem Ipsum</b> <br>
                                         <b> 莱昂 – M系列</b>
-                                        <br><br> Specially developed range of water-based
-                                        pigment dispersions for digital inks for flexible packaging / Graphic Industry.
-                                        Our products are compatible with most of commonly used binders for flexible
-                                        packaging inks.
+                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -198,7 +191,7 @@
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">DTF Films</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">DTF 胶片</h3>
-                                <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1">Lorem Ipsum </span> &nbsp; &nbsp;
                                 <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
                             </div>
 
@@ -340,12 +333,12 @@
 
                             </div>
 
-                            <div class="sec-title-wrapper mt-5">
+                            <!-- <div class="sec-title-wrapper mt-5">
                                 <span class="text-white fs-1 ">Leon - M Series</span> &nbsp; &nbsp;
                                 <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
-                            </div>
+                            </div> -->
 
-                            <div class="col-12  table-responsive">
+                            <!-- <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
@@ -482,7 +475,7 @@
                                 </table>
 
 
-                            </div>
+                            </div> -->
 
                             <!-- <div class="mt-5 z-1 d-flex justify-content-center">
                                 <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -504,13 +497,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Consistent Colour <span>Performance </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
 
                                     </a>
                                     <p>
-                                        Engineered to deliver uniform shade, colour strength, and stability across
-                                        batches, ensuring reliable output under real production and processing
-                                        conditions.
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -520,12 +511,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Precision Colour <span>Development</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
 
                                     </a>
                                     <p>
-                                        Finely dispersed pigment particles enable sharp detail, smooth gradients, and
-                                        accurate colour reproduction across inks, coatings, and textile applications.
+                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -535,12 +525,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Stable Production<span> Flow</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsum</span> </h3>
 
                                     </a>
                                     <p>
-                                        High dispersion stability helps prevent settling, clogging, and viscosity
-                                        fluctuations, supporting uninterrupted and efficient manufacturing processes.
+                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -550,12 +539,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Proven Formulation <span>Reliability</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
 
                                     </a>
                                     <p>
-                                        Designed for long-term storage stability and system compatibility, maintaining
-                                        performance from formulation through final application.
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -565,12 +553,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lower Operational <span>Costs</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
 
                                     </a>
                                     <p>
-                                        High colour strength and efficient pigment utilisation reduce dosage
-                                        requirements, minimise waste, and improve overall cost efficiency.
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -580,12 +567,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Easy System <span>Integration</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
 
                                     </a>
                                     <p>
-                                        Compatible with commonly used binders and formulations, allowing simple
-                                        incorporation into existing production systems with minimal adjustments.
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -707,13 +693,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        We develop and supply high-performance pigment dispersions engineered for
-                                        consistency, stability, and seamless integration into modern ink and coating
-                                        systems. Our dispersions are designed to deliver dependable colour strength,
-                                        smooth processing, and repeatable results across textile, packaging, and graphic
-                                        applications. With a focus on formulation compatibility and production
-                                        efficiency, we help manufacturers achieve reliable output, batch after batch.
-                                    </p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
                                             class="blog__btn about_btn text-prismane" download>Download Brochure
@@ -739,10 +719,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Pigment dispersions are formulated to enhance colour consistency, processing
-                                    stability, and overall production efficiency. Designed for demanding industrial
-                                    applications, they help manufacturers achieve reliable results, improved throughput,
-                                    and controlled costs across batches and systems.
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                 </p>
                             </div>
                         </div>
@@ -752,11 +729,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Higher Colour <br>Strength</h3>
+                                        <h3 class="ps-title"> Lorem Ipsum</h3>
                                         <p>
-                                            Optimised particle dispersion delivers strong, uniform colour at lower
-                                            pigment loading, ensuring shade consistency and improved material
-                                            efficiency.
+                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -769,11 +744,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Seamless System Compatibility</h3>
+                                        <h3 class="ps-title"> Lorem Ipsum</h3>
                                         <p>
-                                            Ready-to-use dispersions integrate smoothly with commonly used binders and
-                                            formulations, reducing formulation complexity and ensuring consistent
-                                            output.
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -786,11 +759,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Reduced <br>Operating Costs</h3>
+                                        <h3 class="ps-title"> Lorem Ipsum</h3>
                                         <p>
-                                            Efficient pigment utilisation and stable performance help minimise waste,
-                                            lower reprocessing, and reduce long-term production and operational
-                                            expenses.
+                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
