@@ -27,7 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Sublimation Inks</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">热升华墨水</span>
-                                    <p class="text-white">Dye sublimation printing is quite a popular form of printing due to its versatility. It is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat.</p>
+                                    <p class="text-white">Dye sublimation inks engineered for brilliant colour transfer, exceptional wash fastness, and consistent output across polyester and polyester-coated substrates. Compatible with Epson, Ricoh, and Kyocera printhead systems — delivering vibrant, durable results across textile, apparel, and wide-format digital printing applications.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -144,14 +144,19 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Leon – U SERIES</b> <br>
-                                        <b> 莱昂 – U系列</b>
-                                        <br><br> Dye sublimation printing is quite a popular form of printing due to its versatility. It is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat.
+                                        <b> GLOJET O SERIES</b> <br>
+                                        <b> 葛洁特 – O系列</b>
+                                        <br><br> Specially developed range of water-based disperse dye sublimation inks for textile and soft signage applications. Designed for Epson, Ricoh, and Kyocera-based wide-format printing systems.
                                     </p>
                                     <p>
-                                        <b> Leon – M SERIES</b> <br>
-                                        <b> 莱昂 – M系列</b>
-                                        <br><br> This type of printing creates more durable products because it imbeds the ink directly into the surface and companies have the ability to use these prints both inside and outside.
+                                        <b> GLOJET OCEAN SERIES</b> <br>
+                                        <b> 葛洁特 – 海洋系列</b>
+                                        <br><br> An advanced range of Oekotex certified dye sublimation inks engineered for superior colour vibrancy, improved wash fastness, and stable performance across high-volume production runs.
+                                    </p>
+                                    <p>
+                                        <b> GLOJET OCEAN PLUS SERIES</b> <br>
+                                        <b> 葛洁特 – 海洋增强系列</b>
+                                        <br><br> Our premium sublimation ink series delivering enhanced light fastness, deeper colour density, and broader printer compatibility for demanding industrial and apparel printing applications.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -324,10 +329,10 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Vivid Colour<span>Transfer</span></h3>
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Specially formulated dye sublimation inks deliver brilliant, high-saturation colour that transfers directly into polyester fibres, producing sharp, vibrant prints with lasting visual impact.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -337,11 +342,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Superior Wash<span>Fastness</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Engineered to meet Oekotex standards, our sublimation inks provide optimum wash fastness, alkali perspiration fastness, and crock fastness — ensuring prints retain colour integrity through repeated use.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -351,11 +356,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">SLorem Ipsum<span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Wide Printer<span>Compatibility</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Compatible with leading printhead systems including Epson i3200, 5113, 4720, DX5, DX7, Ricoh Gen 4 & 5, and Kyocera KJ4B — integrating smoothly into existing production setups.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -365,11 +370,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Stable Dispersion<span>Performance</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Ink particle size uniformly distributed below 195nm ensures consistent viscosity, minimal clogging, and reliable printhead performance across long production runs.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -379,11 +384,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Fast Drying<span>Production</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Quick-drying formulation improves production speed and throughput, reducing downtime between prints and supporting high-volume, continuous printing operations.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -393,11 +398,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Broad Application<span>Range</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Suitable for polyester and polyester-coated substrates including sportswear, fashion apparel, home décor, tradeshow graphics, and promotional items — inside and outside use.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -519,7 +524,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                           We develop and supply high-performance dye sublimation inks engineered for brilliant colour transfer, exceptional wash fastness, and consistent output across polyester and polyester-coated substrates. Our inks are formulated with ultra-fine dispersion particle sizes, ensuring stable viscosity, clog-free printhead performance, and vibrant, durable results. Compatible with Epson, Ricoh, and Kyocera printhead systems and Oekotex certified, our sublimation inks are built to meet the demands of high-volume textile and graphic printing operations — batch after batch.
                                      </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -546,7 +551,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Sublimation inks are formulated to deliver consistent colour brilliance, reliable transfer performance, and production efficiency across high-volume polyester printing operations. Built to perform under real production conditions, they help manufacturers achieve superior output, reduced waste, and repeatable results across every run.
                                 </p>
                             </div>
                         </div>
@@ -556,9 +561,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum</h3>
+                                        <h3 class="ps-title"> Brilliant Colour Output</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Ultra-fine particle dispersion enables deep, vibrant colour saturation with a wider gamut — producing photographic-quality prints with sharp detail and smooth tonal gradients across substrates.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -571,9 +576,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Certified Ink Fastness</h3>
                                         <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                           Oekotex certified formulation delivers optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness — ensuring prints stay vivid and durable in end-use conditions.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -586,9 +591,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Reduced Downtime & Waste</h3>
                                         <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                           Stable viscosity, clog-free performance, and consistent transfer rates minimise printhead maintenance, reprint requirements, and production losses — lowering overall operating costs significantly.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -699,13 +704,13 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                     Lorem Ipsum
+                                                     Q1: What is dye sublimation ink and how does it work?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Dye sublimation ink is a heat-activated ink that converts from solid to gas under high temperature, transferring directly into polyester fibres. This process embeds the ink into the substrate, creating durable, vibrant prints that do not sit on the surface.
                                                     </p>
                                                 </div>
                                             </div>
@@ -716,13 +721,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Lorem Ipsum
+                                                    Q2: What substrates are sublimation inks suitable for?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Sublimation inks are designed for polyester and polyester-coated substrates including sportswear, fashion apparel, home décor, soft signage, tradeshow graphics, and promotional items. A minimum polyester content is required for effective dye transfer.
                                                     </p>
                                                 </div>
                                             </div>
@@ -733,13 +738,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                     Lorem Ipsum
+                                                     Q3: Which printers and printheads are compatible with these inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Our sublimation inks are compatible with Epson i3200, 5113, 4720, DX5, and DX7 printheads, Ricoh Gen 4 and Gen 5, and Kyocera KJ4B — covering a wide range of wide-format and industrial printing systems.
                                                     </p>
                                                 </div>
                                             </div>
@@ -750,13 +755,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                     Lorem Ipsum
+                                                     Q4: What fastness standards do your sublimation inks meet?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Our sublimation inks are Oekotex certified and deliver optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness, ensuring prints meet performance requirements for apparel and textile end-use applications.
                                                     </p>
                                                 </div>
                                             </div>
@@ -767,13 +772,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Lorem Ipsum
+                                                    Q5: How should sublimation inks be stored to maintain performance?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Sublimation inks should be stored in sealed containers away from direct sunlight, heat, and freezing temperatures. Proper storage maintains dispersion stability, viscosity, and colour performance throughout the product's shelf life.
                                                     </p>
                                                 </div>
                                             </div>
