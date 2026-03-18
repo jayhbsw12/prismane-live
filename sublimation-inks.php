@@ -325,7 +325,6 @@
                                 <div class="service__item-7">
                                     <a href="">
                                         <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
-
                                     </a>
                                     <p>
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
