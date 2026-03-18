@@ -127,6 +127,12 @@ tr td {
 .logo-secondary {
   display: none; /* Hide the secondary logo by default */
 }
+
+@media (max-width: 1199px) {
+  .header__area-2 .logo-primary {
+    display: block;
+  }
+}
 .mandarin-title-1 {
   font-size: 36px;
 }
