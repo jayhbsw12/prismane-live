@@ -27,7 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Sublimation Dispersions</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">升华分散体</span>
-                                    <p class="text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <p class="text-white">High-performance water-based disperse dye dispersions engineered for optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness. Formulated with ultra-fine particle stability across Yellow, Cyan, Magenta, and Black — delivering consistent, vibrant colour transfer in dye sublimation ink manufacturing applications.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -144,14 +144,14 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>Lorem Ipsum </b> <br>
-                                        <b> 莱昂 – U系列</b>
-                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>Specifications A</b> <br>
+                                        <b> 规格 A系列</b>
+                                        <br><br> Water-based disperse dye dispersions with viscosity up to 10 Cps, solid content 30–35%, surface tension 45–55 mN/m, and particle size (D90) up to 195nm for Yellow — engineered for optimum sublimation ink performance.
                                     </p>
                                     <p>
-                                        <b>Lorem Ipsum </b> <br>
-                                        <b> 莱昂 – M系列</b>
-                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>Specifications B </b> <br>
+                                        <b> 规格 B系列</b>
+                                        <br><br> Advanced water-based disperse dye dispersions with viscosity up to 20 Cps, solid content 25–35%, surface tension 35–45 mN/m, and finer particle size (D90) up to 195nm — delivering superior dispersion stability and fastness properties.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -192,7 +192,7 @@
                                 <h3 class="sec-title title-anim pb-2 text-prismane">Sublimation Dispersions</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">升华分散体</h3>
                                 <span class="text-white fs-1">Specifications A</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
+                                <span class="text-white fs-1 mandarin-title-2">规格 A</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -255,7 +255,7 @@
 
                             <div class="sec-title-wrapper mt-5">
                                 <span class="text-white fs-1 ">Specifications B</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
+                                <span class="text-white fs-1 mandarin-title-2 ">规格 B</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -337,11 +337,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum  <span>Lorem Ipsum </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Ultra-Fine <span>Particle Stability</span></h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Particle size (D90) controlled up to 195nm for Yellow and 100nm for Cyan, Magenta, and Black — ensuring exceptional dispersion stability and consistent colour development in sublimation ink formulations.
                                         
                                     </p>
                                     <!-- <ul>
@@ -352,11 +352,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum  <span>Lorem Ipsum </span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Optimum Fastness<span>Properties</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Dispersions are engineered to deliver optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness — meeting the performance demands of high-quality sublimation printing applications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -366,11 +366,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum </span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Controlled pH<span>Balance</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Consistent pH range of 8–8.5 across all colours — Yellow, Cyan, Magenta, and Black — ensures stable ink formulation chemistry and reliable compatibility with sublimation ink manufacturing systems.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -380,11 +380,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum  <span>Lorem Ipsum </span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Stable Viscosity<span>Performance</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Viscosity maintained up to 10 Cps (Spec A) and 20 Cps (Spec B), measured by Haake Rheostress Rheometer, supporting smooth ink flow and consistent printhead performance across production runs.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -394,11 +394,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum  <span>Lorem Ipsum </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Precise Surface <span>Tension Control</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Surface tension maintained between 35–55 mN/m across both specifications, ensuring proper wetting, ink spread control, and reliable transfer performance on polyester substrates.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -408,11 +408,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum  <span>Lorem Ipsum </span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Flexible Formulation <span>Options </span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Available in two specification grades — Spec A and Spec B — offering ink manufacturers flexibility to select the right solid content, viscosity, and particle size profile for their specific formulation requirements.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -534,7 +534,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       We develop and supply high-performance water-based disperse dye dispersions engineered for consistent colour strength, precise particle stability, and reliable integration into dye sublimation ink manufacturing systems. Our dispersions are formulated across two specification grades, offering ink manufacturers the flexibility to select the right viscosity, solid content, and particle size profile for their specific production requirements. With a focus on optimum fastness properties and stable dispersion chemistry, we help sublimation ink manufacturers achieve dependable colour output — batch after batch.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -561,7 +561,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Sublimation dispersions are formulated to deliver precise particle stability, consistent fastness properties, and reliable integration into dye sublimation ink systems. Designed for ink manufacturers who demand repeatable quality, they support efficient production with controlled chemistry and dependable colour performance across every batch.
                                 </p>
                             </div>
                         </div>
@@ -571,9 +571,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum </h3>
+                                        <h3 class="ps-title"> Dual Specification Grades</h3>
                                         <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                           Available in Spec A and Spec B grades, offering ink manufacturers flexibility to select the right viscosity, solid content, and particle size profile to match their specific sublimation ink formulation needs.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -586,9 +586,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum </h3>
+                                        <h3 class="ps-title">Optimum Fastness Results</h3>
                                         <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                           Engineered to deliver optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness — ensuring end-use sublimation prints meet quality and durability standards across textile applications.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -601,9 +601,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum </h3>
+                                        <h3 class="ps-title">Precise Particle Control</h3>
                                         <p>
-                                          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                          Particle size (D90) controlled up to 195nm for Yellow and 100nm for Cyan, Magenta, and Black — providing stable dispersion chemistry and consistent colour strength in sublimation ink manufacturing.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -714,13 +714,13 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Q1: What are sublimation dispersions and how are they used?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Sublimation dispersions are water-based disperse dye preparations used as the colour base in dye sublimation ink manufacturing. They are formulated with precisely controlled particle size, viscosity, and pH to ensure stable, high-performance sublimation ink production.
                                                     </p>
                                                 </div>
                                             </div>
@@ -731,13 +731,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                   Q2: What is the difference between Specifications A and Specifications B?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Specification A has a lower viscosity (up to 10 Cps) and higher solid content (30–35%), while Specification B has a higher viscosity (up to 20 Cps) and lower solid content (25–35%). Both deliver the same fastness performance but offer different formulation profiles to suit varying ink manufacturing requirements.
                                                     </p>
                                                 </div>
                                             </div>
@@ -748,52 +748,19 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                   Q3: How should sublimation dispersions be stored to maintain stability?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Sublimation dispersions should be stored in tightly sealed containers, away from direct sunlight and extreme temperatures. Proper storage maintains particle stability, pH balance, and dispersion performance throughout the product's shelf life.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
 
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingFour">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                                    aria-expanded="false" aria-controls="collapseFour">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                </button>
-                                            </h2>
-                                            <div id="collapseFour" class="accordion-collapse collapse"
-                                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingFive">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                                    aria-expanded="false" aria-controls="collapseFive">
-                                                   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                </button>
-                                            </h2>
-                                            <div id="collapseFive" class="accordion-collapse collapse"
-                                                aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
+                                        
                                     </div>
                                 </div>
                             </div>
