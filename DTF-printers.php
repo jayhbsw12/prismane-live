@@ -27,7 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">DTF Printers</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">DTF 打印机</span>
-                                    <p class="text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <p class="text-white">Industrial-grade DTF printers engineered for high-speed, high-quality direct-to-film printing across garments, bags, shoes, and textile applications. Available in 420mm, 600mm, and 900mm production widths, equipped with Epson i3200 and i1600 printheads, all-in-one powder shaker systems, and intelligent auto anti-collision technology for uninterrupted, efficient production.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -144,14 +144,14 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – U系列</b>
-                                        <br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>GLO-DTF 900MAX</b> <br>
+                                        <b>GLO-DTF 900MAX型</b>
+                                        <br><br>High-capacity DTF printer equipped with 4–8pcs Epson i3200A1/i1600A1 printheads. Features automatic powder returning system, 8-colour CMYK W printing, auto anti-collision system, and all functions operable via touchscreen — built for large-scale, high-speed production.
                                     </p>
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – M系列</b>
-                                        <br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>GLO-DTF 420 & 600 PRO</b> <br>
+                                        <b>GLO-DTF 420 & 600 PRO型</b>
+                                        <br><br>Mid-range DTF printer with 420mm and 600mm golden production sizes, equipped with 2pcs Epson i1600/i3200-A1 printheads. Features all-in-one printer and powder shaker body, well-designed media take-up system, and low ink alarm protection — ideal for efficient, space-saving production.
                                     </p>
                                 </div>
                                 <!-- <ul>
