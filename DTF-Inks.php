@@ -27,7 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">DTF Inks</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">数据传输格式 油墨</span>
-                                    <p class="text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <p class="text-white">High-performance DTF inks engineered for sharp detail, vibrant colour, and superior adhesion on cotton, polyester, nylon, and blended fabrics. Formulated with ultra-fine particle dispersion below 180nm, delivering clog-free printhead performance, wide colour gamut, and durable wash-fast results across DTF printing applications.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -144,14 +144,14 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – U系列</b>
-                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>Glojet DTF – CMYK Series</b> <br>
+                                        <b>葛洁特 DTF – CMYK系列</b>
+                                        <br><br> Specially developed water-based DTF ink range for printing on cotton, linen, silk, polyester, nylon, spandex, and blended fabrics. Compatible with Epson i3200, i1600, and XP600 printheads with ink particle size below 180nm.
                                     </p>
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – M系列</b>
-                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>Glojet DTF – White Ink</b> <br>
+                                        <b> 葛洁特 DTF – 白色油墨</b>
+                                        <br><br> High-opacity white DTF ink with ultra whiteness and high hiding power. Features uniform dispersion, stable performance, excellent suspension capacity, and strong compatibility with CMYK colour inks — with no ink penetration.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -183,7 +183,7 @@
             <!-- Development area end -->
 
             <!-- Table section -->
-            <section class="about__area-3">
+            <!-- <section class="about__area-3">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -476,17 +476,10 @@
 
 
                             </div>
-
-                            <!-- <div class="mt-5 z-1 d-flex justify-content-center">
-                                <a href="assets/data/Pigment-Dispersions-data.pdf"
-                                    class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
-                                            class="fa-solid fa-arrow-right"></i></span></a>
-
-                            </div> -->
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Table section -->
 
             <!-- Service area start -->
@@ -497,11 +490,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">No Clog<span>Performance</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Super filtration technology ensures ink particle size remains below 180nm, preventing printhead clogging and maintaining consistent flow across long, uninterrupted production runs.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -511,11 +504,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsumt</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Wide Fabric<span>Compatibility</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Suitable for printing on cotton, linen, silk, polyester, nylon, spandex, and blended fabrics — delivering strong adhesion and vibrant colour across a broad range of garment and textile substrates.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -525,11 +518,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span> Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Quick Drying<span>Formula</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Fast-drying ink formulation reduces production cycle time, improves throughput, and supports high-speed printing operations without compromising colour quality or transfer performance.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -539,11 +532,10 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">High Opacity<span>White Ink</span> </h3>
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Ultra-white DTF white ink with high hiding power and excellent suspension stability ensures vivid colour layering, strong base coverage, and no ink penetration on dark and coloured fabrics.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -553,11 +545,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsum</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Wider Colour<span>Gamut</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Denser, brighter colour output with finely distributed pigment particles delivers sharp detail, smooth gradients, and photographic-quality prints across all DTF applications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -567,11 +559,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Broad Printer<span>Compatibility</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Compatible with Epson i3200, i1600, and XP600 printheads — integrating seamlessly into standard DTF printer setups without requiring system modifications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -693,7 +685,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        We develop and supply high-performance DTF inks engineered for vibrant colour output, superior fabric adhesion, and reliable printhead performance across all major DTF printing systems. Our inks are formulated with ultra-fine particle dispersion below 180nm, ensuring clog-free operation, fast drying, and consistent results on cotton, polyester, nylon, spandex, and blended fabrics. With a dedicated white ink designed for maximum opacity and zero ink penetration, we help DTF printers achieve professional-grade output — batch after batch.
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
                                             class="blog__btn about_btn text-prismane" download>Download Brochure
@@ -729,9 +721,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Vibrant Print Quality</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Ultra-fine particle dispersion below 180nm delivers denser, brighter colours with a wider gamut — producing sharp, photographic-quality prints with smooth gradients across all fabric types.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -744,9 +736,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Clog-Free Production</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Super filtration technology and stable viscosity ensure consistent ink flow, preventing printhead clogging and reducing maintenance downtime — supporting uninterrupted, high-volume production runs.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -759,9 +751,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Superior Fabric Adhesion</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Engineered for strong bonding across cotton, polyester, nylon, spandex, and blended fabrics, delivering wash-fast, durable transfers that maintain colour integrity through repeated use.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -872,13 +864,13 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Q1: What is DTF printing and how does it work?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>DTF (Direct to Film) printing involves printing ink onto a special transfer film, applying hot melt powder, and then heat pressing the design onto the fabric. It allows full-colour, detailed prints on a wide range of fabrics without requiring pre-treatment.
                                                     </p>
                                                 </div>
                                             </div>
@@ -889,13 +881,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Q2: What fabrics are compatible with DTF inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>DTF inks are suitable for cotton, cotton linen, silk, polyester, nylon, spandex, and blended fabrics. Applications include T-shirts, hoodies, denim, decorative fabrics, bags, shoes, and other garment and textile products.
                                                     </p>
                                                 </div>
                                             </div>
@@ -906,13 +898,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                   Q3: Which printheads are compatible with your DTF inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Our DTF inks are compatible with Epson i3200, i1600, and XP600 printheads, supporting a wide range of standard DTF printer configurations used in production environments.
                                                     </p>
                                                 </div>
                                             </div>
@@ -923,13 +915,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Q4: What makes your DTF white ink different?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>YLorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Our DTF white ink features ultra whiteness with high hiding power, uniform dispersion, excellent suspension stability, and strong compatibility with CMYK colour inks — ensuring full opacity on dark fabrics with no ink penetration.
                                                     </p>
                                                 </div>
                                             </div>
@@ -940,13 +932,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Q5: How should DTF inks be stored and maintained?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>DTF inks should be stored in sealed containers away from direct sunlight and extreme temperatures. Regular printhead cleaning and proper ink circulation help maintain stable viscosity and prevent settling during storage.
                                                     </p>
                                                 </div>
                                             </div>
