@@ -26,7 +26,7 @@
                                 <div
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">TPU Powder</h1>
-                                    <span class="sec-title text-white mandarin-title-1 text-prismane">时间磷U粉末</span>
+                                    <span class="sec-title text-white mandarin-title-1 text-prismane">TPU热熔粉末</span>
                                     <p class="text-white">
                                         The Glojet powder is loaded into a specialized container, either manually or via an automatic mechanism (such as a screw or cyclone system). It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush. This powder is activated by exposure to an IR field, using either an oven or a heater. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive. Alternatively, this powder scattering process can be integrated with a flatbed laminator for enhanced lamination quality.
                                     </p>
@@ -146,16 +146,16 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>  Lorem Ipsum </b> <br>
-                                        <b> 莱昂 – U系列</b>
+                                        <b>Glojet TPU Powder – GLO 6 </b> <br>
+                                        <b>葛洁特 TPU粉末 – GLO 6型</b>
                                         <br><br>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Strong fastness, good toughness, and good tension. Melting temperature range 105–115°C with good dry cleaning resistance and 90°C washing resistance — designed for standard DTF applications requiring reliable adhesion and durability.
                                     </p>
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – M系列</b>
+                                        <b>Glojet TPU Powder – GLO 8 </b> <br>
+                                        <b>葛洁特 TPU粉末 – GLO 8型</b>
                                         <br><br> 
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Soft powder with the best hand feel. Melting temperature range 108–118°C with good dry cleaning resistance and 90°C washing resistance — ideal for lingerie, undergarments, and lycra fabric applications requiring a soft, flexible finish.    
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -194,9 +194,9 @@
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">TPU Powder</h3>
-                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">时间磷U粉末</h3>
-                                <span class="text-white fs-1">Lorem Ipsum</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">TPU热熔粉末</h3>
+                                <span class="text-white fs-1">Glojet TPU Powder</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">葛洁特 TPU热熔粉末</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -586,7 +586,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       We supply high-performance Glojet TPU powder engineered for reliable adhesion, excellent wash resistance, and consistent powder distribution across all standard DTF production systems. Available in GLO 6 for strong fastness and good toughness, and GLO 8 for a soft, skin-friendly hand feel — our TPU powders are designed for lingerie, undergarments, lycra, and general garment applications. With UV resistance, low melting point, and high elongation properties, our powders deliver durable, flexible transfers that outlast the garment.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -613,7 +613,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Glojet TPU powders are engineered to deliver consistent adhesion, superior wash resistance, and excellent flexibility across all DTF fabric applications. Designed for both standard and sensitive garment types, they help DTF printers achieve durable, soft, and high-quality transfers with reliable results across every production run.
                                 </p>
                             </div>
                         </div>
@@ -623,9 +623,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Superior Wash Resistance</h3>
                                         <p>
-                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                             Both GLO 6 and GLO 8 offer good dry cleaning resistance and 90°C washing resistance — ensuring transferred designs remain firmly bonded and colour-intact through repeated industrial and domestic washing cycles.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -638,9 +638,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title"> UV & Yellowing Resistance</h3>
                                         <p>
-                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                             No-yellowing UV resistant material ensures transferred prints maintain their original colour and appearance over time — even with prolonged exposure to sunlight and outdoor conditions.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -653,9 +653,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Flexible Fabric Compatibility</h3>
                                         <p>
-                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                             GLO 8's soft powder formulation delivers the best hand feel for lingerie, undergarments, and lycra fabrics, while GLO 6 provides strong fastness and toughness for standard garment and textile applications.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -766,14 +766,14 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Lorem Ipsum
+                                                    Q1: What is TPU powder and what is it used for in DTF printing?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p> 
-                                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                        TPU (Thermoplastic Polyurethane) powder is a hot melt adhesive powder applied to DTF printed film before heat curing. It acts as the bonding agent between the printed design and the fabric, ensuring strong, flexible, and wash-resistant transfer adhesion across all garment types.
                                                     </p>
                                                 </div>
                                             </div>
@@ -784,13 +784,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Lorem Ipsum
+                                                    Q2: What is the difference between GLO 6 and GLO 8 TPU powder?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>GLO 6 offers strong fastness, good toughness, and good tension with a melting range of 105–115°C — suited for standard garment applications. GLO 8 is a softer powder with the best hand feel and a melting range of 108–118°C — ideal for lingerie, undergarments, and lycra fabrics.
                                                     </p>
                                                 </div>
                                             </div>
@@ -801,13 +801,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Lorem Ipsum
+                                                    Q3: What fabrics are compatible with Glojet TPU powder?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Glojet TPU powders are compatible with a wide range of fabrics including cotton, polyester, nylon, spandex, lycra, and blended textiles — making them suitable for garments, sportswear, undergarments, and general DTF printing applications.
                                                     </p>
                                                 </div>
                                             </div>
@@ -818,13 +818,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Lorem Ipsum
+                                                    Q4: What washing resistance do Glojet TPU powders offer?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Both GLO 6 and GLO 8 provide good dry cleaning resistance and 90°C washing resistance — ensuring transferred prints remain firmly bonded and durable through repeated high-temperature washing cycles.
                                                     </p>
                                                 </div>
                                             </div>
@@ -835,13 +835,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Lorem Ipsum
+                                                    Q5: How should TPU powder be stored and handled?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>TPU powder should be stored in sealed containers in a cool, dry environment away from moisture and direct heat. Proper storage prevents clumping, maintains powder flow consistency, and ensures reliable adhesion performance during DTF production.
                                                     </p>
                                                 </div>
                                             </div>
