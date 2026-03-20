@@ -27,7 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">DTF Films</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">DTF 胶片</span>
-                                    <p class="text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <p class="text-white">High-quality DTF transfer films engineered for precise ink absorption, clean peel performance, and strong transfer adhesion across all fabric types. Available in 75um and 100um thickness, single and double coated options, glossy and matte surfaces, with cold peel, hot peel, and second peel release variants — in both sheet and roll formats to suit any DTF production setup.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -144,14 +144,14 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – U系列</b>
-                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b>DTF Film – 75um</b> <br>
+                                        <b>DTF胶片 – 75微米</b>
+                                        <br><br> Single or double coated transfer film available in glossy and matte surface finishes. Supports cold peel, hot peel, and second peel release. Available in sheet (A3/A4) and roll formats — ideal for standard DTF printing applications.
                                     </p>
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – M系列</b>
-                                        <br><br> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        <b> DTF Film – 100um</b> <br>
+                                        <b> DTF胶片 – 100微米</b>
+                                        <br><br> Heavier weight transfer film with enhanced ink absorption and stronger structural integrity. Available in single and double coated options with glossy and matte surfaces in roll sizes from 30cm×100m up to 180cm×100m — suited for high-volume industrial DTF production.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -191,80 +191,80 @@
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">DTF Films</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">DTF 胶片</h3>
-                                <span class="text-white fs-1">Lorem Ipsum </span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
+                                <span class="text-white fs-1">DTF Film – 75um </span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">DTF胶片 – 75微米</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
+                                            <th scope="col" class="fw-normal">Specifications </th>
+                                            <th scope="col" class="fw-normal">Details</th>
+                                            <!-- <th scope="col" class="fw-normal">Chemical Class</th>
                                             <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-U</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoazo</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>Thickness</td>
+                                            <td>75um</td>
+                                            <!-- <td>Monoazo</td>
                                             <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <td>High performance standard yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-U</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoazo</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>Weight</td>
+                                            <td>115G ± 10%</td>
+                                            <!-- <td>Monoazo</td>
                                             <td>6–7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <td>High performance green shade yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-U</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
+                                            <td>Coated</td>
+                                            <td>Single coated / Double coated</td>
+                                            <!-- <td>Double Azo</td>
                                             <td>7</td>
-                                            <td>High performance strong green shade</td>
+                                            <td>High performance strong green shade</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-U</td>
-                                            <td>P.O.13</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
+                                            <td>Release</td>
+                                            <td>Cold peel / Hot peel / Second peel</td>
+                                            <!-- <td>Disazopyrazolone</td>
                                             <td>6</td>
-                                            <td>High performance yellow shade orange</td>
+                                            <td>High performance yellow shade orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fa5e21"></span></td>
-                                            <td>Leon Orange E5-U</td>
-                                            <td>P.O.34</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #fa5e21"></span></td> -->
+                                            <td>Surface</td>
+                                            <td>Glossy / Matte</td>
+                                            <!-- <td>Disazopyrazolone</td>
                                             <td>6</td>
-                                            <td>High performance mid shade orange</td>
+                                            <td>High performance mid shade orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-U</td>
-                                            <td>P.O.36</td>
-                                            <td>Benzimidazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
+                                            <td>Size – Sheet</td>
+                                            <td>A3 / A4</td>
+                                            <!-- <td>Benzimidazolone</td>
                                             <td>6–7</td>
-                                            <td>High performance red shade orange</td>
+                                            <td>High performance red shade orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Leon Red M21-U</td>
-                                            <td>P.R.210</td>
-                                            <td>Single azo</td>
+                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
+                                            <td>Size – Roll</td>
+                                            <td>30cm×100m / 60cm×100m / 120cm×100m / 60cm×100m / 180cm×100m</td>
+                                            <!-- <td>Single azo</td>
                                             <td>6</td>
-                                            <td>High performance red with bluish tone</td>
+                                            <td>High performance red with bluish tone</td> -->
                                         </tr>
-                                        <tr>
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #aa1b25"></span></td>
                                             <td>Leon Red R33-U</td>
                                             <td>P.R.122</td>
@@ -327,87 +327,87 @@
                                             <td>Titanium Di-Oxide.</td>
                                             <td>8</td>
                                             <td>Highly Opaque White</td>
-                                        </tr>
+                                        </tr> -->
                                     </tbody>
                                 </table>
 
                             </div>
 
-                            <!-- <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">Leon - M Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
-                            </div> -->
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1 ">DTF Film – 100um </span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2 ">DTF胶片 – 100微米</span>
+                            </div>
 
-                            <!-- <div class="col-12  table-responsive">
+                            <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
+                                            <th scope="col" class="fw-normal">Specifications </th>
+                                            <th scope="col" class="fw-normal">Details</th>
+                                            <!-- <th scope="col" class="fw-normal">Chemical Class</th>
                                             <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-M</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoase</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>Thickness</td>
+                                            <td>100um</td>
+                                            <!-- <td>Monoase</td>
                                             <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <td>High performance standard yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-M</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoase</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>Weight</td>
+                                            <td>150G ± 10%</td>
+                                            <!-- <td>Monoase</td>
                                             <td>6-7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <td>High performance green shade yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-M</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
+                                            <td>Coated</td>
+                                            <td>Single coated / Double coated</td>
+                                            <!-- <td>Double Azo</td>
                                             <td>7</td>
-                                            <td>High performance strong green shade</td>
+                                            <td>High performance strong green shade</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-M</td>
-                                            <td>P.0.13</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
+                                            <td>Release</td>
+                                            <td>Cold peel / Hot peel / Second peel</td>
+                                            <!-- <td>Disazopyrazolone</td>
                                             <td>6</td>
-                                            <td>High performance yellow shade Orange</td>
+                                            <td>High performance yellow shade Orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-M</td>
-                                            <td>P.0.36</td>
-                                            <td>Benzimidazalone</td>
+                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
+                                            <td>Surface</td>
+                                            <td>Glossy / Matte</td>
+                                            <!-- <td>Benzimidazalone</td>
                                             <td>6-7</td>
-                                            <td>High Performance Red Shade Orange</td>
+                                            <td>High Performance Red Shade Orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f15122"></span></td>
-                                            <td>Leon Orange C75-M</td>
-                                            <td>P.0.64</td>
-                                            <td>Benzimidazalone</td>
+                                            <!-- <td><span class="color-item" style="background: #f15122"></span></td> -->
+                                            <td>Size – Sheet</td>
+                                            <td>A3 / A4</td>
+                                            <!-- <td>Benzimidazalone</td>
                                             <td>6</td>
-                                            <td>High Performance mid Shade Orange</td>
+                                            <td>High Performance mid Shade Orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Leon Red M21-M</td>
-                                            <td>P.R.210</td>
-                                            <td>Single Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
+                                            <td>Size – Roll</td>
+                                            <td>30cm×100m / 60cm×100m / 120cm×100m / 60cm×100m / 180cm×100m</td>
+                                            <!-- <td>Single Azo</td>
                                             <td>6</td>
-                                            <td>High Performance Red with Bluish tone</td>
+                                            <td>High Performance Red with Bluish tone</td> -->
                                         </tr>
-                                        <tr>
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #aa1b25"></span></td>
                                             <td>Leon Red R33-M</td>
                                             <td>P.R.122</td>
@@ -470,18 +470,18 @@
                                             <td>Titanium Di-Oxide.</td>
                                             <td>8</td>
                                             <td>Highly Opaque White</td>
-                                        </tr>
+                                        </tr> -->
                                     </tbody>
                                 </table>
 
 
-                            </div> -->
+                            </div>
 
                             <!-- <div class="mt-5 z-1 d-flex justify-content-center">
                                 <a href="assets/data/Pigment-Dispersions-data.pdf"
                                     class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
-                                            class="fa-solid fa-arrow-right"></i></span></a>
-
+                                            class="fa-solid fa-arrow-right"></i></span>
+                                </a>
                             </div> -->
                         </div>
                     </div>
@@ -497,11 +497,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Precise Ink <span>Absorption</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Specially coated surface ensures uniform ink absorption across the film, producing sharp detail, smooth colour gradients, and accurate colour reproduction in every DTF print transfer.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -511,11 +511,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Multiple Peel <span>Options</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Available in cold peel, hot peel, and second peel release variants — giving printers full flexibility to match film performance with fabric type, transfer requirements, and production workflow.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -525,11 +525,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Glossy & Matte<span>Surface Finish</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Choice of glossy or matte surface finish allows printers to achieve the desired final print texture and visual effect — from vibrant high-shine output to soft, premium matte transfers on garments.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -539,11 +539,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Dual Thickness <span>Availability</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Available in 75um and 100um thickness options with single or double coating — providing the right structural weight and ink-holding capacity for both standard and high-volume industrial DTF production.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -553,11 +553,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Flexible Format<span>Options</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Available in A3 and A4 sheet formats and roll widths from 30cm to 180cm — with special size customisation accepted — supporting DTF production setups of any scale and configuration.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -567,11 +567,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Strong Transfer <span>Adhesion</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Engineered for reliable ink-to-fabric transfer with consistent adhesion performance across cotton, polyester, nylon, and blended fabrics — delivering durable, wash-fast results on every press.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -688,12 +688,12 @@
                                 <h2 class="sec-sub-title title-anim">Who We Are</h2>
                                 <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE DTF FILMS PARTNER
                                 </h4>
-                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的DTF  电影合作伙伴</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的DTF胶片合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        We supply high-quality DTF transfer films engineered for precise ink absorption, clean peel release, and consistent transfer adhesion across all fabric types. Available in 75um and 100um thickness with single and double coated options, our films support cold peel, hot peel, and second peel configurations in both sheet and roll formats. Designed to work seamlessly with standard DTF printing systems, our films help printers achieve sharp, durable, wash-fast transfers — across every production run.
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
                                             class="blog__btn about_btn text-prismane" download>Download Brochure
@@ -719,7 +719,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    DTF transfer films are engineered to deliver consistent ink absorption, clean peel release, and reliable transfer adhesion across all fabric types and production scales. Designed for compatibility with standard DTF printing systems, they help printers achieve sharp, durable results with reduced waste and lower material costs.
                                 </p>
                             </div>
                         </div>
@@ -729,9 +729,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Clean Peel Performance</h3>
                                         <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                           Cold peel, hot peel, and second peel release options ensure smooth, residue-free film removal after transfer — delivering clean, sharp print edges and reducing fabric damage or misprints during production.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -744,9 +744,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Flexible Size Options</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Available in A3/A4 sheets and roll widths from 30cm to 180cm with special size customisation accepted — reducing material waste and ensuring the right film format is always available for any production setup.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -759,9 +759,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum</h3>
+                                        <h3 class="ps-title">CONSISTENT FILM RESULTS</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Uniform coating weight (115G & 150G) across both thickness options ensures stable ink hold, even powder adhesion, and reliable transfer results, maintaining consistent print quality batch after batch.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -872,18 +872,13 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    What are pigment dispersions?
+                                                    Q1: What is a DTF transfer film and how is it used?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Pigment dispersions are finely milled pigment particles evenly
-                                                        distributed in a liquid medium using dispersing agents. They are
-                                                        ready to use in inks, coatings, plastics, and textile
-                                                        applications,
-                                                        providing consistent colour strength, stability, and reliable
-                                                        processing performance.
+                                                    <p>DTF transfer film is a specially coated substrate used in direct-to-film printing. Ink is printed onto the film, TPU powder is applied and cured, and the design is then heat pressed onto fabric — enabling full-colour transfers on a wide range of garments and textiles.
                                                     </p>
                                                 </div>
                                             </div>
@@ -894,18 +889,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Where can pigment dispersions be used?
+                                                    Q2: What is the difference between 75um and 100um DTF films?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Pigment dispersions are used in printing inks, textile printing,
-                                                        industrial and decorative coatings, plastics, and cosmetic
-                                                        formulations. They are designed to integrate easily into
-                                                        different
-                                                        systems depending on the carrier medium and binder
-                                                        compatibility.
+                                                    <p>The 75um film is lighter at 115G±10% and suited for standard DTF applications, while the 100um film is heavier at 150G±10% with enhanced structural integrity — better suited for high-volume industrial production requiring stronger ink hold and transfer durability.
                                                     </p>
                                                 </div>
                                             </div>
@@ -916,18 +906,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    What are the advantages of using pigment dispersions over dry
-                                                    pigments?
+                                                    Q3: What is the difference between cold peel and hot peel DTF films?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Pigment dispersions offer better colour consistency, improved
-                                                        stability, easier handling, and reduced processing time. Unlike
-                                                        dry
-                                                        pigments, they minimise dust, prevent agglomeration, and ensure
-                                                        uniform colour development across batches.
+                                                    <p>Cold peel films are removed after the transfer has cooled, producing a softer, matte finish. Hot peel films are removed immediately after pressing, offering faster production speed. Second peel films allow repositioning before final pressing for added precision.
                                                     </p>
                                                 </div>
                                             </div>
@@ -938,18 +923,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Are pigment dispersions compatible with different binders and
-                                                    systems?
+                                                    Q4: What sizes are your DTF films available in?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Yes, pigment dispersions are formulated to be compatible with
-                                                        commonly used binders and formulation systems. Compatibility
-                                                        depends
-                                                        on whether the dispersion is water-based, solvent-based, or
-                                                        resin-based, so selecting the right type is important.
+                                                    <p>Our DTF films are available in A3 and A4 sheet formats and roll widths from 30cm to 180cm in 100m lengths. Special size customisation is also accepted to suit specific production requirements.
                                                     </p>
                                                 </div>
                                             </div>
@@ -960,18 +940,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    How should pigment dispersions be stored?
+                                                    Q5: How should DTF transfer films be stored?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Pigment dispersions should be stored in tightly sealed
-                                                        containers,
-                                                        away from extreme temperatures and direct sunlight. Proper
-                                                        storage
-                                                        helps maintain dispersion stability, colour strength, and
-                                                        performance over time.
+                                                    <p>DTF films should be stored flat or rolled in a cool, dry environment away from direct sunlight and humidity. Proper storage prevents coating degradation, film curling, and surface contamination — maintaining consistent print and transfer performance.
                                                     </p>
                                                 </div>
                                             </div>
