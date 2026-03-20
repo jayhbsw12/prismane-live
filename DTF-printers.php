@@ -191,88 +191,88 @@
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">DTF Printers</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">DTF 打印机</h3>
-                                <span class="text-white fs-1">Lorem Ipsum</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
+                                <span class="text-white fs-1">GLO-DTF 900MAX — Specifications</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">GLO-DTF 900MAX 型号</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
+                                            <th scope="col" class="fw-normal">Specifications</th>
+                                            <th scope="col" class="fw-normal">Details</th>
+                                            <!-- <th scope="col" class="fw-normal">Chemical Class</th>
                                             <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-U</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoazo</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>Print Software</td>
+                                            <td>Ripprint / Photoprint</td>
+                                            <!-- <td>Monoazo</td>
                                             <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <td>High performance standard yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-U</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoazo</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>Printing Heads</td>
+                                            <td>4–8pcs Epson i3200A1 / i1600A1</td>
+                                            <!-- <td>Monoazo</td>
                                             <td>6–7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <td>High performance green shade yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-U</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
+                                            <td>Print Colors</td>
+                                            <td>CMYK W</td>
+                                            <!-- <td>Double Azo</td>
                                             <td>7</td>
-                                            <td>High performance strong green shade</td>
+                                            <td>High performance strong green shade</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-U</td>
-                                            <td>P.O.13</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
+                                            <td>Printing Speed</td>
+                                            <td>i3200A1: 4pass 22m²/h, 8pass 14m²/h</td>
+                                            <!-- <td>Disazopyrazolone</td>
                                             <td>6</td>
-                                            <td>High performance yellow shade orange</td>
+                                            <td>High performance yellow shade orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fa5e21"></span></td>
-                                            <td>Leon Orange E5-U</td>
-                                            <td>P.O.34</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #fa5e21"></span></td> -->
+                                            <td>Machine Functions</td>
+                                            <td>All-in-one Powder & Shaker, White Ink, 8 Colour Printing</td>
+                                            <!-- <td>Disazopyrazolone</td>
                                             <td>6</td>
-                                            <td>High performance mid shade orange</td>
+                                            <td>High performance mid shade orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-U</td>
-                                            <td>P.O.36</td>
-                                            <td>Benzimidazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
+                                            <td>Working Environment</td>
+                                            <td>25°C–30°C, humidity 50%–70%</td>
+                                            <!-- <td>Benzimidazolone</td>
                                             <td>6–7</td>
-                                            <td>High performance red shade orange</td>
+                                            <td>High performance red shade orange</td> -->
                                         </tr>
-                                        <tr>
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #ac0000"></span></td>
                                             <td>Leon Red M21-U</td>
                                             <td>P.R.210</td>
                                             <td>Single azo</td>
                                             <td>6</td>
                                             <td>High performance red with bluish tone</td>
-                                        </tr>
-                                        <tr>
+                                        </tr> -->
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #aa1b25"></span></td>
                                             <td>Leon Red R33-U</td>
                                             <td>P.R.122</td>
                                             <td>Quinacridone</td>
                                             <td>7–8</td>
                                             <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
+                                        </tr> -->
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #5f1c61"></span></td>
                                             <td>Leon Violet R10-U</td>
                                             <td>P.V.19</td>
@@ -295,8 +295,8 @@
                                             <td>Cu-Phthalocyanine</td>
                                             <td>8</td>
                                             <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
+                                        </tr> -->
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #00352d"></span></td>
                                             <td>Leon Green Q8-U</td>
                                             <td>P.G.7</td>
@@ -327,79 +327,79 @@
                                             <td>Titanium Di-Oxide.</td>
                                             <td>8</td>
                                             <td>Highly Opaque White</td>
-                                        </tr>
+                                        </tr> -->
                                     </tbody>
                                 </table>
 
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">Lorem Ipsum</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
+                                <span class="text-white fs-1 ">GLO-DTF 420 & 600 PRO — Specifications</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2 ">GLO-DTF 420 & 600 PRO 型号</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
-                                            <th scope="col" class="fw-normal">Product</th>
-                                            <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
+                                            <th scope="col" class="fw-normal">Specifications</th>
+                                            <th scope="col" class="fw-normal">Details</th>
+                                            <!-- <th scope="col" class="fw-normal">Chemical Class</th>
                                             <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th>
+                                            <th scope="col" class="fw-normal">Characteristics</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-M</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoase</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>Print Software</td>
+                                            <td>Ripprint / Photoprint</td>
+                                            <!-- <td>Monoase</td>
                                             <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <td>High performance standard yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-M</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoase</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>Printing Heads</td>
+                                            <td>2pcs Epson i3200A1, 2pcs Epson i1600A1</td>
+                                            <!-- <td>Monoase</td>
                                             <td>6-7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <td>High performance green shade yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-M</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
+                                            <td>Print Colors</td>
+                                            <td>CMYK W</td>
+                                            <!-- <td>Double Azo</td>
                                             <td>7</td>
-                                            <td>High performance strong green shade</td>
+                                            <td>High performance strong green shade</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-M</td>
-                                            <td>P.0.13</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
+                                            <td>Printing Speed</td>
+                                            <td>i3200A1: 6pass 4m²/h, 8pass 2m²/h</td>
+                                            <!-- <td>Disazopyrazolone</td>
                                             <td>6</td>
-                                            <td>High performance yellow shade Orange</td>
+                                            <td>High performance yellow shade Orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-M</td>
-                                            <td>P.0.36</td>
-                                            <td>Benzimidazalone</td>
+                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
+                                            <td>Machine Functions</td>
+                                            <td>All-in-one Printer & Powder Shaker, White Ink</td>
+                                            <!-- <td>Benzimidazalone</td>
                                             <td>6-7</td>
-                                            <td>High Performance Red Shade Orange</td>
+                                            <td>High Performance Red Shade Orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f15122"></span></td>
-                                            <td>Leon Orange C75-M</td>
-                                            <td>P.0.64</td>
-                                            <td>Benzimidazalone</td>
+                                            <!-- <td><span class="color-item" style="background: #f15122"></span></td> -->
+                                            <td>Working Environment</td>
+                                            <td>25°C–30°C, humidity 50%–70%</td>
+                                            <!-- <td>Benzimidazalone</td>
                                             <td>6</td>
-                                            <td>High Performance mid Shade Orange</td>
+                                            <td>High Performance mid Shade Orange</td> -->
                                         </tr>
-                                        <tr>
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #ac0000"></span></td>
                                             <td>Leon Red M21-M</td>
                                             <td>P.R.210</td>
@@ -422,8 +422,8 @@
                                             <td>Quinacridone</td>
                                             <td>7-8</td>
                                             <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
+                                        </tr> -->
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #280653"></span></td>
                                             <td>Leon Violet E4-M</td>
                                             <td>P.V.23</td>
@@ -454,8 +454,8 @@
                                             <td>Cu- Phthalogreen Bromination</td>
                                             <td>7</td>
                                             <td>High performance Yellower green</td>
-                                        </tr>
-                                        <tr>
+                                        </tr> -->
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #040504"></span></td>
                                             <td>Leon Black D8-M</td>
                                             <td>P.B.7</td>
@@ -470,7 +470,7 @@
                                             <td>Titanium Di-Oxide.</td>
                                             <td>8</td>
                                             <td>Highly Opaque White</td>
-                                        </tr>
+                                        </tr> -->
                                     </tbody>
                                 </table>
 
@@ -497,11 +497,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">High Speed<span>Production Output</span></h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Printing speeds up to 22m²/h with i3200A1 printheads and up to 8-pass configuration — delivering high-volume DTF print output with consistent quality across garments, bags, shoes, and textile applications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -511,11 +511,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">All-in-One<span>Powder System</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Integrated automatic powder shaker and powder returning system eliminates the need for separate equipment, saving production space and energy while maintaining consistent TPU powder application.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -525,11 +525,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Intelligent Auto<span>Anti-Collision</span> </h3>
 
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Built-in auto anti-collision system protects printheads and media during operation, reducing equipment damage risk and maintaining uninterrupted production across high-speed print runs.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -539,11 +539,10 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Multi-Printhead<span>Flexibility</span> </h3>
                                     </a>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Available with 2 to 8 Epson i3200A1 and i1600A1 printheads, allowing scalable production capacity to match output requirements from mid-range to large industrial operations.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -553,11 +552,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum <span>Lorem Ipsum</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Fluorescent ORGB <span>Capability</span></h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       Supports fluorescent ORGB ink configurations, expanding the printable colour gamut for vibrant, eye-catching output on sportswear, fashion apparel, and promotional textile applications.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -567,11 +566,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem Ipsum<span>Lorem Ipsumn</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Touchscreen <span>Control System</span> </h3>
 
                                     </a>
                                     <p>
-                                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                       8th generation i7 processor with 15.6-inch 1920×1080 touchscreen allows all machine functions to be operated from a single interface — simplifying setup, monitoring, and production management.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -693,7 +692,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                      We supply industrial-grade DTF printers engineered for high-speed, high-quality direct-to-film printing across a wide range of garment and textile applications. Our printer range — from the compact GLO-DTF 420 & 600 PRO to the large-format GLO-DTF 900MAX — combines Epson i3200 and i1600 printhead technology with all-in-one powder shaker systems, intelligent auto anti-collision protection, and full touchscreen control. Built for demanding production environments, our DTF printers deliver consistent, professional-grade output across every run.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -720,7 +719,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Our DTF printers are engineered to deliver high-speed production output, consistent print quality, and efficient operation across garment and textile applications. Built with industrial-grade components and intelligent automation, they help businesses maximise throughput, reduce downtime, and lower overall production costs.
                                 </p>
                             </div>
                         </div>
@@ -730,9 +729,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Higher Production Speed</h3>
                                         <p>
-                                           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                           Printing speeds up to 22m²/h with Epson i3200A1 printheads and multi-pass configurations enable high-volume output — reducing production cycle time and increasing daily throughput significantly.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -745,9 +744,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title"> Reduced Equipment Costs</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            All-in-one printer and powder shaker body eliminates the need for separate machines, reducing equipment investment, floor space requirements, and overall operational complexity for DTF production setups.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -760,9 +759,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Lorem Ipsum</h3>
+                                        <h3 class="ps-title">Reliable Print Consistency</h3>
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Auto anti-collision system, low ink alarm protection, and stable printhead performance ensure uninterrupted production runs with consistent print quality — minimising reprints, waste, and maintenance downtime.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -873,13 +872,13 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Lorem Ipsum
+                                                    Q1: What is DTF printing and what can it print on?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>DTF (Direct to Film) printing transfers designs onto fabric via a special film and heat press process. Our DTF printers are suitable for printing on cotton, polyester, nylon, spandex, blended fabrics, bags, shoes, and a wide range of garment and textile applications.
                                                     </p>
                                                 </div>
                                             </div>
@@ -890,13 +889,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                   Lorem Ipsum
+                                                   Q2: What printhead options are available in your DTF printers?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Our DTF printers are equipped with Epson i3200A1 and i1600A1 printheads. The GLO-DTF 900MAX supports 4–8 printheads for high-volume production, while the GLO-DTF 420 & 600 PRO comes with 2 printheads for mid-range operations.
                                                     </p>
                                                 </div>
                                             </div>
@@ -907,13 +906,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Lorem Ipsum
+                                                    Q3: Do the printers include a powder shaker system?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Yes. Both the GLO-DTF 900MAX and GLO-DTF 420 & 600 PRO feature an all-in-one integrated powder shaker system with automatic powder returning — eliminating the need for separate equipment and saving production space and energy.
                                                     </p>
                                                 </div>
                                             </div>
@@ -924,13 +923,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Lorem Ipsum
+                                                    Q4: What print software is compatible with your DTF printers?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>Our DTF printers are compatible with Ripprint and Photoprint software, supporting CMYK W colour printing with flexible pass and speed configurations to suit different production requirements.
                                                     </p>
                                                 </div>
                                             </div>
@@ -941,13 +940,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Lorem Ipsum
+                                                    Q5: What are the working environment requirements for the DTF printers?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>DTF printers should be operated in an environment maintained at 25°C–30°C with humidity between 50%–70%. Stable temperature and humidity conditions ensure consistent ink performance, powder adhesion, and printhead reliability.
                                                     </p>
                                                 </div>
                                             </div>
