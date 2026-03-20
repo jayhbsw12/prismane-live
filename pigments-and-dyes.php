@@ -27,7 +27,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Pigments & Dyes</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">颜料和染料</span>
-                                    <p class="text-white"> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p class="text-white"> High-performance organic pigments and disperse dyes engineered for consistent colour strength, excellent fastness properties, and reliable performance across digital inks, textile printing, coatings, and flexible packaging applications. Supplying a broad colour range including yellows, oranges, reds, violets, blues, greens, and blacks — formulated for compatibility with modern ink and coating manufacturing systems.</p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -144,14 +144,16 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – U系列</b>
-                                        <br><br>  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                        <b> Organic Pigments</b> <br>
+                                        <b> 有机颜料</b>
+                                        <br><br>  
+                                          High-performance organic pigments available across a full colour range including yellows, oranges, reds, violets, blues, greens, and blacks. Engineered for strong colour strength, excellent light fastness, and reliable compatibility with digital inks, coatings, and flexible packaging applications.
                                     </p>
                                     <p>
-                                        <b> Lorem Ipsum</b> <br>
-                                        <b> 莱昂 – M系列</b>
-                                        <br><br>  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                        <b> Disperse Dyes</b> <br>
+                                        <b> 分散染料</b>
+                                        <br><br>  
+                                          Specially developed disperse dyes for dye sublimation ink manufacturing and textile dyeing applications. Available across Yellow, Cyan, Magenta, and Black — engineered for optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness performance.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -191,8 +193,8 @@
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">Pigments & Dyes</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">颜料和染料</h3>
-                                <span class="text-white fs-1">Lorem Ipsum</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
+                                <span class="text-white fs-1">Organic Pigments </span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2"> 有机颜料</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -334,112 +336,112 @@
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">Lorem Ipsum</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">莱昂 - M系列</span>
+                                <span class="text-white fs-1 ">Disperse Dyes</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2 ">分散染料</span>
                             </div>
 
                             <div class="col-12  table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <th scope="col" class="fw-normal"></th>
+                                            <!-- <th scope="col" class="fw-normal"></th> -->
                                             <th scope="col" class="fw-normal">Product</th>
                                             <th scope="col" class="fw-normal">Color Index</th>
-                                            <th scope="col" class="fw-normal">Chemical Class</th>
                                             <th scope="col" class="fw-normal">Light Fastness</th>
                                             <th scope="col" class="fw-normal">Characteristics</th>
+                                            <!-- <th scope="col" class="fw-normal">Characteristics</th> -->
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fff109"></span></td>
-                                            <td>Leon Yellow N5-M</td>
-                                            <td>P.Y.74</td>
-                                            <td>Monoase</td>
+                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
+                                            <td>Glojet Yellow 005</td>
+                                            <td>Disperse Yellow 54</td>
                                             <td>6</td>
-                                            <td>High performance standard yellow</td>
+                                            <td>Brilliant Yellow</td>
+                                            <!-- <td>High performance standard yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #fece21"></span></td>
-                                            <td>Leon Yellow R49-M</td>
-                                            <td>P.Y.138</td>
-                                            <td>Monoase</td>
-                                            <td>6-7</td>
-                                            <td>High performance green shade yellow</td>
+                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
+                                            <td>Glojet Yellow 008</td>
+                                            <td>Disperse Yellow 82</td>
+                                            <td>4</td>
+                                            <td>Fluorescent Green light Yellow</td>
+                                            <!-- <td>High performance green shade yellow</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f7ac12"></span></td>
-                                            <td>Leon Yellow E66-M</td>
-                                            <td>P.Y.155</td>
-                                            <td>Double Azo</td>
+                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
+                                            <td>Glojet Orange 008</td>
+                                            <td>Disperse Orange 25</td>
+                                            <td>6</td>
+                                            <td>Red light Orange</td>
+                                            <!-- <td>High performance strong green shade</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
+                                            <td>Glojet Red 001</td>
+                                            <td>Disperse Red 60</td>
+                                            <td>6–7</td>
+                                            <td>Bright Red Blue light</td>
+                                            <!-- <td>High performance yellow shade Orange</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
+                                            <td>Glojet Blue 006</td>
+                                            <td>Disperse Blue 60</td>
                                             <td>7</td>
-                                            <td>High performance strong green shade</td>
+                                            <td>Colorful Green light Blue</td>
+                                            <!-- <td>High Performance Red Shade Orange</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f28e1f"></span></td>
-                                            <td>Leon Orange E4-M</td>
-                                            <td>P.0.13</td>
-                                            <td>Disazopyrazolone</td>
+                                            <!-- <td><span class="color-item" style="background: #f15122"></span></td> -->
+                                            <td>Glojet Blue 007</td>
+                                            <td>Disperse Blue 72</td>
+                                            <td>6–7</td>
+                                            <td>Red light Blue</td>
+                                            <!-- <td>High Performance mid Shade Orange</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
+                                            <td>Glojet Blue 008</td>
+                                            <td>Disperse Blue 359</td>
+                                            <td>5–6</td>
+                                            <td>Brilliant Blue</td>
+                                            <!-- <td>High Performance Red with Bluish tone</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #aa1b25"></span></td> -->
+                                            <td>Glojet Blue 009</td>
+                                            <td>Disperse Blue 360</td>
+                                            <td>5–6</td>
+                                            <td>Brilliant Blue</td>
+                                            <!-- <td>High performance standard magenta</td> -->
+                                        </tr>
+                                        <tr>
+                                            <!-- <td><span class="color-item" style="background: #5f1c61"></span></td> -->
+                                            <td>Glojet Brown 002</td>
+                                            <td>Disperse Brown 27</td>
                                             <td>6</td>
-                                            <td>High performance yellow shade Orange</td>
+                                            <td>Deep Brown</td>
+                                            <!-- <td>High performance red shade magenta</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f58025"></span></td>
-                                            <td>Leon Orange C47-M</td>
-                                            <td>P.0.36</td>
-                                            <td>Benzimidazalone</td>
-                                            <td>6-7</td>
-                                            <td>High Performance Red Shade Orange</td>
+                                            <!-- <td><span class="color-item" style="background: #280653"></span></td> -->
+                                            <td>Glojet Black 001</td>
+                                            <td>Disperse Black mix</td>
+                                            <td>5–6</td>
+                                            <td>Blue Black</td>
+                                            <!-- <td>High performance blue shade violet</td> -->
                                         </tr>
                                         <tr>
-                                            <td><span class="color-item" style="background: #f15122"></span></td>
-                                            <td>Leon Orange C75-M</td>
-                                            <td>P.0.64</td>
-                                            <td>Benzimidazalone</td>
-                                            <td>6</td>
-                                            <td>High Performance mid Shade Orange</td>
+                                            <!-- <td><span class="color-item" style="background: #211f6e"></span></td> -->
+                                            <td>Glojet Black 002</td>
+                                            <td>Disperse Black mix</td>
+                                            <td>5–6</td>
+                                            <td>Red Black</td>
+                                            <!-- <td>High performance standard cyan</td> -->
                                         </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ac0000"></span></td>
-                                            <td>Leon Red M21-M</td>
-                                            <td>P.R.210</td>
-                                            <td>Single Azo</td>
-                                            <td>6</td>
-                                            <td>High Performance Red with Bluish tone</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Leon Red R33-M</td>
-                                            <td>P.R.122</td>
-                                            <td>Quinacridone</td>
-                                            <td>7-8</td>
-                                            <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Leon Violet R10-M</td>
-                                            <td>P.V.19</td>
-                                            <td>Quinacridone</td>
-                                            <td>7-8</td>
-                                            <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Leon Violet E4-M</td>
-                                            <td>P.V.23</td>
-                                            <td>Dioxazin Carbazole</td>
-                                            <td>7-8</td>
-                                            <td>High performance blue shade violet</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Leon Blue C64-M</td>
-                                            <td>P.B.15.3</td>
-                                            <td>Cu-Phthalocyanine</td>
-                                            <td>8</td>
-                                            <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
+                                        <!-- <tr>
                                             <td><span class="color-item" style="background: #00352d"></span></td>
                                             <td>Leon Green Q8-M</td>
                                             <td>P.G.7</td>
@@ -470,7 +472,7 @@
                                             <td>Titanium Di-Oxide.</td>
                                             <td>8</td>
                                             <td>Highly Opaque White</td>
-                                        </tr>
+                                        </tr> -->
                                     </tbody>
                                 </table>
 
@@ -497,11 +499,11 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem <span> Ipsum </span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">Broad Colour <span>Range</span></h3>
 
                                     </a>
                                     <p>
-                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                         Comprehensive portfolio of organic pigments and disperse dyes covering yellows, oranges, reds, violets, blues, greens, browns, and blacks — providing complete colour solutions for ink and coating manufacturers.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -511,11 +513,50 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem <span>Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">High Light<span>Fastness</span> </h3>
 
                                     </a>
                                     <p>
-                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                         Engineered to deliver light fastness ratings of 4 to 8 across the range — ensuring colour stability and long-term performance in end-use applications exposed to light and outdoor conditions.                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Superior Wash <span> Fastness</span> </h3>
+
+                                    </a>
+                                    <p>
+                                         Optimised wash fastness, alkali perspiration fastness, and crock fastness properties ensure pigments and dyes maintain colour integrity through repeated washing and demanding end-use conditions.                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Ink & Coating <span>Compatibility</span> </h3>
+
+                                    </a>
+                                    <p>
+                                         Formulated for easy integration into digital inks, sublimation inks, textile coatings, and flexible packaging applications — compatible with commonly used binders and ink manufacturing systems.                                    </p>
+                                    <!-- <ul>
+                                        <li>+ Logo Design</li>
+                                        <li>+ Advertisement</li>
+                                        <li>+ Promotion</li>
+                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Consistent Colour <span>Strength</span></h3>
+
+                                    </a>
+                                    <p>
+                                        Precisely engineered colour index grades deliver uniform colour strength and shade consistency across production batches — reducing variability and supporting reliable ink and coating formulation.
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -525,53 +566,11 @@
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem <span> Ipsum</span> </h3>
+                                        <h3 class="service__title-7 text-prismane-2">Stable Processing <span> Performance</span> </h3>
 
                                     </a>
                                     <p>
-                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem  <span>Ipsum</span> </h3>
-
-                                    </a>
-                                    <p>
-                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem <span>Ipsum</span></h3>
-
-                                    </a>
-                                    <p>
-                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Lorem <span> Ipsum</span> </h3>
-
-                                    </a>
-                                    <p>
-                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                         High chemical stability and controlled particle characteristics ensure smooth processing, minimal agglomeration, and reliable dispersion performance in industrial ink and coating manufacturing environments.                            
                                     </p>
                                     <!-- <ul>
                                         <li>+ Logo Design</li>
@@ -693,7 +692,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                         We supply high-performance organic pigments and disperse dyes engineered for consistent colour strength, reliable fastness properties, and seamless integration into digital ink, textile, and coating manufacturing systems. Our pigment range covers the full colour spectrum across yellows, oranges, reds, violets, blues, greens, and blacks — while our disperse dye range is specifically developed for dye sublimation ink production. With a focus on colour accuracy, processing stability, and formulation compatibility, we help ink and coating manufacturers achieve dependable, repeatable results across every batch.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -720,7 +719,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                     Our pigments and dyes are engineered to deliver consistent colour strength, reliable fastness performance, and stable processing across ink, coating, and textile manufacturing applications. Designed for demanding industrial environments, they help manufacturers achieve accurate colour results, reduced variability, and controlled production costs across every batch.                                
                                 </p>
                             </div>
                         </div>
@@ -730,9 +729,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum </h3>
+                                        <h3 class="ps-title">Wide Colour Spectrum </h3>
                                         <p>
-                                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                             Comprehensive range of organic pigments and disperse dyes covering the full colour spectrum — giving ink and coating manufacturers a single reliable source for all colour requirements across applications.                                        
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -745,9 +744,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum </h3>
+                                        <h3 class="ps-title"> Fastness Performance </h3>
                                         <p>
-                                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                             Optimised light fastness, wash fastness, alkali perspiration fastness, and crock fastness across the range — ensuring end-use products meet quality and durability standards in textile and graphic applications.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -760,9 +759,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Lorem Ipsum </h3>
+                                        <h3 class="ps-title">  Stable Batch Consistency </h3>
                                         <p>
-                                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                             Precisely controlled colour index grades and chemical class specifications deliver uniform colour strength and shade consistency — reducing batch-to-batch variability and supporting efficient ink formulation.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -873,14 +872,14 @@
                                                 <button class="accordion-button  pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                     Lorem Ipsum 
+                                                     Q1: What is the difference between pigments and dyes?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                                        Pigments are insoluble colour particles that sit on or within a substrate, offering high opacity and durability. Dyes are soluble colourants that chemically bond with the substrate, delivering vibrant, transparent colour. Each is suited to different applications depending on the required end-use performance.
                                                     </p>
                                                 </div>
                                             </div>
@@ -891,13 +890,14 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                     Lorem Ipsum 
+                                                     Q2: What applications are your organic pigments suitable for?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>
+                                                         Our organic pigments are suitable for digital inks, textile printing inks, industrial and decorative coatings, and flexible packaging applications — available across a full colour range with varying light fastness ratings from 6 to 8.
                                                     </p>
                                                 </div>
                                             </div>
@@ -908,13 +908,14 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                     Lorem Ipsum 
+                                                     Q3: What applications are your disperse dyes designed for?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>
+                                                         Our disperse dyes are specially developed for dye sublimation ink manufacturing and polyester textile dyeing. Available in Yellow, Cyan, Magenta, Black, Orange, Blue, Brown, and mixed Black grades — engineered for optimum fastness across light, wash, perspiration, and crock resistance.
                                                     </p>
                                                 </div>
                                             </div>
@@ -925,13 +926,14 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                     Lorem Ipsum 
+                                                     Q4: How do I select the right pigment or dye for my application? 
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>
+                                                         Selection depends on your substrate, carrier medium, required fastness properties, and end-use conditions. Key factors include light fastness rating, chemical class compatibility, and whether a water-based, solvent-based, or sublimation system is being used.
                                                     </p>
                                                 </div>
                                             </div>
@@ -942,13 +944,14 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                     Lorem Ipsum 
+                                                     Q5: How should pigments and dyes be stored?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    <p>
+                                                         Pigments and dyes should be stored in sealed containers in a cool, dry environment away from direct sunlight, moisture, and heat. Proper storage maintains colour strength, chemical stability, and processing performance throughout the product's shelf life.
                                                     </p>
                                                 </div>
                                             </div>
