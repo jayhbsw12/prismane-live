@@ -677,7 +677,7 @@
                                 <!-- <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
                                     data-speed="auto"> -->
                                 <video width="100%" height="100%" autoplay muted loop>
-                                    <source src="./assets/video/top 1.webm" type="video/mp4">
+                                    <source src="./assets/video/DTF Printer.mp4" type="video/mp4">
                                 </video>
                             </div>
                         </div>
