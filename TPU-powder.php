@@ -27,8 +27,11 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">TPU Powder</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">TPU热熔粉末</span>
+                                    <p class="text-white fw-semibold fst-italic" style="font-size:1.1rem;">
+                                        Soft. Flexible. Durable. Engineered to bond your DTF prints to fabric with precision — and outlast the garment itself.
+                                    </p>
                                     <p class="text-white">
-                                        The Glojet powder is loaded into a specialized container, either manually or via an automatic mechanism (such as a screw or cyclone system). It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush. This powder is activated by exposure to an IR field, using either an oven or a heater. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive. Alternatively, this powder scattering process can be integrated with a flatbed laminator for enhanced lamination quality.
+                                        The Glojet TPU Powder is loaded into a specialized container, either manually or via an automatic mechanism — such as a screw or cyclone system. It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush — ensuring uniform powder coverage across the entire printed surface. This powder is then activated by exposure to an IR field, using either an oven or a heater — causing it to melt and bond to the ink layer. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive — creating a strong, durable bond. Alternatively, this powder scattering process can be integrated with a flatbed laminator for enhanced lamination quality.
                                     </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
@@ -95,7 +98,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 465px; " class="wave-path-prismane">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 530px; " class="wave-path-prismane">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -146,16 +149,18 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>Glojet TPU Powder – GLO 6 </b> <br>
-                                        <b>葛洁特 TPU粉末 – GLO 6型</b>
+                                        <b>Glojet TPU Powder – GLO 6 — Strong &amp; Tough</b> <br>
+                                        <b>葛洁特 TPU粉末 – GLO 6型 — 强韧型</b>
                                         <br><br>
-                                        Strong fastness, good toughness, and good tension. Melting temperature range 105–115°C with good dry cleaning resistance and 90°C washing resistance — designed for standard DTF applications requiring reliable adhesion and durability.
+                                        Formulated for strong fastness, good toughness, and good tension — making it the right choice for applications where durability and bond strength are the primary requirements. Operating temperature range of 105–115°C with good dry cleaning resistance and washing resistance of up to 90°C.<br><br>
+                                        <b>Best suited for:</b> Bags, shoes, structured garments, and applications requiring a strong, durable bond.
                                     </p>
                                     <p>
-                                        <b>Glojet TPU Powder – GLO 8 </b> <br>
-                                        <b>葛洁特 TPU粉末 – GLO 8型</b>
-                                        <br><br> 
-                                        Soft powder with the best hand feel. Melting temperature range 108–118°C with good dry cleaning resistance and 90°C washing resistance — ideal for lingerie, undergarments, and lycra fabric applications requiring a soft, flexible finish.    
+                                        <b>Glojet TPU Powder – GLO 8 — Softest Feel</b> <br>
+                                        <b>葛洁特 TPU粉末 – GLO 8型 — 柔软型</b>
+                                        <br><br>
+                                        Formulated as a soft powder — delivering the best possible hand feel on the final garment. Where comfort and softness are the priority, GLO 8 is the product of choice. Operating temperature range of 108–118°C with good dry cleaning resistance and washing resistance of up to 90°C.<br><br>
+                                        <b>Best suited for:</b> T-shirts, hoodies, sportswear, lingerie, lycra fabrics, and any application where a soft, comfortable hand feel is essential.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -398,59 +403,35 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Soft & flexible <span>in nature </span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Soft &amp; Flexible <span>in Nature</span></h3>
                                     </a>
                                     <p>
-                                        Applications in lingerie, under garments & lycra fabrics.
+                                        Produces a soft, flexible adhesive layer — making it ideal for applications in lingerie, under garments, and lycra fabrics where stretch and comfort are critical.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Low Melting <span>Point</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Low Melting <span>Point</span></h3>
                                     </a>
                                     <p>
-                                        Can be used on heat sensitive material.
+                                        The low melting point formulation means the powder can be used on heat sensitive materials — expanding your range of compatible fabrics without risking heat damage.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">UV<span> Resistance</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">UV<span> Resistance</span></h3>
                                     </a>
                                     <p>
-                                       No yellowing & UV resistance material available.
+                                        No yellowing — Glojet TPU Powder is a UV resistant material that maintains its appearance and integrity even with prolonged exposure to light and UV rays.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">High <span>Elongation</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">High <span>Elongation</span></h3>
                                     </a>
                                     <p>
-                                        Outlasts garments
+                                        Engineered for high elongation — the bonded layer outlasts the garment itself, stretching and moving with the fabric without cracking, peeling or breaking.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <!-- <div class="service__item-7">
                                     <a href="">
@@ -578,7 +559,7 @@
 
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
+                                <h2 class="sec-sub-title title-anim">The Adhesive Backbone</h2>
                                 <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE TPU POWDER PARTNER
                                 </h4>
                                 <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的TPU粉末合作伙伴</h4>
@@ -586,7 +567,10 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                       We supply high-performance Glojet TPU powder engineered for reliable adhesion, excellent wash resistance, and consistent powder distribution across all standard DTF production systems. Available in GLO 6 for strong fastness and good toughness, and GLO 8 for a soft, skin-friendly hand feel — our TPU powders are designed for lingerie, undergarments, lycra, and general garment applications. With UV resistance, low melting point, and high elongation properties, our powders deliver durable, flexible transfers that outlast the garment.
+                                        Glojet TPU Powder is the adhesive backbone of every perfect DTF transfer. Engineered for reliable bonding, excellent wash resistance, and consistent powder distribution — our powder is available in two precision-formulated grades: GLO 6 for maximum bond strength and toughness, and GLO 8 for the softest possible hand feel on the final garment.
+                                    </p>
+                                    <p>
+                                        Dispersed via a needle roller with an oscillating brush, activated through an IR oven or heater, and compatible with both calendar press and flatbed laminator systems — Glojet TPU Powder integrates seamlessly into any standard DTF production workflow, delivering durable, flexible transfers that outlast the garment itself.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -607,8 +591,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">PROVEN GAINS</h2>
-                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">已证实的收益</span>
+                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">APPLICATION AREAS</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">应用领域</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
@@ -623,45 +607,30 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Superior Wash Resistance</h3>
+                                        <h3 class="ps-title">Under Garments</h3>
                                         <p>
-                                             Both GLO 6 and GLO 8 offer good dry cleaning resistance and 90°C washing resistance — ensuring transferred designs remain firmly bonded and colour-intact through repeated industrial and domestic washing cycles.
+                                            Soft, flexible, skin-friendly bond for delicate fabrics requiring stretch and comfort. Low melting point and high elongation accommodate constant fabric movement without compromising adhesion.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> UV & Yellowing Resistance</h3>
+                                        <h3 class="ps-title">Lycra &amp; Stretch Fabrics</h3>
                                         <p>
-                                             No-yellowing UV resistant material ensures transferred prints maintain their original colour and appearance over time — even with prolonged exposure to sunlight and outdoor conditions.
+                                            High elongation ensures the bond stretches with lycra — no cracking, peeling, or breaking. Ideal for sportswear, activewear, and any application where the fabric needs to move freely.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Flexible Fabric Compatibility</h3>
+                                        <h3 class="ps-title">DTF Transfer &amp; Heat Sensitive Materials</h3>
                                         <p>
-                                             GLO 8's soft powder formulation delivers the best hand feel for lingerie, undergarments, and lycra fabrics, while GLO 6 provides strong fastness and toughness for standard garment and textile applications.
+                                            Bonds DTF printed designs to fabric with a clean, durable finish. The low melting point formulation allows safe application on heat sensitive fabrics without risking heat damage or distortion.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
@@ -728,6 +697,112 @@
             <!-- Story area end -->
 
 
+
+            <!-- Application Method Options area start -->
+            <section class="about__area-3">
+                <div class="container pt-140 pb-0">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">How It Works</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Application Method Options</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">应用方式选项</h3>
+                            </div>
+                            <div class="col-12 table-responsive mt-4">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Method</th>
+                                            <th scope="col" class="fw-normal">Description</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Manual Loading</td>
+                                            <td>Powder is manually loaded into a specialized container for controlled, small-scale application</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Automatic — Screw System</td>
+                                            <td>Automated screw mechanism for consistent, high-volume powder dispersal</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Automatic — Cyclone System</td>
+                                            <td>Cyclone-based automatic system for even, high-speed powder distribution</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Flatbed Laminator Integration</td>
+                                            <td>Powder scattering process integrated with a flatbed laminator for enhanced lamination quality</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Application Method Options area end -->
+
+            <!-- Quick Selection Guide area start -->
+            <section class="about__area-3">
+                <div class="container pt-100 pb-140">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Choose the Right Grade</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Quick Selection Guide</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">快速选择指南</h3>
+                            </div>
+                            <div class="col-12 table-responsive mt-4">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Your Requirement</th>
+                                            <th scope="col" class="fw-normal">Recommended Product</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Maximum bond strength &amp; toughness</td>
+                                            <td>GLO 6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Softest hand feel on garment</td>
+                                            <td>GLO 8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Lingerie &amp; lycra applications</td>
+                                            <td>GLO 8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Bags, shoes &amp; structured items</td>
+                                            <td>GLO 6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Heat sensitive fabric applications</td>
+                                            <td>GLO 8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>High elongation requirement</td>
+                                            <td>GLO 8</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- CTA Banner -->
+                            <!-- <div class="mt-5 p-5 text-center rounded" style="background: var(--black-2, #1a1a1a); border: 1px solid rgba(201,243,29,0.2);">
+                                <h3 class="text-prismane mb-3">Need Help Choosing Between GLO 6 and GLO 8?</h3>
+                                <p class="text-white fst-italic mb-4">Our technical team will help you select the right TPU Powder grade — matched to your fabric type, application method, and production requirements.</p>
+                                <div class="d-flex justify-content-center gap-4 flex-wrap">
+                                    <a href="contact.php" class="blog__btn about_btn text-prismane">Get a Quote <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                                    <a href="contact.php" class="blog__btn about_btn text-prismane">Contact Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Quick Selection Guide area end -->
 
             <!-- FAQ area start -->
             <section class="faq__area-6">
@@ -842,6 +917,40 @@
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>TPU powder should be stored in sealed containers in a cool, dry environment away from moisture and direct heat. Proper storage prevents clumping, maintains powder flow consistency, and ensures reliable adhesion performance during DTF production.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSix">
+                                                <button class="accordion-button collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                                    aria-expanded="false" aria-controls="collapseSix">
+                                                    Q6: What application methods are available for Glojet TPU Powder?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSix" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Glojet TPU Powder supports four application methods: Manual Loading for controlled small-scale use, Automatic Screw System for consistent high-volume dispersal, Automatic Cyclone System for even high-speed distribution, and Flatbed Laminator Integration for enhanced lamination quality. All methods use a needle roller with an oscillating brush for uniform powder coverage.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSeven">
+                                                <button class="accordion-button collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseSeven"
+                                                    aria-expanded="false" aria-controls="collapseSeven">
+                                                    Q7: Which Glojet TPU Powder grade is right for bags and shoes?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSeven" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>GLO 6 is the recommended choice for bags, shoes, and structured garments — where maximum bond strength, toughness, and tension are the primary requirements. For soft garments like t-shirts, hoodies, lingerie, and lycra fabrics where hand feel is the priority, GLO 8 is the ideal grade.
                                                     </p>
                                                 </div>
                                             </div>

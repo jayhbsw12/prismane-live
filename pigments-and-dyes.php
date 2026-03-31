@@ -27,7 +27,12 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Pigments & Dyes</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">颜料和染料</span>
-                                    <p class="text-white"> High-performance organic pigments and disperse dyes engineered for consistent colour strength, excellent fastness properties, and reliable performance across digital inks, textile printing, coatings, and flexible packaging applications. Supplying a broad colour range including yellows, oranges, reds, violets, blues, greens, and blacks — formulated for compatibility with modern ink and coating manufacturing systems.</p>
+                                    <p class="text-white fw-semibold fst-italic" style="font-size:1.1rem;">
+                                        A complete range of Oekotex certified, water-based disperse dyes dispersions — engineered for superior light fastness, wash fastness, and consistent colour performance across every sublimation application.
+                                    </p>
+                                    <p class="text-white">
+                                        The GLOJET Disperse Dyes Series is a specially developed range of water-based disperse dyes dispersions for dye sublimation inks — formulated to deliver the highest possible colour performance, stability, and fastness properties in sublimation ink systems. Every dye in the GLOJET Disperse Dyes Series is engineered to provide optimum Light Fastness, Wash Fastness, Alkali Perspiration Fastness, and Crock Fastness.
+                                    </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -93,7 +98,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 440px; " class="wave-path-prismane">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 520px; " class="wave-path-prismane">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -144,16 +149,16 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> Organic Pigments</b> <br>
-                                        <b> 有机颜料</b>
-                                        <br><br>  
-                                          High-performance organic pigments available across a full colour range including yellows, oranges, reds, violets, blues, greens, and blacks. Engineered for strong colour strength, excellent light fastness, and reliable compatibility with digital inks, coatings, and flexible packaging applications.
+                                        <b>GLOJET Disperse Dyes — For Dye Sublimation Inks</b> <br>
+                                        <b>葛洁特分散染料 — 用于染料升华油墨</b>
+                                        <br><br>
+                                        A specially developed range of water-based disperse dyes dispersions for dye sublimation inks. Available across eleven colour grades — Yellows, Oranges, Reds, Blues, Browns, and Blacks — every dye is engineered to deliver optimum Light Fastness, Wash Fastness, Alkali Perspiration Fastness, and Crock Fastness. Fully Oekotex certified and compliant.
                                     </p>
                                     <p>
-                                        <b> Disperse Dyes</b> <br>
-                                        <b> 分散染料</b>
-                                        <br><br>  
-                                          Specially developed disperse dyes for dye sublimation ink manufacturing and textile dyeing applications. Available across Yellow, Cyan, Magenta, and Black — engineered for optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness performance.
+                                        <b>Three Sublimation Ink Series — One Standard of Excellence</b> <br>
+                                        <b>三款升华油墨系列 — 同一卓越标准</b>
+                                        <br><br>
+                                        The GLOJET Disperse Dyes are available across three sublimation ink series — GLOJET O Series, GLOJET Ocean Series, and GLOJET Ocean Plus Series. Each series is Oekotex certified and tested to the same rigorous fastness standards, with transfer conditions at 180°C/60sec and 200°C/30sec — delivering consistent performance in HD Black, Cyan, Magenta, and Yellow.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -499,84 +504,51 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Broad Colour <span>Range</span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Optimum Light <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                         Comprehensive portfolio of organic pigments and disperse dyes covering yellows, oranges, reds, violets, blues, greens, browns, and blacks — providing complete colour solutions for ink and coating manufacturers.
+                                        Tested to ISO 105-B02 (160h) — light fastness ratings up to 7 across the disperse dye range, ensuring colour stability and resistance to fading under prolonged light and UV exposure in sublimation applications.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">High Light<span>Fastness</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Optimum Wash <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                         Engineered to deliver light fastness ratings of 4 to 8 across the range — ensuring colour stability and long-term performance in end-use applications exposed to light and outdoor conditions.                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Superior Wash <span> Fastness</span> </h3>
-
-                                    </a>
-                                    <p>
-                                         Optimised wash fastness, alkali perspiration fastness, and crock fastness properties ensure pigments and dyes maintain colour integrity through repeated washing and demanding end-use conditions.                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Ink & Coating <span>Compatibility</span> </h3>
-
-                                    </a>
-                                    <p>
-                                         Formulated for easy integration into digital inks, sublimation inks, textile coatings, and flexible packaging applications — compatible with commonly used binders and ink manufacturing systems.                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Consistent Colour <span>Strength</span></h3>
-
-                                    </a>
-                                    <p>
-                                        Precisely engineered colour index grades deliver uniform colour strength and shade consistency across production batches — reducing variability and supporting reliable ink and coating formulation.
+                                        Tested to ISO 105-C06:2007 (40°C) — achieving 4/5 wash fastness ratings across all colours, ensuring transferred prints maintain colour integrity through repeated domestic and industrial washing cycles.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Stable Processing <span> Performance</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Alkali Perspiration <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                         High chemical stability and controlled particle characteristics ensure smooth processing, minimal agglomeration, and reliable dispersion performance in industrial ink and coating manufacturing environments.                            
+                                        Tested to ISO 105-E04:2010 — achieving 4/5 alkali perspiration fastness ratings, ensuring colour stability and skin-safe performance in garment and sportswear applications where perspiration contact is expected.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Optimum Crock <span>Fastness</span></h3>
+                                    </a>
+                                    <p>
+                                        Tested to ISO 105-X 12:2001 — achieving 4/5 crock fastness ratings, ensuring resistance to colour rubbing and crocking for durable, professional-quality sublimation prints across all fabric types.
+                                    </p>
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Oekotex <span>Certified</span></h3>
+                                    </a>
+                                    <p>
+                                        Every dye in the GLOJET Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status — the globally recognised standard for safe, responsible textile ink manufacturing.
+                                    </p>
+                                </div>
+                                <div class="service__item-7">
+                                    <a href="">
+                                        <h3 class="service__title-7 text-prismane-2">Printer <span>Compatibility</span></h3>
+                                    </a>
+                                    <p>
+                                        Compatible with leading industrial printhead platforms including EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 &amp; Gen 5), and KYOCERA (KJ4B) — designed for seamless integration into existing sublimation ink systems.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -684,15 +656,18 @@
 
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE PIGMENTS & DYES PARTNER
+                                <h2 class="sec-sub-title title-anim">Specially Developed for Sublimation</h2>
+                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE PIGMENTS &amp; DYES PARTNER
                                 </h4>
                                 <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您值得信赖的颜料和染料合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                         We supply high-performance organic pigments and disperse dyes engineered for consistent colour strength, reliable fastness properties, and seamless integration into digital ink, textile, and coating manufacturing systems. Our pigment range covers the full colour spectrum across yellows, oranges, reds, violets, blues, greens, and blacks — while our disperse dye range is specifically developed for dye sublimation ink production. With a focus on colour accuracy, processing stability, and formulation compatibility, we help ink and coating manufacturers achieve dependable, repeatable results across every batch.
+                                        The GLOJET Disperse Dyes Series is a complete range of Oekotex certified, water-based disperse dyes dispersions specially developed for dye sublimation ink manufacturing. Available across the GLOJET O Series, Ocean Series, and Ocean Plus Series — each formulated to the same rigorous fastness standards — our dyes deliver consistent colour performance across HD Black, Cyan, Magenta, and Yellow.
+                                    </p>
+                                    <p>
+                                        Compatible with leading printhead platforms from EPSON, RICOH, and KYOCERA, and backed by ISO 45001:2018, ISO 9001:2015, and ISO 14004:2015 company certifications — GLOJET Disperse Dyes are engineered for manufacturers who demand professional-grade colour, eco-responsible formulation, and reliable results at scale.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -719,7 +694,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                     Our pigments and dyes are engineered to deliver consistent colour strength, reliable fastness performance, and stable processing across ink, coating, and textile manufacturing applications. Designed for demanding industrial environments, they help manufacturers achieve accurate colour results, reduced variability, and controlled production costs across every batch.                                
+                                    The GLOJET Disperse Dyes Series is engineered to deliver consistent 4/5 fastness ratings across wash, perspiration, and crock tests — while achieving light fastness up to 7. Available in standard and fluorescent ink colours, with proven compatibility across major industrial printhead platforms.
                                 </p>
                             </div>
                         </div>
@@ -729,45 +704,30 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Wide Colour Spectrum </h3>
+                                        <h3 class="ps-title">Certified Fastness Performance</h3>
                                         <p>
-                                             Comprehensive range of organic pigments and disperse dyes covering the full colour spectrum — giving ink and coating manufacturers a single reliable source for all colour requirements across applications.                                        
+                                            4/5 ratings across ISO wash, alkali perspiration, and crock fastness tests — with light fastness reaching 7 for Yellow. Tested and verified across all three sublimation ink series: O Series, Ocean Series, and Ocean Plus Series.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Fastness Performance </h3>
+                                        <h3 class="ps-title">Standard &amp; Fluorescent Options</h3>
                                         <p>
-                                             Optimised light fastness, wash fastness, alkali perspiration fastness, and crock fastness across the range — ensuring end-use products meet quality and durability standards in textile and graphic applications.
+                                            Beyond CMYK — available in Glojet Orange, Red, and Blue (Standard) plus Glojet Fluo Yellow and Fluo Pink (Fluorescent), giving sublimation ink manufacturers expanded colour options for specialty and high-visibility applications.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">  Stable Batch Consistency </h3>
+                                        <h3 class="ps-title">ISO &amp; Oekotex Certified</h3>
                                         <p>
-                                             Precisely controlled colour index grades and chemical class specifications deliver uniform colour strength and shade consistency — reducing batch-to-batch variability and supporting efficient ink formulation.
+                                            Backed by Oekotex® compliance and three ISO company certifications — ISO 45001:2018 (Health &amp; Safety), ISO 9001:2015 (Quality Management), and ISO 14004:2015 (Environmental Management) — for manufacturers who require full traceability and compliance.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
@@ -835,6 +795,398 @@
 
 
 
+            <!-- Sublimation Ink Series area start -->
+            <section class="about__area-3">
+                <div class="container pt-140 pb-0">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Three Series, One Standard of Excellence</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">GLOJET Sublimation Ink Series</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">葛洁特升华油墨系列</h3>
+                                <p class="text-white mt-3">The GLOJET Disperse Dyes are available across three sublimation ink series — each Oekotex certified and tested to the same rigorous fastness standards.</p>
+                            </div>
+
+                            <!-- O Series -->
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1">GLOJET O Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">葛洁特 O系列</span>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Color</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition 1</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition 2</th>
+                                            <th scope="col" class="fw-normal">Light Fastness ISO 105-B02 (160h)</th>
+                                            <th scope="col" class="fw-normal">Wash Fastness ISO 105-C06:2007 (40°C)</th>
+                                            <th scope="col" class="fw-normal">Alkali Perspiration ISO 105-E04:2010</th>
+                                            <th scope="col" class="fw-normal">Crock Fastness ISO 105-X 12:2001</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>HD Black</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>6</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cyan</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Magenta</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>6</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Yellow</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>7</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Ocean Series -->
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1">GLOJET Ocean Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">葛洁特 海洋系列</span>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Color</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition 1</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition 2</th>
+                                            <th scope="col" class="fw-normal">Light Fastness ISO 105-B02 (160h)</th>
+                                            <th scope="col" class="fw-normal">Wash Fastness ISO 105-C06:2007 (40°C)</th>
+                                            <th scope="col" class="fw-normal">Alkali Perspiration ISO 105-E04:2010</th>
+                                            <th scope="col" class="fw-normal">Crock Fastness ISO 105-X 12:2001</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>HD Black</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>6</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cyan</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Magenta</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>6</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Yellow</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>7</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Ocean Plus Series -->
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1">GLOJET Ocean Plus Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">葛洁特 海洋增强系列</span>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Color</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition 1</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition 2</th>
+                                            <th scope="col" class="fw-normal">Light Fastness ISO 105-B02 (160h)</th>
+                                            <th scope="col" class="fw-normal">Wash Fastness ISO 105-C06:2007 (40°C)</th>
+                                            <th scope="col" class="fw-normal">Alkali Perspiration ISO 105-E04:2010</th>
+                                            <th scope="col" class="fw-normal">Crock Fastness ISO 105-X 12:2001</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>HD Black</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>6</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cyan</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Magenta</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>6</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Yellow</td>
+                                            <td>180°C / 60sec</td>
+                                            <td>200°C / 30sec</td>
+                                            <td>7</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                            <td>4/5</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Sublimation Ink Series area end -->
+
+            <!-- Fastness Standards, Colours, Printer Compatibility, Certifications -->
+            <section class="about__area-3">
+                <div class="container pt-100 pb-140">
+                    <div class="row">
+                        <div class="col-12">
+
+                            <!-- Fastness Standards Explained -->
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">What the Tests Measure</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Fastness Standards Explained</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">色牢度标准说明</h3>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Test Standard</th>
+                                            <th scope="col" class="fw-normal">What It Measures</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>ISO 105-B02 (160h) — Light Fastness</td>
+                                            <td>Resistance of colour to fading under light exposure — Rating 1–7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 105-C06:2007 (40°C) — Wash Fastness</td>
+                                            <td>Resistance of colour to fading during washing — Rating 1–5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 105-E04:2010 — Alkali Perspiration Fastness</td>
+                                            <td>Resistance of colour to perspiration — Rating 1–5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 105-X 12:2001 — Crock Fastness</td>
+                                            <td>Resistance of colour to rubbing / crocking — Rating 1–5</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Available Ink Colours -->
+                            <div class="sec-title-wrapper mt-5">
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Available Ink Colours</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">可用墨水颜色</h3>
+                                <p class="text-white">Standard &amp; Fluorescent</p>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Colour Name</th>
+                                            <th scope="col" class="fw-normal">Type</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Glojet Orange</td>
+                                            <td>Standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Red</td>
+                                            <td>Standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Blue</td>
+                                            <td>Standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Fluo Yellow</td>
+                                            <td>Fluorescent</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Fluo Pink</td>
+                                            <td>Fluorescent</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Printer Compatibility -->
+                            <div class="sec-title-wrapper mt-5">
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Printer Compatibility</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">打印机兼容性</h3>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Brand</th>
+                                            <th scope="col" class="fw-normal">Compatible Models</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>EPSON</td>
+                                            <td>i3200, 5113, 4720, DX5, DX7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>RICOH</td>
+                                            <td>Gen 4 and Gen 5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>KYOCERA</td>
+                                            <td>KJ4B</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Oekotex Certified Badges -->
+                            <div class="sec-title-wrapper mt-5">
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Oekotex® Certified &amp; Compliant</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Oekotex® 认证合规</h3>
+                                <p class="text-white">GLOJET Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status — the globally recognised standard for safe, responsible textile ink manufacturing.</p>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Badge</th>
+                                            <th scope="col" class="fw-normal">What It Means</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>HD BK</td>
+                                            <td>High-Density Black formulation</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Superior Print Quality</td>
+                                            <td>Sharp, vibrant, consistent output every run</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cost Effective Price</td>
+                                            <td>Professional grade performance at a competitive price</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Eco Friendly</td>
+                                            <td>Environmentally responsible formulation</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Fast Drying</td>
+                                            <td>Higher production throughput</td>
+                                        </tr>
+                                        <tr>
+                                            <td>FP</td>
+                                            <td>Fluorescent Pink available</td>
+                                        </tr>
+                                        <tr>
+                                            <td>FY</td>
+                                            <td>Fluorescent Yellow available</td>
+                                        </tr>
+                                        <tr>
+                                            <td>High Colour Concentration</td>
+                                            <td>Maximum colour yield per unit</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Company Certifications -->
+                            <div class="sec-title-wrapper mt-5">
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Company Certifications</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">公司认证</h3>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Certification</th>
+                                            <th scope="col" class="fw-normal">Standard</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>ISO 45001:2018</td>
+                                            <td>Occupational Health &amp; Safety</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 9001:2015</td>
+                                            <td>Quality Management System</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 14004:2015</td>
+                                            <td>Environmental Management</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Fastness Standards etc. area end -->
+
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">
@@ -869,17 +1221,17 @@
                                     <div class="accordion" id="accordionExample">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button  pe-5" type="button"
+                                                <button class="accordion-button pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                     Q1: What is the difference between pigments and dyes?
+                                                    Q1: What is the GLOJET Disperse Dyes Series?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        Pigments are insoluble colour particles that sit on or within a substrate, offering high opacity and durability. Dyes are soluble colourants that chemically bond with the substrate, delivering vibrant, transparent colour. Each is suited to different applications depending on the required end-use performance.
+                                                        The GLOJET Disperse Dyes Series is a specially developed range of water-based disperse dyes dispersions for dye sublimation inks — formulated to deliver the highest possible colour performance, stability, and fastness properties. The series is fully Oekotex certified and covers 11 colour grades including Yellows, Oranges, Reds, Blues, Browns, and Black mixes.
                                                     </p>
                                                 </div>
                                             </div>
@@ -887,17 +1239,17 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                     Q2: What applications are your organic pigments suitable for?
+                                                    Q2: What are the three GLOJET sublimation ink series?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                         Our organic pigments are suitable for digital inks, textile printing inks, industrial and decorative coatings, and flexible packaging applications — available across a full colour range with varying light fastness ratings from 6 to 8.
+                                                        GLOJET offers three sublimation ink series: the O Series, Ocean Series, and Ocean Plus Series. All three are Oekotex certified and achieve the same rigorous fastness standards — with transfer conditions at 180°C/60sec and 200°C/30sec, delivering consistent HD Black, Cyan, Magenta, and Yellow across every series.
                                                     </p>
                                                 </div>
                                             </div>
@@ -905,17 +1257,17 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingThree">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                     Q3: What applications are your disperse dyes designed for?
+                                                    Q3: Which printers are compatible with GLOJET Disperse Dyes?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                         Our disperse dyes are specially developed for dye sublimation ink manufacturing and polyester textile dyeing. Available in Yellow, Cyan, Magenta, Black, Orange, Blue, Brown, and mixed Black grades — engineered for optimum fastness across light, wash, perspiration, and crock resistance.
+                                                        GLOJET Disperse Dyes are compatible with leading industrial printhead platforms: EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) — designed for seamless integration into existing sublimation ink production systems without workflow changes.
                                                     </p>
                                                 </div>
                                             </div>
@@ -923,17 +1275,17 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingFour">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                     Q4: How do I select the right pigment or dye for my application? 
+                                                    Q4: What fastness ratings do GLOJET Disperse Dyes achieve?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                         Selection depends on your substrate, carrier medium, required fastness properties, and end-use conditions. Key factors include light fastness rating, chemical class compatibility, and whether a water-based, solvent-based, or sublimation system is being used.
+                                                        All GLOJET sublimation ink series achieve 4/5 ratings for Wash Fastness (ISO 105-C06:2007 at 40°C), Alkali Perspiration Fastness (ISO 105-E04:2010), and Crock Fastness (ISO 105-X 12:2001). Light Fastness (ISO 105-B02 at 160h) ranges from 5 for Cyan to 7 for Yellow.
                                                     </p>
                                                 </div>
                                             </div>
@@ -941,17 +1293,35 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingFive">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                     Q5: How should pigments and dyes be stored?
+                                                    Q5: Are GLOJET Disperse Dyes Oekotex certified?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                         Pigments and dyes should be stored in sealed containers in a cool, dry environment away from direct sunlight, moisture, and heat. Proper storage maintains colour strength, chemical stability, and processing performance throughout the product's shelf life.
+                                                        Yes — the GLOJET Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status, the globally recognised standard for safe and responsible textile ink manufacturing. The company is also certified under ISO 45001:2018 (Occupational Health &amp; Safety), ISO 9001:2015 (Quality Management), and ISO 14004:2015 (Environmental Management).
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSix">
+                                                <button class="accordion-button collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                                    aria-expanded="false" aria-controls="collapseSix">
+                                                    Q6: Are fluorescent ink colours available in the GLOJET range?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSix" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>
+                                                        Yes — in addition to standard colours (Orange, Red, Blue), GLOJET offers Glojet Fluo Yellow and Glojet Fluo Pink as fluorescent ink colour options — ideal for specialty, high-visibility, and fashion sublimation applications requiring vivid, eye-catching colour performance.
                                                     </p>
                                                 </div>
                                             </div>

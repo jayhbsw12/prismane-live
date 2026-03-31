@@ -14,11 +14,6 @@
 
             <!-- Hero area start -->
             <section class="hero__area hero-product d-flex align-items-center">
-                <!-- <video autoplay muted loop id="hero-video">
-                    <source src="./assets/video/red-color-example-video.mp4" type="video/mp4">
-                </video> -->
-                <!-- <div class="overlay"></div> -->
-
                 <div class="container">
                     <div class="row flex-column flex-lg-row gap-5 gap-lg-0">
                         <div class="col-12 col-lg-12 d-flex align-items-center">
@@ -27,15 +22,8 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">DTF Films</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">DTF 胶片</span>
-                                    <p class="text-white">High-quality DTF transfer films engineered for precise ink absorption, clean peel performance, and strong transfer adhesion across all fabric types. Available in 75um and 100um thickness, single and double coated options, glossy and matte surfaces, with cold peel, hot peel, and second peel release variants — in both sheet and roll formats to suit any DTF production setup.</p>
-                                    <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
-                                    <div class=" z-1">
-                                        <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
-                                            onclick="downloadPDF()">
-                                            Download Brochure
-                                            <span><i class="fa-solid fa-arrow-right"></i></span>
-                                        </p> -->
-
+                                    <p class="text-white">DTF Transfer Film — precision engineered for flawless transfers every time. Designed to work seamlessly with your DTF setup, ensuring clean, precise, and consistent transfers regardless of production volume.</p>
+                                    <div class="z-1">
                                         <script>
                                             function downloadPDF() {
                                                 const link = document.createElement('a');
@@ -46,50 +34,12 @@
                                                 document.body.removeChild(link);
                                             }
                                         </script>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-12 col-lg-6 d-flex flex-column gap-3" style="z-index: 1">
-                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
-                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
-                                <div>
-                                    <h5 class="mb-1">Feature 1</h5>
-                                    <p class="text-secondary mb-0">
-                                        Quis autem repreh ender velit esse nihil vel illum.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
-                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
-                                <div>
-                                    <h5 class="mb-1">Feature 2</h5>
-                                    <p class="text-secondary mb-0">
-                                        Quis autem repreh ender velit esse nihil vel illum.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
-                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
-                                <div>
-                                    <h5 class="mb-1">Feature 3</h5>
-                                    <p class="text-secondary mb-0">
-                                        Quis autem repreh ender velit esse nihil vel illum.
-                                    </p>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
-
-
-                <!-- <div id="tsparticles"></div>
-                <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
-                <div id="js-map-canvas" class="map-canvas"> </div> -->
-
             </section>
             <!-- Hero area end -->
 
@@ -134,49 +84,25 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come text-prismane-2">Our DTF Films Range
-                                </h2> <br>
-                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">我们的DTF薄膜系列
-                                </h2>
+                                <h2 class="sec-title animation__char_come text-prismane-2">What is DTF Transfer Film?</h2> <br>
+                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">我们的DTF薄膜系列</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>DTF Film – 75um</b> <br>
-                                        <b>DTF胶片 – 75微米</b>
-                                        <br><br> Single or double coated transfer film available in glossy and matte surface finishes. Supports cold peel, hot peel, and second peel release. Available in sheet (A3/A4) and roll formats — ideal for standard DTF printing applications.
+                                        DTF Transfer Film is a critical component in the DTF printing process. It acts as the carrier medium between your printer and the final fabric — holding the ink and powder adhesive perfectly until the transfer is complete.
                                     </p>
                                     <p>
-                                        <b> DTF Film – 100um</b> <br>
-                                        <b> DTF胶片 – 100微米</b>
-                                        <br><br> Heavier weight transfer film with enhanced ink absorption and stronger structural integrity. Available in single and double coated options with glossy and matte surfaces in roll sizes from 30cm×100m up to 180cm×100m — suited for high-volume industrial DTF production.
+                                        Choosing the right film directly impacts the quality of your final print — from sharpness and colour vibrancy to peel quality and wash durability.
+                                    </p>
+                                    <p>
+                                        Our film options are available in different thicknesses, coating styles, release types, surfaces, and sizes — allowing you to select the right configuration for your printer, workflow, and production volume.
                                     </p>
                                 </div>
-                                <!-- <ul>
-                                    <li>+ API Development</li>
-                                    <li>+ WordPress</li>
-                                    <li>+ Cloud Migration</li>
-                                    <li>+ Front End Development</li>
-                                    <li>+ JavaScript</li>
-                                    <li>+ Fluter Framework</li>
-                                </ul> -->
                             </div>
                         </div>
-                        <!-- <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
-                            <div class="development__img">
-                                <video src="assets/imgs/pigment-imgs/Ink-splash-2.mp4" autoplay loop muted playsinline
-                                    data-speed="auto">
-                                </video>
-
-                            </div>
-                        </div> -->
-                        <!-- <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                            <div class="development__img">
-                                <img src="assets/imgs/pigment-imgs/410 x 400.jpg" alt="Development Image">
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </section>
@@ -189,300 +115,94 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim pb-2 text-prismane">DTF Films</h3>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Full Technical Specifications</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">DTF 胶片</h3>
-                                <span class="text-white fs-1">DTF Film – 75um </span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">DTF胶片 – 75微米</span>
+                                <span class="text-white fs-1">DTF Transfer Film Specifications</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">DTF转印薄膜规格</span>
                             </div>
 
-                            <div class="col-12  table-responsive">
+                            <div class="col-12 table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <!-- <th scope="col" class="fw-normal"></th> -->
-                                            <th scope="col" class="fw-normal">Specifications </th>
-                                            <th scope="col" class="fw-normal">Details</th>
-                                            <!-- <th scope="col" class="fw-normal">Chemical Class</th>
-                                            <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th> -->
+                                            <th scope="col" class="fw-normal">Specification</th>
+                                            <th scope="col" class="fw-normal">Detail</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
                                             <td>Thickness</td>
-                                            <td>75um</td>
-                                            <!-- <td>Monoazo</td>
-                                            <td>6</td>
-                                            <td>High performance standard yellow</td> -->
+                                            <td>75μm / 100μm</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
                                             <td>Weight</td>
-                                            <td>115G ± 10%</td>
-                                            <!-- <td>Monoazo</td>
-                                            <td>6–7</td>
-                                            <td>High performance green shade yellow</td> -->
+                                            <td>115G ±10% / 150G ±10%</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
                                             <td>Coated</td>
-                                            <td>Single coated / Double coated</td>
-                                            <!-- <td>Double Azo</td>
-                                            <td>7</td>
-                                            <td>High performance strong green shade</td> -->
+                                            <td>Single Coated / Double Coated</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
                                             <td>Release</td>
-                                            <td>Cold peel / Hot peel / Second peel</td>
-                                            <!-- <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance yellow shade orange</td> -->
+                                            <td>Cold Peel / Hot Peel / Second Peel</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fa5e21"></span></td> -->
                                             <td>Surface</td>
                                             <td>Glossy / Matte</td>
-                                            <!-- <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance mid shade orange</td> -->
                                         </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
-                                            <td>Size – Sheet</td>
-                                            <td>A3 / A4</td>
-                                            <!-- <td>Benzimidazolone</td>
-                                            <td>6–7</td>
-                                            <td>High performance red shade orange</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
-                                            <td>Size – Roll</td>
-                                            <td>30cm×100m / 60cm×100m / 120cm×100m / 60cm×100m / 180cm×100m</td>
-                                            <!-- <td>Single azo</td>
-                                            <td>6</td>
-                                            <td>High performance red with bluish tone</td> -->
-                                        </tr>
-                                        <!-- <tr>
-                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Leon Red R33-U</td>
-                                            <td>P.R.122</td>
-                                            <td>Quinacridone</td>
-                                            <td>7–8</td>
-                                            <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Leon Violet R10-U</td>
-                                            <td>P.V.19</td>
-                                            <td>Quinacridone</td>
-                                            <td>7–8</td>
-                                            <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Leon Violet E4-U</td>
-                                            <td>P.V.23</td>
-                                            <td>Dioxazine Carbazole</td>
-                                            <td>7–8</td>
-                                            <td>High performance blue shade violet</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Leon Blue C64-U</td>
-                                            <td>P.B.15:3</td>
-                                            <td>Cu-Phthalocyanine</td>
-                                            <td>8</td>
-                                            <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Leon Green Q8-U</td>
-                                            <td>P.G.7</td>
-                                            <td>Cu-Phthalogreen</td>
-                                            <td>7–8</td>
-                                            <td>High performance standard green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Leon Green Q47-U</td>
-                                            <td>P.G.36</td>
-                                            <td>Cu-Phthalogreen (Brominated)</td>
-                                            <td>7</td>
-                                            <td>High performance yellower green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Leon Black D8-U</td>
-                                            <td>P.B.7</td>
-                                            <td>Oxidised Carbon Black</td>
-                                            <td>8</td>
-                                            <td>High performance jet black</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ffffff"></span></td>
-                                            <td>Leon White D8-U</td>
-                                            <td>P.W. TiO2.</td>
-                                            <td>Titanium Di-Oxide.</td>
-                                            <td>8</td>
-                                            <td>Highly Opaque White</td>
-                                        </tr> -->
                                     </tbody>
                                 </table>
-
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">DTF Film – 100um </span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">DTF胶片 – 100微米</span>
+                                <span class="text-white fs-1">Available Sizes</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">可用尺寸</span>
                             </div>
 
-                            <div class="col-12  table-responsive">
+                            <div class="col-12 table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <!-- <th scope="col" class="fw-normal"></th> -->
-                                            <th scope="col" class="fw-normal">Specifications </th>
-                                            <th scope="col" class="fw-normal">Details</th>
-                                            <!-- <th scope="col" class="fw-normal">Chemical Class</th>
-                                            <th scope="col" class="fw-normal">Light Fastness</th>
-                                            <th scope="col" class="fw-normal">Characteristics</th> -->
+                                            <th scope="col" class="fw-normal">Format</th>
+                                            <th scope="col" class="fw-normal">Size</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
-                                            <td>Thickness</td>
-                                            <td>100um</td>
-                                            <!-- <td>Monoase</td>
-                                            <td>6</td>
-                                            <td>High performance standard yellow</td> -->
+                                            <td>Sheet</td>
+                                            <td>A3</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
-                                            <td>Weight</td>
-                                            <td>150G ± 10%</td>
-                                            <!-- <td>Monoase</td>
-                                            <td>6-7</td>
-                                            <td>High performance green shade yellow</td> -->
+                                            <td>Sheet</td>
+                                            <td>A4</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
-                                            <td>Coated</td>
-                                            <td>Single coated / Double coated</td>
-                                            <!-- <td>Double Azo</td>
-                                            <td>7</td>
-                                            <td>High performance strong green shade</td> -->
+                                            <td>Roll</td>
+                                            <td>30cm × 100m</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
-                                            <td>Release</td>
-                                            <td>Cold peel / Hot peel / Second peel</td>
-                                            <!-- <td>Disazopyrazolone</td>
-                                            <td>6</td>
-                                            <td>High performance yellow shade Orange</td> -->
+                                            <td>Roll</td>
+                                            <td>60cm × 100m</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
-                                            <td>Surface</td>
-                                            <td>Glossy / Matte</td>
-                                            <!-- <td>Benzimidazalone</td>
-                                            <td>6-7</td>
-                                            <td>High Performance Red Shade Orange</td> -->
+                                            <td>Roll</td>
+                                            <td>120cm × 100m</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f15122"></span></td> -->
-                                            <td>Size – Sheet</td>
-                                            <td>A3 / A4</td>
-                                            <!-- <td>Benzimidazalone</td>
-                                            <td>6</td>
-                                            <td>High Performance mid Shade Orange</td> -->
+                                            <td>Roll</td>
+                                            <td>160cm × 100m</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
-                                            <td>Size – Roll</td>
-                                            <td>30cm×100m / 60cm×100m / 120cm×100m / 60cm×100m / 180cm×100m</td>
-                                            <!-- <td>Single Azo</td>
-                                            <td>6</td>
-                                            <td>High Performance Red with Bluish tone</td> -->
+                                            <td>Roll</td>
+                                            <td>180cm × 100m</td>
                                         </tr>
-                                        <!-- <tr>
-                                            <td><span class="color-item" style="background: #aa1b25"></span></td>
-                                            <td>Leon Red R33-M</td>
-                                            <td>P.R.122</td>
-                                            <td>Quinacridone</td>
-                                            <td>7-8</td>
-                                            <td>High performance standard magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #5f1c61"></span></td>
-                                            <td>Leon Violet R10-M</td>
-                                            <td>P.V.19</td>
-                                            <td>Quinacridone</td>
-                                            <td>7-8</td>
-                                            <td>High performance red shade magenta</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #280653"></span></td>
-                                            <td>Leon Violet E4-M</td>
-                                            <td>P.V.23</td>
-                                            <td>Dioxazin Carbazole</td>
-                                            <td>7-8</td>
-                                            <td>High performance blue shade violet</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #211f6e"></span></td>
-                                            <td>Leon Blue C64-M</td>
-                                            <td>P.B.15.3</td>
-                                            <td>Cu-Phthalocyanine</td>
-                                            <td>8</td>
-                                            <td>High performance standard cyan</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #00352d"></span></td>
-                                            <td>Leon Green Q8-M</td>
-                                            <td>P.G.7</td>
-                                            <td>Cu-Phthalogreen</td>
-                                            <td>7-8</td>
-                                            <td>High performance standard green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #0c5537"></span></td>
-                                            <td>Leon Green Q47-M</td>
-                                            <td>P.G.36</td>
-                                            <td>Cu- Phthalogreen Bromination</td>
-                                            <td>7</td>
-                                            <td>High performance Yellower green</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #040504"></span></td>
-                                            <td>Leon Black D8-M</td>
-                                            <td>P.B.7</td>
-                                            <td>Oxidized Carbon Black</td>
-                                            <td>8</td>
-                                            <td>High performance Jet black</td>
-                                        </tr>
-                                        <tr>
-                                            <td><span class="color-item" style="background: #ffffff"></span></td>
-                                            <td>Leon White D8-M</td>
-                                            <td>P.W. TiO2.</td>
-                                            <td>Titanium Di-Oxide.</td>
-                                            <td>8</td>
-                                            <td>Highly Opaque White</td>
-                                        </tr> -->
                                     </tbody>
                                 </table>
-
-
                             </div>
 
-                            <!-- <div class="mt-5 z-1 d-flex justify-content-center">
-                                <a href="assets/data/Pigment-Dispersions-data.pdf"
-                                    class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
-                                            class="fa-solid fa-arrow-right"></i></span>
-                                </a>
-                            </div> -->
+                            <div class="sec-text mt-4">
+                                <p>Custom sizes available on request — contact our team for special size customisation requirements.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -497,87 +217,51 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Precise Ink <span>Absorption</span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">75μm Film <span>Option</span></h3>
                                     </a>
                                     <p>
-                                        Specially coated surface ensures uniform ink absorption across the film, producing sharp detail, smooth colour gradients, and accurate colour reproduction in every DTF print transfer.
+                                        A lighter, more flexible film option — ideal for detailed designs and standard production environments where flexibility is key.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Multiple Peel <span>Options</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">100μm Film <span>Option</span></h3>
                                     </a>
                                     <p>
-                                       Available in cold peel, hot peel, and second peel release variants — giving printers full flexibility to match film performance with fabric type, transfer requirements, and production workflow.
+                                        A heavier, more rigid film — provides additional stability during printing and powder application, ideal for high-volume production runs.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Glossy & Matte<span>Surface Finish</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Single Coated <span>Option</span></h3>
                                     </a>
                                     <p>
-                                       Choice of glossy or matte surface finish allows printers to achieve the desired final print texture and visual effect — from vibrant high-shine output to soft, premium matte transfers on garments.
+                                        Standard coating on one side — suitable for most DTF printing applications and setups.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Dual Thickness <span>Availability</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Double Coated <span>Option</span></h3>
                                     </a>
                                     <p>
-                                        Available in 75um and 100um thickness options with single or double coating — providing the right structural weight and ink-holding capacity for both standard and high-volume industrial DTF production.
+                                        Enhanced coating on both sides — provides improved ink adhesion and more consistent powder bonding for higher quality transfer results.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Flexible Format<span>Options</span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Release <span>Options</span></h3>
                                     </a>
                                     <p>
-                                        Available in A3 and A4 sheet formats and roll widths from 30cm to 180cm — with special size customisation accepted — supporting DTF production setups of any scale and configuration.
+                                        Cold Peel for sharper edges and precise detail, Hot Peel for faster production throughput, and Second Peel for an added level of control over transfer quality and finish.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Strong Transfer <span>Adhesion</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Surface <span>Options</span></h3>
                                     </a>
                                     <p>
-                                        Engineered for reliable ink-to-fabric transfer with consistent adhesion performance across cotton, polyester, nylon, and blended fabrics — delivering durable, wash-fast results on every press.
+                                        Glossy Surface delivers a bright, vibrant finish, while Matte Surface delivers a soft, non-reflective finish for a subtle premium look.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -586,97 +270,12 @@
             </section>
             <!-- Service area end -->
 
-            <!-- Portfolio area start -->
-            <!-- <section class="portfolio__area-3">
-                <div class="container pt-100 pb-150">
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Applications</h2>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="swiper portfolio__slider-3">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing
-                                                    Inks</h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    印刷油墨</h3>
-                                                <img src="assets/imgs/pigment-imgs/Printing Inks.jpg"
-                                                    alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints
-                                                </h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    涂料</h3>
-                                                <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics
-                                                    & Polymer</h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    塑料与聚合物</h3>
-                                                <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">
-                                                    Cosmetics</h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    塑料与聚合物</h3>
-                                                <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-pagination"></div>
-
-                                <div class="swiper-btn">
-                                    <div class="pp-prev"><i class="fa-solid fa-arrow-left"></i></div>
-                                    <div class="pp-next"><i class="fa-solid fa-arrow-right"></i></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- Portfolio area end -->
-
-
             <!-- About area start -->
             <section class="about__area-3">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="about__img-3">
-                                <!-- <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
-                                    data-speed="auto"> -->
                                 <video width="100%" height="100%" autoplay muted loop>
                                     <source src="./assets/video/top 1.webm" type="video/mp4">
                                 </video>
@@ -685,21 +284,20 @@
 
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE DTF FILMS PARTNER
-                                </h4>
-                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的DTF胶片合作伙伴</h4>
+                                <h2 class="sec-sub-title title-anim">Quick Selection Guide</h2>
+                                <h4 class="sec-title title-anim text-prismane">HOW TO CHOOSE THE RIGHT DTF FILM</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">快速选择指南</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
-                                    <p>
-                                        We supply high-quality DTF transfer films engineered for precise ink absorption, clean peel release, and consistent transfer adhesion across all fabric types. Available in 75um and 100um thickness with single and double coated options, our films support cold peel, hot peel, and second peel configurations in both sheet and roll formats. Designed to work seamlessly with standard DTF printing systems, our films help printers achieve sharp, durable, wash-fast transfers — across every production run.
-                                    <!-- <div class=" z-1">
-                                        <a href="assets/data/Pigment-Dispersions-data.pdf"
-                                            class="blog__btn about_btn text-prismane" download>Download Brochure
-                                            <span><i class="fa-solid fa-arrow-right"></i></span></a>
-
-                                    </div> -->
+                                    <p><b>Sharp, detailed transfers:</b> Cold Peel</p>
+                                    <p><b>Faster production speed:</b> Hot Peel</p>
+                                    <p><b>Standard production:</b> Single Coated / 75μm</p>
+                                    <p><b>High volume production:</b> Double Coated / 100μm</p>
+                                    <p><b>Vibrant, vivid finish:</b> Glossy Surface</p>
+                                    <p><b>Premium, subtle finish:</b> Matte Surface</p>
+                                    <p><b>Small format / sampling:</b> A3 / A4 Sheets</p>
+                                    <p><b>Wide format production:</b> 120cm / 160cm / 180cm Rolls</p>
                                 </div>
                             </div>
                         </div>
@@ -713,13 +311,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">PROVEN GAINS</h2>
-                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">已证实的收益</span>
+                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">TECHNICAL GUIDANCE</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">技术指导</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    DTF transfer films are engineered to deliver consistent ink absorption, clean peel release, and reliable transfer adhesion across all fabric types and production scales. Designed for compatibility with standard DTF printing systems, they help printers achieve sharp, durable results with reduced waste and lower material costs.
+                                    Need help choosing the right DTF transfer film? Our technical team will help you select the correct film thickness, coating, release type, and size — matched perfectly to your printer, ink, and production requirements.
                                 </p>
                             </div>
                         </div>
@@ -729,45 +327,30 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Clean Peel Performance</h3>
+                                        <h3 class="ps-title">Matched Film Thickness</h3>
                                         <p>
-                                           Cold peel, hot peel, and second peel release options ensure smooth, residue-free film removal after transfer — delivering clean, sharp print edges and reducing fabric damage or misprints during production.
+                                            Select between 75μm for flexibility and detailed work, or 100μm for added rigidity and stability during high-volume printing and powder application.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Flexible Size Options</h3>
+                                        <h3 class="ps-title">Matched Coating & Release</h3>
                                         <p>
-                                            Available in A3/A4 sheets and roll widths from 30cm to 180cm with special size customisation accepted — reducing material waste and ensuring the right film format is always available for any production setup.
+                                            Choose the correct coated and release combination based on your print setup, quality targets, and production speed requirements.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">CONSISTENT FILM RESULTS</h3>
+                                        <h3 class="ps-title">Matched Size Format</h3>
                                         <p>
-                                            Uniform coating weight (115G & 150G) across both thickness options ensures stable ink hold, even powder adhesion, and reliable transfer results, maintaining consistent print quality batch after batch.
+                                            Select from A3 and A4 sheets for sampling and small format work, or wider 120cm, 160cm, and 180cm roll options for larger production requirements.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
@@ -777,89 +360,16 @@
             </section>
             <!-- Medium Cards area start -->
 
-            <!-- Story area start -->
-            <!-- <section class="story__area bg-light">
-                <div class="container g-0 line pt-140">
-                    <span class="line-3"></span>
-                    <div class="sec-title-wrapper">
-                    
-
-                        <div class="row">
-                            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                                <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
-                                <h3 class="sec-title title-anim">About</h3> <br>
-                                <h3 class="sec-title title-anim mandarin-title-1">关于</h3>
-                            </div>
-                            <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
-                                <div class="story__text">
-                                    <p>
-                                        Our pigment dispersions are developed to deliver consistent colour strength,
-                                        fine particle stability, and reliable performance across a wide range of ink,
-                                        coating, and textile applications. Engineered for controlled processing and
-                                        compatibility, they support efficient production while maintaining uniform
-                                        quality from batch to batch.
-                                    </p>
-                                    <p>
-                                        Pigment dispersions designed for dependable colour accuracy, processing
-                                        stability, and smooth integration into modern formulations. Built to perform
-                                        under real production conditions, they help manufacturers achieve consistent
-                                        results, improved efficiency, and reduced variability across applications.
-                                    </p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
-                            <div class="story__img-wrapper">
-                                <img src="assets/imgs/pigment-imgs/300 X 415.jpg" alt="Story Thumbnail" class="w-100">
-                            </div>
-                        </div>
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                            <div class="story__img-wrapper img-anim">
-                                <img src="assets/imgs/pigment-imgs/520 X 700.jpg" alt="Story Thumbnail"
-                                    data-speed="auto">
-                            </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                            <div class="story__img-wrapper">
-                                <img src="assets/imgs/pigment-imgs/230 X 140.jpg" alt="Story Thumbnail">
-                                <img src="assets/imgs/pigment-imgs/410 X 330.jpg" alt="Story Thumbnail">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- Story area end -->
-
-
-
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">
                     <div class="line-3"></div>
-
-                    <!-- <div class="row">
-                        <div class="col-xxl-12 ">
-                            <div class="masked-title-holder position-relative">
-                                <video autoplay muted loop preload poster="" class="masked-video">
-                                    <source src="./assets/video/top 1.webm" />
-                                    
-                                </video>
-                                <h2 class="display-1 masked-title" style="">FAQ <br style="display: block"><span class="masked-title-mandarin">常见问题解答</span></h2>
-                                
-                            </div>
-                                <p class="mb-5">Frequently asked question (FAQ) <br> pages to find answars.</p>
-                        </div>
-                    </div> -->
 
                     <div class="row d-flex flex-column align-items-center">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title-2 animation__char_come text-prismane-2">FAQ</h2>
                                 <span class="animation__char_come mandarin-title-1 text-prismane-2">常见问题解答</span>
-                                <!-- <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p> -->
                             </div>
                         </div>
 
@@ -869,85 +379,80 @@
                                     <div class="accordion" id="accordionExample">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button  pe-5" type="button"
+                                                <button class="accordion-button pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Q1: What is a DTF transfer film and how is it used?
+                                                    What is DTF Transfer Film?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>DTF transfer film is a specially coated substrate used in direct-to-film printing. Ink is printed onto the film, TPU powder is applied and cured, and the design is then heat pressed onto fabric — enabling full-colour transfers on a wide range of garments and textiles.
-                                                    </p>
+                                                    <p>DTF Transfer Film is a critical component in the DTF printing process. It acts as the carrier medium between your printer and the final fabric, holding the ink and powder adhesive perfectly until the transfer is complete.</p>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Q2: What is the difference between 75um and 100um DTF films?
+                                                    How does film thickness affect performance?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>The 75um film is lighter at 115G±10% and suited for standard DTF applications, while the 100um film is heavier at 150G±10% with enhanced structural integrity — better suited for high-volume industrial production requiring stronger ink hold and transfer durability.
-                                                    </p>
+                                                    <p>75μm film is lighter and more flexible, making it ideal for detailed designs and standard production. 100μm film is heavier and more rigid, providing added stability during printing and powder application for high-volume production runs.</p>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingThree">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Q3: What is the difference between cold peel and hot peel DTF films?
+                                                    Which peel option should I choose?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Cold peel films are removed after the transfer has cooled, producing a softer, matte finish. Hot peel films are removed immediately after pressing, offering faster production speed. Second peel films allow repositioning before final pressing for added precision.
-                                                    </p>
+                                                    <p>Cold Peel is recommended for sharper edges and more precise detail. Hot Peel is suited for faster production throughput. Second Peel offers an additional level of control over the transfer quality and finish.</p>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingFour">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Q4: What sizes are your DTF films available in?
+                                                    What sizes are available?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Our DTF films are available in A3 and A4 sheet formats and roll widths from 30cm to 180cm in 100m lengths. Special size customisation is also accepted to suit specific production requirements.
-                                                    </p>
+                                                    <p>Available sheet sizes are A3 and A4. Available roll sizes include 30cm × 100m, 60cm × 100m, 120cm × 100m, 160cm × 100m, and 180cm × 100m. Custom sizes are also available on request.</p>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingFive">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Q5: How should DTF transfer films be stored?
+                                                    How can I choose the right DTF transfer film for my setup?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>DTF films should be stored flat or rolled in a cool, dry environment away from direct sunlight and humidity. Proper storage prevents coating degradation, film curling, and surface contamination — maintaining consistent print and transfer performance.
-                                                    </p>
+                                                    <p>Our technical team will help you select the correct film thickness, coating, release type, and size, matched perfectly to your printer, ink, and production requirements.</p>
                                                 </div>
                                             </div>
                                         </div>

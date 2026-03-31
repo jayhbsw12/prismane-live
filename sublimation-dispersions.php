@@ -14,11 +14,6 @@
 
             <!-- Hero area start -->
             <section class="hero__area hero-product d-flex align-items-center">
-                <!-- <video autoplay muted loop id="hero-video">
-                    <source src="./assets/video/red-color-example-video.mp4" type="video/mp4">
-                </video> -->
-                <!-- <div class="overlay"></div> -->
-
                 <div class="container">
                     <div class="row flex-column flex-lg-row gap-5 gap-lg-0">
                         <div class="col-12 col-lg-12 d-flex align-items-center">
@@ -27,15 +22,8 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Sublimation Dispersions</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">升华分散体</span>
-                                    <p class="text-white">High-performance water-based disperse dye dispersions engineered for optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness. Formulated with ultra-fine particle stability across Yellow, Cyan, Magenta, and Black — delivering consistent, vibrant colour transfer in dye sublimation ink manufacturing applications.</p>
-                                    <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
-                                    <div class=" z-1">
-                                        <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
-                                            onclick="downloadPDF()">
-                                            Download Brochure
-                                            <span><i class="fa-solid fa-arrow-right"></i></span>
-                                        </p> -->
-
+                                    <p class="text-white">GLOJET Dye Sublimation Ink Preparations — precision-formulated dispersions for superior ink performance. Extremely stable. Exceptionally consistent. Engineered to give your sublimation ink the correct properties it needs to perform at its best.</p>
+                                    <div class="z-1">
                                         <script>
                                             function downloadPDF() {
                                                 const link = document.createElement('a');
@@ -46,54 +34,17 @@
                                                 document.body.removeChild(link);
                                             }
                                         </script>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-12 col-lg-6 d-flex flex-column gap-3" style="z-index: 1">
-                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
-                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
-                                <div>
-                                    <h5 class="mb-1">Feature 1</h5>
-                                    <p class="text-secondary mb-0">
-                                        Quis autem repreh ender velit esse nihil vel illum.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
-                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
-                                <div>
-                                    <h5 class="mb-1">Feature 2</h5>
-                                    <p class="text-secondary mb-0">
-                                        Quis autem repreh ender velit esse nihil vel illum.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="bg-white rounded-4 shadow p-4 d-flex align-items-center gap-4">
-                                <div class="bg-secondary rounded-3 flex-shrink-0" style="width:72px;height:72px;"></div>
-                                <div>
-                                    <h5 class="mb-1">Feature 3</h5>
-                                    <p class="text-secondary mb-0">
-                                        Quis autem repreh ender velit esse nihil vel illum.
-                                    </p>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
-
-
-                <!-- <div id="tsparticles"></div>
-                <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
-                <div id="js-map-canvas" class="map-canvas"> </div> -->
-
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; " class="wave-path-prismane">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; "
+                class="wave-path-prismane">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -134,49 +85,26 @@
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-title animation__char_come text-prismane-2">Our Sublimation Dispersions Range
-                                </h2> <br>
-                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">我们的色素分散体系列
-                                </h2>
+                                <h2 class="sec-title animation__char_come text-prismane-2">What Are Dye Sublimation Dispersions?</h2>
+                                <br>
+                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">升华分散体</h2>
                             </div>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>Specifications A</b> <br>
-                                        <b> 规格 A系列</b>
-                                        <br><br> Water-based disperse dye dispersions with viscosity up to 10 Cps, solid content 30–35%, surface tension 45–55 mN/m, and particle size (D90) up to 195nm for Yellow — engineered for optimum sublimation ink performance.
+                                        In order to have the correct ink properties, the dispersions used have to be extremely stable and with the best properties.
                                     </p>
                                     <p>
-                                        <b>Specifications B </b> <br>
-                                        <b> 规格 B系列</b>
-                                        <br><br> Advanced water-based disperse dye dispersions with viscosity up to 20 Cps, solid content 25–35%, surface tension 35–45 mN/m, and finer particle size (D90) up to 195nm — delivering superior dispersion stability and fastness properties.
+                                        Ink plays a crucial factor in dye sublimation printing — the fade resistance varies from ink to ink. Depending on the need, selecting the appropriate dispersion will directly affect how long your print lasts and how vibrant your colours remain over time.
+                                    </p>
+                                    <p>
+                                        Our dispersions provide optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness.
                                     </p>
                                 </div>
-                                <!-- <ul>
-                                    <li>+ API Development</li>
-                                    <li>+ WordPress</li>
-                                    <li>+ Cloud Migration</li>
-                                    <li>+ Front End Development</li>
-                                    <li>+ JavaScript</li>
-                                    <li>+ Fluter Framework</li>
-                                </ul> -->
                             </div>
                         </div>
-                        <!-- <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8">
-                            <div class="development__img">
-                                <video src="assets/imgs/pigment-imgs/Ink-splash-2.mp4" autoplay loop muted playsinline
-                                    data-speed="auto">
-                                </video>
-
-                            </div>
-                        </div> -->
-                        <!-- <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                            <div class="development__img">
-                                <img src="assets/imgs/pigment-imgs/410 x 400.jpg" alt="Development Image">
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </section>
@@ -189,18 +117,17 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
-                                <h3 class="sec-title title-anim pb-2 text-prismane">Sublimation Dispersions</h3>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Our Dye Sublimation Dispersion Specifications</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">升华分散体</h3>
                                 <span class="text-white fs-1">Specifications A</span> &nbsp; &nbsp;
                                 <span class="text-white fs-1 mandarin-title-2">规格 A</span>
                             </div>
 
-                            <div class="col-12  table-responsive">
+                            <div class="col-12 table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <!-- <th scope="col" class="fw-normal"></th> -->
-                                            <th scope="col" class="fw-normal">Parameters:</th>
+                                            <th scope="col" class="fw-normal">Parameters</th>
                                             <th scope="col" class="fw-normal">YELLOW</th>
                                             <th scope="col" class="fw-normal">CYAN</th>
                                             <th scope="col" class="fw-normal">MAGENTA</th>
@@ -209,40 +136,35 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
-                                            <td>pH : Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
+                                            <td>pH (Toshniwal CL 4 pHmeter)</td>
+                                            <td>8–8.5</td>
+                                            <td>8–8.5</td>
+                                            <td>8–8.5</td>
+                                            <td>8–8.5</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
-                                            <td>Viscosity (Cps) : Measured by Haake Rheostress 1 Rheometer</td>
+                                            <td>Viscosity Cps (Haake Rheostress 1 Rheometer)</td>
                                             <td>Upto 10</td>
                                             <td>Upto 10</td>
                                             <td>Upto 10</td>
                                             <td>Upto 10</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
-                                            <td>Surface Tension (mN/m) : Measured by KRUSS Tensiometer</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
-                                            <td>45-55</td>
+                                            <td>Surface Tension mN/m (KRUSS Tensiometer)</td>
+                                            <td>45–55</td>
+                                            <td>45–55</td>
+                                            <td>45–55</td>
+                                            <td>45–55</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
-                                            <td>Solid (%) : Measured by Sartorius Solid Analyser</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
-                                            <td>30-35</td>
+                                            <td>Solid % (Sartorius Solid Analyser)</td>
+                                            <td>30–35</td>
+                                            <td>30–35</td>
+                                            <td>30–35</td>
+                                            <td>30–35</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fa5e21"></span></td> -->
-                                            <td>PSD (D90) : Measured by Malvern Mastersizer-3000.</td>
+                                            <td>PSD D90 (Malvern Mastersizer-3000)</td>
                                             <td>Upto 195nm</td>
                                             <td>Upto 100nm</td>
                                             <td>Upto 170nm</td>
@@ -250,20 +172,18 @@
                                         </tr>
                                     </tbody>
                                 </table>
-
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">Specifications B</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">规格 B</span>
+                                <span class="text-white fs-1">Specifications B</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">规格 B</span>
                             </div>
 
-                            <div class="col-12  table-responsive">
+                            <div class="col-12 table-responsive">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <!-- <th scope="col" class="fw-normal"></th> -->
-                                            <th scope="col" class="fw-normal">Parameters:</th>
+                                            <th scope="col" class="fw-normal">Parameters</th>
                                             <th scope="col" class="fw-normal">YELLOW</th>
                                             <th scope="col" class="fw-normal">CYAN</th>
                                             <th scope="col" class="fw-normal">MAGENTA</th>
@@ -272,40 +192,35 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
-                                            <td>pH : Measured by Toshniwal CL 4 pHmeter</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
-                                            <td>8-8.5</td>
+                                            <td>pH (Toshniwal CL 4 pHmeter)</td>
+                                            <td>8–8.5</td>
+                                            <td>8–8.5</td>
+                                            <td>8–8.5</td>
+                                            <td>8–8.5</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
-                                            <td>Viscosity (Cps) : Measured by Haake Rheostress 1 Rheometer</td>
+                                            <td>Viscosity Cps (Haake Rheostress 1 Rheometer)</td>
                                             <td>Upto 20</td>
                                             <td>Upto 20</td>
                                             <td>Upto 20</td>
                                             <td>Upto 20</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
-                                            <td>Solid (%) : Measured by Sartorius Solid Analyser</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
-                                            <td>25-35</td>
+                                            <td>Solid % (Sartorius Solid Analyser)</td>
+                                            <td>25–35</td>
+                                            <td>25–35</td>
+                                            <td>25–35</td>
+                                            <td>25–35</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
-                                            <td>Surface Tension (mN/m) : Measured by KRUSS Tensiometer</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>35-45</td>
-                                            <td>45-55</td>
+                                            <td>Surface Tension mN/m (KRUSS Tensiometer)</td>
+                                            <td>35–45</td>
+                                            <td>35–45</td>
+                                            <td>35–45</td>
+                                            <td>45–55</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
-                                            <td>PSD (D90) : Measured by Malvern Mastersizer-3000.</td>
+                                            <td>PSD D90 (Malvern Mastersizer-3000)</td>
                                             <td>Upto 195nm</td>
                                             <td>Upto 100nm</td>
                                             <td>Upto 170nm</td>
@@ -313,16 +228,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-
-
                             </div>
-
-                            <!-- <div class="mt-5 z-1 d-flex justify-content-center">
-                                <a href="assets/data/Pigment-Dispersions-data.pdf"
-                                    class="blog__btn about_btn text-prismane" download>Download Brochure <span><i
-                                            class="fa-solid fa-arrow-right"></i></span></a>
-
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -337,88 +243,51 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Ultra-Fine <span>Particle Stability</span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Optimum Light <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                       Particle size (D90) controlled up to 195nm for Yellow and 100nm for Cyan, Magenta, and Black — ensuring exceptional dispersion stability and consistent colour development in sublimation ink formulations.
-                                        
+                                        Developed to provide optimum light fastness for dye sublimation ink systems where long-lasting colour performance is required.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Optimum Fastness<span>Properties</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Optimum Wash <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                        Dispersions are engineered to deliver optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness — meeting the performance demands of high-quality sublimation printing applications.
+                                        Formulated to deliver optimum wash fastness, helping sublimation prints retain performance through end-use washing conditions.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Controlled pH<span>Balance</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Alkali Perspiration <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                       Consistent pH range of 8–8.5 across all colours — Yellow, Cyan, Magenta, and Black — ensures stable ink formulation chemistry and reliable compatibility with sublimation ink manufacturing systems.
+                                        Engineered to provide optimum alkali perspiration fastness as part of the required performance profile for sublimation inks.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Stable Viscosity<span>Performance</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Crock <span>Fastness</span></h3>
                                     </a>
                                     <p>
-                                        Viscosity maintained up to 10 Cps (Spec A) and 20 Cps (Spec B), measured by Haake Rheostress Rheometer, supporting smooth ink flow and consistent printhead performance across production runs.
+                                        Designed to support optimum crock fastness so prints maintain dependable performance in practical textile use.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Precise Surface <span>Tension Control</span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Extremely Stable <span>Dispersions</span></h3>
                                     </a>
                                     <p>
-                                        Surface tension maintained between 35–55 mN/m across both specifications, ensuring proper wetting, ink spread control, and reliable transfer performance on polyester substrates.
+                                        The dispersions are made to be extremely stable, helping give sublimation inks the correct properties needed for best performance.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Flexible Formulation <span>Options </span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Exceptionally Consistent <span>Performance</span></h3>
                                     </a>
                                     <p>
-                                        Available in two specification grades — Spec A and Spec B — offering ink manufacturers flexibility to select the right solid content, viscosity, and particle size profile for their specific formulation requirements.
+                                        Precision-formulated to remain exceptionally consistent across specifications and colours for reliable sublimation ink preparation.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -427,97 +296,12 @@
             </section>
             <!-- Service area end -->
 
-            <!-- Portfolio area start -->
-            <!-- <section class="portfolio__area-3">
-                <div class="container pt-100 pb-150">
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Applications</h2>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-xxl-12">
-                            <div class="swiper portfolio__slider-3">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Printing
-                                                    Inks</h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    印刷油墨</h3>
-                                                <img src="assets/imgs/pigment-imgs/Printing Inks.jpg"
-                                                    alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Paints
-                                                </h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    涂料</h3>
-                                                <img src="assets/imgs/pigment-imgs/Paints.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">Plastics
-                                                    & Polymer</h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    塑料与聚合物</h3>
-                                                <img src="assets/imgs/pigment-imgs/Polymers.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="swiper-slide">
-                                        <div class="portfolio__slide-3">
-                                            <a href="">
-                                                <h3 class="portfolio-title-new portfolio__title-3 mt-5 mt-sm-0">
-                                                    Cosmetics</h3>
-                                                <h3
-                                                    class="portfolio-title-new-2 portfolio__title-3 mt-5 mt-sm-0 mandarin-title-1">
-                                                    塑料与聚合物</h3>
-                                                <img src="assets/imgs/pigment-imgs/Cosmetics.jpg" alt="Portfolio Image">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-pagination"></div>
-
-                                <div class="swiper-btn">
-                                    <div class="pp-prev"><i class="fa-solid fa-arrow-left"></i></div>
-                                    <div class="pp-next"><i class="fa-solid fa-arrow-right"></i></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- Portfolio area end -->
-
-
             <!-- About area start -->
             <section class="about__area-3">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="about__img-3">
-                                <!-- <img src="assets/imgs/pigment-imgs/550 x 765.jpg" alt="About Thumbnail"
-                                    data-speed="auto"> -->
                                 <video width="100%" height="100%" autoplay muted loop>
                                     <source src="./assets/video/Sublimation-Dispersions.mp4" type="video/mp4">
                                 </video>
@@ -526,22 +310,18 @@
 
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE SUBLIMATION DISPERSION PARTNER
-                                </h4>
-                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您可靠的升华分散合作伙伴</h4>
+                                <h2 class="sec-sub-title title-anim">Testing & Compatibility</h2>
+                                <h4 class="sec-title title-anim text-prismane">HOW WE MEASURE AND WHERE IT RUNS</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">测试与兼容性</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                       We develop and supply high-performance water-based disperse dye dispersions engineered for consistent colour strength, precise particle stability, and reliable integration into dye sublimation ink manufacturing systems. Our dispersions are formulated across two specification grades, offering ink manufacturers the flexibility to select the right viscosity, solid content, and particle size profile for their specific production requirements. With a focus on optimum fastness properties and stable dispersion chemistry, we help sublimation ink manufacturers achieve dependable colour output — batch after batch.
+                                        The preparation is measured using Toshniwal CL 4 pHmeter for pH, Haake Rheostress 1 Rheometer for viscosity, KRUSS Tensiometer for surface tension, Sartorius Solid Analyser for solid content, and Malvern Mastersizer-3000 for particle size distribution (D90).
                                     </p>
-                                    <!-- <div class=" z-1">
-                                        <a href="assets/data/Pigment-Dispersions-data.pdf"
-                                            class="blog__btn about_btn text-prismane" download>Download Brochure
-                                            <span><i class="fa-solid fa-arrow-right"></i></span></a>
-
-                                    </div> -->
+                                    <p>
+                                        GLOJET Sublimation Dispersion preparations are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) sublimation printer platforms.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -555,13 +335,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">PROVEN GAINS</h2>
-                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">已证实的收益</span>
+                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">ADDITIONAL INFORMATION</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">附加信息</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Sublimation dispersions are formulated to deliver precise particle stability, consistent fastness properties, and reliable integration into dye sublimation ink systems. Designed for ink manufacturers who demand repeatable quality, they support efficient production with controlled chemistry and dependable colour performance across every batch.
+                                    The brochure also highlights company certifications and technical support for selecting the correct dispersion specification based on ink formulation requirements and printer setup.
                                 </p>
                             </div>
                         </div>
@@ -571,45 +351,30 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Dual Specification Grades</h3>
+                                        <h3 class="ps-title">Company Certifications</h3>
                                         <p>
-                                           Available in Spec A and Spec B grades, offering ink manufacturers flexibility to select the right viscosity, solid content, and particle size profile to match their specific sublimation ink formulation needs.
+                                            ISO 45001:2018 for Occupational Health & Safety, ISO 9001:2015 for Quality Management System, and ISO 14004:2015 for Environmental Management.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Optimum Fastness Results</h3>
+                                        <h3 class="ps-title">Specification Selection Support</h3>
                                         <p>
-                                           Engineered to deliver optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness — ensuring end-use sublimation prints meet quality and durability standards across textile applications.
+                                            The technical team is ready to help select the correct dispersion specification — Spec A or Spec B — based on ink formulation requirements and printer setup.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Precise Particle Control</h3>
+                                        <h3 class="ps-title">Brochure Actions</h3>
                                         <p>
-                                          Particle size (D90) controlled up to 195nm for Yellow and 100nm for Cyan, Magenta, and Black — providing stable dispersion chemistry and consistent colour strength in sublimation ink manufacturing.
+                                            Get a Quote, Contact Us, and Download Brochure are the key brochure actions presented for customers looking for the right sublimation ink dispersion system.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
@@ -619,89 +384,16 @@
             </section>
             <!-- Medium Cards area start -->
 
-            <!-- Story area start -->
-            <!-- <section class="story__area bg-light">
-                <div class="container g-0 line pt-140">
-                    <span class="line-3"></span>
-                    <div class="sec-title-wrapper">
-                    
-
-                        <div class="row">
-                            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                                <h2 class="sec-sub-title title-anim">Pigment Dispersions</h2>
-                                <h3 class="sec-title title-anim">About</h3> <br>
-                                <h3 class="sec-title title-anim mandarin-title-1">关于</h3>
-                            </div>
-                            <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
-                                <div class="story__text">
-                                    <p>
-                                        Our pigment dispersions are developed to deliver consistent colour strength,
-                                        fine particle stability, and reliable performance across a wide range of ink,
-                                        coating, and textile applications. Engineered for controlled processing and
-                                        compatibility, they support efficient production while maintaining uniform
-                                        quality from batch to batch.
-                                    </p>
-                                    <p>
-                                        Pigment dispersions designed for dependable colour accuracy, processing
-                                        stability, and smooth integration into modern formulations. Built to perform
-                                        under real production conditions, they help manufacturers achieve consistent
-                                        results, improved efficiency, and reduced variability across applications.
-                                    </p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
-                            <div class="story__img-wrapper">
-                                <img src="assets/imgs/pigment-imgs/300 X 415.jpg" alt="Story Thumbnail" class="w-100">
-                            </div>
-                        </div>
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                            <div class="story__img-wrapper img-anim">
-                                <img src="assets/imgs/pigment-imgs/520 X 700.jpg" alt="Story Thumbnail"
-                                    data-speed="auto">
-                            </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                            <div class="story__img-wrapper">
-                                <img src="assets/imgs/pigment-imgs/230 X 140.jpg" alt="Story Thumbnail">
-                                <img src="assets/imgs/pigment-imgs/410 X 330.jpg" alt="Story Thumbnail">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- Story area end -->
-
-
-
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">
                     <div class="line-3"></div>
-
-                    <!-- <div class="row">
-                        <div class="col-xxl-12 ">
-                            <div class="masked-title-holder position-relative">
-                                <video autoplay muted loop preload poster="" class="masked-video">
-                                    <source src="./assets/video/top 1.webm" />
-                                    
-                                </video>
-                                <h2 class="display-1 masked-title" style="">FAQ <br style="display: block"><span class="masked-title-mandarin">常见问题解答</span></h2>
-                                
-                            </div>
-                                <p class="mb-5">Frequently asked question (FAQ) <br> pages to find answars.</p>
-                        </div>
-                    </div> -->
 
                     <div class="row d-flex flex-column align-items-center">
                         <div class="col-xxl-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title-2 animation__char_come text-prismane-2">FAQ</h2>
                                 <span class="animation__char_come mandarin-title-1 text-prismane-2">常见问题解答</span>
-                                <!-- <p class="">Frequently asked question (FAQ) <br> pages to find answars.</p> -->
                             </div>
                         </div>
 
@@ -711,16 +403,17 @@
                                     <div class="accordion" id="accordionExample">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button  pe-5" type="button"
+                                                <button class="accordion-button pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Q1: What are sublimation dispersions and how are they used?
+                                                    Q1: What are dye sublimation dispersions?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Sublimation dispersions are water-based disperse dye preparations used as the colour base in dye sublimation ink manufacturing. They are formulated with precisely controlled particle size, viscosity, and pH to ensure stable, high-performance sublimation ink production.
+                                                    <p>
+                                                        Dye sublimation dispersions are precision-formulated preparations used to give sublimation ink the correct properties it needs to perform at its best.
                                                     </p>
                                                 </div>
                                             </div>
@@ -728,16 +421,17 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                   Q2: What is the difference between Specifications A and Specifications B?
+                                                    Q2: What performance do these dispersions provide?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Specification A has a lower viscosity (up to 10 Cps) and higher solid content (30–35%), while Specification B has a higher viscosity (up to 20 Cps) and lower solid content (25–35%). Both deliver the same fastness performance but offer different formulation profiles to suit varying ink manufacturing requirements.
+                                                    <p>
+                                                        The dispersions provide optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness.
                                                     </p>
                                                 </div>
                                             </div>
@@ -745,22 +439,40 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingThree">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                   Q3: How should sublimation dispersions be stored to maintain stability?
+                                                    Q3: Which printer platforms are compatible?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Sublimation dispersions should be stored in tightly sealed containers, away from direct sunlight and extreme temperatures. Proper storage maintains particle stability, pH balance, and dispersion performance throughout the product's shelf life.
+                                                    <p>
+                                                        GLOJET Sublimation Dispersion preparations are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) sublimation printer platforms.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
 
-                                        
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingFour">
+                                                <button class="accordion-button collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                                    aria-expanded="false" aria-controls="collapseFour">
+                                                    Q4: How do I choose between Spec A and Spec B?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseFour" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>
+                                                        The technical team helps select the correct dispersion specification — Spec A or Spec B — based on ink formulation requirements and printer setup.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
                             </div>

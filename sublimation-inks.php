@@ -27,7 +27,12 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Sublimation Inks</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">热升华墨水</span>
-                                    <p class="text-white">Dye sublimation inks engineered for brilliant colour transfer, exceptional wash fastness, and consistent output across polyester and polyester-coated substrates. Compatible with Epson, Ricoh, and Kyocera printhead systems — delivering vibrant, durable results across textile, apparel, and wide-format digital printing applications.</p>
+                                    <p class="text-white fw-semibold fst-italic" style="font-size:1.1rem;">
+                                        A transformative printing technology that delivers vibrant, long-lasting, soft-hand prints — engineered for versatility across fashion, sportswear, home décor and beyond.
+                                    </p>
+                                    <p class="text-white">
+                                        GLOJET Dye Sublimation Ink — Colour That Becomes Part of the Fabric. Dye sublimation is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat — imbeding the ink directly into the surface for durable, long-lasting results both inside and outside.
+                                    </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
                                         <!-- <p class="blog__btn about_btn text-prismane" style="cursor: pointer;"
@@ -93,7 +98,7 @@
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; " class="wave-path-prismane">
+            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 500px; " class="wave-path-prismane">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -144,19 +149,16 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b> GLOJET O SERIES</b> <br>
-                                        <b> 葛洁特 – O系列</b>
-                                        <br><br> Specially developed range of water-based disperse dye sublimation inks for textile and soft signage applications. Designed for Epson, Ricoh, and Kyocera-based wide-format printing systems.
+                                        <b>What is Dye Sublimation Printing?</b> <br>
+                                        <b>什么是染料升华印刷？</b>
+                                        <br><br>
+                                        Dye sublimation printing is quite a popular form of printing due to its versatility. It is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat. This type of printing creates more durable products because it imbeds the ink directly into the surface — and companies have the ability to use these prints both inside and outside.
                                     </p>
                                     <p>
-                                        <b> GLOJET OCEAN SERIES</b> <br>
-                                        <b> 葛洁特 – 海洋系列</b>
-                                        <br><br> An advanced range of Oekotex certified dye sublimation inks engineered for superior colour vibrancy, improved wash fastness, and stable performance across high-volume production runs.
-                                    </p>
-                                    <p>
-                                        <b> GLOJET OCEAN PLUS SERIES</b> <br>
-                                        <b> 葛洁特 – 海洋增强系列</b>
-                                        <br><br> Our premium sublimation ink series delivering enhanced light fastness, deeper colour density, and broader printer compatibility for demanding industrial and apparel printing applications.
+                                        <b>Ink Quality Matters</b> <br>
+                                        <b>墨水质量至关重要</b>
+                                        <br><br>
+                                        Ink plays a crucial factor in this process — the fade resistance varies from ink to ink. Depending on the need, selecting the appropriate ink will directly affect how long your print lasts. One interesting fact about the sublimation printer is that the colour produced is of a higher quality than typical inkjet printers — capable of producing images with continuous tones of colours that physically blend together.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -193,118 +195,109 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Technical Data</h2>
+                                <h2 class="sec-sub-title title-anim">Product Range</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">Sublimation Inks</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">热升华墨水</h3>
-                                <span class="text-white fs-1">Leon - U Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">莱昂 - U系列</span>
+                                <span class="text-white fs-1">GLOJET Sublimation Ink</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">葛洁特升华墨水</span>
                             </div>
 
-                            <div class="col-12  table-responsive">
+                            <!-- Core CMYK Product Range -->
+                            <div class="col-12 table-responsive mt-3">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
                                     <thead>
                                         <tr class="table-active text-table-head">
-                                            <!-- <th scope="col" class="fw-normal"></th> -->
-                                            <th scope="col" class="fw-normal">PRODUCT</th>
-                                            <th scope="col" class="fw-normal">COLOUR INDEX</th>
-                                            <th scope="col" class="fw-normal">LIGHT FASTNESS</th>
-                                            <th scope="col" class="fw-normal">CHARACTERISTICS</th>
-                                            <!-- <th scope="col" class="fw-normal">Characteristics</th> -->
+                                            <th scope="col" class="fw-normal">Colour</th>
+                                            <th scope="col" class="fw-normal">Product Name</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
-                                            <td>Glojet Yellow 005</td>
-                                            <td>Disperse Yellow 54</td>
-                                            <td>6</td>
-                                            <td>Brilliant Yellow</td>
-                                            <!-- <td>High performance standard yellow</td> -->
+                                            <td>Cyan</td>
+                                            <td>GLOJET INK CYAN</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
-                                            <td>Glojet Yellow 008</td>
-                                            <td>Disperse Yellow 82</td>
-                                            <td>4</td>
-                                            <td>Fluorescent Green light Yellow</td>
-                                            <!-- <td>High performance green shade yellow</td> -->
+                                            <td>Magenta</td>
+                                            <td>GLOJET INK MAGENTA</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
-                                            <td>Glojet Orange 008</td>
-                                            <td>Disperse Orange 25</td>
-                                            <td>6</td>
-                                            <td>Red light Orange</td>
-                                            <!-- <td>High performance strong green shade</td> -->
+                                            <td>Yellow</td>
+                                            <td>GLOJET INK YELLOW</td>
                                         </tr>
                                         <tr>
-                                            <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
-                                            <td>Glojet red 001</td>
-                                            <td>Disperse Red 60</td>
-                                            <td>6-7</td>
-                                            <td>Bright red Blue light</td>
-                                            <!-- <td>High performance yellow shade orange</td> -->
+                                            <td>Black</td>
+                                            <td>GLOJET INK BLACK</td>
                                         </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #fa5e21"></span></td> -->
-                                            <td>Glojet Blue 006</td>
-                                            <td>Disperse Blue 60</td>
-                                            <td>7</td>
-                                            <td>Colorful Green light Blue</td>
-                                            <!-- <td>High performance mid shade orange</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
-                                            <td>Glojet Blue 007</td>
-                                            <td>Disperse Blue 72</td>
-                                            <td>6-7</td>
-                                            <td>Red light Blue</td>
-                                            <!-- <td>High performance red shade orange</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
-                                            <td>Glojet Blue 008</td>
-                                            <td>Disperse Blue 359</td>
-                                            <td>5-6</td>
-                                            <td>Brilliant Blue</td>
-                                            <!-- <td>High performance red with bluish tone</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #aa1b25"></span></td> -->
-                                            <td>Glojet Blue 009</td>
-                                            <td>Disperse Blue 360</td>
-                                            <td>5-6</td>
-                                            <td>Brilliant Blue</td>
-                                            <!-- <td>High performance standard magenta</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #5f1c61"></span></td> -->
-                                            <td>Glojet Brown 002</td>
-                                            <td>Disperse Brown 27</td>
-                                            <td>6</td>
-                                            <td>Deep Brown</td>
-                                            <!-- <td>High performance red shade magenta</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span class="color-item" style="background: #280653"></span></td> -->
-                                            <td>Glojet Black 001</td>
-                                            <td>Disperse Black mix</td>
-                                            <td>5-6</td>
-                                            <td>Blue black</td>
-                                            <!-- <td>High performance blue shade violet</td> -->
-                                        </tr>
-                                        <tr>
-                                            <!-- <td><span ="color-item" style="background: #211f6e"></span></td> -->
-                                            <td>Glojet Black 002</td>
-                                            <td>Disperse Black mix</td>
-                                            <td>5-6</td>
-                                            <td>Red black</td>
-                                            <!-- <td>High performance standard cyan</td> -->
-                                        </tr>
-                                      
                                     </tbody>
                                 </table>
+                            </div>
 
+                            <!-- Available Ink Colours Including Fluorescents -->
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1">Available Ink Colours — Standard &amp; Fluorescent</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">可用墨水颜色 — 标准与荧光</span>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Colour Name</th>
+                                            <th scope="col" class="fw-normal">Type</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Glojet Orange</td>
+                                            <td>Standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Red</td>
+                                            <td>Standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Blue</td>
+                                            <td>Standard</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Fluo Yellow</td>
+                                            <td>Fluorescent</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Glojet Fluo Pink</td>
+                                            <td>Fluorescent</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Compatible Machines & Printers -->
+                            <div class="sec-title-wrapper mt-5">
+                                <span class="text-white fs-1">Compatible Machines &amp; Printers</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">兼容机器与打印机</span>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Brand</th>
+                                            <th scope="col" class="fw-normal">Compatible Models</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>EPSON</td>
+                                            <td>i3200, 5113, 4720, DX5, DX7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>RICOH</td>
+                                            <td>Gen 4 and Gen 5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>KYOCERA</td>
+                                            <td>KJ4B</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
 
                         
@@ -329,86 +322,43 @@
                             <div class="service__items-7 animation_service_7">
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Vivid Colour<span>Transfer</span></h3>
+                                        <h3 class="service__title-7 text-prismane-2">All-Over <span>Print Effect</span></h3>
                                     </a>
                                     <p>
-                                        Specially formulated dye sublimation inks deliver brilliant, high-saturation colour that transfers directly into polyester fibres, producing sharp, vibrant prints with lasting visual impact.
+                                        An all-over print effect on t-shirts is achieved as ink is printed from seam-to-seam — giving you full, edge-to-edge coverage on every garment without borders or limits.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Superior Wash<span>Fastness</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Soft Hand Feel — <span>You Can't Feel the Ink</span></h3>
                                     </a>
                                     <p>
-                                        Engineered to meet Oekotex standards, our sublimation inks provide optimum wash fastness, alkali perspiration fastness, and crock fastness — ensuring prints retain colour integrity through repeated use.
+                                        You can't feel the ink as it becomes part of the fabric. The end product is a soft-hand feel — no cracking, no peeling, no raised texture. Just fabric.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Wide Printer<span>Compatibility</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Long-Lasting <span>Quality Design</span></h3>
                                     </a>
                                     <p>
-                                        Compatible with leading printhead systems including Epson i3200, 5113, 4720, DX5, DX7, Ricoh Gen 4 & 5, and Kyocera KJ4B — integrating smoothly into existing production setups.
+                                        The printing becomes part of the fabric itself — delivering long-lasting quality that withstands repeated washing and everyday wear without fading, cracking, or lifting.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Stable Dispersion<span>Performance</span> </h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Thousands of Colours <span>to Choose From</span></h3>
                                     </a>
                                     <p>
-                                        Ink particle size uniformly distributed below 195nm ensures consistent viscosity, minimal clogging, and reliable printhead performance across long production runs.
+                                        An incredibly wide colour palette gives you creative freedom to produce anything from bold graphics to photographic prints — with continuous tones that physically blend together.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                                 <div class="service__item-7">
                                     <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Fast Drying<span>Production</span></h3>
-
+                                        <h3 class="service__title-7 text-prismane-2">Versatile <span>Product Range</span></h3>
                                     </a>
                                     <p>
-                                        Quick-drying formulation improves production speed and throughput, reducing downtime between prints and supporting high-volume, continuous printing operations.
+                                        Can print on home décor items, sports apparel, fashion apparel and accessories, tradeshow and retail graphics, and keepsake items — suitable for indoor and outdoor use.
                                     </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
-                                </div>
-                                <div class="service__item-7">
-                                    <a href="">
-                                        <h3 class="service__title-7 text-prismane-2">Broad Application<span>Range</span> </h3>
-
-                                    </a>
-                                    <p>
-                                        Suitable for polyester and polyester-coated substrates including sportswear, fashion apparel, home décor, tradeshow graphics, and promotional items — inside and outside use.
-                                    </p>
-                                    <!-- <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -516,16 +466,19 @@
 
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                             <div class="sec-title-wrapper">
-                                <h2 class="sec-sub-title title-anim">Who We Are</h2>
-                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE SUBLIMation INKS PARTNER
+                                <h2 class="sec-sub-title title-anim">Colour That Becomes Part of the Fabric</h2>
+                                <h4 class="sec-title title-anim text-prismane">YOUR RELIABLE SUBLIMATION INKS PARTNER
                                 </h4>
-                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您值得信赖的 升华油墨 合作伙伴</h4>
+                                <h4 class="sec-title title-anim mandarin-title-1 text-prismane">您值得信赖的升华油墨合作伙伴</h4>
                             </div>
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                           We develop and supply high-performance dye sublimation inks engineered for brilliant colour transfer, exceptional wash fastness, and consistent output across polyester and polyester-coated substrates. Our inks are formulated with ultra-fine dispersion particle sizes, ensuring stable viscosity, clog-free printhead performance, and vibrant, durable results. Compatible with Epson, Ricoh, and Kyocera printhead systems and Oekotex certified, our sublimation inks are built to meet the demands of high-volume textile and graphic printing operations — batch after batch.
-                                     </p>
+                                        GLOJET Dye Sublimation Inks are Oekotex® Certified &amp; Compliant — engineered to deliver vibrant, long-lasting prints that become part of the fabric itself. Available in CMYK plus standard and fluorescent extension colours, our inks are compatible with EPSON, RICOH, and KYOCERA printhead systems, integrating seamlessly into your existing production setup.
+                                    </p>
+                                    <p>
+                                        From seam-to-seam all-over print effects to soft-hand-feel fashion apparel — GLOJET Sublimation Inks are designed for fashion, sportswear, home décor, tradeshow graphics, and keepsake items. Backed by ISO 45001:2018, ISO 9001:2015, and ISO 14004:2015 company certifications, our inks deliver professional-grade performance at a competitive price.
+                                    </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
                                             class="blog__btn about_btn text-prismane" download>Download Brochure
@@ -545,13 +498,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
-                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">PROVEN GAINS</h2>
-                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">已证实的收益</span>
+                            <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">THE PROCESS</h2>
+                            <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">工艺流程</span>
                         </div>
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Sublimation inks are formulated to deliver consistent colour brilliance, reliable transfer performance, and production efficiency across high-volume polyester printing operations. Built to perform under real production conditions, they help manufacturers achieve superior output, reduced waste, and repeatable results across every run.
+                                    The dye sublimation process converts your design into fabric-embedded colour through a precise, five-step workflow — from loading dyes to delivering the final finished garment.
                                 </p>
                             </div>
                         </div>
@@ -561,9 +514,9 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title"> Brilliant Colour Output</h3>
+                                        <h3 class="ps-title">Step 1 — Load the Dyes</h3>
                                         <p>
-                                            Ultra-fine particle dispersion enables deep, vibrant colour saturation with a wider gamut — producing photographic-quality prints with sharp detail and smooth tonal gradients across substrates.
+                                            Sublimation dyes are loaded into the printer — Cyan, Magenta, Yellow and Black — ready for precision colour transfer onto sublimation transfer paper.
                                         </p>
                                         <!-- <ul>
                                             <li>+ WordPress</li>
@@ -576,30 +529,20 @@
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Certified Ink Fastness</h3>
+                                        <h3 class="ps-title">Step 2 — Print onto Transfer Paper</h3>
                                         <p>
-                                           Oekotex certified formulation delivers optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness — ensuring prints stay vivid and durable in end-use conditions.
+                                            Images are then printed onto sublimation transfer paper with precision and colour accuracy — ready for heat transfer onto the fabric.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                 <div class="portfolio__service-item">
                                     <a href="">
-                                        <h3 class="ps-title">Reduced Downtime & Waste</h3>
+                                        <h3 class="ps-title">Step 3 — Apply Heat</h3>
                                         <p>
-                                           Stable viscosity, clog-free performance, and consistent transfer rates minimise printhead maintenance, reprint requirements, and production losses — lowering overall operating costs significantly.
+                                            Heat is applied to transfer the ink from the paper to the fabric — the heat causes the dye to sublimate and bond directly into the polyester fibres.
                                         </p>
-                                        <!-- <ul>
-                                            <li>+ WordPress</li>
-                                            <li>+ Python</li>
-                                            <li>+ PHP & Laravel</li>
-                                        </ul> -->
                                     </a>
                                 </div>
                             </div>
@@ -667,6 +610,133 @@
 
 
 
+            <!-- Steps 4 & 5 + Certifications area start -->
+            <!-- <section class="about__area-3">
+                <div class="container pt-0 pb-0">
+                    <div class="row">
+                        <div class="col-12">
+                            Steps 4 & 5
+                            <div class="row mb-4">
+                                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                                    <div class="portfolio__service-item">
+                                        <h3 class="ps-title">Step 4 — Cut the Fabric</h3>
+                                        <p class="text-white">The garment panels are cut from the reels of fabric — ready for assembly into the final product.</p>
+                                    </div>
+                                </div>
+                                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                                    <div class="portfolio__service-item">
+                                        <h3 class="ps-title">Step 5 — Sew and Assemble</h3>
+                                        <p class="text-white">The panels are then sewn and pieced together — delivering the final finished product with vibrant, durable colour that became part of the fabric.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> -->
+
+            <!-- Certifications & Quality Badges area start -->
+            <section class="about__area-3">
+                <div class="container pt-100 pb-140">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Oekotex® Certified &amp; Compliant</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Certifications &amp; Quality Badges</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">认证与质量标志</h3>
+                                <p class="text-white mt-3">GLOJET Dye Sublimation Inks are Oekotex® Certified &amp; Compliant — meeting the highest standards for safety and environmental responsibility.</p>
+                            </div>
+                            <div class="col-12 table-responsive mt-4">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Badge</th>
+                                            <th scope="col" class="fw-normal">What It Means</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>HD BK</td>
+                                            <td>High-density Black formulation</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Superior Print Quality</td>
+                                            <td>Consistently sharp, vibrant output</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Cost Effective Price</td>
+                                            <td>Professional performance at a competitive price</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Eco Friendly</td>
+                                            <td>Environmentally responsible formulation</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Fast Drying</td>
+                                            <td>Faster production with reduced wait time</td>
+                                        </tr>
+                                        <tr>
+                                            <td>FP</td>
+                                            <td>Fluorescent Pink available</td>
+                                        </tr>
+                                        <tr>
+                                            <td>FY</td>
+                                            <td>Fluorescent Yellow available</td>
+                                        </tr>
+                                        <tr>
+                                            <td>High Colour Concentration</td>
+                                            <td>Maximum colour yield per bottle</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Company Certifications -->
+                            <div class="sec-title-wrapper mt-5">
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Company Certifications</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">公司认证</h3>
+                            </div>
+                            <div class="col-12 table-responsive mt-3">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Certification</th>
+                                            <th scope="col" class="fw-normal">Standard</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>ISO 45001:2018</td>
+                                            <td>Occupational Health &amp; Safety</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 9001:2015</td>
+                                            <td>Quality Management System</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ISO 14004:2015</td>
+                                            <td>Environmental Management</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- CTA Banner
+                            <div class="mt-5 p-5 text-center rounded" style="background: var(--black-2, #1a1a1a); border: 1px solid rgba(201,243,29,0.2);">
+                                <h3 class="text-prismane mb-3">Ready to Elevate Your Sublimation Print Quality?</h3>
+                                <p class="text-white fst-italic mb-4">Contact our team for ink samples, compatibility checks, and pricing tailored to your sublimation printing setup.</p>
+                                <div class="d-flex justify-content-center gap-4 flex-wrap">
+                                    <a href="contact.php" class="blog__btn about_btn text-prismane">Get a Quote <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                                    <a href="contact.php" class="blog__btn about_btn text-prismane">Contact Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                                </div>
+                            </div> -->
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Certifications & Quality Badges area end -->
+
             <!-- FAQ area start -->
             <section class="faq__area-6">
                 <div class="container g-0 line pt-130 pb-140">
@@ -701,16 +771,16 @@
                                     <div class="accordion" id="accordionExample">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button  pe-5" type="button"
+                                                <button class="accordion-button pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                     Q1: What is dye sublimation ink and how does it work?
+                                                    Q1: What is dye sublimation printing and why is it popular?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Dye sublimation ink is a heat-activated ink that converts from solid to gas under high temperature, transferring directly into polyester fibres. This process embeds the ink into the substrate, creating durable, vibrant prints that do not sit on the surface.
+                                                    <p>Dye sublimation printing is a popular form of printing due to its versatility. It transfers your image onto polyester or polyester-coated fabric using heat — imbeding the ink directly into the surface to create durable products with vibrant, continuous-tone colour that physically blends together, producing a higher quality output than typical inkjet printers.
                                                     </p>
                                                 </div>
                                             </div>
@@ -718,16 +788,16 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Q2: What substrates are sublimation inks suitable for?
+                                                    Q2: Can you feel the ink on the fabric after sublimation printing?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Sublimation inks are designed for polyester and polyester-coated substrates including sportswear, fashion apparel, home décor, soft signage, tradeshow graphics, and promotional items. A minimum polyester content is required for effective dye transfer.
+                                                    <p>No — you can't feel the ink at all. Because the dye bonds directly into the polyester fibres, the end product is a soft-hand feel with no cracking, no peeling, and no raised texture. The print becomes part of the fabric itself, delivering long-lasting quality that withstands repeated washing and everyday wear.
                                                     </p>
                                                 </div>
                                             </div>
@@ -735,16 +805,16 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingThree">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                     Q3: Which printers and printheads are compatible with these inks?
+                                                    Q3: Which machines and printers are compatible with GLOJET Sublimation Inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Our sublimation inks are compatible with Epson i3200, 5113, 4720, DX5, and DX7 printheads, Ricoh Gen 4 and Gen 5, and Kyocera KJ4B — covering a wide range of wide-format and industrial printing systems.
+                                                    <p>GLOJET Sublimation Inks are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B). Compatible machine brands include EPSON, MIMAKI, MUTOH, ROLAND (EPSON Heads), and MS-REGGIANNI (RICOH and KYOCERA based).
                                                     </p>
                                                 </div>
                                             </div>
@@ -752,16 +822,16 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingFour">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                     Q4: What fastness standards do your sublimation inks meet?
+                                                    Q4: What products can I print with dye sublimation inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Our sublimation inks are Oekotex certified and deliver optimum light fastness, wash fastness, alkali perspiration fastness, and crock fastness, ensuring prints meet performance requirements for apparel and textile end-use applications.
+                                                    <p>GLOJET Sublimation Inks can be used on a versatile range of products — home décor items, sports apparel, fashion apparel and accessories, tradeshow and retail graphics, and keepsake items. They are suitable for both indoor and outdoor use as the print is embedded within the fabric surface.
                                                     </p>
                                                 </div>
                                             </div>
@@ -769,16 +839,33 @@
 
                                         <div class="accordion-item">
                                             <h2 class="accordion-header" id="headingFive">
-                                                <button class="accordion-button  collapsed pe-5" type="button"
+                                                <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Q5: How should sublimation inks be stored to maintain performance?
+                                                    Q5: Are GLOJET Sublimation Inks certified?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Sublimation inks should be stored in sealed containers away from direct sunlight, heat, and freezing temperatures. Proper storage maintains dispersion stability, viscosity, and colour performance throughout the product's shelf life.
+                                                    <p>Yes — GLOJET Dye Sublimation Inks are Oekotex® Certified &amp; Compliant, meeting the highest standards for safety and environmental responsibility. The company also holds ISO 45001:2018 (Occupational Health &amp; Safety), ISO 9001:2015 (Quality Management System), and ISO 14004:2015 (Environmental Management) certifications.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSix">
+                                                <button class="accordion-button collapsed pe-5" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                                    aria-expanded="false" aria-controls="collapseSix">
+                                                    Q6: Are fluorescent colours available in GLOJET Sublimation Inks?
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSix" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <p>Yes — in addition to the standard CMYK range, GLOJET offers Glojet Orange, Glojet Red, and Glojet Blue as standard extension colours, plus Glojet Fluo Yellow and Glojet Fluo Pink as fluorescent options — expanding your colour palette for specialty, high-visibility, and fashion sublimation applications.
                                                     </p>
                                                 </div>
                                             </div>
