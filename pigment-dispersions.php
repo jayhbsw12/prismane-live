@@ -92,7 +92,7 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        Global Nanotech offers a specially developed range of water-based pigment dispersions designed for digital inks across two distinct industries — textile printing and flexible packaging / graphic industry.
+                                        We offer a specially developed range of water-based pigment dispersions designed for digital inks across two distinct industries — textile printing and flexible packaging / graphic industry.
                                     </p>
                                     <p>
                                         Each series is precision-engineered to deliver high performance, consistent colour, and excellent light fastness — compatible with the most widely used digital printing systems available today.

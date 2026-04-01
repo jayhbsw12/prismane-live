@@ -145,12 +145,12 @@
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
                                         <b>GLO-DTF 900MAX</b> <br>
-                                        <b>GLO-DTF 900MAX型</b>
+                                        <!-- <b>GLO-DTF 900MAX型</b> -->
                                         <br><br>High-capacity DTF printer equipped with 4–8pcs Epson i3200A1/i1600A1 printheads. Features automatic powder returning system, 8-colour CMYK W printing, auto anti-collision system, and all functions operable via touchscreen — built for large-scale, high-speed production.
                                     </p>
                                     <p>
                                         <b>GLO-DTF 420 & 600 PRO</b> <br>
-                                        <b>GLO-DTF 420 & 600 PRO型</b>
+                                        <!-- <b>GLO-DTF 420 & 600 PRO型</b> -->
                                         <br><br>Mid-range DTF printer with 420mm and 600mm golden production sizes, equipped with 2pcs Epson i1600/i3200-A1 printheads. Features all-in-one printer and powder shaker body, well-designed media take-up system, and low ink alarm protection — ideal for efficient, space-saving production.
                                     </p>
                                 </div>
