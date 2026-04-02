@@ -5,6 +5,110 @@
     .hero-padding-remove {
         padding-top: 0px !important;
     }
+
+    .dtf-light-card {
+        background: #ffffff;
+        border: 1px solid rgba(17, 24, 39, 0.08);
+        border-radius: 16px;
+        overflow: hidden;
+        height: 100%;
+        box-shadow: 0 18px 40px rgba(17, 24, 39, 0.06);
+    }
+
+    .dtf-light-card__media {
+        background: #f4f4f4;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1.5rem;
+    }
+
+    .dtf-light-card__body {
+        padding: 1.5rem 2rem 2rem;
+        color: #111827;
+    }
+
+    .dtf-light-card__body h3,
+    .dtf-light-card__body h4,
+    .dtf-light-card__body h5,
+    .dtf-light-card__body .text-prismane-2 {
+        color: #111827 !important;
+    }
+
+    .dtf-light-card__body .dtf-card-title,
+    .dtf-light-card__body .dtf-card-title-mn {
+        color: #c9f31d !important;
+    }
+
+    .dtf-light-card__body .dtf-card-title {
+        display: block;
+        margin-bottom: 0.15rem;
+        line-height: 1.15;
+    }
+
+    .dtf-light-card__body .dtf-card-title-mn {
+        display: block;
+        line-height: 1.15;
+    }
+
+    .dtf-light-card__body p,
+    .dtf-light-card__body li {
+        color: #374151 !important;
+    }
+
+    .dtf-light-card__body ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .dtf-light-card__body li {
+        padding: 4px 0;
+        font-size: 0.92rem;
+        line-height: 1.45;
+    }
+
+    .dtf-chart-panel {
+        margin: 2rem 0;
+        background: #ffffff;
+        border: 1px solid rgba(17, 24, 39, 0.08);
+        border-radius: 12px;
+        padding: 1.5rem;
+        text-align: center;
+        box-shadow: 0 14px 32px rgba(17, 24, 39, 0.05);
+    }
+
+    .dtf-chart-panel p {
+        color: #111827 !important;
+        opacity: 0.7;
+        letter-spacing: 0.05em;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+    }
+
+    .dtf-chart-panel img {
+        background: #ffffff;
+        border-radius: 8px;
+    }
+
+    .dtf-consumables-copy {
+        margin-bottom: 2.5rem;
+    }
+
+    .dtf-consumables-copy p {
+        color: #374151;
+        margin-bottom: 0;
+    }
+
+    @media (max-width: 767px) {
+        .dtf-light-card__body {
+            padding: 1.25rem 1.25rem 1.5rem;
+        }
+
+        .dtf-chart-panel {
+            padding: 1rem;
+        }
+    }
 </style>
 <?php include "header.php"; ?>
 
@@ -178,6 +282,51 @@
                             </div>
                         </div> -->
                     </div>
+
+                    <!-- Printer Model Cards -->
+                    <div class="row g-4 mt-5">
+                        <!-- GLO-DTF 900MAX -->
+                        <div class="col-12 col-md-6">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 340px;">
+                                    <img src="assets/imgs/prismane-images/GLO-DTF900MAX.png" alt="GLO-DTF 900MAX Industrial DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h3 class="dtf-card-title mb-2">GLO-DTF 900MAX<span class="dtf-card-title-mn">GLO-DTF 900MAX 型号</span></h3>
+                                    <p style="font-size: 0.95rem; margin-bottom: 1rem;">Large-format industrial DTF printer for high-volume production environments.</p>
+                                    <ul>
+                                        <li>+ 4–8pcs Epson i3200A1 / i1600A1</li>
+                                        <li>+ Print Speed up to 22m²/h</li>
+                                        <li>+ 8-colour CMYK W printing</li>
+                                        <li>+ Auto anti-collision system</li>
+                                        <li>+ 15.6" 1920×1080 touchscreen</li>
+                                        <li>+ All-in-one powder shaker</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- GLO-DTF 420 & 600 PRO -->
+                        <div class="col-12 col-md-6">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 340px;">
+                                    <img src="assets/imgs/prismane-images/GLODTF420&600PRO.png" alt="GLO-DTF 420 & 600 PRO DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h3 class="dtf-card-title mb-2">GLO-DTF 420 &amp; 600 PRO<span class="dtf-card-title-mn">GLO-DTF 420 &amp; 600 PRO 型号</span></h3>
+                                    <p style="font-size: 0.95rem; margin-bottom: 1rem;">Mid-range all-in-one DTF printer in 420mm and 600mm production widths.</p>
+                                    <ul>
+                                        <li>+ 2pcs Epson i3200A1 / i1600A1</li>
+                                        <li>+ Print Speed: 6pass 4m²/h</li>
+                                        <li>+ CMYK W printing</li>
+                                        <li>+ All-in-one printer & powder shaker</li>
+                                        <li>+ Low ink alarm protection</li>
+                                        <li>+ Media take-up system</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </section>
             <!-- Development area end -->
@@ -333,6 +482,12 @@
 
                             </div>
 
+                            <!-- GLO-DTF 900MAX Spec Chart -->
+                            <div class="dtf-chart-panel">
+                                <p class="fw-semibold mb-3">GLO-DTF 900MAX — Technical Comparison Chart</p>
+                                <img src="assets/imgs/prismane-images/GLO-DTF900MAX-chart.png" alt="GLO-DTF 900MAX Technical Specifications Chart" class="img-fluid" style="max-height: 520px; max-width: 100%; object-fit: contain;">
+                            </div>
+
                             <div class="sec-title-wrapper mt-5">
                                 <span class="text-white fs-1 ">GLO-DTF 420 & 600 PRO — Specifications</span> &nbsp; &nbsp;
                                 <span class="text-white fs-1 mandarin-title-2 ">GLO-DTF 420 & 600 PRO 型号</span>
@@ -474,7 +629,12 @@
                                     </tbody>
                                 </table>
 
+                            </div>
 
+                            <!-- GLO-DTF 420 & 600 PRO Spec Chart -->
+                            <div class="dtf-chart-panel">
+                                <p class="fw-semibold mb-3">GLO-DTF 420 & 600 PRO — Technical Comparison Chart</p>
+                                <img src="assets/imgs/prismane-images/GLODTF420&600PRO-chart.png" alt="GLO-DTF 420 & 600 PRO Technical Specifications Chart" class="img-fluid" style="max-height: 520px; max-width: 100%; object-fit: contain;">
                             </div>
 
                             <!-- <div class="mt-5 z-1 d-flex justify-content-center">
@@ -584,6 +744,97 @@
                 </div>
             </section>
             <!-- Service area end -->
+
+            <!-- DTF Inks & TPU Powder section start -->
+            <section class="development__area">
+                <div class="container g-0 line pt-130 pb-150">
+                    <div class="line-3"></div>
+
+                    <!-- Section header — mirrors existing page section style -->
+                    <div class="row mb-60">
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-title animation__char_come text-prismane-2">Compatible Inks &amp; Consumables</h2>
+                                <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">配套油墨与耗材</h2>
+                            </div>
+                        </div>
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
+                            <div class="development__wrapper pb-0 dtf-consumables-copy">
+                                <div class="development__content border-0 mb-0 pb-0">
+                                    <p>Our DTF printers are optimised for use with Glojet DTF inks and precision-grade TPU powder — engineered together for superior colour vibrancy, wash durability, and consistent transfer results across garment and textile applications.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Featured 2-up: Glojet Inks + TPU Powder -->
+                    <div class="row g-4 mb-4">
+                        <!-- Glojet DTF Inks -->
+                        <div class="col-12 col-md-6">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 300px;">
+                                    <img src="assets/imgs/prismane-images/Glojet-dtf-inks-products.png" alt="Glojet DTF Ink Products Range" style="max-height: 260px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h4 class="dtf-card-title mb-2">Glojet DTF Inks<span class="dtf-card-title-mn">Glojet DTF 油墨</span></h4>
+                                    <p style="font-size: 0.95rem;">Formulated for Epson i3200A1 and i1600A1 printheads — vibrant CMYK+White output with excellent adhesion, wash fastness, and colour stability. Available in bulk for high-volume production.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- TPU Hot Melt Powder -->
+                        <div class="col-12 col-md-6">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 300px;">
+                                    <img src="assets/imgs/prismane-images/TPU-Powder-Example.png" alt="TPU Hot Melt Powder for DTF Printing" style="max-height: 260px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h4 class="dtf-card-title mb-2">TPU Hot Melt Powder<span class="dtf-card-title-mn">TPU 热熔粉末</span></h4>
+                                    <p style="font-size: 0.95rem;">The critical bonding agent in the DTF process. Applied to wet ink before curing — engineered for strong fabric adhesion, excellent wash durability, and flexibility on stretch fabrics.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 3-product grid: DTF Inks, Dye-Sub Ink, Dye-Sub Process -->
+                    <div class="row g-4">
+                        <div class="col-12 col-md-4">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 240px;">
+                                    <img src="assets/imgs/prismane-images/DTF-Ink-products.png" alt="DTF Ink Product Range" style="max-height: 200px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h5 class="dtf-card-title mb-2">DTF Ink Range<span class="dtf-card-title-mn">DTF 油墨系列</span></h5>
+                                    <p style="font-size: 0.9rem; margin: 0;">Full CMYK, White, and fluorescent ORGB configurations for consistent, professional-grade DTF output.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 240px;">
+                                    <img src="assets/imgs/prismane-images/Dye-Sublimation-Ink.png" alt="Dye Sublimation Ink" style="max-height: 200px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h5 class="dtf-card-title mb-2">Dye Sublimation Inks<span class="dtf-card-title-mn">染料热升华油墨</span></h5>
+                                    <p style="font-size: 0.9rem; margin: 0;">High-transfer-rate performance on polyester fabrics — sharp detail, brilliant colour, and long-lasting results for sportswear and promotional textiles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4">
+                            <div class="dtf-light-card">
+                                <div class="dtf-light-card__media" style="height: 240px;">
+                                    <img src="assets/imgs/prismane-images/Dye-Sublimation-Process.png" alt="Dye Sublimation Process" style="max-height: 200px; max-width: 100%; object-fit: contain;">
+                                </div>
+                                <div class="dtf-light-card__body">
+                                    <h5 class="dtf-card-title mb-2">Sublimation Process<span class="dtf-card-title-mn">热升华工艺</span></h5>
+                                    <p style="font-size: 0.9rem; margin: 0;">Step-by-step dye sublimation transfer — from digital print to permanent, vibrant colour fusion into polyester substrates.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+            <!-- DTF Inks & TPU Powder section end -->
 
             <!-- Portfolio area start -->
             <!-- <section class="portfolio__area-3">

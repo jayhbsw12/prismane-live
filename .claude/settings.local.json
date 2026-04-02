@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -l \"product\\\\|printer\\\\|chart\\\\|spec\" c:/xampp/htdocs/prismane-live/theme/*.html)",
+      "Bash(grep -l \"portfolio\\\\|product\\\\|card\\\\|service\" c:/xampp/htdocs/prismane-live/theme/*.html)"
+    ]
+  }
+}
