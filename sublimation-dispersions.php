@@ -22,7 +22,7 @@
                                     class="hero__title-wrapper m-0 d-flex flex-column gap-3 justify-content-center align-items-start">
                                     <h1 class="sec-title text-white text-prismane">Sublimation Dispersions</h1>
                                     <span class="sec-title text-white mandarin-title-1 text-prismane">升华分散体</span>
-                                    <p class="text-white">GLOJET Dye Sublimation Ink Preparations — precision-formulated dispersions for superior ink performance. Extremely stable. Exceptionally consistent. Engineered to give your sublimation ink the correct properties it needs to perform at its best.</p>
+                                    <p class="text-white">LEON Dye Sublimation Ink Preparations — precision-formulated dispersions for superior ink performance. Extremely stable. Exceptionally consistent. Engineered to give your sublimation ink the correct properties it needs to perform at its best.</p>
                                     <div class="z-1">
                                         <script>
                                             function downloadPDF() {
@@ -320,7 +320,7 @@
                                         The preparation is measured using Toshniwal CL 4 pHmeter for pH, Haake Rheostress 1 Rheometer for viscosity, KRUSS Tensiometer for surface tension, Sartorius Solid Analyser for solid content, and Malvern Mastersizer-3000 for particle size distribution (D90).
                                     </p>
                                     <p>
-                                        GLOJET Sublimation Dispersion preparations are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) sublimation printer platforms.
+                                        LEON Sublimation Dispersion preparations are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) sublimation printer platforms.
                                     </p>
                                 </div>
                             </div>
@@ -449,7 +449,7 @@
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        GLOJET Sublimation Dispersion preparations are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) sublimation printer platforms.
+                                                        LEON Sublimation Dispersion preparations are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) sublimation printer platforms.
                                                     </p>
                                                 </div>
                                             </div>

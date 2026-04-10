@@ -144,13 +144,13 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>Glojet DTF – CMYK Series</b> <br>
-                                        <b>葛洁特 DTF – CMYK系列</b>
+                                        <b>Leon DTF – CMYK Series</b> <br>
+                                        <b>莱昂 DTF – CMYK系列</b>
                                         <br><br> Specially developed water-based DTF ink range for printing on cotton, linen, silk, polyester, nylon, spandex, and blended fabrics. Compatible with Epson i3200, i1600, and XP600 printheads with ink particle size below 180nm.
                                     </p>
                                     <p>
-                                        <b>Glojet DTF – White Ink</b> <br>
-                                        <b> 葛洁特 DTF – 白色油墨</b>
+                                        <b>Leon DTF – White Ink</b> <br>
+                                        <b> 莱昂 DTF – 白色油墨</b>
                                         <br><br> High-opacity white DTF ink with ultra whiteness and high hiding power. Features uniform dispersion, stable performance, excellent suspension capacity, and strong compatibility with CMYK colour inks — with no ink penetration.
                                     </p>
                                 </div>
@@ -206,7 +206,7 @@
                                     <tbody>
                                         <tr>
                                             <td>Ink Model</td>
-                                            <td>GLOJET DTF</td>
+                                            <td>LEON DTF</td>
                                         </tr>
                                         <tr>
                                             <td>Ink Volume</td>
@@ -242,27 +242,27 @@
                                         <tr>
                                             <td><span class="color-item" style="background: #00AEEF"></span></td>
                                             <td>Cyan</td>
-                                            <td>GLOJET DTF CYAN</td>
+                                            <td>LEON DTF CYAN</td>
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #EC008C"></span></td>
                                             <td>Magenta</td>
-                                            <td>GLOJET DTF MAGENTA</td>
+                                            <td>LEON DTF MAGENTA</td>
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #FFF200"></span></td>
                                             <td>Yellow</td>
-                                            <td>GLOJET DTF YELLOW</td>
+                                            <td>LEON DTF YELLOW</td>
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #231F20"></span></td>
                                             <td>Black</td>
-                                            <td>GLOJET DTF BLACK</td>
+                                            <td>LEON DTF BLACK</td>
                                         </tr>
                                         <tr>
                                             <td><span class="color-item" style="background: #ffffff; border: 1px solid #555;"></span></td>
                                             <td>White</td>
-                                            <td>GLOJET INK WHITE</td>
+                                            <td>LEON INK WHITE</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -533,7 +533,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Precision-formulated GLOJET DTF inks deliver consistent colour, clog-free performance, and broad compatibility across every fabric type and printhead setup.
+                                    Precision-formulated LEON DTF inks deliver consistent colour, clog-free performance, and broad compatibility across every fabric type and printhead setup.
                                 </p>
                             </div>
                         </div>

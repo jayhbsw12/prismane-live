@@ -31,7 +31,7 @@
                                         A transformative printing technology that delivers vibrant, long-lasting, soft-hand prints — engineered for versatility across fashion, sportswear, home décor and beyond.
                                     </p>
                                     <p class="text-white">
-                                        GLOJET Dye Sublimation Ink — Colour That Becomes Part of the Fabric. Dye sublimation is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat — imbeding the ink directly into the surface for durable, long-lasting results both inside and outside.
+                                        LEON Dye Sublimation Ink — Colour That Becomes Part of the Fabric. Dye sublimation is a transformative method of printing that takes your image and transfers it onto a polyester or polyester coated fabric using heat — imbeding the ink directly into the surface for durable, long-lasting results both inside and outside.
                                     </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
@@ -198,8 +198,8 @@
                                 <h2 class="sec-sub-title title-anim">Product Range</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">Sublimation Inks</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">热升华墨水</h3>
-                                <span class="text-white fs-1">GLOJET Sublimation Ink</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">葛洁特升华墨水</span>
+                                <span class="text-white fs-1">LEON Sublimation Ink</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂升华墨水</span>
                             </div>
 
                             <!-- Core CMYK Product Range -->
@@ -214,19 +214,19 @@
                                     <tbody>
                                         <tr>
                                             <td>Cyan</td>
-                                            <td>GLOJET INK CYAN</td>
+                                            <td>LEON INK CYAN</td>
                                         </tr>
                                         <tr>
                                             <td>Magenta</td>
-                                            <td>GLOJET INK MAGENTA</td>
+                                            <td>LEON INK MAGENTA</td>
                                         </tr>
                                         <tr>
                                             <td>Yellow</td>
-                                            <td>GLOJET INK YELLOW</td>
+                                            <td>LEON INK YELLOW</td>
                                         </tr>
                                         <tr>
                                             <td>Black</td>
-                                            <td>GLOJET INK BLACK</td>
+                                            <td>LEON INK BLACK</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -247,23 +247,23 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Glojet Orange</td>
+                                            <td>Leon Orange</td>
                                             <td>Standard</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Red</td>
+                                            <td>Leon Red</td>
                                             <td>Standard</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Blue</td>
+                                            <td>Leon Blue</td>
                                             <td>Standard</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Fluo Yellow</td>
+                                            <td>Leon Fluo Yellow</td>
                                             <td>Fluorescent</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Fluo Pink</td>
+                                            <td>Leon Fluo Pink</td>
                                             <td>Fluorescent</td>
                                         </tr>
                                     </tbody>
@@ -474,10 +474,10 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        GLOJET Dye Sublimation Inks are Oekotex® Certified &amp; Compliant — engineered to deliver vibrant, long-lasting prints that become part of the fabric itself. Available in CMYK plus standard and fluorescent extension colours, our inks are compatible with EPSON, RICOH, and KYOCERA printhead systems, integrating seamlessly into your existing production setup.
+                                        LEON Dye Sublimation Inks are Oekotex® Certified &amp; Compliant — engineered to deliver vibrant, long-lasting prints that become part of the fabric itself. Available in CMYK plus standard and fluorescent extension colours, our inks are compatible with EPSON, RICOH, and KYOCERA printhead systems, integrating seamlessly into your existing production setup.
                                     </p>
                                     <p>
-                                        From seam-to-seam all-over print effects to soft-hand-feel fashion apparel — GLOJET Sublimation Inks are designed for fashion, sportswear, home décor, tradeshow graphics, and keepsake items. Backed by ISO 45001:2018, ISO 9001:2015, and ISO 14004:2015 company certifications, our inks deliver professional-grade performance at a competitive price.
+                                        From seam-to-seam all-over print effects to soft-hand-feel fashion apparel — LEON Sublimation Inks are designed for fashion, sportswear, home décor, tradeshow graphics, and keepsake items. Backed by ISO 45001:2018, ISO 9001:2015, and ISO 14004:2015 company certifications, our inks deliver professional-grade performance at a competitive price.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -644,7 +644,7 @@
                                 <h2 class="sec-sub-title title-anim">Oekotex® Certified &amp; Compliant</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">Certifications &amp; Quality Badges</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">认证与质量标志</h3>
-                                <p class="text-white mt-3">GLOJET Dye Sublimation Inks are Oekotex® Certified &amp; Compliant — meeting the highest standards for safety and environmental responsibility.</p>
+                                <p class="text-white mt-3">LEON Dye Sublimation Inks are Oekotex® Certified &amp; Compliant — meeting the highest standards for safety and environmental responsibility.</p>
                             </div>
                             <div class="col-12 table-responsive mt-4">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
@@ -808,13 +808,13 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Q3: Which machines and printers are compatible with GLOJET Sublimation Inks?
+                                                    Q3: Which machines and printers are compatible with LEON Sublimation Inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>GLOJET Sublimation Inks are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B). Compatible machine brands include EPSON, MIMAKI, MUTOH, ROLAND (EPSON Heads), and MS-REGGIANNI (RICOH and KYOCERA based).
+                                                    <p>LEON Sublimation Inks are compatible with EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B). Compatible machine brands include EPSON, MIMAKI, MUTOH, ROLAND (EPSON Heads), and MS-REGGIANNI (RICOH and KYOCERA based).
                                                     </p>
                                                 </div>
                                             </div>
@@ -831,7 +831,7 @@
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>GLOJET Sublimation Inks can be used on a versatile range of products — home décor items, sports apparel, fashion apparel and accessories, tradeshow and retail graphics, and keepsake items. They are suitable for both indoor and outdoor use as the print is embedded within the fabric surface.
+                                                    <p>LEON Sublimation Inks can be used on a versatile range of products — home décor items, sports apparel, fashion apparel and accessories, tradeshow and retail graphics, and keepsake items. They are suitable for both indoor and outdoor use as the print is embedded within the fabric surface.
                                                     </p>
                                                 </div>
                                             </div>
@@ -842,13 +842,13 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Q5: Are GLOJET Sublimation Inks certified?
+                                                    Q5: Are LEON Sublimation Inks certified?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Yes — GLOJET Dye Sublimation Inks are Oekotex® Certified &amp; Compliant, meeting the highest standards for safety and environmental responsibility. The company also holds ISO 45001:2018 (Occupational Health &amp; Safety), ISO 9001:2015 (Quality Management System), and ISO 14004:2015 (Environmental Management) certifications.
+                                                    <p>Yes — LEON Dye Sublimation Inks are Oekotex® Certified &amp; Compliant, meeting the highest standards for safety and environmental responsibility. The company also holds ISO 45001:2018 (Occupational Health &amp; Safety), ISO 9001:2015 (Quality Management System), and ISO 14004:2015 (Environmental Management) certifications.
                                                     </p>
                                                 </div>
                                             </div>
@@ -859,13 +859,13 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                     aria-expanded="false" aria-controls="collapseSix">
-                                                    Q6: Are fluorescent colours available in GLOJET Sublimation Inks?
+                                                    Q6: Are fluorescent colours available in LEON Sublimation Inks?
                                                 </button>
                                             </h2>
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Yes — in addition to the standard CMYK range, GLOJET offers Glojet Orange, Glojet Red, and Glojet Blue as standard extension colours, plus Glojet Fluo Yellow and Glojet Fluo Pink as fluorescent options — expanding your colour palette for specialty, high-visibility, and fashion sublimation applications.
+                                                    <p>Yes — in addition to the standard CMYK range, LEON offers Leon Orange, Leon Red, and Leon Blue as standard extension colours, plus Leon Fluo Yellow and Leon Fluo Pink as fluorescent options — expanding your colour palette for specialty, high-visibility, and fashion sublimation applications.
                                                     </p>
                                                 </div>
                                             </div>

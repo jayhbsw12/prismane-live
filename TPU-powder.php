@@ -31,7 +31,7 @@
                                         Soft. Flexible. Durable. Engineered to bond your DTF prints to fabric with precision — and outlast the garment itself.
                                     </p>
                                     <p class="text-white">
-                                        The Glojet TPU Powder is loaded into a specialized container, either manually or via an automatic mechanism — such as a screw or cyclone system. It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush — ensuring uniform powder coverage across the entire printed surface. This powder is then activated by exposure to an IR field, using either an oven or a heater — causing it to melt and bond to the ink layer. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive — creating a strong, durable bond. Alternatively, this powder scattering process can be integrated with a flatbed laminator for enhanced lamination quality.
+                                        The Leon TPU Powder is loaded into a specialized container, either manually or via an automatic mechanism — such as a screw or cyclone system. It is then evenly dispersed onto the substrate by a needle roller equipped with an oscillating brush — ensuring uniform powder coverage across the entire printed surface. This powder is then activated by exposure to an IR field, using either an oven or a heater — causing it to melt and bond to the ink layer. Subsequently, a second substrate is introduced into the system via the top pressure roller of a calendar, where it is pressed against the first substrate coated with the activated powder adhesive — creating a strong, durable bond. Alternatively, this powder scattering process can be integrated with a flatbed laminator for enhanced lamination quality.
                                     </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
@@ -149,17 +149,17 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>Glojet TPU Powder – GLO 6 — Strong &amp; Tough</b> <br>
-                                        <b>葛洁特 TPU粉末 – GLO 6型 — 强韧型</b>
+                                        <b>Leon TPU Powder – LEON 6 — Strong &amp; Tough</b> <br>
+                                        <b>莱昂 TPU粉末 – LEON 6型 — 强韧型</b>
                                         <br><br>
                                         Formulated for strong fastness, good toughness, and good tension — making it the right choice for applications where durability and bond strength are the primary requirements. Operating temperature range of 105–115°C with good dry cleaning resistance and washing resistance of up to 90°C.<br><br>
                                         <b>Best suited for:</b> Bags, shoes, structured garments, and applications requiring a strong, durable bond.
                                     </p>
                                     <p>
-                                        <b>Glojet TPU Powder – GLO 8 — Softest Feel</b> <br>
-                                        <b>葛洁特 TPU粉末 – GLO 8型 — 柔软型</b>
+                                        <b>Leon TPU Powder – LEON 8 — Softest Feel</b> <br>
+                                        <b>莱昂 TPU粉末 – LEON 8型 — 柔软型</b>
                                         <br><br>
-                                        Formulated as a soft powder — delivering the best possible hand feel on the final garment. Where comfort and softness are the priority, GLO 8 is the product of choice. Operating temperature range of 108–118°C with good dry cleaning resistance and washing resistance of up to 90°C.<br><br>
+                                        Formulated as a soft powder — delivering the best possible hand feel on the final garment. Where comfort and softness are the priority, LEON 8 is the product of choice. Operating temperature range of 108–118°C with good dry cleaning resistance and washing resistance of up to 90°C.<br><br>
                                         <b>Best suited for:</b> T-shirts, hoodies, sportswear, lingerie, lycra fabrics, and any application where a soft, comfortable hand feel is essential.
                                     </p>
                                 </div>
@@ -200,8 +200,8 @@
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">TPU Powder</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">TPU热熔粉末</h3>
-                                <span class="text-white fs-1">Glojet TPU Powder</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">葛洁特 TPU热熔粉末</span>
+                                <span class="text-white fs-1">Leon TPU Powder</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 TPU热熔粉末</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -219,7 +219,7 @@
                                     <tbody>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
-                                            <td>GLO 6</td>
+                                            <td>LEON 6</td>
                                             <td>105-115</td>
                                             <td>Good</td>
                                             <td>90</td>
@@ -227,7 +227,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
-                                            <td>GLO 8</td>
+                                            <td>LEON 8</td>
                                             <td>108-118</td>
                                             <td>Good</td>
                                             <td>90</td>
@@ -422,7 +422,7 @@
                                         <h3 class="service__title-7 text-prismane-2">UV<span> Resistance</span></h3>
                                     </a>
                                     <p>
-                                        No yellowing — Glojet TPU Powder is a UV resistant material that maintains its appearance and integrity even with prolonged exposure to light and UV rays.
+                                        No yellowing — Leon TPU Powder is a UV resistant material that maintains its appearance and integrity even with prolonged exposure to light and UV rays.
                                     </p>
                                 </div>
                                 <div class="service__item-7">
@@ -567,10 +567,10 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        Glojet TPU Powder is the adhesive backbone of every perfect DTF transfer. Engineered for reliable bonding, excellent wash resistance, and consistent powder distribution — our powder is available in two precision-formulated grades: GLO 6 for maximum bond strength and toughness, and GLO 8 for the softest possible hand feel on the final garment.
+                                        Leon TPU Powder is the adhesive backbone of every perfect DTF transfer. Engineered for reliable bonding, excellent wash resistance, and consistent powder distribution — our powder is available in two precision-formulated grades: LEON 6 for maximum bond strength and toughness, and LEON 8 for the softest possible hand feel on the final garment.
                                     </p>
                                     <p>
-                                        Dispersed via a needle roller with an oscillating brush, activated through an IR oven or heater, and compatible with both calendar press and flatbed laminator systems — Glojet TPU Powder integrates seamlessly into any standard DTF production workflow, delivering durable, flexible transfers that outlast the garment itself.
+                                        Dispersed via a needle roller with an oscillating brush, activated through an IR oven or heater, and compatible with both calendar press and flatbed laminator systems — Leon TPU Powder integrates seamlessly into any standard DTF production workflow, delivering durable, flexible transfers that outlast the garment itself.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -597,7 +597,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    Glojet TPU powders are engineered to deliver consistent adhesion, superior wash resistance, and excellent flexibility across all DTF fabric applications. Designed for both standard and sensitive garment types, they help DTF printers achieve durable, soft, and high-quality transfers with reliable results across every production run.
+                                    Leon TPU powders are engineered to deliver consistent adhesion, superior wash resistance, and excellent flexibility across all DTF fabric applications. Designed for both standard and sensitive garment types, they help DTF printers achieve durable, soft, and high-quality transfers with reliable results across every production run.
                                 </p>
                             </div>
                         </div>
@@ -763,27 +763,27 @@
                                     <tbody>
                                         <tr>
                                             <td>Maximum bond strength &amp; toughness</td>
-                                            <td>GLO 6</td>
+                                            <td>LEON 6</td>
                                         </tr>
                                         <tr>
                                             <td>Softest hand feel on garment</td>
-                                            <td>GLO 8</td>
+                                            <td>LEON 8</td>
                                         </tr>
                                         <tr>
                                             <td>Lingerie &amp; lycra applications</td>
-                                            <td>GLO 8</td>
+                                            <td>LEON 8</td>
                                         </tr>
                                         <tr>
                                             <td>Bags, shoes &amp; structured items</td>
-                                            <td>GLO 6</td>
+                                            <td>LEON 6</td>
                                         </tr>
                                         <tr>
                                             <td>Heat sensitive fabric applications</td>
-                                            <td>GLO 8</td>
+                                            <td>LEON 8</td>
                                         </tr>
                                         <tr>
                                             <td>High elongation requirement</td>
-                                            <td>GLO 8</td>
+                                            <td>LEON 8</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -791,7 +791,7 @@
 
                             <!-- CTA Banner -->
                             <!-- <div class="mt-5 p-5 text-center rounded" style="background: var(--black-2, #1a1a1a); border: 1px solid rgba(201,243,29,0.2);">
-                                <h3 class="text-prismane mb-3">Need Help Choosing Between GLO 6 and GLO 8?</h3>
+                                <h3 class="text-prismane mb-3">Need Help Choosing Between LEON 6 and LEON 8?</h3>
                                 <p class="text-white fst-italic mb-4">Our technical team will help you select the right TPU Powder grade — matched to your fabric type, application method, and production requirements.</p>
                                 <div class="d-flex justify-content-center gap-4 flex-wrap">
                                     <a href="contact.php" class="blog__btn about_btn text-prismane">Get a Quote <span><i class="fa-solid fa-arrow-right"></i></span></a>
@@ -859,13 +859,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Q2: What is the difference between GLO 6 and GLO 8 TPU powder?
+                                                    Q2: What is the difference between LEON 6 and LEON 8 TPU powder?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>GLO 6 offers strong fastness, good toughness, and good tension with a melting range of 105–115°C — suited for standard garment applications. GLO 8 is a softer powder with the best hand feel and a melting range of 108–118°C — ideal for lingerie, undergarments, and lycra fabrics.
+                                                    <p>LEON 6 offers strong fastness, good toughness, and good tension with a melting range of 105–115°C — suited for standard garment applications. LEON 8 is a softer powder with the best hand feel and a melting range of 108–118°C — ideal for lingerie, undergarments, and lycra fabrics.
                                                     </p>
                                                 </div>
                                             </div>
@@ -876,13 +876,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Q3: What fabrics are compatible with Glojet TPU powder?
+                                                    Q3: What fabrics are compatible with Leon TPU powder?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Glojet TPU powders are compatible with a wide range of fabrics including cotton, polyester, nylon, spandex, lycra, and blended textiles — making them suitable for garments, sportswear, undergarments, and general DTF printing applications.
+                                                    <p>Leon TPU powders are compatible with a wide range of fabrics including cotton, polyester, nylon, spandex, lycra, and blended textiles — making them suitable for garments, sportswear, undergarments, and general DTF printing applications.
                                                     </p>
                                                 </div>
                                             </div>
@@ -893,13 +893,13 @@
                                                 <button class="accordion-button  collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Q4: What washing resistance do Glojet TPU powders offer?
+                                                    Q4: What washing resistance do Leon TPU powders offer?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Both GLO 6 and GLO 8 provide good dry cleaning resistance and 90°C washing resistance — ensuring transferred prints remain firmly bonded and durable through repeated high-temperature washing cycles.
+                                                    <p>Both LEON 6 and LEON 8 provide good dry cleaning resistance and 90°C washing resistance — ensuring transferred prints remain firmly bonded and durable through repeated high-temperature washing cycles.
                                                     </p>
                                                 </div>
                                             </div>
@@ -927,13 +927,13 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                     aria-expanded="false" aria-controls="collapseSix">
-                                                    Q6: What application methods are available for Glojet TPU Powder?
+                                                    Q6: What application methods are available for Leon TPU Powder?
                                                 </button>
                                             </h2>
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Glojet TPU Powder supports four application methods: Manual Loading for controlled small-scale use, Automatic Screw System for consistent high-volume dispersal, Automatic Cyclone System for even high-speed distribution, and Flatbed Laminator Integration for enhanced lamination quality. All methods use a needle roller with an oscillating brush for uniform powder coverage.
+                                                    <p>Leon TPU Powder supports four application methods: Manual Loading for controlled small-scale use, Automatic Screw System for consistent high-volume dispersal, Automatic Cyclone System for even high-speed distribution, and Flatbed Laminator Integration for enhanced lamination quality. All methods use a needle roller with an oscillating brush for uniform powder coverage.
                                                     </p>
                                                 </div>
                                             </div>
@@ -944,13 +944,13 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSeven"
                                                     aria-expanded="false" aria-controls="collapseSeven">
-                                                    Q7: Which Glojet TPU Powder grade is right for bags and shoes?
+                                                    Q7: Which Leon TPU Powder grade is right for bags and shoes?
                                                 </button>
                                             </h2>
                                             <div id="collapseSeven" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>GLO 6 is the recommended choice for bags, shoes, and structured garments — where maximum bond strength, toughness, and tension are the primary requirements. For soft garments like t-shirts, hoodies, lingerie, and lycra fabrics where hand feel is the priority, GLO 8 is the ideal grade.
+                                                    <p>LEON 6 is the recommended choice for bags, shoes, and structured garments — where maximum bond strength, toughness, and tension are the primary requirements. For soft garments like t-shirts, hoodies, lingerie, and lycra fabrics where hand feel is the priority, LEON 8 is the ideal grade.
                                                     </p>
                                                 </div>
                                             </div>
@@ -966,3 +966,4 @@
 
         </main>
         <?php include "footer.php"; ?>
+

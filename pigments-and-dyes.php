@@ -31,7 +31,7 @@
                                         A complete range of Oekotex certified, water-based disperse dyes dispersions — engineered for superior light fastness, wash fastness, and consistent colour performance across every sublimation application.
                                     </p>
                                     <p class="text-white">
-                                        The GLOJET Disperse Dyes Series is a specially developed range of water-based disperse dyes dispersions for dye sublimation inks — formulated to deliver the highest possible colour performance, stability, and fastness properties in sublimation ink systems. Every dye in the GLOJET Disperse Dyes Series is engineered to provide optimum Light Fastness, Wash Fastness, Alkali Perspiration Fastness, and Crock Fastness.
+                                        The LEON Disperse Dyes Series is a specially developed range of water-based disperse dyes dispersions for dye sublimation inks — formulated to deliver the highest possible colour performance, stability, and fastness properties in sublimation ink systems. Every dye in the LEON Disperse Dyes Series is engineered to provide optimum Light Fastness, Wash Fastness, Alkali Perspiration Fastness, and Crock Fastness.
                                     </p>
                                     <!-- <button type="button" class="bg-prismane py-3 px-5 fs-5 ">Contact</button> -->
                                     <div class=" z-1">
@@ -149,8 +149,8 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>GLOJET Disperse Dyes — For Dye Sublimation Inks</b> <br>
-                                        <b>葛洁特分散染料 — 用于染料升华油墨</b>
+                                        <b>LEON Disperse Dyes — For Dye Sublimation Inks</b> <br>
+                                        <b>莱昂分散染料 — 用于染料升华油墨</b>
                                         <br><br>
                                         A specially developed range of water-based disperse dyes dispersions for dye sublimation inks. Available across eleven colour grades — Yellows, Oranges, Reds, Blues, Browns, and Blacks — every dye is engineered to deliver optimum Light Fastness, Wash Fastness, Alkali Perspiration Fastness, and Crock Fastness. Fully Oekotex certified and compliant.
                                     </p>
@@ -158,7 +158,7 @@
                                         <b>Three Sublimation Ink Series — One Standard of Excellence</b> <br>
                                         <b>三款升华油墨系列 — 同一卓越标准</b>
                                         <br><br>
-                                        The GLOJET Disperse Dyes are available across three sublimation ink series — GLOJET O Series, GLOJET Ocean Series, and GLOJET Ocean Plus Series. Each series is Oekotex certified and tested to the same rigorous fastness standards, with transfer conditions at 180°C/60sec and 200°C/30sec — delivering consistent performance in HD Black, Cyan, Magenta, and Yellow.
+                                        The LEON Disperse Dyes are available across three sublimation ink series — LEON O Series, LEON Ocean Series, and LEON Ocean Plus Series. Each series is Oekotex certified and tested to the same rigorous fastness standards, with transfer conditions at 180°C/60sec and 200°C/30sec — delivering consistent performance in HD Black, Cyan, Magenta, and Yellow.
                                     </p>
                                 </div>
                                 <!-- <ul>
@@ -360,7 +360,7 @@
                                     <tbody>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #fff109"></span></td> -->
-                                            <td>Glojet Yellow 005</td>
+                                            <td>Leon Yellow 005</td>
                                             <td>Disperse Yellow 54</td>
                                             <td>6</td>
                                             <td>Brilliant Yellow</td>
@@ -368,7 +368,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #fece21"></span></td> -->
-                                            <td>Glojet Yellow 008</td>
+                                            <td>Leon Yellow 008</td>
                                             <td>Disperse Yellow 82</td>
                                             <td>4</td>
                                             <td>Fluorescent Green light Yellow</td>
@@ -376,7 +376,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #f7ac12"></span></td> -->
-                                            <td>Glojet Orange 008</td>
+                                            <td>Leon Orange 008</td>
                                             <td>Disperse Orange 25</td>
                                             <td>6</td>
                                             <td>Red light Orange</td>
@@ -384,7 +384,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #f28e1f"></span></td> -->
-                                            <td>Glojet Red 001</td>
+                                            <td>Leon Red 001</td>
                                             <td>Disperse Red 60</td>
                                             <td>6–7</td>
                                             <td>Bright Red Blue light</td>
@@ -392,7 +392,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #f58025"></span></td> -->
-                                            <td>Glojet Blue 006</td>
+                                            <td>Leon Blue 006</td>
                                             <td>Disperse Blue 60</td>
                                             <td>7</td>
                                             <td>Colorful Green light Blue</td>
@@ -400,7 +400,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #f15122"></span></td> -->
-                                            <td>Glojet Blue 007</td>
+                                            <td>Leon Blue 007</td>
                                             <td>Disperse Blue 72</td>
                                             <td>6–7</td>
                                             <td>Red light Blue</td>
@@ -408,7 +408,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #ac0000"></span></td> -->
-                                            <td>Glojet Blue 008</td>
+                                            <td>Leon Blue 008</td>
                                             <td>Disperse Blue 359</td>
                                             <td>5–6</td>
                                             <td>Brilliant Blue</td>
@@ -416,7 +416,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #aa1b25"></span></td> -->
-                                            <td>Glojet Blue 009</td>
+                                            <td>Leon Blue 009</td>
                                             <td>Disperse Blue 360</td>
                                             <td>5–6</td>
                                             <td>Brilliant Blue</td>
@@ -424,7 +424,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #5f1c61"></span></td> -->
-                                            <td>Glojet Brown 002</td>
+                                            <td>Leon Brown 002</td>
                                             <td>Disperse Brown 27</td>
                                             <td>6</td>
                                             <td>Deep Brown</td>
@@ -432,7 +432,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #280653"></span></td> -->
-                                            <td>Glojet Black 001</td>
+                                            <td>Leon Black 001</td>
                                             <td>Disperse Black mix</td>
                                             <td>5–6</td>
                                             <td>Blue Black</td>
@@ -440,7 +440,7 @@
                                         </tr>
                                         <tr>
                                             <!-- <td><span class="color-item" style="background: #211f6e"></span></td> -->
-                                            <td>Glojet Black 002</td>
+                                            <td>Leon Black 002</td>
                                             <td>Disperse Black mix</td>
                                             <td>5–6</td>
                                             <td>Red Black</td>
@@ -539,7 +539,7 @@
                                         <h3 class="service__title-7 text-prismane-2">Oekotex <span>Certified</span></h3>
                                     </a>
                                     <p>
-                                        Every dye in the GLOJET Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status — the globally recognised standard for safe, responsible textile ink manufacturing.
+                                        Every dye in the LEON Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status — the globally recognised standard for safe, responsible textile ink manufacturing.
                                     </p>
                                 </div>
                                 <div class="service__item-7">
@@ -664,10 +664,10 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                        The GLOJET Disperse Dyes Series is a complete range of Oekotex certified, water-based disperse dyes dispersions specially developed for dye sublimation ink manufacturing. Available across the GLOJET O Series, Ocean Series, and Ocean Plus Series — each formulated to the same rigorous fastness standards — our dyes deliver consistent colour performance across HD Black, Cyan, Magenta, and Yellow.
+                                        The LEON Disperse Dyes Series is a complete range of Oekotex certified, water-based disperse dyes dispersions specially developed for dye sublimation ink manufacturing. Available across the LEON O Series, Ocean Series, and Ocean Plus Series — each formulated to the same rigorous fastness standards — our dyes deliver consistent colour performance across HD Black, Cyan, Magenta, and Yellow.
                                     </p>
                                     <p>
-                                        Compatible with leading printhead platforms from EPSON, RICOH, and KYOCERA, and backed by ISO 45001:2018, ISO 9001:2015, and ISO 14004:2015 company certifications — GLOJET Disperse Dyes are engineered for manufacturers who demand professional-grade colour, eco-responsible formulation, and reliable results at scale.
+                                        Compatible with leading printhead platforms from EPSON, RICOH, and KYOCERA, and backed by ISO 45001:2018, ISO 9001:2015, and ISO 14004:2015 company certifications — LEON Disperse Dyes are engineered for manufacturers who demand professional-grade colour, eco-responsible formulation, and reliable results at scale.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -694,7 +694,7 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
                             <div class="sec-text">
                                 <p>
-                                    The GLOJET Disperse Dyes Series is engineered to deliver consistent 4/5 fastness ratings across wash, perspiration, and crock tests — while achieving light fastness up to 7. Available in standard and fluorescent ink colours, with proven compatibility across major industrial printhead platforms.
+                                    The LEON Disperse Dyes Series is engineered to deliver consistent 4/5 fastness ratings across wash, perspiration, and crock tests — while achieving light fastness up to 7. Available in standard and fluorescent ink colours, with proven compatibility across major industrial printhead platforms.
                                 </p>
                             </div>
                         </div>
@@ -716,7 +716,7 @@
                                     <a href="">
                                         <h3 class="ps-title">Standard &amp; Fluorescent Options</h3>
                                         <p>
-                                            Beyond CMYK — available in Glojet Orange, Red, and Blue (Standard) plus Glojet Fluo Yellow and Fluo Pink (Fluorescent), giving sublimation ink manufacturers expanded colour options for specialty and high-visibility applications.
+                                            Beyond CMYK — available in Leon Orange, Red, and Blue (Standard) plus Leon Fluo Yellow and Fluo Pink (Fluorescent), giving sublimation ink manufacturers expanded colour options for specialty and high-visibility applications.
                                         </p>
                                     </a>
                                 </div>
@@ -802,15 +802,15 @@
                         <div class="col-12">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Three Series, One Standard of Excellence</h2>
-                                <h3 class="sec-title title-anim pb-2 text-prismane">GLOJET Sublimation Ink Series</h3>
-                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">葛洁特升华油墨系列</h3>
-                                <p class="text-white mt-3">The GLOJET Disperse Dyes are available across three sublimation ink series — each Oekotex certified and tested to the same rigorous fastness standards.</p>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">LEON Sublimation Ink Series</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">莱昂升华油墨系列</h3>
+                                <p class="text-white mt-3">The LEON Disperse Dyes are available across three sublimation ink series — each Oekotex certified and tested to the same rigorous fastness standards.</p>
                             </div>
 
                             <!-- O Series -->
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">GLOJET O Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">葛洁特 O系列</span>
+                                <span class="text-white fs-1">LEON O Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 O系列</span>
                             </div>
                             <div class="col-12 table-responsive mt-3">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
@@ -868,8 +868,8 @@
 
                             <!-- Ocean Series -->
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">GLOJET Ocean Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">葛洁特 海洋系列</span>
+                                <span class="text-white fs-1">LEON Ocean Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 海洋系列</span>
                             </div>
                             <div class="col-12 table-responsive mt-3">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
@@ -927,8 +927,8 @@
 
                             <!-- Ocean Plus Series -->
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1">GLOJET Ocean Plus Series</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">葛洁特 海洋增强系列</span>
+                                <span class="text-white fs-1">LEON Ocean Plus Series</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">莱昂 海洋增强系列</span>
                             </div>
                             <div class="col-12 table-responsive mt-3">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
@@ -1047,23 +1047,23 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Glojet Orange</td>
+                                            <td>Leon Orange</td>
                                             <td>Standard</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Red</td>
+                                            <td>Leon Red</td>
                                             <td>Standard</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Blue</td>
+                                            <td>Leon Blue</td>
                                             <td>Standard</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Fluo Yellow</td>
+                                            <td>Leon Fluo Yellow</td>
                                             <td>Fluorescent</td>
                                         </tr>
                                         <tr>
-                                            <td>Glojet Fluo Pink</td>
+                                            <td>Leon Fluo Pink</td>
                                             <td>Fluorescent</td>
                                         </tr>
                                     </tbody>
@@ -1104,7 +1104,7 @@
                             <div class="sec-title-wrapper mt-5">
                                 <h3 class="sec-title title-anim pb-2 text-prismane">Oekotex® Certified &amp; Compliant</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Oekotex® 认证合规</h3>
-                                <p class="text-white">GLOJET Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status — the globally recognised standard for safe, responsible textile ink manufacturing.</p>
+                                <p class="text-white">LEON Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status — the globally recognised standard for safe, responsible textile ink manufacturing.</p>
                             </div>
                             <div class="col-12 table-responsive mt-3">
                                 <table class="table table-dark rounded fw-light z-1 position-relative">
@@ -1224,14 +1224,14 @@
                                                 <button class="accordion-button pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                     aria-expanded="true" aria-controls="collapseOne">
-                                                    Q1: What is the GLOJET Disperse Dyes Series?
+                                                    Q1: What is the LEON Disperse Dyes Series?
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        The GLOJET Disperse Dyes Series is a specially developed range of water-based disperse dyes dispersions for dye sublimation inks — formulated to deliver the highest possible colour performance, stability, and fastness properties. The series is fully Oekotex certified and covers 11 colour grades including Yellows, Oranges, Reds, Blues, Browns, and Black mixes.
+                                                        The LEON Disperse Dyes Series is a specially developed range of water-based disperse dyes dispersions for dye sublimation inks — formulated to deliver the highest possible colour performance, stability, and fastness properties. The series is fully Oekotex certified and covers 11 colour grades including Yellows, Oranges, Reds, Blues, Browns, and Black mixes.
                                                     </p>
                                                 </div>
                                             </div>
@@ -1242,14 +1242,14 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Q2: What are the three GLOJET sublimation ink series?
+                                                    Q2: What are the three LEON sublimation ink series?
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        GLOJET offers three sublimation ink series: the O Series, Ocean Series, and Ocean Plus Series. All three are Oekotex certified and achieve the same rigorous fastness standards — with transfer conditions at 180°C/60sec and 200°C/30sec, delivering consistent HD Black, Cyan, Magenta, and Yellow across every series.
+                                                        LEON offers three sublimation ink series: the O Series, Ocean Series, and Ocean Plus Series. All three are Oekotex certified and achieve the same rigorous fastness standards — with transfer conditions at 180°C/60sec and 200°C/30sec, delivering consistent HD Black, Cyan, Magenta, and Yellow across every series.
                                                     </p>
                                                 </div>
                                             </div>
@@ -1260,14 +1260,14 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Q3: Which printers are compatible with GLOJET Disperse Dyes?
+                                                    Q3: Which printers are compatible with LEON Disperse Dyes?
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        GLOJET Disperse Dyes are compatible with leading industrial printhead platforms: EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) — designed for seamless integration into existing sublimation ink production systems without workflow changes.
+                                                        LEON Disperse Dyes are compatible with leading industrial printhead platforms: EPSON (i3200, 5113, 4720, DX5, DX7), RICOH (Gen 4 and Gen 5), and KYOCERA (KJ4B) — designed for seamless integration into existing sublimation ink production systems without workflow changes.
                                                     </p>
                                                 </div>
                                             </div>
@@ -1278,14 +1278,14 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Q4: What fastness ratings do GLOJET Disperse Dyes achieve?
+                                                    Q4: What fastness ratings do LEON Disperse Dyes achieve?
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        All GLOJET sublimation ink series achieve 4/5 ratings for Wash Fastness (ISO 105-C06:2007 at 40°C), Alkali Perspiration Fastness (ISO 105-E04:2010), and Crock Fastness (ISO 105-X 12:2001). Light Fastness (ISO 105-B02 at 160h) ranges from 5 for Cyan to 7 for Yellow.
+                                                        All LEON sublimation ink series achieve 4/5 ratings for Wash Fastness (ISO 105-C06:2007 at 40°C), Alkali Perspiration Fastness (ISO 105-E04:2010), and Crock Fastness (ISO 105-X 12:2001). Light Fastness (ISO 105-B02 at 160h) ranges from 5 for Cyan to 7 for Yellow.
                                                     </p>
                                                 </div>
                                             </div>
@@ -1296,14 +1296,14 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    Q5: Are GLOJET Disperse Dyes Oekotex certified?
+                                                    Q5: Are LEON Disperse Dyes Oekotex certified?
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        Yes — the GLOJET Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status, the globally recognised standard for safe and responsible textile ink manufacturing. The company is also certified under ISO 45001:2018 (Occupational Health &amp; Safety), ISO 9001:2015 (Quality Management), and ISO 14004:2015 (Environmental Management).
+                                                        Yes — the LEON Disperse Dyes Series carries full Oekotex® Certified &amp; Compliant status, the globally recognised standard for safe and responsible textile ink manufacturing. The company is also certified under ISO 45001:2018 (Occupational Health &amp; Safety), ISO 9001:2015 (Quality Management), and ISO 14004:2015 (Environmental Management).
                                                     </p>
                                                 </div>
                                             </div>
@@ -1314,14 +1314,14 @@
                                                 <button class="accordion-button collapsed pe-5" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                     aria-expanded="false" aria-controls="collapseSix">
-                                                    Q6: Are fluorescent ink colours available in the GLOJET range?
+                                                    Q6: Are fluorescent ink colours available in the LEON range?
                                                 </button>
                                             </h2>
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        Yes — in addition to standard colours (Orange, Red, Blue), GLOJET offers Glojet Fluo Yellow and Glojet Fluo Pink as fluorescent ink colour options — ideal for specialty, high-visibility, and fashion sublimation applications requiring vivid, eye-catching colour performance.
+                                                        Yes — in addition to standard colours (Orange, Red, Blue), LEON offers Leon Fluo Yellow and Leon Fluo Pink as fluorescent ink colour options — ideal for specialty, high-visibility, and fashion sublimation applications requiring vivid, eye-catching colour performance.
                                                     </p>
                                                 </div>
                                             </div>

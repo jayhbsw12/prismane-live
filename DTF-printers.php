@@ -248,13 +248,13 @@
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
-                                        <b>GLO-DTF 900MAX</b> <br>
-                                        <!-- <b>GLO-DTF 900MAX型</b> -->
+                                        <b>LEON-DTF 900MAX</b> <br>
+                                        <!-- <b>LEON-DTF 900MAX型</b> -->
                                         <br><br>High-capacity DTF printer equipped with 4–8pcs Epson i3200A1/i1600A1 printheads. Features automatic powder returning system, 8-colour CMYK W printing, auto anti-collision system, and all functions operable via touchscreen — built for large-scale, high-speed production.
                                     </p>
                                     <p>
-                                        <b>GLO-DTF 420 & 600 PRO</b> <br>
-                                        <!-- <b>GLO-DTF 420 & 600 PRO型</b> -->
+                                        <b>LEON-DTF 420 & 600 PRO</b> <br>
+                                        <!-- <b>LEON-DTF 420 & 600 PRO型</b> -->
                                         <br><br>Mid-range DTF printer with 420mm and 600mm golden production sizes, equipped with 2pcs Epson i1600/i3200-A1 printheads. Features all-in-one printer and powder shaker body, well-designed media take-up system, and low ink alarm protection — ideal for efficient, space-saving production.
                                     </p>
                                 </div>
@@ -285,14 +285,14 @@
 
                     <!-- Printer Model Cards -->
                     <div class="row g-4 mt-5">
-                        <!-- GLO-DTF 900MAX -->
+                        <!-- LEON-DTF 900MAX -->
                         <div class="col-12 col-md-6">
                             <div class="dtf-light-card">
                                 <div class="dtf-light-card__media" style="height: 340px;">
-                                    <img src="assets/imgs/prismane-images/GLO-DTF900MAX.png" alt="GLO-DTF 900MAX Industrial DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
+                                    <img src="assets/imgs/prismane-images/GLO-DTF900MAX.png" alt="LEON-DTF 900MAX Industrial DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
                                 </div>
                                 <div class="dtf-light-card__body">
-                                    <h3 class="dtf-card-title mb-2">GLO-DTF 900MAX<span class="dtf-card-title-mn">GLO-DTF 900MAX 型号</span></h3>
+                                    <h3 class="dtf-card-title mb-2">LEON-DTF 900MAX<span class="dtf-card-title-mn">LEON-DTF 900MAX 型号</span></h3>
                                     <p style="font-size: 0.95rem; margin-bottom: 1rem;">Large-format industrial DTF printer for high-volume production environments.</p>
                                     <ul>
                                         <li>+ 4–8pcs Epson i3200A1 / i1600A1</li>
@@ -305,14 +305,14 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- GLO-DTF 420 & 600 PRO -->
+                        <!-- LEON-DTF 420 & 600 PRO -->
                         <div class="col-12 col-md-6">
                             <div class="dtf-light-card">
                                 <div class="dtf-light-card__media" style="height: 340px;">
-                                    <img src="assets/imgs/prismane-images/GLODTF420&600PRO.png" alt="GLO-DTF 420 & 600 PRO DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
+                                    <img src="assets/imgs/prismane-images/GLODTF420&600PRO.png" alt="LEON-DTF 420 & 600 PRO DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
                                 </div>
                                 <div class="dtf-light-card__body">
-                                    <h3 class="dtf-card-title mb-2">GLO-DTF 420 &amp; 600 PRO<span class="dtf-card-title-mn">GLO-DTF 420 &amp; 600 PRO 型号</span></h3>
+                                    <h3 class="dtf-card-title mb-2">LEON-DTF 420 &amp; 600 PRO<span class="dtf-card-title-mn">LEON-DTF 420 &amp; 600 PRO 型号</span></h3>
                                     <p style="font-size: 0.95rem; margin-bottom: 1rem;">Mid-range all-in-one DTF printer in 420mm and 600mm production widths.</p>
                                     <ul>
                                         <li>+ 2pcs Epson i3200A1 / i1600A1</li>
@@ -340,8 +340,8 @@
                                 <h2 class="sec-sub-title title-anim">Technical Data</h2>
                                 <h3 class="sec-title title-anim pb-2 text-prismane">DTF Printers</h3>
                                 <h3 class="sec-title title-anim mandarin-title-1 text-prismane">DTF 打印机</h3>
-                                <span class="text-white fs-1">GLO-DTF 900MAX — Specifications</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2">GLO-DTF 900MAX 型号</span>
+                                <span class="text-white fs-1">LEON-DTF 900MAX — Specifications</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2">LEON-DTF 900MAX 型号</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -482,15 +482,15 @@
 
                             </div>
 
-                            <!-- GLO-DTF 900MAX Spec Chart -->
+                            <!-- LEON-DTF 900MAX Spec Chart -->
                             <div class="dtf-chart-panel">
-                                <p class="fw-semibold mb-3">GLO-DTF 900MAX — Technical Comparison Chart</p>
-                                <img src="assets/imgs/prismane-images/GLO-DTF900MAX-chart.png" alt="GLO-DTF 900MAX Technical Specifications Chart" class="img-fluid" style="max-height: 520px; max-width: 100%; object-fit: contain;">
+                                <p class="fw-semibold mb-3">LEON-DTF 900MAX — Technical Comparison Chart</p>
+                                <img src="assets/imgs/prismane-images/GLO-DTF900MAX-chart.png" alt="LEON-DTF 900MAX Technical Specifications Chart" class="img-fluid" style="max-height: 520px; max-width: 100%; object-fit: contain;">
                             </div>
 
                             <div class="sec-title-wrapper mt-5">
-                                <span class="text-white fs-1 ">GLO-DTF 420 & 600 PRO — Specifications</span> &nbsp; &nbsp;
-                                <span class="text-white fs-1 mandarin-title-2 ">GLO-DTF 420 & 600 PRO 型号</span>
+                                <span class="text-white fs-1 ">LEON-DTF 420 & 600 PRO — Specifications</span> &nbsp; &nbsp;
+                                <span class="text-white fs-1 mandarin-title-2 ">LEON-DTF 420 & 600 PRO 型号</span>
                             </div>
 
                             <div class="col-12  table-responsive">
@@ -631,10 +631,10 @@
 
                             </div>
 
-                            <!-- GLO-DTF 420 & 600 PRO Spec Chart -->
+                            <!-- LEON-DTF 420 & 600 PRO Spec Chart -->
                             <div class="dtf-chart-panel">
-                                <p class="fw-semibold mb-3">GLO-DTF 420 & 600 PRO — Technical Comparison Chart</p>
-                                <img src="assets/imgs/prismane-images/GLODTF420&600PRO-chart.png" alt="GLO-DTF 420 & 600 PRO Technical Specifications Chart" class="img-fluid" style="max-height: 520px; max-width: 100%; object-fit: contain;">
+                                <p class="fw-semibold mb-3">LEON-DTF 420 & 600 PRO — Technical Comparison Chart</p>
+                                <img src="assets/imgs/prismane-images/GLODTF420&600PRO-chart.png" alt="LEON-DTF 420 & 600 PRO Technical Specifications Chart" class="img-fluid" style="max-height: 520px; max-width: 100%; object-fit: contain;">
                             </div>
 
                             <!-- <div class="mt-5 z-1 d-flex justify-content-center">
@@ -761,22 +761,22 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                             <div class="development__wrapper pb-0 dtf-consumables-copy">
                                 <div class="development__content border-0 mb-0 pb-0">
-                                    <p>Our DTF printers are optimised for use with Glojet DTF inks and precision-grade TPU powder — engineered together for superior colour vibrancy, wash durability, and consistent transfer results across garment and textile applications.</p>
+                                    <p>Our DTF printers are optimised for use with Leon DTF inks and precision-grade TPU powder — engineered together for superior colour vibrancy, wash durability, and consistent transfer results across garment and textile applications.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Featured 2-up: Glojet Inks + TPU Powder -->
+                    <!-- Featured 2-up: Leon Inks + TPU Powder -->
                     <div class="row g-4 mb-4">
-                        <!-- Glojet DTF Inks -->
+                        <!-- Leon DTF Inks -->
                         <div class="col-12 col-md-6">
                             <div class="dtf-light-card">
                                 <div class="dtf-light-card__media" style="height: 300px;">
-                                    <img src="assets/imgs/prismane-images/Glojet-dtf-inks-products.png" alt="Glojet DTF Ink Products Range" style="max-height: 260px; max-width: 100%; object-fit: contain;">
+                                    <img src="assets/imgs/prismane-images/Glojet-dtf-inks-products.png" alt="Leon DTF Ink Products Range" style="max-height: 260px; max-width: 100%; object-fit: contain;">
                                 </div>
                                 <div class="dtf-light-card__body">
-                                    <h4 class="dtf-card-title mb-2">Glojet DTF Inks<span class="dtf-card-title-mn">Glojet DTF 油墨</span></h4>
+                                    <h4 class="dtf-card-title mb-2">Leon DTF Inks<span class="dtf-card-title-mn">Leon DTF 油墨</span></h4>
                                     <p style="font-size: 0.95rem;">Formulated for Epson i3200A1 and i1600A1 printheads — vibrant CMYK+White output with excellent adhesion, wash fastness, and colour stability. Available in bulk for high-volume production.</p>
                                 </div>
                             </div>
@@ -943,7 +943,7 @@
                             <div class="sec-text-wrapper">
                                 <div class="sec-text text-anim">
                                     <p>
-                                      We supply industrial-grade DTF printers engineered for high-speed, high-quality direct-to-film printing across a wide range of garment and textile applications. Our printer range — from the compact GLO-DTF 420 & 600 PRO to the large-format GLO-DTF 900MAX — combines Epson i3200 and i1600 printhead technology with all-in-one powder shaker systems, intelligent auto anti-collision protection, and full touchscreen control. Built for demanding production environments, our DTF printers deliver consistent, professional-grade output across every run.
+                                      We supply industrial-grade DTF printers engineered for high-speed, high-quality direct-to-film printing across a wide range of garment and textile applications. Our printer range — from the compact LEON-DTF 420 & 600 PRO to the large-format LEON-DTF 900MAX — combines Epson i3200 and i1600 printhead technology with all-in-one powder shaker systems, intelligent auto anti-collision protection, and full touchscreen control. Built for demanding production environments, our DTF printers deliver consistent, professional-grade output across every run.
                                     </p>
                                     <!-- <div class=" z-1">
                                         <a href="assets/data/Pigment-Dispersions-data.pdf"
@@ -1146,7 +1146,7 @@
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Our DTF printers are equipped with Epson i3200A1 and i1600A1 printheads. The GLO-DTF 900MAX supports 4–8 printheads for high-volume production, while the GLO-DTF 420 & 600 PRO comes with 2 printheads for mid-range operations.
+                                                    <p>Our DTF printers are equipped with Epson i3200A1 and i1600A1 printheads. The LEON-DTF 900MAX supports 4–8 printheads for high-volume production, while the LEON-DTF 420 & 600 PRO comes with 2 printheads for mid-range operations.
                                                     </p>
                                                 </div>
                                             </div>
@@ -1163,7 +1163,7 @@
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <p>Yes. Both the GLO-DTF 900MAX and GLO-DTF 420 & 600 PRO feature an all-in-one integrated powder shaker system with automatic powder returning — eliminating the need for separate equipment and saving production space and energy.
+                                                    <p>Yes. Both the LEON-DTF 900MAX and LEON-DTF 420 & 600 PRO feature an all-in-one integrated powder shaker system with automatic powder returning — eliminating the need for separate equipment and saving production space and energy.
                                                     </p>
                                                 </div>
                                             </div>
