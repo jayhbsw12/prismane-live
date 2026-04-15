@@ -32,9 +32,200 @@
         display: block;
     }
 
+    .sublimation-series-card,
+    .sublimation-color-card {
+        background: #111111;
+        border: 1px solid rgba(201, 243, 29, 0.18);
+        border-radius: 24px;
+        padding: 28px;
+        height: 100%;
+    }
+
+    .sublimation-series-card {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .sublimation-series-card::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(145deg, rgba(201, 243, 29, 0.08), transparent 45%);
+        pointer-events: none;
+    }
+
+    .sublimation-series-label {
+        font-size: 0.95rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #c9f31d;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .sublimation-series-card p,
+    .sublimation-series-card li,
+    .sublimation-color-card p {
+        color: #ffffff;
+    }
+
+    .sublimation-series-card ul {
+        list-style: none;
+        padding: 0;
+        margin: 20px 0 0;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .sublimation-series-card li span {
+        color: #c9f31d;
+        font-weight: 600;
+    }
+
+    .sublimation-series-row {
+        margin-top: 36px;
+    }
+
+    .sublimation-series-overview .sec-sub-title {
+        padding-top: 0;
+        margin-bottom: 8px;
+    }
+
+    .sublimation-series-overview .sec-title {
+        padding-bottom: 14px;
+    }
+
+    .sublimation-series-overview .mandarin-title-1.sec-title {
+        padding-bottom: 10px;
+    }
+
+    .sublimation-series-overview .sec-title-wrapper p {
+        margin-top: 0 !important;
+        max-width: 760px;
+    }
+
+    .sublimation-series-panel {
+        background: #111111;
+        border: 1px solid rgba(201, 243, 29, 0.18);
+        border-radius: 24px;
+        padding: 34px;
+        height: 100%;
+    }
+
+    .sublimation-series-kicker {
+        font-size: 0.95rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #c9f31d;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .sublimation-series-panel p,
+    .sublimation-series-panel li {
+        color: #ffffff;
+    }
+
+    .sublimation-series-panel ul {
+        list-style: none;
+        padding: 0;
+        margin: 20px 0 0;
+        display: grid;
+        gap: 12px;
+    }
+
+    .sublimation-series-panel li span {
+        color: #c9f31d;
+        font-weight: 600;
+    }
+
+    .sublimation-series-media-wrap {
+        display: flex;
+        align-items: stretch;
+        height: 100%;
+    }
+
+    .sublimation-series-media {
+        width: 100%;
+        min-height: 520px;
+        aspect-ratio: 4 / 5;
+        background: linear-gradient(180deg, #191919, #0f0f0f);
+        border: 1px solid rgba(201, 243, 29, 0.18);
+        border-radius: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        padding: 36px;
+    }
+
+    .sublimation-series-media img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        object-position: center;
+        display: block;
+    }
+
+    .sublimation-color-grid {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 24px;
+    }
+
+    .sublimation-color-swatch {
+        width: 72px;
+        height: 72px;
+        border-radius: 50%;
+        margin-bottom: 16px;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+
+    .sublimation-color-card h4 {
+        color: #ffffff;
+        margin-bottom: 8px;
+    }
+
+    .sublimation-color-card p {
+        margin-bottom: 0;
+        font-size: 0.95rem;
+    }
+
     @media (max-width: 767.98px) {
         .sublimation-showcase-media {
             height: 300px;
+        }
+
+        .sublimation-series-card,
+        .sublimation-color-card,
+        .sublimation-series-panel {
+            padding: 22px;
+        }
+
+        .sublimation-series-media {
+            min-height: 420px;
+            padding: 28px;
+        }
+
+        .sublimation-color-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 18px;
+        }
+
+        .sublimation-color-swatch {
+            width: 60px;
+            height: 60px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 991.98px) {
+        .sublimation-series-media {
+            min-height: 460px;
+        }
+
+        .sublimation-color-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
         }
     }
 </style>
@@ -59,6 +250,72 @@
                                         A transformative printing technology that delivers vibrant, long-lasting, soft-hand prints engineered for fashion, sportswear, home decor, retail graphics, and keepsake products.
                                     </p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row align-items-center g-5 sublimation-series-row" style="display:none;">
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                            <div class="sublimation-series-media-wrap">
+                                <div class="sublimation-series-media">
+                                    <img src="assets/imgs/sublimations/Home-Textiles.webp" alt="Leon Series I home textiles sublimation application">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                            <div class="sublimation-series-panel">
+                                <span class="sublimation-series-kicker">Leon Series I</span>
+                                <h3 class="sec-title title-anim text-prismane">Ready to Wear and Home Textiles</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 系列 I</h3>
+                                <p class="mt-3">Inks designed for high consumer markets for ready to wear and home textiles, delivering a good finish for printers with any number of heads.</p>
+                                <ul>
+                                    <li><span>Application:</span> Ready to wear and home textiles</li>
+                                    <li><span>Dye Loading:</span> 4-5% in the final ink</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row align-items-center g-5 sublimation-series-row" style="display:none;">
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6 order-2 order-md-1">
+                            <div class="sublimation-series-panel">
+                                <span class="sublimation-series-kicker">Leon Series II</span>
+                                <h3 class="sec-title title-anim text-prismane">Sports Wear and Outdoor Density</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 系列 II</h3>
+                                <p class="mt-3">Designed for sports wear with a higher density formulation that supports stronger colour build for outdoor applications.</p>
+                                <ul>
+                                    <li><span>Application:</span> Sports wear and outdoor use</li>
+                                    <li><span>Dye Loading:</span> 6-7% in the final ink</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113, Kyocera KJ4B</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6 order-1 order-md-2">
+                            <div class="sublimation-series-media-wrap">
+                                <div class="sublimation-series-media">
+                                    <img src="assets/imgs/sublimations/Sportswear.webp" alt="Leon Series II sportswear sublimation application">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row align-items-center g-5 sublimation-series-row" style="display:none;">
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                            <div class="sublimation-series-media-wrap">
+                                <div class="sublimation-series-media">
+                                    <img src="assets/imgs/sublimations/Printing-paper-machine.webp" alt="Leon Series III printing paper machine sublimation application">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                            <div class="sublimation-series-panel">
+                                <span class="sublimation-series-kicker">Leon Series III</span>
+                                <h3 class="sec-title title-anim text-prismane">High Density and Uncoated Paper</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 系列 III</h3>
+                                <p class="mt-3">Built for high density applications and printing on uncoated paper where stronger laydown and broader machine support are needed.</p>
+                                <ul>
+                                    <li><span>Application:</span> High density work and uncoated paper</li>
+                                    <li><span>Dye Loading:</span> High density formulation</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113, Kyocera KJ4B, Ricoh Gen 5, Ricoh Gen 6</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -127,7 +384,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3">
+            <section class="about__area-3" style="display:none;">
                 <div class="container pt-20 pb-120">
                     <div class="row g-5">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
@@ -158,7 +415,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3">
+            <section class="about__area-3" style="display:none;">
                 <div class="container pt-0 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -282,7 +539,7 @@
                 </div>
             </section>
 
-            <section class="service__area-7 pt-130">
+            <section class="service__area-7 pt-130" style="display:none;">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12">
@@ -292,6 +549,249 @@
                                 <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Long-Lasting <span>Design</span></h3></a><p>Embedded colour helps the print withstand repeated washing and everyday wear while staying visually sharp.</p></div>
                                 <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Thousands of <span>Colours</span></h3></a><p>Continuous-tone colour blending supports everything from clean brand colours to photographic imagery.</p></div>
                                 <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Versatile <span>Applications</span></h3></a><p>Suitable for home decor, sports apparel, fashion accessories, tradeshow graphics, retail graphics, and keepsake items.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="about__area-3 sublimation-series-overview">
+                <div class="container pt-20 pb-120">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Leon Series</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Dye Sublimation Inks</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">染料升华墨水</h3>
+                                <p class="text-white mt-3 mb-5">Choose the Leon series that matches your print density, application focus, and production setup.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row align-items-center g-5 sublimation-series-row">
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                            <div class="sublimation-series-media-wrap">
+                                <div class="sublimation-series-media">
+                                    <img src="assets/imgs/sublimations/Home-Textiles.webp" alt="Leon Series I home textiles application">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                            <div class="sublimation-series-panel">
+                                <span class="sublimation-series-kicker">Leon Series I</span>
+                                <h3 class="sec-title title-anim text-prismane">Ready to Wear and Home Textiles</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 系列 I</h3>
+                                <p class="mt-3">Inks designed for high consumer markets for ready to wear and home textiles, delivering a good finish for printers with any number of heads.</p>
+                                <ul>
+                                    <li><span>Application:</span> Ready to wear and home textiles</li>
+                                    <li><span>Dye Loading:</span> 4-5% in the final ink</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row align-items-center g-5 sublimation-series-row">
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6 order-2 order-md-1">
+                            <div class="sublimation-series-panel">
+                                <span class="sublimation-series-kicker">Leon Series II</span>
+                                <h3 class="sec-title title-anim text-prismane">Sports Wear and Outdoor Density</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 系列 II</h3>
+                                <p class="mt-3">Designed for sports wear with a higher density formulation that supports stronger colour build for outdoor applications.</p>
+                                <ul>
+                                    <li><span>Application:</span> Sports wear and outdoor use</li>
+                                    <li><span>Dye Loading:</span> 6-7% in the final ink</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113, Kyocera KJ4B</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6 order-1 order-md-2">
+                            <div class="sublimation-series-media-wrap">
+                                <div class="sublimation-series-media">
+                                    <img src="assets/imgs/sublimations/Sportswear.webp" alt="Leon Series II sportswear application">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row align-items-center g-5 sublimation-series-row">
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                            <div class="sublimation-series-media-wrap">
+                                <div class="sublimation-series-media">
+                                    <img src="assets/imgs/sublimations/Printing-paper-machine.webp" alt="Leon Series III printing paper machine application">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                            <div class="sublimation-series-panel">
+                                <span class="sublimation-series-kicker">Leon Series III</span>
+                                <h3 class="sec-title title-anim text-prismane">High Density and Uncoated Paper</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 系列 III</h3>
+                                <p class="mt-3">Built for high density applications and printing on uncoated paper where stronger laydown and broader machine support are needed.</p>
+                                <ul>
+                                    <li><span>Application:</span> High density work and uncoated paper</li>
+                                    <li><span>Dye Loading:</span> High density formulation</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113, Kyocera KJ4B, Ricoh Gen 5, Ricoh Gen 6</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-5 mt-2" style="display:none;">
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+                            <div class="sublimation-series-card">
+                                <span class="sublimation-series-label">Leon Series I</span>
+                                <h3 class="sec-title title-anim text-prismane">Ready to Wear and Home Textiles</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">利昂系列 I</h3>
+                                <p class="mt-3">Inks designed for high consumer markets for ready to wear and home textiles, delivering a good finish for printers with any number of heads.</p>
+                                <ul>
+                                    <li><span>Application:</span> Ready to wear and home textiles</li>
+                                    <li><span>Dye Loading:</span> 4-5% in the final ink</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+                            <div class="sublimation-series-card">
+                                <span class="sublimation-series-label">Leon Series II</span>
+                                <h3 class="sec-title title-anim text-prismane">Sports Wear and Outdoor Density</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">利昂系列 II</h3>
+                                <p class="mt-3">Designed for sports wear with a higher density formulation that supports stronger colour build for outdoor applications.</p>
+                                <ul>
+                                    <li><span>Application:</span> Sports wear and outdoor use</li>
+                                    <li><span>Dye Loading:</span> 6-7% in the final ink</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113, Kyocera KJ4B</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12">
+                            <div class="sublimation-series-card">
+                                <span class="sublimation-series-label">Leon Series III</span>
+                                <h3 class="sec-title title-anim text-prismane">High Density and Uncoated Paper</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">利昂系列 III</h3>
+                                <p class="mt-3">Built for high density applications and printing on uncoated paper where stronger laydown and broader machine support are needed.</p>
+                                <ul>
+                                    <li><span>Application:</span> High density work and uncoated paper</li>
+                                    <li><span>Dye Loading:</span> High density formulation</li>
+                                    <li><span>Printer Compatibility:</span> Epson i3200, 5113, Kyocera KJ4B, Ricoh Gen 5, Ricoh Gen 6</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="about__area-3">
+                <div class="container pt-0 pb-120">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Technical Data</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Fastness Performance</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">技术数据</h3>
+                                <p class="text-white mt-3">Fastness values based on the brochure reference table for transfer at 180&deg;C / 60 sec and 200&deg;C / 30 sec.</p>
+                            </div>
+
+                            <div class="col-12 table-responsive mt-4">
+                                <table class="table table-dark rounded fw-light z-1 position-relative">
+                                    <thead>
+                                        <tr class="table-active text-table-head">
+                                            <th scope="col" class="fw-normal">Color</th>
+                                            <th scope="col" class="fw-normal">Transfer Condition</th>
+                                            <th scope="col" class="fw-normal">Light Fastness<br><small>ISO 105-B02 (160h) Rating 1-7</small></th>
+                                            <th scope="col" class="fw-normal">Wash Fastness<br><small>ISO 105-C06:2007 (40&deg;C) Rating 1-5</small></th>
+                                            <th scope="col" class="fw-normal">Alkali Perspiration Fastness<br><small>ISO 105-E04:2010 Rating 1-5</small></th>
+                                            <th scope="col" class="fw-normal">Crock Fastness<br><small>ISO 105-X12:2001 Rating 1-5</small></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr><td>HD Black</td><td>180&deg;C / 60 sec<br>200&deg;C / 30 sec</td><td>6</td><td>4/5</td><td>4/5</td><td>4/5</td></tr>
+                                        <tr><td>Cyan</td><td>180&deg;C / 60 sec<br>200&deg;C / 30 sec</td><td>5</td><td>4/5</td><td>4/5</td><td>4/5</td></tr>
+                                        <tr><td>Magenta</td><td>180&deg;C / 60 sec<br>200&deg;C / 30 sec</td><td>6</td><td>4/5</td><td>4/5</td><td>4/5</td></tr>
+                                        <tr><td>Yellow</td><td>180&deg;C / 60 sec<br>200&deg;C / 30 sec</td><td>7</td><td>4/5</td><td>4/5</td><td>4/5</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="about__area-3">
+                <div class="container pt-0 pb-120">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Product Range</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">1 Litre and 5 Litre Packs</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">产品包装系列</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-5 mt-2">
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                            <div class="sublimation-showcase-card">
+                                <div class="sec-title-wrapper">
+                                    <h2 class="sec-sub-title title-anim">1 ltr Range</h2>
+                                    <h3 class="sec-title title-anim text-prismane">Leon Sublimation Ink - 1 Litre Pack</h3>
+                                    <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 升华墨水 - 1 升包装</h3>
+                                </div>
+                                <div class="sublimation-showcase-media mt-4">
+                                    <img src="assets/imgs/sublimations/Sublimations-1ltr.webp" alt="Leon sublimation ink 1 litre pack">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                            <div class="sublimation-showcase-card">
+                                <div class="sec-title-wrapper">
+                                    <h2 class="sec-sub-title title-anim">5 ltr Range</h2>
+                                    <h3 class="sec-title title-anim text-prismane">Leon Sublimation Ink - 5 Litre Pack</h3>
+                                    <h3 class="sec-title title-anim mandarin-title-1 text-prismane">Leon 升华墨水 - 5 升包装</h3>
+                                </div>
+                                <div class="sublimation-showcase-media mt-4">
+                                    <img src="assets/imgs/sublimations/Sublimations-5ltr.webp" alt="Leon sublimation ink 5 litre pack">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="about__area-3">
+                <div class="container pt-0 pb-140">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="sec-title-wrapper">
+                                <h2 class="sec-sub-title title-anim">Other Colors</h2>
+                                <h3 class="sec-title title-anim pb-2 text-prismane">Additional Shades and Fluorescents</h3>
+                                <h3 class="sec-title title-anim mandarin-title-1 text-prismane">其他颜色</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-12">
+                            <div class="sublimation-color-grid">
+                                <div class="sublimation-color-card">
+                                    <div class="sublimation-color-swatch" style="background:#ff8a1a;"></div>
+                                    <h4>Leon Orange</h4>
+                                    <p>Standard color extension for brighter warm tones.</p>
+                                </div>
+                                <div class="sublimation-color-card">
+                                    <div class="sublimation-color-swatch" style="background:#ef1111;"></div>
+                                    <h4>Leon Red</h4>
+                                    <p>Standard color extension for deeper red output.</p>
+                                </div>
+                                <div class="sublimation-color-card">
+                                    <div class="sublimation-color-swatch" style="background:#0e4fa8;"></div>
+                                    <h4>Leon Blue</h4>
+                                    <p>Standard color extension for richer cool tones.</p>
+                                </div>
+                                <div class="sublimation-color-card">
+                                    <div class="sublimation-color-swatch" style="background:#ffe100;"></div>
+                                    <h4>Fluro Yellow</h4>
+                                    <p>Fluorescent option for high-visibility applications.</p>
+                                </div>
+                                <div class="sublimation-color-card">
+                                    <div class="sublimation-color-swatch" style="background:#e4007f;"></div>
+                                    <h4>Fluro Pink</h4>
+                                    <p>Fluorescent option for standout fashion and sports graphics.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -319,6 +819,22 @@
                                     <p>Leon Dye Sublimation Inks are Oekotex&reg; certified and built for vibrant, long-lasting output that becomes part of the fabric itself. The printer can produce higher quality continuous-tone colour than a typical inkjet workflow, giving smoother visual blending and a premium finish.</p>
                                     <p>These inks are designed for fashion, sportswear, home decor, retail graphics, and keepsake products while supporting Epson, Ricoh, and Kyocera-based setups.</p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="service__area-7 pt-130 pb-130">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-12">
+                            <div class="service__items-7 animation_service_7">
+                                <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">All-Over <span>Print Effect</span></h3></a><p>Seam-to-seam coverage makes edge-to-edge print design possible for garments and soft signage.</p></div>
+                                <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Soft Hand <span>Feel</span></h3></a><p>The ink becomes part of the fabric, so the finished product feels soft with no cracking, peeling, or raised texture.</p></div>
+                                <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Long-Lasting <span>Design</span></h3></a><p>Embedded colour helps the print withstand repeated washing and everyday wear while staying visually sharp.</p></div>
+                                <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Thousands of <span>Colours</span></h3></a><p>Continuous-tone colour blending supports everything from clean brand colours to photographic imagery.</p></div>
+                                <div class="service__item-7"><a href=""><h3 class="service__title-7 text-prismane-2">Versatile <span>Applications</span></h3></a><p>Suitable for home decor, sports apparel, fashion accessories, tradeshow graphics, retail graphics, and keepsake items.</p></div>
                             </div>
                         </div>
                     </div>
