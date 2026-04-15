@@ -17,12 +17,10 @@
         pointer-events: none;
         opacity: 0;
         visibility: hidden;
-        transition: opacity 0.28s ease, visibility 0.28s ease;
-        z-index: 1;
-        will-change: opacity;
+        z-index: 2;
     }
 
-    .floating-lion.is-visible {
+    .floating-lion.is-active {
         opacity: 0.4;
         visibility: visible;
     }
@@ -41,10 +39,14 @@
         position: relative;
     }
 
+    .black-section {
+        z-index: 3;
+    }
+
     .white-section .container,
     .black-section .container {
         position: relative;
-        z-index: 2;
+        z-index: 4;
     }
 
     @media only screen and (max-width: 1199px) {
@@ -728,54 +730,21 @@
         <script>
             window.addEventListener('DOMContentLoaded', function() {
                 const lion = document.querySelector('.floating-lion');
-                const sections = Array.from(document.querySelectorAll('.white-section, .black-section'));
+                const firstWhiteSection = document.querySelector('.white-section');
 
-                if (!lion || !sections.length || !('IntersectionObserver' in window)) return;
-
-                const sectionState = new Map();
-
-                const updateLionVisibility = function() {
-                    const viewportCenter = window.innerHeight / 2;
-                    const activeSections = sections.filter(function(section) {
-                        return sectionState.get(section);
-                    });
-
-                    if (!activeSections.length) {
-                        lion.classList.remove('is-visible');
-                        return;
-                    }
-
-                    const activeSection = activeSections.sort(function(a, b) {
-                        const aRect = a.getBoundingClientRect();
-                        const bRect = b.getBoundingClientRect();
-                        const aDistance = Math.abs((aRect.top + (aRect.height / 2)) - viewportCenter);
-                        const bDistance = Math.abs((bRect.top + (bRect.height / 2)) - viewportCenter);
-                        return aDistance - bDistance;
-                    })[0];
-
-                    lion.classList.toggle('is-visible', activeSection.classList.contains('white-section'));
-                };
+                if (!lion || !firstWhiteSection || !('IntersectionObserver' in window)) return;
 
                 const observer = new IntersectionObserver(function(entries) {
-                    entries.forEach(function(entry) {
-                        sectionState.set(entry.target, entry.isIntersecting);
-                    });
-                    updateLionVisibility();
+                    const entry = entries[0];
+                    const shouldShow = entry.boundingClientRect.top <= 0;
+                    lion.classList.toggle('is-active', shouldShow);
                 }, {
                     root: null,
-                    rootMargin: '-45% 0px -45% 0px',
-                    threshold: 0.01
+                    threshold: 0,
+                    rootMargin: '0px 0px -99% 0px'
                 });
 
-                sections.forEach(function(section) {
-                    sectionState.set(section, false);
-                    observer.observe(section);
-                });
-
-                window.addEventListener('resize', updateLionVisibility, {
-                    passive: true
-                });
-                updateLionVisibility();
+                observer.observe(firstWhiteSection);
             });
         </script>
         <?php include "footer.php"; ?>
