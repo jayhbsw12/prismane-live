@@ -6,52 +6,55 @@
         padding-top: 0px !important;
     }
 
-    .pigment-lion-section {
-        position: relative;
-        overflow: hidden;
+    .floating-lion {
+        position: fixed;
+        top: 50%;
+        right: 0;
+        width: 290px;
+        height: 72vh;
+        max-height: 720px;
+        transform: translateY(-50%);
+        pointer-events: none;
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.28s ease, visibility 0.28s ease;
+        z-index: 1;
+        will-change: opacity;
     }
 
-    .pigment-lion-section .container {
+    .floating-lion.is-visible {
+        opacity: 0.4;
+        visibility: visible;
+    }
+
+    .floating-lion__image {
+        width: 100%;
+        height: 100%;
+        background-image: url('./assets/imgs/Lion-prismane.webp');
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-size: contain;
+    }
+
+    .white-section,
+    .black-section {
+        position: relative;
+    }
+
+    .white-section .container,
+    .black-section .container {
         position: relative;
         z-index: 2;
     }
 
-    .pigment-lion-section .development__wrapper {
-        /* padding-right: clamp(180px, 18vw, 320px); */
-    }
-
-    .pigment-lion-parallax {
-        position: absolute;
-        top: -8%;
-        right: 0;
-        bottom: -8%;
-        width: clamp(180px, 18vw, 320px);
-        background-image: url('./assets/imgs/Lion-prismane.webp');
-        background-repeat: no-repeat;
-        background-position: right center;
-        background-size: auto 68%;
-        pointer-events: none;
-        z-index: 1;
-        will-change: transform;
-    }
-
     @media only screen and (max-width: 1199px) {
-        .pigment-lion-section .development__wrapper {
-            padding-right: 180px;
-        }
-
-        .pigment-lion-parallax {
-            width: 200px;
-            background-size: auto 56%;
+        .floating-lion {
+            width: 220px;
         }
     }
 
     @media only screen and (max-width: 991px) {
-        .pigment-lion-section .development__wrapper {
-            padding-right: 0;
-        }
-
-        .pigment-lion-parallax {
+        .floating-lion {
             display: none;
         }
     }
@@ -59,11 +62,14 @@
 <?php include "header.php"; ?>
 
 <div id="smooth-wrapper">
+    <div class="floating-lion" aria-hidden="true">
+        <div class="floating-lion__image"></div>
+    </div>
     <div id="smooth-content">
         <main>
 
             <!-- Hero area start -->
-            <section class="hero__area hero-product d-flex align-items-center">
+            <section class="hero__area hero-product d-flex align-items-center black-section">
                 <div class="container">
                     <div class="row flex-column flex-lg-row gap-5 gap-lg-0">
                         <div class="col-12 col-lg-12 d-flex align-items-center">
@@ -128,8 +134,7 @@
             </section>
 
             <!-- Development area start -->
-            <section class="development__area pigment-lion-section">
-                <div class="pigment-lion-parallax" aria-hidden="true"></div>
+            <section class="development__area white-section">
                 <div class="container g-0 line pt-130 pb-150">
                     <div class="line-3"></div>
                     <div class="row">
@@ -165,7 +170,7 @@
             <!-- Development area end -->
 
             <!-- Table section -->
-            <section class="about__area-3">
+            <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -463,7 +468,7 @@
             <!-- Table section -->
 
             <!-- Service area start -->
-            <section class="service__area-7 pt-130">
+            <section class="service__area-7 pt-130 white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12">
@@ -524,7 +529,7 @@
             <!-- Service area end -->
 
             <!-- About area start -->
-            <section class="about__area-3">
+            <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
@@ -561,7 +566,7 @@
             <!-- About area end -->
 
             <!-- Medium Cards area start -->
-            <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none">
+            <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
@@ -615,7 +620,7 @@
             <!-- Medium Cards area start -->
 
             <!-- FAQ area start -->
-            <section class="faq__area-6">
+            <section class="faq__area-6 white-section">
                 <div class="container g-0 line pt-130 pb-140">
                     <div class="line-3"></div>
 
@@ -721,29 +726,56 @@
 
         </main>
         <script>
-            window.addEventListener('load', function() {
-                if (window.innerWidth <= 991) return;
-                if (!window.gsap || !window.ScrollTrigger) return;
+            window.addEventListener('DOMContentLoaded', function() {
+                const lion = document.querySelector('.floating-lion');
+                const sections = Array.from(document.querySelectorAll('.white-section, .black-section'));
 
-                gsap.registerPlugin(ScrollTrigger);
+                if (!lion || !sections.length || !('IntersectionObserver' in window)) return;
 
-                const lionSection = document.querySelector('.pigment-lion-section');
-                const lionParallax = document.querySelector('.pigment-lion-parallax');
+                const sectionState = new Map();
 
-                if (!lionSection || !lionParallax) return;
+                const updateLionVisibility = function() {
+                    const viewportCenter = window.innerHeight / 2;
+                    const activeSections = sections.filter(function(section) {
+                        return sectionState.get(section);
+                    });
 
-                gsap.fromTo(lionParallax, {
-                    yPercent: -10
-                }, {
-                    yPercent: 10,
-                    ease: 'none',
-                    scrollTrigger: {
-                        trigger: lionSection,
-                        start: 'top bottom',
-                        end: 'bottom top',
-                        scrub: true
+                    if (!activeSections.length) {
+                        lion.classList.remove('is-visible');
+                        return;
                     }
+
+                    const activeSection = activeSections.sort(function(a, b) {
+                        const aRect = a.getBoundingClientRect();
+                        const bRect = b.getBoundingClientRect();
+                        const aDistance = Math.abs((aRect.top + (aRect.height / 2)) - viewportCenter);
+                        const bDistance = Math.abs((bRect.top + (bRect.height / 2)) - viewportCenter);
+                        return aDistance - bDistance;
+                    })[0];
+
+                    lion.classList.toggle('is-visible', activeSection.classList.contains('white-section'));
+                };
+
+                const observer = new IntersectionObserver(function(entries) {
+                    entries.forEach(function(entry) {
+                        sectionState.set(entry.target, entry.isIntersecting);
+                    });
+                    updateLionVisibility();
+                }, {
+                    root: null,
+                    rootMargin: '-45% 0px -45% 0px',
+                    threshold: 0.01
                 });
+
+                sections.forEach(function(section) {
+                    sectionState.set(section, false);
+                    observer.observe(section);
+                });
+
+                window.addEventListener('resize', updateLionVisibility, {
+                    passive: true
+                });
+                updateLionVisibility();
             });
         </script>
         <?php include "footer.php"; ?>
