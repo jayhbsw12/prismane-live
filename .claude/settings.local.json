@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(grep -l \"product\\\\|printer\\\\|chart\\\\|spec\" c:/xampp/htdocs/prismane-live/theme/*.html)",
-      "Bash(grep -l \"portfolio\\\\|product\\\\|card\\\\|service\" c:/xampp/htdocs/prismane-live/theme/*.html)"
+      "Bash(grep -l \"portfolio\\\\|product\\\\|card\\\\|service\" c:/xampp/htdocs/prismane-live/theme/*.html)",
+      "Bash(grep -n \"hero-product\\\\|hero__area\\\\|hero__content\" c:/xampp/htdocs/prismane-live/assets/css/*.css)",
+      "Bash(grep -rn \"smooth-wrapper\" c:/xampp/htdocs/prismane-live/*.php)",
+      "Bash(grep -n \"ScrollSmoother\\\\|smooth-wrapper\\\\|smooth-content\" c:/xampp/htdocs/prismane-live/assets/js/*.js)"
     ]
   }
 }

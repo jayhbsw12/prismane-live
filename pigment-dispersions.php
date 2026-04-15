@@ -5,6 +5,56 @@
     .hero-padding-remove {
         padding-top: 0px !important;
     }
+
+    .pigment-lion-section {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .pigment-lion-section .container {
+        position: relative;
+        z-index: 2;
+    }
+
+    .pigment-lion-section .development__wrapper {
+        /* padding-right: clamp(180px, 18vw, 320px); */
+    }
+
+    .pigment-lion-parallax {
+        position: absolute;
+        top: -8%;
+        right: 0;
+        bottom: -8%;
+        width: clamp(180px, 18vw, 320px);
+        background-image: url('./assets/imgs/Lion-prismane.webp');
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-size: auto 68%;
+        pointer-events: none;
+        z-index: 1;
+        will-change: transform;
+    }
+
+    @media only screen and (max-width: 1199px) {
+        .pigment-lion-section .development__wrapper {
+            padding-right: 180px;
+        }
+
+        .pigment-lion-parallax {
+            width: 200px;
+            background-size: auto 56%;
+        }
+    }
+
+    @media only screen and (max-width: 991px) {
+        .pigment-lion-section .development__wrapper {
+            padding-right: 0;
+        }
+
+        .pigment-lion-parallax {
+            display: none;
+        }
+    }
 </style>
 <?php include "header.php"; ?>
 
@@ -78,7 +128,8 @@
             </section>
 
             <!-- Development area start -->
-            <section class="development__area">
+            <section class="development__area pigment-lion-section">
+                <div class="pigment-lion-parallax" aria-hidden="true"></div>
                 <div class="container g-0 line pt-130 pb-150">
                     <div class="line-3"></div>
                     <div class="row">
@@ -669,4 +720,30 @@
             <!-- FAQ area end -->
 
         </main>
+        <script>
+            window.addEventListener('load', function() {
+                if (window.innerWidth <= 991) return;
+                if (!window.gsap || !window.ScrollTrigger) return;
+
+                gsap.registerPlugin(ScrollTrigger);
+
+                const lionSection = document.querySelector('.pigment-lion-section');
+                const lionParallax = document.querySelector('.pigment-lion-parallax');
+
+                if (!lionSection || !lionParallax) return;
+
+                gsap.fromTo(lionParallax, {
+                    yPercent: -10
+                }, {
+                    yPercent: 10,
+                    ease: 'none',
+                    scrollTrigger: {
+                        trigger: lionSection,
+                        start: 'top bottom',
+                        end: 'bottom top',
+                        scrub: true
+                    }
+                });
+            });
+        </script>
         <?php include "footer.php"; ?>
