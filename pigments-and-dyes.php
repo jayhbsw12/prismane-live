@@ -5,15 +5,73 @@
     .hero-padding-remove {
         padding-top: 0px !important;
     }
+
+    .floating-lion {
+        position: fixed;
+        top: 50%;
+        right: 0;
+        width: 290px;
+        height: 72vh;
+        max-height: 720px;
+        transform: translateY(-50%);
+        pointer-events: none;
+        opacity: 0;
+        visibility: hidden;
+        z-index: 2;
+    }
+
+    .floating-lion.is-active {
+        opacity: 0.4;
+        visibility: visible;
+    }
+
+    .floating-lion__image {
+        width: 100%;
+        height: 100%;
+        background-image: url('./assets/imgs/Lion-prismane.webp');
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-size: contain;
+    }
+
+    .white-section,
+    .black-section {
+        position: relative;
+    }
+
+    .black-section {
+        z-index: 3;
+    }
+
+    .white-section .container,
+    .black-section .container {
+        position: relative;
+        z-index: 4;
+    }
+
+    @media only screen and (max-width: 1199px) {
+        .floating-lion {
+            width: 220px;
+        }
+    }
+
+    @media only screen and (max-width: 991px) {
+        .floating-lion {
+            display: none;
+        }
+    }
 </style>
 <?php include "header.php"; ?>
 
 <div id="smooth-wrapper">
+    <div class="floating-lion" aria-hidden="true">
+        <div class="floating-lion__image"></div>
+    </div>
     <div id="smooth-content">
         <main>
 
             <!-- Hero area start -->
-            <section class="hero__area hero-product d-flex align-items-center">
+            <section class="hero__area hero-product d-flex align-items-center black-section">
                 <!-- <video autoplay muted loop id="hero-video">
                     <source src="./assets/video/red-color-example-video.mp4" type="video/mp4">
                 </video> -->
@@ -133,7 +191,7 @@
             </section>
 
             <!-- Development area start -->
-            <section class="development__area">
+            <section class="development__area white-section">
                 <div class="container g-0 line pt-130 pb-150">
                     <div class="line-3"></div>
                     <div class="row">
@@ -190,7 +248,7 @@
             <!-- Development area end -->
 
             <!-- Table section -->
-            <section class="about__area-3">
+            <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -497,7 +555,7 @@
             <!-- Table section -->
 
             <!-- Service area start -->
-            <section class="service__area-7 pt-130">
+            <section class="service__area-7 pt-130 white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12">
@@ -641,7 +699,7 @@
 
 
             <!-- About area start -->
-            <section class="about__area-3">
+            <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
@@ -684,7 +742,7 @@
             <!-- About area end -->
 
             <!-- Medium Cards area start -->
-            <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none">
+            <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
@@ -796,7 +854,7 @@
 
 
             <!-- Sublimation Ink Series area start -->
-            <section class="about__area-3">
+            <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-0">
                     <div class="row">
                         <div class="col-12">
@@ -991,7 +1049,7 @@
             <!-- Sublimation Ink Series area end -->
 
             <!-- Fastness Standards, Colours, Printer Compatibility, Certifications -->
-            <section class="about__area-3">
+            <section class="about__area-3 black-section">
                 <div class="container pt-100 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -1188,7 +1246,7 @@
             <!-- Fastness Standards etc. area end -->
 
             <!-- FAQ area start -->
-            <section class="faq__area-6">
+            <section class="faq__area-6 white-section">
                 <div class="container g-0 line pt-130 pb-140">
                     <div class="line-3"></div>
 
@@ -1336,4 +1394,41 @@
             <!-- FAQ area end -->
 
         </main>
+        <script>
+            window.addEventListener('DOMContentLoaded', function() {
+                const lion = document.querySelector('.floating-lion');
+                const firstWhiteSection = document.querySelector('.white-section');
+                const footerSection = document.querySelector('.footer__area');
+
+                if (!lion || !firstWhiteSection || !footerSection || !('IntersectionObserver' in window)) return;
+
+                let hasPassedFirstWhiteSection = false;
+                let isFooterVisible = false;
+
+                const syncLionState = function() {
+                    lion.classList.toggle('is-active', hasPassedFirstWhiteSection && !isFooterVisible);
+                };
+
+                const firstSectionObserver = new IntersectionObserver(function(entries) {
+                    const entry = entries[0];
+                    hasPassedFirstWhiteSection = entry.boundingClientRect.top <= 0;
+                    syncLionState();
+                }, {
+                    root: null,
+                    threshold: 0,
+                    rootMargin: '0px 0px -99% 0px'
+                });
+
+                const footerObserver = new IntersectionObserver(function(entries) {
+                    isFooterVisible = entries[0].isIntersecting;
+                    syncLionState();
+                }, {
+                    root: null,
+                    threshold: 0
+                });
+
+                firstSectionObserver.observe(firstWhiteSection);
+                footerObserver.observe(footerSection);
+            });
+        </script>
         <?php include "footer.php"; ?>

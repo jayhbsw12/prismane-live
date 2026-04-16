@@ -731,20 +731,37 @@
             window.addEventListener('DOMContentLoaded', function() {
                 const lion = document.querySelector('.floating-lion');
                 const firstWhiteSection = document.querySelector('.white-section');
+                const footerSection = document.querySelector('.footer__area');
 
-                if (!lion || !firstWhiteSection || !('IntersectionObserver' in window)) return;
+                if (!lion || !firstWhiteSection || !footerSection || !('IntersectionObserver' in window)) return;
 
-                const observer = new IntersectionObserver(function(entries) {
+                let hasPassedFirstWhiteSection = false;
+                let isFooterVisible = false;
+
+                const syncLionState = function() {
+                    lion.classList.toggle('is-active', hasPassedFirstWhiteSection && !isFooterVisible);
+                };
+
+                const firstSectionObserver = new IntersectionObserver(function(entries) {
                     const entry = entries[0];
-                    const shouldShow = entry.boundingClientRect.top <= 0;
-                    lion.classList.toggle('is-active', shouldShow);
+                    hasPassedFirstWhiteSection = entry.boundingClientRect.top <= 0;
+                    syncLionState();
                 }, {
                     root: null,
                     threshold: 0,
                     rootMargin: '0px 0px -99% 0px'
                 });
 
-                observer.observe(firstWhiteSection);
+                const footerObserver = new IntersectionObserver(function(entries) {
+                    isFooterVisible = entries[0].isIntersecting;
+                    syncLionState();
+                }, {
+                    root: null,
+                    threshold: 0
+                });
+
+                firstSectionObserver.observe(firstWhiteSection);
+                footerObserver.observe(footerSection);
             });
         </script>
         <?php include "footer.php"; ?>
