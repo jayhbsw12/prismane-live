@@ -246,7 +246,7 @@
                   </div>
 
                   <div class="about__img-right">
-                    <img src="assets/imgs/Home-inks.png" alt="About Image Right" data-speed="0.5">
+                    <img src="assets/imgs/Home-inks(1).png" alt="About Image Right" data-speed="0.5">
                     <div class="shape">
                       <div class="secondary" data-speed="0.9"></div>
                       <div class="primary"></div>
@@ -649,7 +649,7 @@
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/Dye Sublimation.png" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/Ink-mixing.png" alt="Portfolio Image"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
