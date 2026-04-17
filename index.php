@@ -105,8 +105,11 @@
               <div class="hero__content animation__hero_one">
                 <div class="hero__title-wrapper">
                   <h1 class="hero__title">LISTEN TO YOUR COLORS</h1>
-                  <p class="hero__sub-title">For Your Professional Color Solutions</span>
+                  <!-- <p class="hero__sub-title">For Your Professional Color Solutions</span>
                     sunt in culpa
+                  </p> -->
+                  <p class="hero__sub-title">For high-performance colour solutions designed 
+                     to deliver consistency, precision, and reliability across every application.
                   </p>
                 </div>
                 <ul class="ul-bane1 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
@@ -243,7 +246,7 @@
                   </div>
 
                   <div class="about__img-right">
-                    <img src="assets/imgs/about/1/ink.webp" alt="About Image Right" data-speed="0.5">
+                    <img src="assets/imgs/Home-inks.png" alt="About Image Right" data-speed="0.5">
                     <div class="shape">
                       <div class="secondary" data-speed="0.9"></div>
                       <div class="primary"></div>
