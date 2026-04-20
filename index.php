@@ -256,7 +256,7 @@
 
                 <div class="about__content text-anim">
                   <p><b></b></p>
-                  <p>Prismane6 Pte Ltd, based in Singapore, is the international branch of <span
+                  <!-- <p>Prismane6 Pte Ltd, based in Singapore, is the international branch of <span
                       class="green-text">Global Nanotech Pvt. Ltd.</span>,
                     India, a company under the umbrella of <span class="green-text">Choksi Exports.</span>
                     <br><br> Established in 1984, the Choksi Group has steadily grown into a global leader in <span
@@ -268,6 +268,15 @@
                     <br><br> By bridging India’s manufacturing excellence with Singapore’s strategic hub,
                     we ensure <span class="green-text">faster access,</span> <span class="green-text">localized
                       support,</span> and <span class="green-text">seamless supply</span> for our customers worldwide.
+                  </p> -->
+                  <p>
+                    Singapore stands as a dedicated trading hub in the Far East for digital inks and allied products, delivering specialised solutions for diverse printing applications. The company collaborates with leading global manufacturers of digital inks, dispersions, dyes, as well as printers, spares, and accessories—ensuring consistent access to high-quality materials and reliable technology.
+                  </p>
+                  <p>
+                    Backed by partnerships with some of the world’s most trusted suppliers, the focus remains on delivering performance-driven products that meet international standards. The research and development of digital inks has been carried out in Singapore under the expertise of Dr. Dhara and her team, ensuring advanced formulations, consistency, and innovation at every stage.
+                  </p>
+                  <p>
+                    With Prismane 6, this foundation is taken further—extending a legacy of innovation, quality, and service. The commitment is to support clients across international markets with dependable solutions, technical expertise, and products designed to perform in real-world industrial environments.
                   </p>
 
                   <div class="cursor-btn btn_wrapper">
@@ -484,7 +493,91 @@
         </div>
       </section>
       <!-- Counter area end -->
-
+     
+      <!-- new section -->
+      <div class="swiper portfolio__slider-7">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p1.jpg" alt="Portfolio Image"></a>
+                  </div>
+                  <div class="slide-content">
+                    <!-- <a href="portfolio-details.html"> -->
+                      <h2 class="title">Pigment Dispersion <span> Solutions</span> </h2>
+                    </a>
+                    <h4 class="date">Pigment Dispersion for packaging and for textile application</h4>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p2.jpg" alt="Portfolio Image"></a>
+                  </div>
+                  <div class="slide-content">
+                    <!-- <a href="portfolio-details.html"> -->
+                      <h2 class="title"> Sublimation  <span>Ink Range</span> </h2>
+                    </a>
+                    <h4 class="date">Dye Sublimation Inks for all types of printer</h4>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p1.jpg" alt="Portfolio Image"></a>
+                  </div>
+                  <div class="slide-content">
+                    <!-- <a href="portfolio-details.html"> -->
+                      <h2 class="title"> DTF Ink  <span>Solutions</span> </h2>
+                    </a>
+                    <h4 class="date">DTF Inks for all types printer</h4>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p2.jpg" alt="Portfolio Image"></a>
+                  </div>
+                  <div class="slide-content">
+                    <!-- <a href="portfolio-details.html"> -->
+                      <h2 class="title"> Best DTF <span>Quality</span> </h2>
+                    </a>
+                    <h4 class="date">We create best DTF in market</h4>
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p1.jpg" alt="Portfolio Image"></a>
+                  </div>
+                  <div class="slide-content">
+                    <a href="portfolio-details.html">
+                      <h2 class="title"> Lionpro <span>Agency</span> </h2>
+                    </a>
+                    <h4 class="date">02 May 2021</h4>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p2.jpg" alt="Portfolio Image"></a>
+                  </div>
+                  <div class="slide-content">
+                    <a href="portfolio-details.html">
+                      <h2 class="title"> Lionpro <span>Agency</span> </h2>
+                    </a>
+                    <h4 class="date">02 May 2021</h4>
+                  </div>
+                </div>
+              </div> -->
+            </div>
+      </div>
+      <!-- new section end -->
 
       <!-- Workflow area start -->
       <section class="workflow__area">
@@ -562,10 +655,10 @@
 
               <div class="about__content-wrapper">
                 <div class="about__content text-anim">
-                  <p>At Prismane6, we represent not just products, but the <span class="green-text">trust and values of
+                  <!-- <p>At Prismane6, we represent not just products, but the <span class="green-text">trust and values of
                       Global Nanotech
                       Pvt. Ltd. </span>Together, we aim to create stronger connections with customers worldwide while
-                    driving innovation in the ink and pigment industry.</p>
+                    driving innovation in the ink and pigment industry.</p> -->
                 </div>
 
                 <div class="about__content text-anim">
