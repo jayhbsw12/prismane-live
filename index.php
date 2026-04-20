@@ -509,6 +509,21 @@
                   </div>
                 </div>
               </div>
+
+              <div class="swiper-slide">
+                <div class="portfolio__slide-7">
+                  <div class="slide-img">
+                    <a href="portfolio-details.html"><img src="assets/imgs/DTF Ink Solutions.png" alt="DTF Ink Solutions"></a>
+                  </div>
+                  <div class="slide-content">
+                    <!-- <a href="portfolio-details.html"> -->
+                      <h2 class="title"> DTF Ink  <span>Solutions</span> </h2>
+                    </a>
+                    <h4 class="date">DTF Inks for all types printer</h4>
+                  </div>
+                </div>
+              </div>
+
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
@@ -522,23 +537,11 @@
                   </div>
                 </div>
               </div>
+              
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p1.jpg" alt="Portfolio Image"></a>
-                  </div>
-                  <div class="slide-content">
-                    <!-- <a href="portfolio-details.html"> -->
-                      <h2 class="title"> DTF Ink  <span>Solutions</span> </h2>
-                    </a>
-                    <h4 class="date">DTF Inks for all types printer</h4>
-                  </div>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="portfolio__slide-7">
-                  <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p2.jpg" alt="Portfolio Image"></a>
+                    <a href="portfolio-details.html"><img src="assets/imgs/Best DTF Quality.png" alt="Best DTF Quality"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
