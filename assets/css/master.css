@@ -97,6 +97,14 @@
   --d-black-3: #1A1A1A;
 }
 
+.hero__title-6 {
+  font-size: 50px !important;
+  line-height: 1;
+  font-weight: 500 !important;
+  color: var(--black-2);
+  padding-bottom: 24px;
+}
+
 @font-face {
   font-family: newYork;
   src: url("/assets/fonts/newyork/FontsFree-Net-NewYork.ttf");

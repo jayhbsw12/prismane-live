@@ -16,9 +16,7 @@
             <div class="footer__widget">
               <a href="./"><img class="footer__logo" src="assets/imgs/logo/Prismane6-Text.svg" alt="Footer Logo"></a>
 
-              <p>When do they work well, and when do they on us and finally, when do we actually need how can we
-                avoid
-                them.</p>
+              <p>From formulation to global distribution delivering performance, reach, and continuous innovation.</p>
               <ul class="footer__social">
                 <li><a href="#"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
                 <li><a href="#"><span><i class="fa-brands fa-twitter"></i></span></a></li>

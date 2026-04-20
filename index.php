@@ -282,7 +282,6 @@
                   <div class="cursor-btn btn_wrapper">
                     <a class="btn-item wc-btn-primary btn-hover" href="#"><span></span> Explore Us <i
                         class="fa-solid fa-arrow-right"></i></a>
-
                   </div>
                 </div>
               </div>
@@ -460,7 +459,7 @@
 
 
       <!-- Counter area start -->
-      <section class="counter__area">
+      <!-- <section class="counter__area">
         <div class="container g-0 line pt-150">
           <span class="line-3"></span>
 
@@ -491,7 +490,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- Counter area end -->
      
       <!-- new section -->
@@ -500,7 +499,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p1.jpg" alt="Portfolio Image"></a>
+                    <a href="portfolio-details.html"><img src="assets/imgs/Pigment Dispersion Solutions.png" alt="Pigment Dispersion Solutions"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -513,7 +512,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/home-7/p2.jpg" alt="Portfolio Image"></a>
+                    <a href="portfolio-details.html"><img src="assets/imgs/Sublimation Ink Range.png" alt="Sublimation Ink Range"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -579,6 +578,43 @@
       </div>
       <!-- new section end -->
 
+      <!-- Counter replacement section -->
+          <section class="hero__area-6">
+            <div class="container g-0 line_4">
+              <div class="line-col-4">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+
+              <div class="row">
+                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                  <div class="hero__content-6 hero__six_anim">
+                    <!-- <img class="hero__arrow-icon" src="assets/imgs/hero/4/arrow-icon.png" alt="Arrow Icon"> -->
+                    <h1 class="hero__title-6 ">We work with forward<br> -integrated companies <br> offering umbrella solutions.</h1>
+                    <p>With Singapore as our strategic hub, we deliver faster access, <br> localised support, and seamless global supply. </p>
+                    <!-- <a class="btn-started btn-hover" href="contact.html">Get Started</a> -->
+                  </div>
+                  <div class="cursor-btn btn_wrapper">
+                    <a class="btn-item wc-btn-primary btn-hover" href="#"><span></span> Explore Us <i
+                        class="fa-solid fa-arrow-right"></i></a>
+                  </div>
+                </div>
+                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                  <div class="hero__right-6">
+                    <img src="assets/imgs/umbrella solutions.png" alt="Hero Image">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <img class="hero__shape" src="assets/imgs/hero/4/hero-shape.png" alt="Shape Image">
+            <!-- <img class="hero__shape-2" src="assets/imgs/hero/4/hero-shape-2.png" alt="Layout"> -->
+            <img class="hero__shape-3" src="assets/imgs/hero/4/hero-shape-3.png" alt="Star Icon">
+            <img class="shape-4" src="assets/imgs/shape/20.png" alt="Star Icon">
+          </section>
+      <!-- Counter replacement section end -->
+
       <!-- Workflow area start -->
       <section class="workflow__area">
         <div class="container g-0 line pt-140 pb-140">
@@ -597,44 +633,44 @@
                   <div class="swiper-slide workflow__slide fade_left">
                     <h4 class="workflow__step">step 01</h4>
                     <h5 class="workflow__number">01</h5>
-                    <h6 class="workflow__title">Audience</h6>
-                    <p>Having these the marketplace to your business</p>
+                    <h6 class="workflow__title">Advanced Formulation</h6>
+                    <p>We partner with leading scientists from top global MNCs to develop formulations aligned with market needs.</p>
                   </div>
 
                   <div class="swiper-slide workflow__slide fade_left">
                     <h4 class="workflow__step">step 02</h4>
                     <h5 class="workflow__number">02</h5>
-                    <h6 class="workflow__title">Plan & Sketch</h6>
-                    <p>Delicate and long-lasting with vitamins and nutritions</p>
+                    <h6 class="workflow__title">Global Reach</h6>
+                    <p>We expand global reach by providing samples, enabling wider customer access and faster adoption.</p>
                   </div>
 
                   <div class="swiper-slide workflow__slide fade_left">
                     <h4 class="workflow__step">step 03</h4>
                     <h5 class="workflow__number">03</h5>
-                    <h6 class="workflow__title">Customize</h6>
-                    <p>Creating brand identities for the digital experiences</p>
+                    <h6 class="workflow__title">Strategic Distribution</h6>
+                    <p>We build distributor networks in key textile hubs, ensuring direct market availability of our products.</p>
                   </div>
 
                   <div class="swiper-slide workflow__slide fade_left">
                     <h4 class="workflow__step">step 04</h4>
                     <h5 class="workflow__number">04</h5>
-                    <h6 class="workflow__title">User Testing</h6>
-                    <p>We look forward to engage with beyond the conventional</p>
+                    <h6 class="workflow__title">Ongoing Innovation</h6>
+                    <p>Beyond successful product establishment, we continuously move forward—developing the next innovation.</p>
                   </div>
 
-                  <div class="swiper-slide workflow__slide fade_left">
+                  <!-- <div class="swiper-slide workflow__slide fade_left">
                     <h4 class="workflow__step">step 05</h4>
                     <h5 class="workflow__number">05</h5>
                     <h6 class="workflow__title">User Testing</h6>
                     <p>We look forward to engage with beyond the conventional</p>
-                  </div>
+                  </div> -->
 
-                  <div class="swiper-slide workflow__slide fade_left">
+                  <!-- <div class="swiper-slide workflow__slide fade_left">
                     <h4 class="workflow__step">step 06</h4>
                     <h5 class="workflow__number">06</h5>
                     <h6 class="workflow__title">User Testing</h6>
                     <p>We look forward to engage with beyond the conventional</p>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
