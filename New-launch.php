@@ -52,13 +52,13 @@
   }
 
   .launch__title {
-    font-size: clamp(72px, 10vw, 140px);
-    font-weight: 700;
+    font-size: 100px;
+    font-weight: 500;
     line-height: 1;
-    color: #c8a85a;
-    background: linear-gradient(135deg, #d4a84b 0%, #f5d98c 40%, #c8a85a 70%, #a07830 100%);
+    color: #ffffff;
+    /* background: linear-gradient(135deg, #d4a84b 0%, #f5d98c 40%, #c8a85a 70%, #a07830 100%); */
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /* -webkit-text-fill-color: transparent; */
     background-clip: text;
     margin-bottom: 16px;
   }
@@ -72,7 +72,7 @@
   }
 
   .launch__sub-title span {
-    color: #c9f31d;
+    color: ccc
   }
 
   .launch__desc {
@@ -85,8 +85,9 @@
 
   .launch__dtf-badge {
     display: inline-block;
-    background: linear-gradient(135deg, #c8a85a, #f5d98c, #c8a85a);
-    color: #000;
+    /* background: linear-gradient(135deg, #c8a85a, #f5d98c, #c8a85a); */
+    background-color: #c9f31d;
+    color: #000000;
     font-weight: 900;
     font-size: clamp(16px, 2vw, 22px);
     letter-spacing: 3px;
@@ -125,7 +126,7 @@
 
   .launch__hero-img img {
     width: 100%;
-    max-width: 560px;
+    max-width: 420px;
     border-radius: 16px;
     filter: drop-shadow(0 30px 80px rgba(201, 243, 29, 0.15));
   }
@@ -142,7 +143,7 @@
 
   .color__ticker-inner {
     display: inline-flex;
-    gap: 50px;
+    gap: 150px;
     animation: ticker-scroll 20s linear infinite;
   }
 
@@ -186,15 +187,15 @@
   }
 
   .section__title-white {
-    font-size: clamp(34px, 5vw, 64px);
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 600;
     color: #fff;
     line-height: 1.1;
     margin-bottom: 20px;
   }
 
   .section__title-white span {
-    background: linear-gradient(135deg, #d4a84b, #f5d98c, #c8a85a);
+    background: #fff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -340,7 +341,7 @@
 
   .showcase__visual img {
     width: 100%;
-    height: 480px;
+    height: 540px;
     object-fit: cover;
     border-radius: 20px;
     filter: brightness(0.85);
@@ -547,15 +548,15 @@
 
               <div class="launch__dtf-badge">Direct to Fabric</div>
 
-              <div class="launch__contact">
+              <!-- <div class="launch__contact">
                 <a href="tel:+6580103613"><i class="fa-solid fa-phone"></i> +65 8010 3613</a>
                 <a href="http://www.prismane6.com" target="_blank"><i class="fa-solid fa-globe"></i> www.prismane6.com</a>
-              </div>
+              </div> -->
             </div>
 
             <div class="col-xxl-6 col-xl-6 col-lg-6">
               <div class="launch__hero-img">
-                <img src="assets/imgs/Home-inks(1).png" alt="Prismane6 Pigment Inks for Ricoh Gen6">
+                <img src="assets/imgs/flyer front back (option).webp" alt="Prismane6 Pigment Inks for Ricoh Gen6">
               </div>
             </div>
 
@@ -650,6 +651,83 @@
       <!-- ── 8-Color Palette End ── -->
 
 
+    <!-- ── Product Showcase ── -->
+      <section class="launch__showcase">
+        <div class="container">
+          <div class="row align-items-center g-5">
+
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div class="showcase__visual">
+                <img src="assets/imgs/umbrella solutions.png" alt="Direct to Fabric Printing with Prismane6 Pigment Inks">
+                <div class="showcase__overlay">
+                  <h3>Direct to Fabric Technology</h3>
+                  <p>Ricoh Gen6 · Prismane6 LEON INK Series</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <span class="section__eyebrow">Product Specifications</span>
+              <h2 class="section__title-white" style="font-size: clamp(28px, 4vw, 48px); margin-bottom: 32px;">LEON INK Series<br><span>for Ricoh Gen6</span></h2>
+
+              <ul class="specs__list">
+                <li>
+                  <i class="fa-solid fa-check"></i>
+                  <div>
+                    <strong>Printhead Compatibility</strong>
+                    Ricoh Gen6 — all variants
+                  </div>
+                </li>
+                <li>
+                  <i class="fa-solid fa-check"></i>
+                  <div>
+                    <strong>Printing Method</strong>
+                    Direct to Fabric (DTF) — no transfer film
+                  </div>
+                </li>
+                <!-- <li>
+                  <i class="fa-solid fa-check"></i>
+                  <div>
+                    <strong>Colour Set</strong>
+                    8 colours — C, M, Y, K, Red, Green, Violet, Orange
+                  </div>
+                </li> -->
+                <li>
+                  <i class="fa-solid fa-check"></i>
+                  <div>
+                    <strong>Fabric Types</strong>
+                    Cotton, polyester blends, natural and synthetic fibres
+                  </div>
+                </li>
+                <li>
+                  <i class="fa-solid fa-check"></i>
+                  <div>
+                    <strong>Quality Standard</strong>
+                    International grade, R&D developed in Singapore
+                  </div>
+                </li>
+                <li>
+                  <i class="fa-solid fa-check"></i>
+                  <div>
+                    <strong>Availability</strong>
+                    Distributed globally from Singapore hub
+                  </div>
+                </li>
+              </ul>
+
+              <!-- <div class="launch__contact">
+                <a href="tel:+6580103613" style="font-size:16px"><i class="fa-solid fa-phone"></i> +65 8010 3613</a>
+                <a href="http://www.prismane6.com" target="_blank" style="font-size:16px"><i class="fa-solid fa-globe"></i> prismane6.com</a>
+              </div> -->
+            </div>
+
+          </div>
+        </div>
+      </section>
+      <!-- ── Product Showcase End ── -->
+
+
+
       <!-- ── Features ── -->
       <section class="launch__features">
         <div class="container">
@@ -700,84 +778,8 @@
       <!-- ── Features End ── -->
 
 
-      <!-- ── Product Showcase ── -->
-      <section class="launch__showcase">
-        <div class="container">
-          <div class="row align-items-center g-5">
-
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
-              <div class="showcase__visual">
-                <img src="assets/imgs/Direct to fabric.png" alt="Direct to Fabric Printing with Prismane6 Pigment Inks">
-                <div class="showcase__overlay">
-                  <h3>Direct to Fabric Technology</h3>
-                  <p>Ricoh Gen6 · Prismane6 LEON INK Series</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
-              <span class="section__eyebrow">Product Specifications</span>
-              <h2 class="section__title-white" style="font-size: clamp(28px, 4vw, 48px); margin-bottom: 32px;">LEON INK Series<br><span>for Ricoh Gen6</span></h2>
-
-              <ul class="specs__list">
-                <li>
-                  <i class="fa-solid fa-check"></i>
-                  <div>
-                    <strong>Printhead Compatibility</strong>
-                    Ricoh Gen6 — all variants
-                  </div>
-                </li>
-                <li>
-                  <i class="fa-solid fa-check"></i>
-                  <div>
-                    <strong>Printing Method</strong>
-                    Direct to Fabric (DTF) — no transfer film
-                  </div>
-                </li>
-                <li>
-                  <i class="fa-solid fa-check"></i>
-                  <div>
-                    <strong>Colour Set</strong>
-                    8 colours — C, M, Y, K, Red, Green, Violet, Orange
-                  </div>
-                </li>
-                <li>
-                  <i class="fa-solid fa-check"></i>
-                  <div>
-                    <strong>Fabric Types</strong>
-                    Cotton, polyester blends, natural and synthetic fibres
-                  </div>
-                </li>
-                <li>
-                  <i class="fa-solid fa-check"></i>
-                  <div>
-                    <strong>Quality Standard</strong>
-                    International grade, R&D developed in Singapore
-                  </div>
-                </li>
-                <li>
-                  <i class="fa-solid fa-check"></i>
-                  <div>
-                    <strong>Availability</strong>
-                    Distributed globally from Singapore hub
-                  </div>
-                </li>
-              </ul>
-
-              <div class="launch__contact">
-                <a href="tel:+6580103613" style="font-size:16px"><i class="fa-solid fa-phone"></i> +65 8010 3613</a>
-                <a href="http://www.prismane6.com" target="_blank" style="font-size:16px"><i class="fa-solid fa-globe"></i> prismane6.com</a>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </section>
-      <!-- ── Product Showcase End ── -->
-
-
       <!-- ── CTA Banner ── -->
-      <section class="launch__cta">
+      <!-- <section class="launch__cta">
         <div class="container">
           <h2>Ready to Upgrade Your<br>Printing Capabilities?</h2>
           <p>Contact Prismane6 today for samples, technical support, and pricing on our Ricoh Gen6 pigment ink range.</p>
@@ -790,12 +792,12 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- ── CTA Banner End ── -->
 
 
       <!-- ── Address Strip ── -->
-      <div class="launch__address">
+      <!-- <div class="launch__address">
         <div class="container">
           <div class="address__inner">
             <div class="address__logo">
@@ -808,7 +810,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- ── Address Strip End ── -->
 
     </main>
