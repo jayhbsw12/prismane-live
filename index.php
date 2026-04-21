@@ -237,6 +237,7 @@
             <div class="col-xxl-12">
               <div class="about__title-wrapper">
                 <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br>Prismane6 Pte Ltd</h3>
+                <h3 class="sec-title title-anim" style="color: black !important;">欢迎来到<br>棱柱烷6私人有限公司</h3>
               </div>
 
               <div class="about__content-wrapper">
@@ -280,7 +281,7 @@
                   </p>
 
                   <div class="cursor-btn btn_wrapper">
-                    <a class="btn-item wc-btn-primary btn-hover" href="#"><span></span> Explore Us <i
+                    <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Explore Us <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
                 </div>
@@ -600,7 +601,7 @@
                     <!-- <a class="btn-started btn-hover" href="contact.html">Get Started</a> -->
                   </div>
                   <div class="cursor-btn btn_wrapper">
-                    <a class="btn-item wc-btn-primary btn-hover" href="#"><span></span> Explore Us <i
+                    <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Explore Us <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
                 </div>

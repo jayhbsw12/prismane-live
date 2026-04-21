@@ -86,7 +86,7 @@
   .launch__dtf-badge {
     display: inline-block;
     /* background: linear-gradient(135deg, #c8a85a, #f5d98c, #c8a85a); */
-    background-color: #c9f31d;
+    background-color: #ffffff;
     color: #000000;
     font-weight: 900;
     font-size: clamp(16px, 2vw, 22px);
