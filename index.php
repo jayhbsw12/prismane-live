@@ -95,7 +95,7 @@
       <!-- Hero area start -->
       <section class="hero__area ">
         <video autoplay muted loop id="hero-video">
-          <source src="./assets/video/Comp 1_1.mp4" type="video/mp4">
+          <source src="./assets/video/Comp 1_1_1.mp4" type="video/mp4">
         </video>
         <div class="overlay"></div>
 
@@ -236,7 +236,7 @@
           <div class="row">
             <div class="col-xxl-12">
               <div class="about__title-wrapper">
-                <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br>Prismane6 Pte Ltd</h3>
+                <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br>Prismane6 Pte Ltd</h3> <br>
                 <h3 class="sec-title title-anim" style="color: black !important;">欢迎来到<br>棱柱烷6私人有限公司</h3>
               </div>
 
@@ -312,8 +312,8 @@
             <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
               <div class="service__top-btn">
                 <div class="btn_wrapper">
-                  <a href="#" class="btn-item wc-btn-secondary btn-hover"><span></span> View <br>all
-                    Products <i class="fa-solid fa-arrow-right"></i></a>
+                  <!-- <a href="#" class="btn-item wc-btn-secondary btn-hover"><span></span> View <br>all
+                    Products <i class="fa-solid fa-arrow-right"></i></a> -->
                 </div>
               </div>
             </div>
@@ -344,7 +344,22 @@
               </div>
               <div class="col-xxl-8 col-xl-8 col-lg-12 col-md-12">
                 <div class="service__list">
-                  <a href="#">
+                  <a href="New-launch.php">
+                    <div class="service__item animation_home1_service" data-service="0" style="border-top: 1px solid rgba(201,243,29,0.3);">
+                      <div class="service__number"><span style="color:#c9f31d;">New</span></div>
+                      <div class="service__title-wrapper">
+                        <h4 class="service__title">Ricoh Gen6</h4>
+                      </div>
+                      <div class="service__text">
+                        <p>Newly launched Direct to Fabric pigment inks.</p>
+                      </div>
+                      <div class="service__link">
+                        <p><i class="fa-solid fa-arrow-right"></i></p>
+                      </div>
+                    </div>
+                  </a>
+
+                  <a href="pigments-and-dyes.php">
                     <div class="service__item animation_home1_service" data-service="1">
                       <div class="service__number"><span>01</span></div>
                       <div class="service__title-wrapper">
@@ -359,7 +374,7 @@
                     </div>
                   </a>
 
-                  <a href="#">
+                  <a href="sublimation-inks.php">
                     <div class="service__item  animation_home1_service" data-service="2">
                       <div class="service__number"><span>02</span></div>
                       <div class="service__title-wrapper">
@@ -374,7 +389,7 @@
                     </div>
                   </a>
 
-                  <a href="#">
+                  <a href="pigment-dispersions.php">
                     <div class="service__item  animation_home1_service" data-service="3">
                       <div class="service__number"><span>03</span></div>
                       <div class="service__title-wrapper">
@@ -389,7 +404,7 @@
                     </div>
                   </a>
 
-                  <a href="#">
+                  <a href="DTF-Inks.php">
                     <div class="service__item  animation_home1_service" data-service="4">
                       <div class="service__number"><span>04</span></div>
                       <div class="service__title-wrapper">
@@ -404,7 +419,7 @@
                     </div>
                   </a>
 
-                  <a href="#">
+                  <a href="DTF-printers.php">
                     <div class="service__item  animation_home1_service" data-service="5">
                       <div class="service__number"><span>05</span></div>
                       <div class="service__title-wrapper">
@@ -419,7 +434,7 @@
                     </div>
                   </a>
 
-                  <a href="#">
+                  <a href="DTF-film.php">
                     <div class="service__item  animation_home1_service" data-service="6">
                       <div class="service__number"><span>06</span></div>
                       <div class="service__title-wrapper">
@@ -434,7 +449,7 @@
                     </div>
                   </a>
 
-                  <a href="#">
+                  <a href="TPU-powder.php">
                     <div class="service__item  animation_home1_service" data-service="7">
                       <div class="service__number"><span>07</span></div>
                       <div class="service__title-wrapper">
@@ -600,7 +615,7 @@
                     <p>With Singapore as our strategic hub, we deliver faster access, <br> localised support, and seamless global supply. </p>
                     <!-- <a class="btn-started btn-hover" href="contact.html">Get Started</a> -->
                   </div>
-                  <div class="cursor-btn btn_wrapper">
+                   <div class="cursor-btn btn_wrapper">
                     <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Explore Us <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
@@ -823,8 +838,8 @@
           <div class="row row_bottom">
             <div class="col-xxl-12">
               <div class="portfolio__btn btn_wrapper" data-speed="1" data-lag="0.2">
-                <a class="wc-btn-secondary btn-hover btn-item" href="#"><span></span>View <br>all
-                  projects <i class="fa-solid fa-arrow-right"></i></a>
+                <!-- <a class="wc-btn-secondary btn-hover btn-item" href="#"><span></span>View <br>all
+                  projects <i class="fa-solid fa-arrow-right"></i></a> -->
               </div>
             </div>
           </div>
@@ -1054,7 +1069,7 @@
                 <p class="cta__sub-title">Work with us</p>
                 <h2 class="cta__title title-anim">We would love to hear more about your project</h2>
                 <div class="btn_wrapper">
-                  <a href="#" class="wc-btn-primary btn-hover btn-item"><span></span>Let’s talk us <i
+                  <a href="connect.php" class="wc-btn-primary btn-hover btn-item"><span></span>Let’s talk us <i
                       class="fa-solid fa-arrow-right"></i></a>
                 </div>
               </div>

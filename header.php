@@ -141,6 +141,13 @@
                 <div class="nav flex-column align-items-start nav-pills me-0 gap-0 " id="v-pills-tab" role="tablist"
                   aria-orientation="vertical">
 
+                  <a href="./New-launch" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-new-launch-tab"
+                    data-bs-toggle="pill" data-bs-target="#v-pills-new-launch" type="button" role="tab"
+                    aria-controls="v-pills-new-launch" aria-selected="false"
+                    style="border-left: 3px solid #c9f31d; font-weight: 500;">
+                    Newly Launched!
+                  </a>
+
                   <a href="./sublimation-inks" class="nav-link w-100 text-start rounded-none p-3 bg-prismane active"
                     id="v-pills-sublimation-inks-tab" data-bs-toggle="pill" data-bs-target="#v-pills-sublimation-inks"
                     type="button" role="tab" aria-controls="v-pills-sublimation-inks" aria-selected="true">
@@ -195,6 +202,18 @@
 
                 <!-- Tab Content -->
                 <div class="tab-content flex-grow-1 h-100" id="v-pills-tabContent">
+
+                  <div
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    id="v-pills-new-launch" role="tabpanel" aria-labelledby="v-pills-new-launch-tab">
+                    <div class="mega-image-holder w-100 position-relative flex-fill">
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/DTF inks.webp" alt=""
+                        class="w-100 h-100">
+                      <a href="./New-launch"
+                        class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
+                        More</a>
+                    </div>
+                  </div>
 
                   <div
                     class="tab-pane h-100  bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade show active"
@@ -438,6 +457,7 @@
             <!-- <li><a href="./industries" class="mobile-menu-item">Services</a></li> -->
             <li><a href="./applications" class="mobile-menu-item">Applications</a>
               <ul>
+                <li><a href="./New-launch" class="mobile-menu-item" style="color:#c9f31d; font-weight:700;">✦ New Launch</a></li>
                 <li><a href="./sublimation-inks" class="mobile-menu-item">Sublimation Inks</a></li>
                 <li><a href="./dtf-inks" class="mobile-menu-item">DTF Inks</a></li>
                 <li><a href="./sublimation-dispersions" class="mobile-menu-item">Sublimation Dispersions</a></li>
