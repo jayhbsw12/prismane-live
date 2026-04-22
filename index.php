@@ -825,7 +825,7 @@
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/Printers.webp" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/Printers.png" alt="Portfolio Image"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
@@ -963,31 +963,350 @@
       <!-- Testimonial area end -->
 
       <!-- Solution area start -->
-      <section class="solution__area-4">
+      <!-- Interactive Globe section start -->
+      <section class="globe__section">
+        <style>
+          /* ── Globe Section Layout ── */
+          .globe__section {
+            background: #000;
+            overflow: hidden;
+            padding: 100px 0;
+            position: relative;
+          }
+
+          .globe__col {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            align-self: flex-start;
+          }
+
+          #globeViz {
+            width: 100%;
+            height: 680px;
+            cursor: grab;
+            display: block;
+          }
+          #globeViz:active { cursor: grabbing; }
+          @media (max-width: 1199px) { #globeViz { height: 540px; } }
+          @media (max-width: 767px)  { #globeViz { height: 360px; } }
+
+          .globe__hint {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+            color: rgba(255,255,255,0.3);
+            font-family: 'Kanit', sans-serif;
+            font-size: 11px;
+            font-weight: 400;
+            letter-spacing: 2.5px;
+            text-transform: uppercase;
+            margin-top: 14px;
+          }
+          .globe__hint .sep { opacity: 0.35; }
+
+          .globe__legend {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 6px 24px;
+            margin-top: 14px;
+          }
+          .globe__legend .leg-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-family: 'Kanit', sans-serif;
+            font-size: 13px;
+            font-weight: 400;
+            color: rgba(255,255,255,0.55);
+          }
+          .globe__legend .leg-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+          }
+
+          /* ── Globe Content (right column) — inherits site typography ── */
+          .globe__content {
+            padding: 20px 60px 20px 30px;
+          }
+          .globe__content .sec-sub-title {
+            color: #c9f31d;
+          }
+          .globe__content .sec-title-6 {
+            color: #fff;
+          }
+          .globe__content p {
+            color: rgba(255,255,255,0.6);
+            font-family: 'Kanit', sans-serif;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.8;
+            margin-bottom: 16px;
+          }
+          .globe__content b { color: #fff; font-weight: 600; }
+
+          .globe__list {
+            list-style: none;
+            padding: 0;
+            margin: 24px 0 28px;
+          }
+          .globe__list li {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            font-family: 'Kanit', sans-serif;
+            font-size: 15px;
+            font-weight: 300;
+            color: rgba(255,255,255,0.7);
+            padding: 11px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+          }
+          .globe__list li::before {
+            content: '';
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #c9f31d;
+            flex-shrink: 0;
+          }
+
+          /* ── Tooltip ── */
+          .globe__tooltip {
+            position: fixed;
+            background: rgba(8,8,8,0.94);
+            border: 1px solid rgba(201,243,29,0.25);
+            color: #fff;
+            font-family: 'Kanit', sans-serif;
+            font-size: 13px;
+            font-weight: 400;
+            padding: 6px 14px;
+            border-radius: 5px;
+            pointer-events: none;
+            z-index: 9999;
+            display: none;
+            backdrop-filter: blur(8px);
+          }
+
+          /* ── Responsive ── */
+          @media (max-width: 991px) {
+            .globe__section { padding: 60px 0; }
+            #globeViz { height: 360px; }
+            .globe__content { padding: 30px 20px 10px; }
+          }
+          @media (max-width: 575px) {
+            #globeViz { height: 300px; }
+            .globe__legend { gap: 6px 14px; }
+          }
+        </style>
+
+        <div id="globe__tooltip" class="globe__tooltip"></div>
+
         <div class="container">
-          <div class="row">
-            <div class="col-xxl-5 offset-xxl-7 col-xl-5 offset-xl-7 col-lg-6 offset-lg-6 col-md-6 offset-md-6">
-              <div class="solution__content">
-                <!-- <h2 class="sec-subtile-6">Approch</h2> -->
-                <h3 class="sec-title-6 title-anim">Global Reach</h3>
-                <p>From our manufacturing base in <b>India</b> to our distribution hub in <b>Singapore</b>, we ensure
-                  our
-                  clients benefit from:</p>
-                <ul class="solution__list title-anim">
-                  <li> Faster deliveries </li>
-                  <li> Seamless communication </li>
-                  <li> Stronger local presence </li>
-                </ul>
-                <p style="margin-top: 20px;"> Prismane6 is not just a distributor – it is an extension of Global
-                  Nanotech Pvt. Ltd.,
-                  carrying forward the same values, expertise, and commitment to excellence.
-                </p>
+          <div class="row align-items-center">
+
+            <!-- Globe column -->
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 globe__col">
+              <div id="globeViz"></div>
+              <div class="globe__hint">
+                <span>Drag to Rotate</span>
+                <span class="sep">·</span>
+                <span>Hover to Explore</span>
+              </div>
+              <div class="globe__legend">
+                <div class="leg-item">
+                  <span class="leg-dot" style="background:#c9f31d;box-shadow:0 0 7px #c9f31d;"></span>
+                  India — Manufacturing
+                </div>
+                <div class="leg-item">
+                  <span class="leg-dot" style="background:#c9f31d;box-shadow:0 0 7px #c9f31d;"></span>
+                  Singapore — Distribution Hub
+                </div>
               </div>
             </div>
+
+            <!-- Text column -->
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12">
+              <div class="globe__content">
+                <h2 class="sec-sub-title title-anim">Our Footprint</h2>
+                <h3 class="sec-title-6 title-anim">Global Reach</h3>
+                <p>From our manufacturing base in <b>India</b> to our distribution hub in <b>Singapore</b>, we ensure our clients benefit from world-class products delivered with precision and speed.</p>
+                <ul class="globe__list">
+                  <li>Faster deliveries to international markets</li>
+                  <li>Seamless communication across time zones</li>
+                  <li>Stronger local presence in key textile hubs</li>
+                  <li>R&amp;D developed and quality-tested in Singapore</li>
+                </ul>
+                <p>Prismane6 is not just a distributor — it is an extension of Global Nanotech Pvt. Ltd., carrying forward the same values, expertise, and commitment to excellence.</p>
+                <div class="btn_wrapper" style="margin-top:36px;">
+                  <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Learn More <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </section>
-      <!-- Solution area end -->
+      <!-- Interactive Globe section end -->
+
+      <script>
+      (function() {
+        var s = document.createElement('script');
+        s.src = 'https://unpkg.com/globe.gl@2/dist/globe.gl.min.js';
+        s.onload = initGlobe;
+        document.head.appendChild(s);
+
+        function initGlobe() {
+          var LIME   = '#c9f31d';
+          var LIME_A = 'rgba(201,243,29,0.88)';
+          var LIME_S = 'rgba(201,243,29,0.40)';
+
+          /* Both India and Singapore highlighted lime green */
+          var HIGHLIGHT = {
+            'IND': { color: LIME_A, side: LIME_S, stroke: 'rgba(201,243,29,0.9)' },
+            'SGP': { color: LIME_A, side: LIME_S, stroke: 'rgba(201,243,29,0.9)' }
+          };
+
+          var tooltip = document.getElementById('globe__tooltip');
+          var hovered = null;
+
+          var PINS = [
+            { lat: 20.59,  lng: 78.96,  label: 'India',     color: LIME, dotR: 2.5, size: 1.1 },
+            { lat: 1.3521, lng: 103.82, label: 'Singapore', color: LIME, dotR: 2.5, size: 1.0 }
+          ];
+
+          /* Animated pulse rings — lime for both */
+          var RINGS = [
+            { lat: 20.59,  lng: 78.96,  color: function(){ return LIME; } },
+            { lat: 1.3521, lng: 103.82, color: function(){ return LIME; } }
+          ];
+
+          /* Singapore is ~1 pixel in ne_110m; inject a scaled polygon so it shows as a country shape.
+             Coordinates in counterclockwise order (GeoJSON exterior ring convention). */
+          var SGP_CUSTOM = {
+            type: 'Feature',
+            properties: { ISO_A3: 'SGP', ADMIN: 'Singapore' },
+            geometry: {
+              type: 'Polygon',
+              coordinates: [[
+                [102.74, 0.80],[102.74, 1.18],[102.82, 1.50],[103.20, 1.73],
+                [103.72, 1.88],[104.22, 1.85],[104.55, 1.65],[104.63, 1.36],
+                [104.50, 1.09],[104.12, 0.87],[103.72, 0.72],[103.17, 0.70],[102.74, 0.80]
+              ]]
+            }
+          };
+
+          fetch('https://raw.githubusercontent.com/vasturiano/globe.gl/master/example/datasets/ne_110m_admin_0_countries.geojson')
+            .then(function(r){ return r.json(); })
+            .then(function(countries){
+
+              /* Replace tiny ne_110m SGP with our scaled polygon */
+              var features = countries.features.filter(function(f){ return f.properties.ISO_A3 !== 'SGP'; });
+              features.push(SGP_CUSTOM);
+
+              var el = document.getElementById('globeViz');
+
+              var globe = Globe({ animateIn: true })(el)
+                .width(el.parentElement.offsetWidth)
+                .height(el.offsetHeight || 680)
+                .backgroundColor('rgba(0,0,0,0)')
+                .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
+                .bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
+                .atmosphereColor(LIME)
+                .atmosphereAltitude(0.22)
+
+                /* Country fills */
+                .polygonsData(features)
+                .polygonAltitude(function(d){
+                  var iso = d.properties.ISO_A3;
+                  return HIGHLIGHT[iso] ? 0.020 : 0.006;
+                })
+                .polygonCapColor(function(d){
+                  var h = HIGHLIGHT[d.properties.ISO_A3];
+                  if (h) return h.color;
+                  return d === hovered ? 'rgba(201,243,29,0.18)' : 'rgba(255,255,255,0.03)';
+                })
+                .polygonSideColor(function(d){
+                  var h = HIGHLIGHT[d.properties.ISO_A3];
+                  return h ? h.side : 'rgba(255,255,255,0.015)';
+                })
+                .polygonStrokeColor(function(d){
+                  var h = HIGHLIGHT[d.properties.ISO_A3];
+                  return h ? h.stroke : 'rgba(255,255,255,0.04)';
+                })
+                .polygonLabel(function(d){ return '<span style="font-family:Kanit,sans-serif;font-size:13px;">' + d.properties.ADMIN + '</span>'; })
+
+                /* Labels */
+                .labelsData(PINS)
+                .labelLat('lat').labelLng('lng').labelText('label')
+                .labelSize('size').labelColor('color').labelDotRadius('dotR')
+                .labelDotOrientation(function(){ return 'bottom'; })
+                .labelAltitude(0.025).labelResolution(3)
+
+                /* Pulse rings */
+                .ringsData(RINGS)
+                .ringLat('lat').ringLng('lng')
+                .ringColor('color')
+                .ringMaxRadius(4).ringPropagationSpeed(1.5).ringRepeatPeriod(1200)
+                .ringAltitude(0.025);
+
+              /* Hover: highlight + pause */
+              globe.onPolygonHover(function(poly) {
+                hovered = poly;
+                globe.polygonCapColor(function(d){
+                  var h = HIGHLIGHT[d.properties.ISO_A3];
+                  if (h) return h.color;
+                  return d === poly ? 'rgba(201,243,29,0.18)' : 'rgba(255,255,255,0.03)';
+                });
+                globe.controls().autoRotateSpeed = poly ? 0 : 0.4;
+                if (poly) {
+                  tooltip.innerText = poly.properties.ADMIN;
+                  tooltip.style.display = 'block';
+                } else {
+                  tooltip.style.display = 'none';
+                }
+              });
+
+              document.addEventListener('mousemove', function(e){
+                tooltip.style.left = (e.clientX + 14) + 'px';
+                tooltip.style.top  = (e.clientY - 28) + 'px';
+              });
+
+              el.addEventListener('mouseenter', function(){ globe.controls().autoRotateSpeed = 0.12; });
+              el.addEventListener('mouseleave', function(){
+                globe.controls().autoRotateSpeed = 0.4;
+                tooltip.style.display = 'none';
+              });
+              el.addEventListener('mousedown',  function(){ globe.controls().autoRotate = false; });
+              el.addEventListener('touchstart', function(){ globe.controls().autoRotate = false; }, { passive: true });
+              el.addEventListener('mouseup',    function(){ globe.controls().autoRotate = true; globe.controls().autoRotateSpeed = 0.4; });
+              el.addEventListener('touchend',   function(){ globe.controls().autoRotate = true; globe.controls().autoRotateSpeed = 0.4; });
+
+              /* Initial view: centred between India & Singapore so both are fully visible */
+              globe.pointOfView({ lat: 10, lng: 91, altitude: 2.2 }, 0);
+
+              globe.controls().autoRotate      = true;
+              globe.controls().autoRotateSpeed = 0.4;
+              globe.controls().enableZoom      = false;
+
+              /* Lock zoom distance after first render tick */
+              setTimeout(function(){
+                var d = globe.camera().position.length();
+                globe.controls().minDistance = d;
+                globe.controls().maxDistance = d;
+              }, 100);
+
+              /* Responsive resize */
+              window.addEventListener('resize', function(){
+                globe.width(el.parentElement.offsetWidth);
+              });
+            });
+        }
+      })();
+      </script>
 
       <!-- Blog area start -->
       <!-- <section class="blog__area no-pb blog__animation">
