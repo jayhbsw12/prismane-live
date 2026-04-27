@@ -36,7 +36,7 @@
               <div class="col-xxl-12">
                 <div class="hero__about-video">
                   <video loop muted autoplay playsinline>
-                    <source src="assets/video/video.mp4" type="video/mp4">
+                    <source src="assets/video/Fabric-textile-about-us.webm" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -50,7 +50,7 @@
           <div class="container g-0 line pt-140">
             <span class="line-3"></span>
             <div class="sec-title-wrapper">
-              <div class="from-text">from <span>1990</span></div>
+              <!-- <div class="from-text">from <span>1990</span></div> -->
 
               <div class="row">
                 <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
@@ -73,18 +73,18 @@
             <div class="row">
               <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
                 <div class="story__img-wrapper">
-                  <img src="assets/imgs/story/1.jpg" alt="Story Thumbnail" class="w-100">
+                  <img src="assets/imgs/Fabric-printing.webp" alt="Fabric-printing" class="w-100">
                 </div>
               </div>
               <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                 <div class="story__img-wrapper img-anim">
-                  <img src="assets/imgs/story/2.jpg" alt="Story Thumbnail" data-speed="auto">
+                  <img src="assets/imgs/Products-about-us.webp" alt="Products-about-us" data-speed="auto">
                 </div>
               </div>
               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                 <div class="story__img-wrapper">
-                  <img src="assets/imgs/story/3.jpg" alt="Story Thumbnail">
-                  <img src="assets/imgs/story/4.jpg" alt="Story Thumbnail">
+                  <img src="assets/imgs/Fabric-&-inks.webp" alt="Fabric-&-inks">
+                  <img src="assets/imgs/pink-ink.webp" alt="pink-ink">
                 </div>
               </div>
             </div>
@@ -93,7 +93,7 @@
       <!-- Story area end -->
 
       <!-- Counter area start -->
-      <section class="counter__area">
+      <!-- <section class="counter__area">
           <div class="container g-0 line pb-140 pt-140">
             <span class="line-3"></span>
 
@@ -124,13 +124,13 @@
               </div>
             </div>
           </div>
-      </section>
+      </section> -->
       <!-- Counter area end -->
 
       <!-- Team area start -->
       <section class="team__area pt-140 pb-140">
           <div class="sec-title-wrapper">
-            <h2 class="sec-sub-title title-anim">Our Team</h2>
+            <!-- <h2 class="sec-sub-title title-anim">Our Team</h2> -->
             <h3 class="sec-title title-anim">How we work</h3>
           </div>
 
@@ -138,61 +138,51 @@
           <div class="swiper team__slider">
             <div class="swiper-wrapper">
               <div class="swiper-slide team__slide">
-                <a href="team-details.html">
-                  <img src="assets/imgs/team/1.jpg" alt="Team Member">
+                <!-- <a href="team-details.html"> -->
+                  <img src="assets/imgs/t-shirt.webp" alt="Team Member">
                   <div class="team__info">
-                    <h4 class="team__member-name">Saymon D. Halk</h4>
-                    <h5 class="team__member-role">Founder & CEO</h5>
+                    <!-- <h4 class="team__member-name">Saymon D. Halk</h4>
+                    <h5 class="team__member-role">Founder & CEO</h5> -->
                   </div>
                 </a>
               </div>
 
               <div class="swiper-slide team__slide">
-                <a href="team-details.html">
-                  <img src="assets/imgs/team/2.jpg" alt="Team Member">
+                <!-- <a href="team-details.html"> -->
+                  <img src="assets/imgs/Ink-display.webp" alt="Ink-display">
                   <div class="team__info">
-                    <h4 class="team__member-name">Jassica Oliver</h4>
-                    <h5 class="team__member-role">Researcher</h5>
+                    <!-- <h4 class="team__member-name">Jassica Oliver</h4>
+                    <h5 class="team__member-role">Researcher</h5> -->
                   </div>
                 </a>
               </div>
 
               <div class="swiper-slide team__slide">
-                <a href="team-details.html">
-                  <img src="assets/imgs/team/3.jpg" alt="Team Member">
+                <!-- <a href="team-details.html"> -->
+                  <img src="assets/imgs/Denim-fabric.webp" alt="Denim-fabric">
                   <div class="team__info">
-                    <h4 class="team__member-name">Daniyel Adamson</h4>
-                    <h5 class="team__member-role">Digital Marketer</h5>
+                    <!-- <h4 class="team__member-name">Daniyel Adamson</h4>
+                    <h5 class="team__member-role">Digital Marketer</h5> -->
                   </div>
                 </a>
               </div>
 
               <div class="swiper-slide team__slide">
-                <a href="team-details.html">
-                  <img src="assets/imgs/team/4.jpg" alt="Team Member">
+                <!-- <a href="team-details.html"> -->
+                  <img src="assets/imgs/Ink-dripping-about-us.webp" alt="Ink-dripping-about-us">
                   <div class="team__info">
-                    <h4 class="team__member-name">Hardiya Kethrine</h4>
-                    <h5 class="team__member-role">Lead Designer</h5>
+                    <!-- <h4 class="team__member-name">Hardiya Kethrine</h4>
+                    <h5 class="team__member-role">Lead Designer</h5> -->
                   </div>
                 </a>
               </div>
 
               <div class="swiper-slide team__slide">
-                <a href="team-details.html">
-                  <img src="assets/imgs/team/2.jpg" alt="Team Member">
+                <!-- <a href="team-details.html"> -->
+                  <img src="assets/imgs/Ink-splash-about-us.webp" alt="Ink-splash-about-us">
                   <div class="team__info">
-                    <h4 class="team__member-name">Saymon D. Halk</h4>
-                    <h5 class="team__member-role">Researcher</h5>
-                  </div>
-                </a>
-              </div>
-
-              <div class="swiper-slide team__slide">
-                <a href="team-details.html">
-                  <img src="assets/imgs/team/3.jpg" alt="Team Member">
-                  <div class="team__info">
-                    <h4 class="team__member-name">Jassica Oliver</h4>
-                    <h5 class="team__member-role">Lead Designer</h5>
+                    <!-- <h4 class="team__member-name">Jassica Oliver</h4>
+                    <h5 class="team__member-role">Lead Designer</h5> -->
                   </div>
                 </a>
               </div>
@@ -265,7 +255,7 @@
               <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                 <div class="testimonial__video">
                   <video autoplay muted loop>
-                    <source src="assets/video/testimonial.mp4" type="video/mp4">
+                    <source src="assets/video/Testimonial-video.webm" type="video/mp4">
                   </video>
                 </div>
               </div>
