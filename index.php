@@ -281,7 +281,7 @@
                   </p>
 
                   <div class="cursor-btn btn_wrapper">
-                    <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Explore Us <i
+                    <a class="btn-item wc-btn-primary btn-hover" href="who-we-are"><span></span> Explore Us <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
                 </div>
@@ -1142,7 +1142,7 @@
                 </ul>
                 <p>Prismane6 is not just a distributor — it is an extension of Global Nanotech Pvt. Ltd., carrying forward the same values, expertise, and commitment to excellence.</p>
                 <div class="btn_wrapper" style="margin-top:36px;">
-                  <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Learn More <i class="fa-solid fa-arrow-right"></i></a>
+                  <a class="btn-item wc-btn-primary btn-hover" href="who-we-are"><span></span> Learn More <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
               </div>
             </div>
