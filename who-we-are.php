@@ -13,12 +13,12 @@
             <div class="row">
               <div class="col-xxl-12">
                 <div class="hero__about-content">
-                  <h1 class="hero-title animation__word_come">LISTEN TO YOUR COLORS</h1>
+                  <h1 class="hero-title animation__word_come">Our Story</h1>
                   <div class="hero__about-info">
                     <div class="hero__about-btn">
                       <div class="btn_wrapper">
-                        <a href="service.html" class="wc-btn-primary btn-hover btn-item"><span></span> Trends & <br>
-                          technology
+                        <a href="connect" class="wc-btn-primary btn-hover btn-item"><span></span> Contact Us<br>
+                         
                           <i class="fa-solid fa-arrow-right"></i></a>
                       </div>
                     </div>
@@ -47,7 +47,7 @@
 
       <!-- Story area start -->
       <section class="story__area">
-          <div class="container g-0 line pt-140">
+          <div class="container g-0 line pt-140 pb-140">
             <span class="line-3"></span>
             <div class="sec-title-wrapper">
               <!-- <div class="from-text">from <span>1990</span></div> -->
@@ -131,7 +131,7 @@
       <section class="team__area pt-140 pb-140">
           <div class="sec-title-wrapper">
             <!-- <h2 class="sec-sub-title title-anim">Our Team</h2> -->
-            <h3 class="sec-title title-anim">How we work</h3>
+            <h3 class="sec-title title-anim">Our Work</h3>
           </div>
 
 
@@ -192,7 +192,7 @@
       <!-- Team area end -->
 
       <!-- Brand area start -->
-      <section class="brand__area">
+      <!-- <section class="brand__area">
           <div class="container g-0 line pt-140 pb-140">
             <span class="line-3"></span>
             <div class="row g-0">
@@ -243,12 +243,12 @@
               </div>
             </div>
           </div>
-      </section>
+      </section> -->
       <!-- Brand area end -->
 
       <!-- Testimonial area start -->
       <section class="testimonial__area-2">
-          <div class="container g-0 line pb-140">
+          <div class="container g-0 line pb-140 pt-140">
             <span class="line-3"></span>
 
             <div class="row g-0">
@@ -267,19 +267,14 @@
 
                       <div class="swiper-slide testimonial__slide">
                         <div class="testimonial__inner-2">
-                          <h2 class="testimonial__title-2">Engineered for consistency, built for reliability</h2>
-                          <p class="testimonial__text-2">We were there right at the beginning just when the concept
-                            for
-                            search
-                            engine optimisation taking office and the full of internet. So wewe’ve grown to employ
-                            than 50
-                            talented specialists with diverse experiences and broad skill sets of huge markers.</p>
-                          <h3 class="testimonial__author">Adam Syndera</h3>
-                          <h4 class="testimonial__role">CEO, Agency</h4>
+                          <h2 class="testimonial__title-2">High-Performance Digital Ink Solutions</h2>
+                          <p class="testimonial__text-2">Delivering precision-driven digital inks and colour solutions with consistent quality, advanced R&D, and reliable global supply—backed by trusted partnerships and engineered for real-world industrial performance.</p>
+                          <!-- <h3 class="testimonial__author">Adam Syndera</h3>
+                          <h4 class="testimonial__role">CEO, Agency</h4> -->
                         </div>
                       </div>
 
-                      <div class="swiper-slide testimonial__slide">
+                      <!-- <div class="swiper-slide testimonial__slide">
                         <div class="testimonial__inner-2">
                           <h2 class="testimonial__title-2">Amazing digital service</h2>
                           <p class="testimonial__text-2">We were there right at the beginning just when the concept
@@ -291,9 +286,9 @@
                           <h3 class="testimonial__author">Adam Syndera</h3>
                           <h4 class="testimonial__role">CEO, Agency</h4>
                         </div>
-                      </div>
+                      </div> -->
 
-                      <div class="swiper-slide testimonial__slide">
+                      <!-- <div class="swiper-slide testimonial__slide">
                         <div class="testimonial__inner-2">
                           <h2 class="testimonial__title-2">Amazing digital service</h2>
                           <p class="testimonial__text-2">We were there right at the beginning just when the concept
@@ -305,14 +300,14 @@
                           <h3 class="testimonial__author">Adam Syndera</h3>
                           <h4 class="testimonial__role">CEO, Agency</h4>
                         </div>
-                      </div>
+                      </div> -->
 
                     </div>
                   </div>
 
                   <div class="testimonial__pagination">
-                    <div class="prev-button"><i class="fa-solid fa-arrow-right"></i></div>
-                    <div class="next-button"><i class="fa-solid fa-arrow-left"></i></div>
+                    <!-- <div class="prev-button"><i class="fa-solid fa-arrow-right"></i></div>
+                    <div class="next-button"><i class="fa-solid fa-arrow-left"></i></div> -->
                   </div>
                 </div>
               </div>
