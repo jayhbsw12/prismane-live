@@ -347,7 +347,7 @@
                         <div class="col-12 col-md-6">
                             <div class="dtf-light-card">
                                 <div class="dtf-light-card__media" style="height: 340px;">
-                                    <img src="assets/imgs/prismane-images/GLO-DTF900MAX.png" alt="LEON-DTF 900MAX Industrial DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
+                                    <img src="assets/imgs/prismane-images/GLO-DTF900MAX.webp" alt="LEON-DTF 900MAX Industrial DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
                                 </div>
                                 <div class="dtf-light-card__body">
                                     <h3 class="dtf-card-title mb-2">LEON-DTF 900MAX<span class="dtf-card-title-mn">LEON-DTF 900MAX 型号</span></h3>
@@ -367,7 +367,7 @@
                         <div class="col-12 col-md-6">
                             <div class="dtf-light-card">
                                 <div class="dtf-light-card__media" style="height: 340px;">
-                                    <img src="assets/imgs/prismane-images/GLODTF420&600PRO.png" alt="LEON-DTF 420 & 600 PRO DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
+                                    <img src="assets/imgs/prismane-images/GLODTF420&600PRO.webp" alt="LEON-DTF 420 & 600 PRO DTF Printer" style="max-height: 290px; max-width: 100%; object-fit: contain;">
                                 </div>
                                 <div class="dtf-light-card__body">
                                     <h3 class="dtf-card-title mb-2">LEON-DTF 420 &amp; 600 PRO<span class="dtf-card-title-mn">LEON-DTF 420 &amp; 600 PRO 型号</span></h3>
