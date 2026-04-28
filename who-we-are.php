@@ -1,13 +1,72 @@
 <?php include "header-top.php"; ?>
 <meta name="robots" content="noindex,nofollow">
+<style>
+  .floating-lion {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    width: 290px;
+    height: 72vh;
+    max-height: 720px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 2;
+  }
+
+  .floating-lion.is-active {
+    opacity: 0.4;
+    visibility: visible;
+  }
+
+  .floating-lion__image {
+    width: 100%;
+    height: 100%;
+    background-image: url('./assets/imgs/Lion-prismane.webp');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+  }
+
+  .white-section,
+  .black-section {
+    position: relative;
+  }
+
+  .black-section {
+    z-index: 3;
+  }
+
+  .white-section .container,
+  .black-section .container {
+    position: relative;
+    z-index: 4;
+  }
+
+  @media only screen and (max-width: 1199px) {
+    .floating-lion {
+      width: 220px;
+    }
+  }
+
+  @media only screen and (max-width: 991px) {
+    .floating-lion {
+      display: none;
+    }
+  }
+</style>
 <?php include "header.php"; ?>
 
 <div id="smooth-wrapper">
+  <div class="floating-lion" aria-hidden="true">
+    <div class="floating-lion__image"></div>
+  </div>
   <div id="smooth-content">
     <main>
 
       <!-- Hero area start -->
-      <section class="hero__about">
+      <section class="hero__about black-section">
           <div class="container g-0 line">
             <span class="line-3"></span>
             <div class="row">
@@ -36,7 +95,7 @@
               <div class="col-xxl-12">
                 <div class="hero__about-video">
                   <video loop muted autoplay playsinline>
-                    <source src="assets/video/Fabric-textile-about-us.webm" type="video/mp4">
+                    <source src="assets/video/Fabric-textile-about-us-final.webm" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -46,7 +105,7 @@
       <!-- Hero area end -->
 
       <!-- Story area start -->
-      <section class="story__area">
+      <section class="story__area white-section">
           <div class="container g-0 line pt-140 pb-140">
             <span class="line-3"></span>
             <div class="sec-title-wrapper">
@@ -128,7 +187,7 @@
       <!-- Counter area end -->
 
       <!-- Team area start -->
-      <section class="team__area pt-140 pb-140">
+      <section class="team__area pt-140 pb-140 white-section">
           <div class="sec-title-wrapper">
             <!-- <h2 class="sec-sub-title title-anim">Our Team</h2> -->
             <h3 class="sec-title title-anim">Our Work</h3>
@@ -247,7 +306,7 @@
       <!-- Brand area end -->
 
       <!-- Testimonial area start -->
-      <section class="testimonial__area-2">
+      <section class="testimonial__area-2 white-section">
           <div class="container g-0 line pb-140 pt-140">
             <span class="line-3"></span>
 
@@ -317,7 +376,7 @@
       <!-- Testimonial area end -->
 
       <!-- CTA area start -->
-      <section class="cta__area">
+      <section class="cta__area white-section">
           <div class="container line pb-110 dark-p">
             <div class="line-3"></div>
             <div class="row">
@@ -337,4 +396,41 @@
       <!-- CTA area end -->
 
     </main>
+    <script>
+      window.addEventListener('DOMContentLoaded', function() {
+        const lion = document.querySelector('.floating-lion');
+        const firstWhiteSection = document.querySelector('.white-section');
+        const footerSection = document.querySelector('.footer__area');
+
+        if (!lion || !firstWhiteSection || !footerSection || !('IntersectionObserver' in window)) return;
+
+        let hasPassedFirstWhiteSection = false;
+        let isFooterVisible = false;
+
+        const syncLionState = function() {
+          lion.classList.toggle('is-active', hasPassedFirstWhiteSection && !isFooterVisible);
+        };
+
+        const firstSectionObserver = new IntersectionObserver(function(entries) {
+          const entry = entries[0];
+          hasPassedFirstWhiteSection = entry.boundingClientRect.top <= 0;
+          syncLionState();
+        }, {
+          root: null,
+          threshold: 0,
+          rootMargin: '0px 0px -99% 0px'
+        });
+
+        const footerObserver = new IntersectionObserver(function(entries) {
+          isFooterVisible = entries[0].isIntersecting;
+          syncLionState();
+        }, {
+          root: null,
+          threshold: 0
+        });
+
+        firstSectionObserver.observe(firstWhiteSection);
+        footerObserver.observe(footerSection);
+      });
+    </script>
     <?php include "footer.php"; ?>
