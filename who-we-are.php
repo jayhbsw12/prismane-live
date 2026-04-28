@@ -54,13 +54,14 @@
 
               <div class="row">
                 <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
-                  <h2 class="sec-sub-title title-anim">Digital Manufacturing</h2>
+                  <h2 class="sec-sub-title title-anim">Process-Driven Manufacturing</h2>
                   <h3 class="sec-title title-anim">Our story</h3>
                 </div>
                 <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                   <div class="story__text">
                     <p>
-                      Prismane was founded with a clear purpose — to bring precision, consistency, and performance to pigment dispersion and ink manufacturing. What began as a focused manufacturing unit has grown into a trusted partner for ink producers across textile, digital printing, writing instruments, and specialised industrial applications.
+                      <!-- <span style="color: #bae800; font-weight: 500;">PRISMANE6</span> -->
+                      <a href="/" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> was founded with a clear purpose — to bring precision, consistency, and performance to pigment dispersion and ink manufacturing. What began as a focused manufacturing unit has grown into a trusted partner for ink producers across textile, digital printing, writing instruments, and specialised industrial applications.
                     </p>
                     <p>
                       Since 2013, we have worked closely with manufacturers who demand more than colour — they need repeatability, stability, and process reliability. Our journey has been shaped by real-world production challenges, driving us to engineer dispersions that perform consistently across batches, substrates, and printing conditions.
