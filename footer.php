@@ -28,11 +28,10 @@
             <div class="footer__widget-2">
               <h2 class="footer__widget-title text-prismane">Information</h2>
               <ul class="footer__link">
-                <li><a href="#">Who We Are</a></li>
-                <li><a href="#">Markets & Industries</a></li>
-                <li><a href="#">Applications</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">contact</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="Who We Are">Who We Are</a></li>
+                <li><a href="Applications">Applications</a></li>             
+                <li><a href="Connect">Connect</a></li>
               </ul>
             </div>
 
@@ -51,12 +50,12 @@
                 <a href="#" class="wc-btn-primary btn-hover btn-item"><span></span> contact us <i
                     class="fa-solid fa-arrow-right"></i></a>
               </div>
-              <h3 class="contact-time">09 : 00 AM - 10 : 30 PM</h3>
-              <h4 class="contact-day">Saturday - Thursday</h4>
+              <!-- <h3 class="contact-time">09 : 00 AM - 10 : 30 PM</h3>
+              <h4 class="contact-day">Saturday - Thursday</h4> -->
             </div>
 
             <div class="footer__copyright">
-              <p>© 2022 - 2026 | Alrights reserved by <a href="#" target="_blank">Prismane6</a>
+              <p class="footer-custom-class">© 2022 - 2026 | Alrights reserved by <a href="#" target="_blank"><a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6 普里斯曼6</a></a>
               </p>
             </div>
 

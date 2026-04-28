@@ -207,7 +207,7 @@
                     class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
                     id="v-pills-new-launch" role="tabpanel" aria-labelledby="v-pills-new-launch-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/DTF inks.webp" alt=""
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Newly-launched-header.webp" alt="Newly-launched-header"
                         class="w-100 h-100">
                       <a href="./New-launch"
                         class="bg-prismane py-3 px-5 fs-5 text-center text-black position-absolute bottom-0 end-0">Read
@@ -318,7 +318,7 @@
                     class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
                     id="v-pills-pigments-dyes" role="tabpanel" aria-labelledby="v-pills-pigments-dyes-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
-                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Printing Dye.webp"
+                      <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Pigments-and-dyes.webp"
                         alt="" class="w-100 h-100">
                       <!-- <span class="fs-1 position-absolute top-50 start-50 translate-middle z-1 text-white">Pigments &amp; Dyes</span> -->
                       <!-- Pigments & Dyes content here -->

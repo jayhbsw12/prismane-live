@@ -210,3 +210,8 @@ tr td {
   }
 
 }
+
+
+.footer-custom-class {
+  max-width: 500px !important;
+}

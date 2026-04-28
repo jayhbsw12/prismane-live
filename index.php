@@ -236,8 +236,8 @@
           <div class="row">
             <div class="col-xxl-12">
               <div class="about__title-wrapper">
-                <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br>Prismane6 Pte Ltd</h3> <br>
-                <h3 class="sec-title title-anim" style="color: black !important;">欢迎来到<br>棱柱烷6私人有限公司</h3>
+                <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br><a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> Pte Ltd</h3> <br>
+                <h3 class="sec-title title-anim" style="color: black !important;">欢迎来到<br>普里斯曼6私人有限公司</h3>
               </div>
 
               <div class="about__content-wrapper">
@@ -277,7 +277,7 @@
                     Backed by partnerships with some of the world’s most trusted suppliers, the focus remains on delivering performance-driven products that meet international standards. The research and development of digital inks has been carried out in Singapore under the expertise of Dr. Dhara and her team, ensuring advanced formulations, consistency, and innovation at every stage.
                   </p>
                   <p>
-                    With Prismane 6, this foundation is taken further—extending a legacy of innovation, quality, and service. The commitment is to support clients across international markets with dependable solutions, technical expertise, and products designed to perform in real-world industrial environments.
+                    With <a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a>, this foundation is taken further—extending a legacy of innovation, quality, and service. The commitment is to support clients across international markets with dependable solutions, technical expertise, and products designed to perform in real-world industrial environments.
                   </p>
 
                   <div class="cursor-btn btn_wrapper">
@@ -1140,7 +1140,7 @@
                   <li>Stronger local presence in key textile hubs</li>
                   <li>R&amp;D developed and quality-tested in Singapore</li>
                 </ul>
-                <p>Prismane6 is not just a distributor — it is an extension of Global Nanotech Pvt. Ltd., carrying forward the same values, expertise, and commitment to excellence.</p>
+                <p><a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> is not just a distributor — it is an extension of Global Nanotech Pvt. Ltd., carrying forward the same values, expertise, and commitment to excellence.</p>
                 <div class="btn_wrapper" style="margin-top:36px;">
                   <a class="btn-item wc-btn-primary btn-hover" href="who-we-are"><span></span> Learn More <i class="fa-solid fa-arrow-right"></i></a>
                 </div>

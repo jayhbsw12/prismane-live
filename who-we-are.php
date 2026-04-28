@@ -23,7 +23,7 @@
                       </div>
                     </div>
                     <div class="hero__about-text title-anim">
-                      <p>Every colour has a performance story behind it. At Prismane, we engineer pigment dispersions and ink solutions that deliver consistency, stability, and precision across applications. Since 2013, we have helped manufacturers translate colour intent into reliable, repeatable results.</p>
+                      <p>Every colour has a performance story behind it. At <a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a>, we engineer pigment dispersions and ink solutions that deliver consistency, stability, and precision across applications. Since 2013, we have helped manufacturers translate colour intent into reliable, repeatable results.</p>
                     </div>
                     <div class="hero__about-award">
                       <img src="assets/imgs/Dripping-ink.webp" alt="Drippping-ink">
@@ -60,8 +60,7 @@
                 <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
                   <div class="story__text">
                     <p>
-                      <!-- <span style="color: #bae800; font-weight: 500;">PRISMANE6</span> -->
-                      <a href="/" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> was founded with a clear purpose — to bring precision, consistency, and performance to pigment dispersion and ink manufacturing. What began as a focused manufacturing unit has grown into a trusted partner for ink producers across textile, digital printing, writing instruments, and specialised industrial applications.
+                      <a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> was founded with a clear purpose — to bring precision, consistency, and performance to pigment dispersion and ink manufacturing. What began as a focused manufacturing unit has grown into a trusted partner for ink producers across textile, digital printing, writing instruments, and specialised industrial applications.
                     </p>
                     <p>
                       Since 2013, we have worked closely with manufacturers who demand more than colour — they need repeatability, stability, and process reliability. Our journey has been shaped by real-world production challenges, driving us to engineer dispersions that perform consistently across batches, substrates, and printing conditions.

@@ -661,7 +661,7 @@
                 <img src="assets/imgs/umbrella solutions.png" alt="Direct to Fabric Printing with Prismane6 Pigment Inks">
                 <div class="showcase__overlay">
                   <h3>Direct to Fabric Technology</h3>
-                  <p>Ricoh Gen6 · Prismane6 LEON INK Series</p>
+                  <p>Ricoh Gen6 · <a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> LEON INK Series</p>
                 </div>
               </div>
             </div>
