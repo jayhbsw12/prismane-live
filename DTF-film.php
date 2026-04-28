@@ -535,9 +535,10 @@
                 const lion = document.querySelector('.floating-lion');
                 const footerSection = document.querySelector('.footer__area');
                 const lionImage = lion ? lion.querySelector('.floating-lion__image') : null;
+                const sections = Array.from(document.querySelectorAll('main section.white-section, main section.black-section'));
                 const whiteSections = Array.from(document.querySelectorAll('main .white-section'));
 
-                if (!lion || !lionImage || !footerSection || whiteSections.length === 0) return;
+                if (!lion || !lionImage || !footerSection || whiteSections.length === 0 || sections.length === 0) return;
 
                 let ticking = false;
 
@@ -547,43 +548,41 @@
 
                 const updateLion = function() {
                     const viewportHeight = window.innerHeight || document.documentElement.clientHeight;
-                    const activationTop = viewportHeight * 0.12;
-                    const activationBottom = viewportHeight * 0.88;
+                    const lionProbeY = viewportHeight * 0.55;
                     const footerRect = footerSection.getBoundingClientRect();
 
                     let activeSection = null;
-                    let activeProgress = 0;
-                    let bestVisibility = 0;
+                    let activeRect = null;
 
-                    for (const section of whiteSections) {
+                    for (const section of sections) {
                         const rect = section.getBoundingClientRect();
-                        const visibleTop = Math.max(rect.top, activationTop);
-                        const visibleBottom = Math.min(rect.bottom, activationBottom);
-                        const visibleHeight = visibleBottom - visibleTop;
 
-                        if (visibleHeight <= 0) {
+                        if (rect.height <= 0) {
                             continue;
                         }
 
-                        if (visibleHeight > bestVisibility) {
-                            bestVisibility = visibleHeight;
+                        if (rect.top <= lionProbeY && rect.bottom >= lionProbeY) {
                             activeSection = section;
-                            activeProgress = clamp(
-                                ((viewportHeight * 0.5) - rect.top) / Math.max(rect.height, 1),
-                                0,
-                                1
-                            );
+                            activeRect = rect;
+                            break;
                         }
                     }
 
-                    const footerReached = footerRect.top <= viewportHeight * 0.9;
-                    const shouldShowLion = Boolean(activeSection) && !footerReached;
+                    const footerReached = footerRect.top <= lionProbeY;
+                    const shouldShowLion = Boolean(activeSection) &&
+                        activeSection.classList.contains('white-section') &&
+                        !footerReached;
 
                     lion.classList.toggle('is-active', shouldShowLion);
 
                     if (shouldShowLion) {
-                        const shift = (activeProgress - 0.5) * 44;
-                        const scale = 1 + (0.02 * (1 - Math.abs((activeProgress - 0.5) * 2)));
+                        const activeProgress = clamp(
+                            (lionProbeY - activeRect.top) / Math.max(activeRect.height, 1),
+                            0,
+                            1
+                        );
+                        const shift = (activeProgress - 0.5) * 36;
+                        const scale = 1 + (0.018 * (1 - Math.abs((activeProgress - 0.5) * 2)));
                         lionImage.style.setProperty('--lion-shift', shift.toFixed(2) + 'px');
                         lionImage.style.setProperty('--lion-scale', scale.toFixed(3));
                     } else {
@@ -607,6 +606,13 @@
                     passive: true
                 });
                 window.addEventListener('resize', requestLionUpdate);
+                window.addEventListener('load', requestLionUpdate);
+                window.addEventListener('prismane:smooth-update', requestLionUpdate);
+                window.addEventListener('prismane:smoother-ready', requestLionUpdate);
+
+                if (typeof ScrollTrigger !== 'undefined' && ScrollTrigger.addEventListener) {
+                    ScrollTrigger.addEventListener('refresh', requestLionUpdate);
+                }
 
                 updateLion();
             });

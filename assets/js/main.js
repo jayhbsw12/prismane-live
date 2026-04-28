@@ -70,9 +70,6 @@
 65. Service 7 Animation
 ****************************************************/
 
-// Temporary global kill switch for ScrollSmoother/smooth scroll.
-window.disableSmoothScroll = true;
-
 (function ($) {
   "use strict";
 
@@ -932,9 +929,18 @@ window.disableSmoothScroll = true;
         smoothTouch: false,
         normalizeScroll: false,
         ignoreMobileResize: true,
-        onUpdate: self => skewSetter(clamp(self.getVelocity() / -80)),
-        onStop: () => skewSetter(0)
+        onUpdate: self => {
+          window.dispatchEvent(new CustomEvent('prismane:smooth-update'));
+          skewSetter(clamp(self.getVelocity() / -80));
+        },
+        onStop: () => {
+          window.dispatchEvent(new CustomEvent('prismane:smooth-update'));
+          skewSetter(0);
+        }
       });
+
+      window.prismaneScrollSmoother = smoother;
+      window.dispatchEvent(new CustomEvent('prismane:smoother-ready'));
     }
 
     /////////////////////////////////////////////////////
