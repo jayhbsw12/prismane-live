@@ -28,6 +28,7 @@
 24. Portfolio 5 Animation 
 25. Title Animation
 26. Title Animation Top
+
 27. Text Animation
 28. Text Animation Top
 29. Offcanvas Menu
@@ -68,6 +69,9 @@
 64. Header 7
 65. Service 7 Animation
 ****************************************************/
+
+// Temporary global kill switch for ScrollSmoother/smooth scroll.
+window.disableSmoothScroll = true;
 
 (function ($) {
   "use strict";

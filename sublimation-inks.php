@@ -18,10 +18,11 @@
         opacity: 0;
         visibility: hidden;
         z-index: 2;
+        transition: opacity 0.32s ease, visibility 0.32s ease;
     }
 
     .floating-lion.is-active {
-        opacity: 0.4;
+        opacity: 0.32;
         visibility: visible;
     }
 
@@ -32,6 +33,11 @@
         background-repeat: no-repeat;
         background-position: right center;
         background-size: contain;
+        transform: translate3d(0, var(--lion-shift, 0px), 0) scale(var(--lion-scale, 1));
+        transform-origin: right center;
+        transition: transform 0.28s ease-out;
+        will-change: transform;
+        filter: drop-shadow(0 22px 42px rgba(17, 24, 39, 0.12));
     }
 
     .white-section,
@@ -442,7 +448,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section" style="display:none;">
+            <section class="about__area-3 black-section" style="display:none;">
                 <div class="container pt-20 pb-120">
                     <div class="row g-5">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
@@ -473,7 +479,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section" style="display:none;">
+            <section class="about__area-3 black-section" style="display:none;">
                 <div class="container pt-0 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -613,7 +619,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 sublimation-series-overview white-section">
+            <section class="about__area-3 sublimation-series-overview black-section">
                 <div class="container pt-20 pb-120">
                     <div class="row">
                         <div class="col-12">
@@ -735,7 +741,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section">
+            <section class="about__area-3 black-section">
                 <div class="container pt-0 pb-120">
                     <div class="row">
                         <div class="col-12">
@@ -771,7 +777,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section">
+            <section class="about__area-3 black-section">
                 <div class="container pt-0 pb-120">
                     <div class="row">
                         <div class="col-12">
@@ -811,7 +817,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section">
+            <section class="about__area-3 black-section">
                 <div class="container pt-0 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -856,7 +862,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section">
+            <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-140">
                     <div class="row">
                         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
@@ -924,7 +930,7 @@
                 </div>
             </section>
 
-            <section class="about__area-3 white-section">
+            <section class="about__area-3 black-section">
                 <div class="container pt-100 pb-140">
                     <div class="row">
                         <div class="col-12">
@@ -1030,38 +1036,82 @@
         <script>
             window.addEventListener('DOMContentLoaded', function() {
                 const lion = document.querySelector('.floating-lion');
-                const firstWhiteSection = document.querySelector('.white-section');
                 const footerSection = document.querySelector('.footer__area');
+                const lionImage = lion ? lion.querySelector('.floating-lion__image') : null;
+                const whiteSections = Array.from(document.querySelectorAll('main .white-section'));
 
-                if (!lion || !firstWhiteSection || !footerSection || !('IntersectionObserver' in window)) return;
+                if (!lion || !lionImage || !footerSection || whiteSections.length === 0) return;
 
-                let hasPassedFirstWhiteSection = false;
-                let isFooterVisible = false;
+                let ticking = false;
 
-                const syncLionState = function() {
-                    lion.classList.toggle('is-active', hasPassedFirstWhiteSection && !isFooterVisible);
+                const clamp = function(value, min, max) {
+                    return Math.min(Math.max(value, min), max);
                 };
 
-                const firstSectionObserver = new IntersectionObserver(function(entries) {
-                    const entry = entries[0];
-                    hasPassedFirstWhiteSection = entry.boundingClientRect.top <= 0;
-                    syncLionState();
-                }, {
-                    root: null,
-                    threshold: 0,
-                    rootMargin: '0px 0px -99% 0px'
-                });
+                const updateLion = function() {
+                    const viewportHeight = window.innerHeight || document.documentElement.clientHeight;
+                    const activationTop = viewportHeight * 0.12;
+                    const activationBottom = viewportHeight * 0.88;
+                    const footerRect = footerSection.getBoundingClientRect();
 
-                const footerObserver = new IntersectionObserver(function(entries) {
-                    isFooterVisible = entries[0].isIntersecting;
-                    syncLionState();
-                }, {
-                    root: null,
-                    threshold: 0
-                });
+                    let activeSection = null;
+                    let activeProgress = 0;
+                    let bestVisibility = 0;
 
-                firstSectionObserver.observe(firstWhiteSection);
-                footerObserver.observe(footerSection);
+                    for (const section of whiteSections) {
+                        const rect = section.getBoundingClientRect();
+                        const visibleTop = Math.max(rect.top, activationTop);
+                        const visibleBottom = Math.min(rect.bottom, activationBottom);
+                        const visibleHeight = visibleBottom - visibleTop;
+
+                        if (visibleHeight <= 0) {
+                            continue;
+                        }
+
+                        if (visibleHeight > bestVisibility) {
+                            bestVisibility = visibleHeight;
+                            activeSection = section;
+                            activeProgress = clamp(
+                                ((viewportHeight * 0.5) - rect.top) / Math.max(rect.height, 1),
+                                0,
+                                1
+                            );
+                        }
+                    }
+
+                    const footerReached = footerRect.top <= viewportHeight * 0.9;
+                    const shouldShowLion = Boolean(activeSection) && !footerReached;
+
+                    lion.classList.toggle('is-active', shouldShowLion);
+
+                    if (shouldShowLion) {
+                        const shift = (activeProgress - 0.5) * 44;
+                        const scale = 1 + (0.02 * (1 - Math.abs((activeProgress - 0.5) * 2)));
+                        lionImage.style.setProperty('--lion-shift', shift.toFixed(2) + 'px');
+                        lionImage.style.setProperty('--lion-scale', scale.toFixed(3));
+                    } else {
+                        lionImage.style.setProperty('--lion-shift', '0px');
+                        lionImage.style.setProperty('--lion-scale', '1');
+                    }
+
+                    ticking = false;
+                };
+
+                const requestLionUpdate = function() {
+                    if (ticking) {
+                        return;
+                    }
+
+                    ticking = true;
+                    window.requestAnimationFrame(updateLion);
+                };
+
+                window.addEventListener('scroll', requestLionUpdate, {
+                    passive: true
+                });
+                window.addEventListener('resize', requestLionUpdate);
+
+                updateLion();
             });
         </script>
         <?php include "footer.php"; ?>
