@@ -617,8 +617,8 @@
                     <p>With Singapore as our strategic hub, we deliver faster access, <br> localised support, and seamless global supply. </p>
                     <!-- <a class="btn-started btn-hover" href="contact.html">Get Started</a> -->
                   </div>
-                   <div class="cursor-btn btn_wrapper">
-                    <a class="btn-item wc-btn-primary btn-hover" href="who-we-are.php"><span></span> Explore Us <i
+                  <div class="btn_wrapper" style="position: relative; z-index: 3;">
+                    <a href="who-we-are.php" class="wc-btn-primary btn-hover btn-item"><span></span>Explore Us <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
                 </div>
@@ -629,10 +629,10 @@
                 </div>
               </div>
             </div>
-            <img class="hero__shape" src="assets/imgs/hero/4/hero-shape.png" alt="Shape Image">
+            <img class="hero__shape" src="assets/imgs/hero/4/hero-shape.png" alt="Shape Image" style="pointer-events: none;">
             <!-- <img class="hero__shape-2" src="assets/imgs/hero/4/hero-shape-2.png" alt="Layout"> -->
-            <img class="hero__shape-3" src="assets/imgs/hero/4/hero-shape-3.png" alt="Star Icon">
-            <img class="shape-4" src="assets/imgs/shape/20.png" alt="Star Icon">
+            <img class="hero__shape-3" src="assets/imgs/hero/4/hero-shape-3.png" alt="Star Icon" style="pointer-events: none;">
+            <img class="shape-4" src="assets/imgs/shape/20.png" alt="Star Icon" style="pointer-events: none;">
           </section>
       <!-- Counter replacement section end -->
 
