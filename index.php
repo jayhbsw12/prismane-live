@@ -517,7 +517,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/Pigment Dispersion Solutions.png" alt="Pigment Dispersion Solutions"></a>
+                    <img src="assets/imgs/Pigment Dispersion Solutions.png" alt="Pigment Dispersion Solutions"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -531,7 +531,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/DTF Ink Solutions.png" alt="DTF Ink Solutions"></a>
+                    <img src="assets/imgs/DTF Ink Solutions.png" alt="DTF Ink Solutions"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -545,7 +545,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/Sublimation Ink Range.png" alt="Sublimation Ink Range"></a>
+                    <img src="assets/imgs/Sublimation Ink Range.png" alt="Sublimation Ink Range"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -559,7 +559,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <a href="portfolio-details.html"><img src="assets/imgs/Best DTF Quality.png" alt="Best DTF Quality"></a>
+                    <img src="assets/imgs/Best DTF Quality.png" alt="Best DTF Quality"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
