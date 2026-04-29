@@ -236,8 +236,8 @@
           <div class="row">
             <div class="col-xxl-12">
               <div class="about__title-wrapper">
-                <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br><a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> Pte Ltd</h3> <br>
-                <h3 class="sec-title title-anim" style="color: black !important; font-size: 40px;">欢迎来到<br>普里斯曼6私人有限公司</h3>
+                <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br><a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a></h3> <br>
+                <h3 class="sec-title title-anim" style="color: black !important; font-size: 40px;">欢迎来到普里斯曼6</h3>
               </div>
 
               <div class="about__content-wrapper">

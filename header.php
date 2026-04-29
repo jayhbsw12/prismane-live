@@ -141,16 +141,16 @@
                 <div class="nav flex-column align-items-start nav-pills me-0 gap-0 " id="v-pills-tab" role="tablist"
                   aria-orientation="vertical">
 
-                  <a href="./New-launch" class="nav-link w-100 text-start rounded-none p-3" id="v-pills-new-launch-tab"
+                  <a href="./New-launch" class="nav-link w-100 text-start rounded-none p-3 active" id="v-pills-new-launch-tab"
                     data-bs-toggle="pill" data-bs-target="#v-pills-new-launch" type="button" role="tab"
-                    aria-controls="v-pills-new-launch" aria-selected="false"
+                    aria-controls="v-pills-new-launch" aria-selected="true"
                     style="border-left: 3px solid #c9f31d; font-weight: 500;">
                     Newly Launched!
                   </a>
 
-                  <a href="./sublimation-inks" class="nav-link w-100 text-start rounded-none p-3 bg-prismane active"
+                  <a href="./sublimation-inks" class="nav-link w-100 text-start rounded-none p-3"
                     id="v-pills-sublimation-inks-tab" data-bs-toggle="pill" data-bs-target="#v-pills-sublimation-inks"
-                    type="button" role="tab" aria-controls="v-pills-sublimation-inks" aria-selected="true">
+                    type="button" role="tab" aria-controls="v-pills-sublimation-inks" aria-selected="false">
                     Sublimation Inks
                   </a>
 
@@ -204,7 +204,7 @@
                 <div class="tab-content flex-grow-1 h-100" id="v-pills-tabContent">
 
                   <div
-                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
+                    class="tab-pane h-100 bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade show active"
                     id="v-pills-new-launch" role="tabpanel" aria-labelledby="v-pills-new-launch-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Newly-launched-header.webp" alt="Newly-launched-header"
@@ -216,7 +216,7 @@
                   </div>
 
                   <div
-                    class="tab-pane h-100  bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade show active"
+                    class="tab-pane h-100  bg-white align-self-stretch d-flex align-items-center justify-content-end flex-column gap-0 fade"
                     id="v-pills-sublimation-inks" role="tabpanel" aria-labelledby="v-pills-sublimation-inks-tab">
                     <div class="mega-image-holder w-100 position-relative flex-fill">
                       <img rel="preload" loading="eager" decoding="async" src="assets/imgs/header/Sublimation Inks.webp"
@@ -750,6 +750,64 @@
     .mega-menu-2 .tab-pane {
       transition: none !important;
       opacity: 1 !important;
+    }
+
+    /* Full mega menu layout */
+    ul.mega-menu-2 {
+      padding: 0 !important;
+      display: flex !important;
+      align-items: stretch !important;
+    }
+    ul.mega-menu-2 > div {
+      width: 100%;
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: stretch;
+    }
+    ul.mega-menu-2 .nav-pills {
+      min-width: 220px;
+      background-color: #111;
+      flex-shrink: 0;
+      align-self: stretch;
+    }
+    ul.mega-menu-2 .tab-content {
+      flex: 1 1 0%;
+      align-self: stretch;
+    }
+    ul.mega-menu-2 .tab-pane {
+      height: 100% !important;
+    }
+    ul.mega-menu-2 .mega-image-holder {
+      width: 100%;
+      height: 100%;
+    }
+    ul.mega-menu-2 .mega-image-holder img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    ul.mega-menu-2 .nav-link {
+      color: #fff !important;
+      border-radius: 0 !important;
+      font-size: 15px;
+      font-weight: 400;
+    }
+    ul.mega-menu-2 .nav-link:hover,
+    ul.mega-menu-2 .nav-link.active {
+      background-color: #c9f31d !important;
+      color: #000 !important;
+      font-weight: 600;
+    }
+    /* Bridge the gap between nav bar and mega menu so hover doesn't drop */
+    .main-menu > li.has-megamenu > a::after {
+      content: '';
+      display: block;
+      position: absolute;
+      bottom: -20px;
+      left: 0;
+      width: 100%;
+      height: 20px;
     }
   </style>
   <script>

@@ -29,8 +29,8 @@
     gap: 10px;
     background: #c9f31d;
     color: #000;
-    font-weight: 700;
-    font-size: 13px;
+    font-weight: 500;
+    font-size: 14px;
     letter-spacing: 2px;
     text-transform: uppercase;
     padding: 8px 20px;
@@ -52,7 +52,7 @@
   }
 
   .launch__title {
-    font-size: 100px;
+    font-size: 120px;
     font-weight: 500;
     line-height: 1;
     color: #ffffff;
@@ -65,7 +65,7 @@
 
   .launch__sub-title {
     font-size: clamp(22px, 3.5vw, 42px);
-    font-weight: 400;
+    font-weight: 300;
     color: #fff;
     line-height: 1.3;
     margin-bottom: 16px;
@@ -88,7 +88,7 @@
     /* background: linear-gradient(135deg, #c8a85a, #f5d98c, #c8a85a); */
     background-color: #ffffff;
     color: #000000;
-    font-weight: 900;
+    font-weight: 500;
     font-size: clamp(16px, 2vw, 22px);
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -156,8 +156,8 @@
     display: inline-flex;
     align-items: center;
     gap: 12px;
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 500;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: rgba(255,255,255,0.5);
@@ -177,8 +177,8 @@
   }
 
   .section__eyebrow {
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 14px;
+    font-weight: 500;
     letter-spacing: 3px;
     text-transform: uppercase;
     color: #c9f31d;
@@ -187,8 +187,8 @@
   }
 
   .section__title-white {
-    font-size: 50px;
-    font-weight: 600;
+    font-size: 60px;
+    font-weight: 500;
     color: #fff;
     line-height: 1.1;
     margin-bottom: 20px;
@@ -202,7 +202,7 @@
   }
 
   .section__lead {
-    font-size: 17px;
+    font-size: 18px;
     color: rgba(255,255,255,0.55);
     max-width: 560px;
     line-height: 1.75;
@@ -249,8 +249,8 @@
   }
 
   .ink__label {
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 14px;
+    font-weight: 500;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: rgba(255,255,255,0.85);
@@ -315,13 +315,13 @@
 
   .feature__card h4 {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 500;
     color: #fff;
     margin-bottom: 12px;
   }
 
   .feature__card p {
-    font-size: 15px;
+    font-size: 18px;
     color: rgba(255,255,255,0.5);
     line-height: 1.7;
     margin: 0;
@@ -360,7 +360,7 @@
   .showcase__overlay h3 {
     color: #fff;
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 500;
     margin: 0;
   }
 
@@ -383,7 +383,7 @@
     padding: 18px 0;
     border-bottom: 1px solid rgba(255,255,255,0.07);
     color: rgba(255,255,255,0.75);
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .specs__list li:last-child { border-bottom: none; }
@@ -398,7 +398,8 @@
   .specs__list li strong {
     color: #fff;
     display: block;
-    font-size: 15px;
+    font-size: 18px;
+    font-weight: 500;
     margin-bottom: 2px;
   }
 
@@ -423,7 +424,7 @@
 
   .launch__cta h2 {
     font-size: clamp(32px, 5vw, 60px);
-    font-weight: 700;
+    font-weight: 500;
     color: #fff;
     margin-bottom: 16px;
   }
@@ -444,8 +445,8 @@
   .btn-launch-primary {
     background: #c9f31d;
     color: #000;
-    font-weight: 700;
-    font-size: 15px;
+    font-weight: 500;
+    font-size: 18px;
     padding: 15px 36px;
     border-radius: 6px;
     text-decoration: none;
@@ -465,8 +466,8 @@
   .btn-launch-outline {
     border: 1.5px solid rgba(255,255,255,0.25);
     color: #fff;
-    font-weight: 600;
-    font-size: 15px;
+    font-weight: 500;
+    font-size: 18px;
     padding: 15px 36px;
     border-radius: 6px;
     text-decoration: none;
@@ -509,7 +510,7 @@
   .address__info a,
   .address__info span {
     color: rgba(255,255,255,0.5);
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none;
     display: flex;
     align-items: center;
