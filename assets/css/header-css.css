@@ -65,9 +65,21 @@ ul.social-list i {
     height: 80px;
     text-align: center;
 }
-.footer__logo {
+.footer-logo-wrapper {
+    display: block;
+    position: relative;
     margin-bottom: 30px;
+}
+.footer__logo {
     width: 55% !important;
+    margin-bottom: 0 !important;
+    display: block;
+}
+.footer-logo-secondary {
+    position: absolute;
+    top: 0;
+    left: 0;
+    visibility: hidden;
 }
 
 @media(min-width:1300px) and (max-width:1440px){

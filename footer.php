@@ -14,7 +14,10 @@
         <div class="col-xxl-12">
           <div class="footer__inner">
             <div class="footer__widget">
-              <a href="./"><img class="footer__logo" src="assets/imgs/logo/Prismane6-Text.svg" alt="Footer Logo"></a>
+              <a href="./" class="footer-logo-wrapper">
+                <img class="footer__logo footer-logo-primary" src="assets/imgs/logo/Prismane6-Text.svg" alt="Footer Logo">
+                <img class="footer__logo footer-logo-secondary" src="assets/imgs/logo/Prismane6-Text 2.svg" alt="Footer Logo Chinese">
+              </a>
 
               <p>From formulation to global distribution delivering performance, reach, and continuous innovation.</p>
               <ul class="footer__social">
@@ -124,6 +127,21 @@
 <script src="assets/js/jquery.meanmenu.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/header/header.js"></script>
+<script>
+  const footerLogoWrapper = document.querySelector('.footer-logo-wrapper');
+  if (footerLogoWrapper) {
+    const footerLogoPrimary = footerLogoWrapper.querySelector('.footer-logo-primary');
+    const footerLogoSecondary = footerLogoWrapper.querySelector('.footer-logo-secondary');
+    footerLogoWrapper.addEventListener('mouseover', function () {
+      footerLogoPrimary.style.visibility = 'hidden';
+      footerLogoSecondary.style.visibility = 'visible';
+    });
+    footerLogoWrapper.addEventListener('mouseout', function () {
+      footerLogoPrimary.style.visibility = 'visible';
+      footerLogoSecondary.style.visibility = 'hidden';
+    });
+  }
+</script>
 <!-- <script src="assets/js/particles.js"></script> -->
 <script src="https://cdn.jsdelivr.net/npm/tsparticles@2.11.1/tsparticles.bundle.min.js"></script>
 <script src='//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>

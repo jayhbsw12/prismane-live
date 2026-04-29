@@ -247,7 +247,7 @@
                   </div>
 
                   <div class="about__img-right">
-                    <img src="assets/imgs/Home-inks(1).png" alt="About Image Right" data-speed="0.5">
+                    <img src="assets/imgs/Home-inks.webp" alt="Home-inks" data-speed="0.5">
                     <div class="shape">
                       <div class="secondary" data-speed="0.9"></div>
                       <div class="primary"></div>
@@ -517,7 +517,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <img src="assets/imgs/Pigment Dispersion Solutions.png" alt="Pigment Dispersion Solutions"></a>
+                    <img src="assets/imgs/Pigment-Dispersion-Solutions.webp" alt="Pigment Dispersion Solutions"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -531,7 +531,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <img src="assets/imgs/DTF Ink Solutions.png" alt="DTF Ink Solutions"></a>
+                    <img src="assets/imgs/DTF-Ink-Solutions.webp" alt="DTF Ink Solutions"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -545,7 +545,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <img src="assets/imgs/Sublimation Ink Range.png" alt="Sublimation Ink Range"></a>
+                    <img src="assets/imgs/Sublimation-Ink-Range.webp" alt="Sublimation Ink Range"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -559,7 +559,7 @@
               <div class="swiper-slide">
                 <div class="portfolio__slide-7">
                   <div class="slide-img">
-                    <img src="assets/imgs/Best DTF Quality.png" alt="Best DTF Quality"></a>
+                    <img src="assets/imgs/Best-DTF-Quality.webp" alt="Best DTF Quality"></a>
                   </div>
                   <div class="slide-content">
                     <!-- <a href="portfolio-details.html"> -->
@@ -624,7 +624,7 @@
                 </div>
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                   <div class="hero__right-6">
-                    <img src="assets/imgs/umbrella solutions.png" alt="Hero Image">
+                    <img src="assets/imgs/Umbrella-solutions.webp" alt="Umbrella-solutions">
                   </div>
                 </div>
               </div>
@@ -789,45 +789,45 @@
         <div class="container">
           <div class="row top_row">
 
-            <h2 class="portfolio__text">work</h2>
+            <h2 class="portfolio__text">Applications</h2>
             <div class="portfolio__list-1">
               <div class="portfolio__item">
-                <a href="#"><img class="mover" src="assets/imgs/DTF T-Shirt.png" alt="Portfolio Image"></a>
+                <a href="#"><img class="mover" src="assets/imgs/DTF-T-Shirt.webp" alt="DTF-T-Shirt"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/Ink-mixing.png" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/Ink-mixing.webp" alt="Ink-mixing"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/Direct to fabric.png" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/Direct-to-fabric.webp" alt="Direct-to-fabric"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/inks.png" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/Inks.webp" alt="Inks"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/t-shirt inks.png" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/T-shirt-inks.webp" alt="T-shirt-inks"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
                   </div> -->
               </div>
               <div class="portfolio__item">
-                <a href="#"><img src="assets/imgs/Printers.png" alt="Portfolio Image"></a>
+                <a href="#"><img src="assets/imgs/Printers.webp" alt="Printers"></a>
                 <!-- <div class="portfolio__info">
                     <h3 class="portfolio__title">Arteck Lyon Conseil</h3>
                     <p>02 May 2021</p>
