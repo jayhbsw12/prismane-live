@@ -7856,7 +7856,7 @@ img {
   }
 }
 .about__content {
-  padding-top: 65px;
+  padding-top: 15px;
   position: relative;
   z-index: 1;
 }
@@ -20365,6 +20365,20 @@ img {
   color: var(--black-2);
   display: block;
   margin-bottom: 10px;
+}
+.contact__info ul li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+.contact__info ul li i {
+  font-size: 16px;
+  margin-top: 4px;
+  color: var(--black-2);
+  flex-shrink: 0;
+}
+.dark .contact__info ul li i {
+  color: var(--white);
 }
 .contact__form {
   position: relative;

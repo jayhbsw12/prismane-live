@@ -116,44 +116,44 @@
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">Organic <br>Pigments</div>
-                      <a href="#" class="more">Read More</a>
+                      <a href="pigments-and-dyes.php" class="more">Read More</a>
                     </div>
                   </li>
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">Sublimation<br> Inks</div>
-                      <a href="#" class="more" bis_skin_checked="1">Read More</a>
+                      <a href="sublimation-inks.php" class="more" bis_skin_checked="1">Read More</a>
                     </div>
                   </li>
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">Pigment <br> Dispersions</div>
-                      <a href="#" class="more" bis_skin_checked="1">Read More</a>
+                      <a href="pigment-dispersions.php" class="more" bis_skin_checked="1">Read More</a>
                     </div>
                   </li>
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">DTF<br> Inks</div>
-                      <a href="#" class="more" bis_skin_checked="1">Read More</a>
+                      <a href="DTF-Inks.php" class="more" bis_skin_checked="1">Read More</a>
                     </div>
                   </li>
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">DTF <br> Printers</div>
-                      <a href="#" class="more" bis_skin_checked="1">Read More</a>
+                      <a href="DTF-printers.php" class="more" bis_skin_checked="1">Read More</a>
                     </div>
                   </li>
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">DTF <br> Roll</div>
-                      <a href="#" class="more" bis_skin_checked="1">Read More</a>
+                      <a href="DTF-film.php" class="more" bis_skin_checked="1">Read More</a>
                     </div>
                   </li>
 
                   <li>
                     <div class="con" bis_skin_checked="1">
                       <div class="tit1" bis_skin_checked="1">TPU <br> Powder</div>
-                      <a href="#" class="more" bis_skin_checked="1">Read More</a>
+                      <a href="TPU-powder.php" class="more" bis_skin_checked="1">Read More</a>
                     </div>
                   </li>
                 </ul>
@@ -237,7 +237,7 @@
             <div class="col-xxl-12">
               <div class="about__title-wrapper">
                 <h3 class="sec-title title-anim" style="color: black !important;">Welcome to <br><a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> Pte Ltd</h3> <br>
-                <h3 class="sec-title title-anim" style="color: black !important;">欢迎来到<br>普里斯曼6私人有限公司</h3>
+                <h3 class="sec-title title-anim" style="color: black !important; font-size: 40px;">欢迎来到<br>普里斯曼6私人有限公司</h3>
               </div>
 
               <div class="about__content-wrapper">
@@ -323,8 +323,9 @@
             <div class="row">
               <div class="col-xxl-4 col-xl-4 col-lg-0 col-md-0">
                 <div class="service__img-wrapper">
+                  <img src="assets/imgs/service/1/Newly-launched-home-page.webp" alt="Service Image" class="service__img img-0 active">
                   <img src="assets/imgs/service/1/Organic Pigments.webp" alt="Service Image"
-                    class="service__img img-1 active">
+                    class="service__img img-1">
                   <img src="assets/imgs/service/1/Sublimations INK.webp" alt="Service Image" class="service__img img-2">
                   <img src="assets/imgs/service/1/Pigment Dispersions.webp" alt="Service Image"
                     class="service__img img-3">
@@ -333,7 +334,8 @@
                   <img src="assets/imgs/service/1/DTF Roll.webp" alt="Service Image" class="service__img img-6">
                   <img src="assets/imgs/service/1/TPU Powder.webp" alt="Service Image" class="service__img img-7">
 
-                  <span class="shape-box-1 current"></span>
+                  <span class="shape-box-0 current"></span>
+                  <span class="shape-box-1"></span>
                   <span class="shape-box-2"></span>
                   <span class="shape-box-3"></span>
                   <span class="shape-box-4"></span>

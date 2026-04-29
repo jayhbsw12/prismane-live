@@ -26,9 +26,9 @@
                 <div class="contact__info">
                   <h3 class="sub-title-anim-top animation__word_come">Don't be afraid man ! <br>say hello</h3>
                   <ul>
-                    <li><a href="tel:+6580103613">+65 80103613</a></li>
-                    <li><a href="mailto:info@prismane6.com">info@prismane6.com</a></li>
-                    <li><span>151 Chin Swee Road #02-04A <br> Manhattan House Singapore 169876</span></li>
+                    <li><i class="fa-solid fa-phone"></i><a href="tel:+6580103613">+65 80103613</a></li>
+                    <li><i class="fa-solid fa-envelope"></i><a href="mailto:info@prismane6.com">info@prismane6.com</a></li>
+                    <li><i class="fa-solid fa-location-dot"></i><span>151 Chin Swee Road #02-04A <br> Manhattan House Singapore 169876</span></li>
                   </ul>
                 </div>
               </div>

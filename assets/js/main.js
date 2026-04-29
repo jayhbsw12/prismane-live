@@ -649,7 +649,7 @@
     $('.service__img.img-' + service_id).addClass('active').siblings().removeClass('active');
     $('.shape-box-' + service_id).addClass('current').siblings().removeClass('current');
 
-    if (service_id != 1) {
+    if (service_id != 0) {
       $('.service__list a:nth-child(1)').removeClass('active');
     }
   });
@@ -658,7 +658,7 @@
   $('.service__item').on('mouseout', function (e) {
     var service_id = $(this).data("service");
 
-    $('.service__list a:nth-child(' + service_id + ')').addClass('active').siblings().removeClass('active');
+    $('.service__list a:nth-child(' + (service_id + 1) + ')').addClass('active').siblings().removeClass('active');
   });
   /////////////////////////////////////////////////////
 
