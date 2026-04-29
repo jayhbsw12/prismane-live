@@ -717,20 +717,18 @@
 
   /////////////////////////////////////////////////////
   // 19. Button Move Animation
-  const all_btns = gsap.utils.toArray(".btn_wrapper");
-  if (all_btns.length > 0) {
-    var all_btn = gsap.utils.toArray(".btn_wrapper");
-  }
-  else {
-    var all_btn = gsap.utils.toArray("#btn_wrapper");
-  }
-  const all_btn_cirlce = gsap.utils.toArray(".btn-item");
-  all_btn.forEach((btn, i) => {
+  const all_btn = gsap.utils
+    .toArray(".btn_wrapper, #btn_wrapper")
+    .filter((btn) => btn.querySelector(".btn-item"));
+  all_btn.forEach((btn) => {
+    const btn_circle = btn.querySelector(".btn-item");
+    if (!btn_circle) return;
+
     $(btn).mousemove(function (e) {
       callParallax(e);
     });
     function callParallax(e) {
-      parallaxIt(e, all_btn_cirlce[i], 80);
+      parallaxIt(e, btn_circle, 80);
     }
 
     function parallaxIt(e, target, movement) {
@@ -1231,7 +1229,7 @@
   // All Buttons 
   let arr1 = gsap.utils.toArray("#btn_wrapper")
   let arr2 = gsap.utils.toArray(".btn_wrapper")
-  const all_buttons = arr1.concat(arr2);
+  const all_buttons = arr1.concat(arr2).filter((btn) => btn.querySelector(".btn-item"));
 
   all_buttons.forEach((btn) => {
     if (!(btn.classList.contains("hero__button"))) {
