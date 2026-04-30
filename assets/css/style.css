@@ -215,3 +215,117 @@ tr td {
 .footer-custom-class {
   max-width: 500px !important;
 }
+
+/* ── Footer fixes ── */
+
+/* Copyright text — left-aligned at all viewports */
+.footer__copyright,
+.footer__copyright p {
+  text-align: left !important;
+}
+
+/* Contact address — prevent overflow on small screens */
+.footer__contact li {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+@media only screen and (max-width: 767px) {
+  .footer__widget-3 {
+    padding-right: 20px;
+  }
+}
+
+/* 20px side padding on the outer footer container on mobile */
+@media only screen and (max-width: 767px) {
+  .footer__btm .container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
+/* ── Connect page responsive fixes ── */
+
+/* 20px side padding on the contact section container at mobile */
+@media only screen and (max-width: 767px) {
+  .contact__area-6 .container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
+/* Tablet (768px – 991px) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .contact__text {
+    max-width: 100%;
+    margin-left: 0;
+    padding-top: 20px;
+  }
+
+  .contact__info h3 {
+    font-size: 22px;
+  }
+
+  .contact__info ul li a,
+  .contact__info ul li span {
+    font-size: 16px;
+  }
+
+  .contact__btm {
+    padding-top: 40px;
+  }
+}
+
+/* Mobile (≤ 767px) */
+@media only screen and (max-width: 767px) {
+  .contact__text {
+    max-width: 100%;
+    margin-left: 0;
+    padding-top: 20px;
+    display: block;
+  }
+
+  .contact__text p {
+    font-size: 16px;
+  }
+
+  .contact__info h3 {
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+
+  .contact__info ul li a,
+  .contact__info ul li span {
+    font-size: 16px;
+  }
+
+  .contact__info ul li {
+    gap: 8px;
+  }
+
+  .contact__btm {
+    padding-top: 35px;
+  }
+
+  .contact__info {
+    padding-bottom: 35px;
+  }
+
+  .contact__form .btn_wrapper,
+  .contact__form #btn_wrapper {
+    margin-top: 5px;
+  }
+}
+
+/* Small phones (≤ 480px) */
+@media only screen and (max-width: 480px) {
+  .contact__info h3 {
+    font-size: 18px;
+  }
+
+  .contact__form input,
+  .contact__form textarea {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+}
