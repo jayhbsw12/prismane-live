@@ -98,6 +98,78 @@
             display: none;
         }
     }
+
+    .dtf-inks-benefits .service__item-7 a {
+        display: inline-block;
+    }
+
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .dtf-inks-benefits {
+            padding-top: 90px;
+            padding-bottom: 20px;
+        }
+
+        .dtf-inks-benefits::before,
+        .dtf-inks-benefits::after {
+            display: none;
+        }
+
+        .dtf-inks-benefits .service__items-7 {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .dtf-inks-benefits .service__item-7 {
+            min-height: 100%;
+            padding: 0 28px 38px;
+            margin-bottom: 38px;
+            border-bottom: 1px solid #d7d7d7;
+        }
+
+        .dtf-inks-benefits .service__item-7::after {
+            display: none;
+        }
+
+        .dtf-inks-benefits .service__item-7:nth-last-child(-n+2) {
+            margin-bottom: 0;
+            border-bottom: 0;
+        }
+
+        .dtf-inks-benefits .service__item-7:nth-child(odd) {
+            border-right: 1px solid #d7d7d7;
+        }
+
+        .dtf-inks-benefits .service__title-7 {
+            font-size: 28px;
+            line-height: 1.25;
+            padding-bottom: 18px;
+        }
+
+        .dtf-inks-benefits .service__title-7 span {
+            padding-left: 42px;
+        }
+
+        .dtf-inks-benefits .service__title-7 span::before {
+            width: 32px;
+            top: 18px;
+        }
+
+        .dtf-inks-benefits .service__item-7 p {
+            max-width: none;
+            font-size: 17px;
+            line-height: 1.6;
+            padding-bottom: 0;
+        }
+    }
+
+    @media only screen and (max-width: 767px) {
+        .dtf-inks-benefits .service__item-7 {
+            padding-right: 0;
+        }
+
+        .dtf-inks-benefits .service__title-7 {
+            font-size: 28px;
+        }
+    }
 </style>
 <?php include "header.php"; ?>
 
@@ -299,7 +371,7 @@
                 </div>
             </section>
 
-            <section class="service__area-7 pt-130 white-section">
+            <section class="service__area-7 dtf-inks-benefits pt-130 white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12">
