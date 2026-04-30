@@ -11,6 +11,36 @@
   padding: 200px 20px;
 }
 
+@media only screen and (max-width: 767px) {
+  .hero-product {
+    padding: 120px 20px 250px;
+  }
+
+  .wave-path-prismane {
+    top: 500px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .hero-product {
+    padding: 120px 20px 270px;
+  }
+
+  .wave-path-prismane {
+    top: 480px !important;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .hero-product {
+    padding: 100px 20px 290px;
+  }
+
+  .wave-path-prismane {
+    top: 560px !important;
+  }
+}
+
 .bg-prismane {
   background: #c9f31d;
 }
@@ -361,6 +391,20 @@ tr td {
 /* 20px side padding on the outer footer container on mobile */
 @media only screen and (max-width: 767px) {
   .footer__btm .container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
+/* ── Sublimation Inks page — 20px side padding at mobile ── */
+@media only screen and (max-width: 767px) {
+  .hero__area .container,
+  .development__area .container,
+  .about__area-3 .container,
+  .sublimation-series-overview .container,
+  .service__area-7 .container,
+  .portfolio__service .container,
+  .faq__area-6 .container {
     padding-left: 20px !important;
     padding-right: 20px !important;
   }

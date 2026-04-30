@@ -243,34 +243,59 @@
 
     @media (max-width: 767.98px) {
         .sublimation-showcase-media {
-            height: 300px;
+            height: 260px;
         }
 
         .sublimation-series-card,
         .sublimation-color-card,
         .sublimation-series-panel {
-            padding: 22px;
+            padding: 20px;
         }
 
         .sublimation-series-media {
-            min-height: 420px;
-            padding: 28px;
+            min-height: 300px;
+            padding: 20px;
+            aspect-ratio: auto;
         }
 
         .sublimation-color-grid {
             grid-template-columns: repeat(2, minmax(0, 1fr));
-            gap: 18px;
+            gap: 16px;
         }
 
         .sublimation-color-swatch {
-            width: 60px;
-            height: 60px;
+            width: 56px;
+            height: 56px;
+        }
+
+    }
+
+    @media (max-width: 480px) {
+        .sublimation-series-media {
+            min-height: 240px;
+            padding: 16px;
+            margin-top: 20px;
+        }
+
+        .sublimation-showcase-media {
+            height: 220px;
+        }
+
+        .sublimation-series-panel,
+        .sublimation-series-card,
+        .sublimation-color-card {
+            padding: 18px;
+        }
+
+        .sublimation-color-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
         }
     }
 
     @media (min-width: 768px) and (max-width: 991.98px) {
         .sublimation-series-media {
-            min-height: 460px;
+            min-height: 380px;
         }
 
         .sublimation-color-grid {
@@ -318,14 +343,14 @@
                         </div>
                     </div>
                     <div class="row align-items-center g-5 sublimation-series-row" style="display:none;">
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-5 col-xl-5 col-xxl-5">
                             <div class="sublimation-series-media-wrap">
                                 <div class="sublimation-series-media">
                                     <img src="assets/imgs/sublimations/Home-Textiles.webp" alt="Leon Series I home textiles sublimation application">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-7 col-xl-7 col-xxl-7">
                             <div class="sublimation-series-panel">
                                 <span class="sublimation-series-kicker">Leon Series I</span>
                                 <h3 class="sec-title title-anim text-prismane">Ready to Wear and Home Textiles</h3>
@@ -340,7 +365,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center g-5 sublimation-series-row" style="display:none;">
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6 order-2 order-md-1">
+                        <div class="col-12 col-md-6 col-lg-7 col-xl-7 col-xxl-7 order-2 order-md-1">
                             <div class="sublimation-series-panel">
                                 <span class="sublimation-series-kicker">Leon Series II</span>
                                 <h3 class="sec-title title-anim text-prismane">Sports Wear and Outdoor Density</h3>
@@ -353,7 +378,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6 order-1 order-md-2">
+                        <div class="col-12 col-md-6 col-lg-5 col-xl-5 col-xxl-5 order-1 order-md-2">
                             <div class="sublimation-series-media-wrap">
                                 <div class="sublimation-series-media">
                                     <img src="assets/imgs/sublimations/Sportswear.webp" alt="Leon Series II sportswear sublimation application">
@@ -362,14 +387,14 @@
                         </div>
                     </div>
                     <div class="row align-items-center g-5 sublimation-series-row" style="display:none;">
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-5 col-xl-5 col-xxl-5">
                             <div class="sublimation-series-media-wrap">
                                 <div class="sublimation-series-media">
                                     <img src="assets/imgs/sublimations/Printing-paper-machine.webp" alt="Leon Series III printing paper machine sublimation application">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-7 col-xl-7 col-xxl-7">
                             <div class="sublimation-series-panel">
                                 <span class="sublimation-series-kicker">Leon Series III</span>
                                 <h3 class="sec-title title-anim text-prismane">High Density and Uncoated Paper</h3>
@@ -424,13 +449,13 @@
                 <div class="container g-0 line pt-130 pb-120">
                     <div class="line-3"></div>
                     <div class="row">
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+                        <div class="col-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title animation__char_come text-prismane-2">Our Sublimation Inks Range</h2><br>
                                 <h2 class="sec-title animation__char_come mandarin-title-1 text-prismane-2">我们的升华墨水系列</h2>
                             </div>
                         </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
+                        <div class="col-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
                             <div class="development__wrapper pb-0">
                                 <div class="development__content border-0 mb-0 pb-0">
                                     <p>
@@ -451,7 +476,7 @@
             <section class="about__area-3 black-section" style="display:none;">
                 <div class="container pt-20 pb-120">
                     <div class="row g-5">
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="sublimation-showcase-card">
                                 <div class="sec-title-wrapper">
                                     <h2 class="sec-sub-title title-anim">Product Showcase</h2>
@@ -463,7 +488,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="sublimation-showcase-card">
                                 <div class="sec-title-wrapper">
                                     <h2 class="sec-sub-title title-anim">Showcase</h2>
@@ -632,14 +657,14 @@
                         </div>
                     </div>
                     <div class="row align-items-center g-5 sublimation-series-row">
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-5 col-xl-5 col-xxl-5">
                             <div class="sublimation-series-media-wrap">
                                 <div class="sublimation-series-media">
                                     <img src="assets/imgs/sublimations/Home-Textiles.webp" alt="Leon Series I home textiles application">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-7 col-xl-7 col-xxl-7">
                             <div class="sublimation-series-panel">
                                 <span class="sublimation-series-kicker">Leon Series I</span>
                                 <h3 class="sec-title title-anim text-prismane">Ready to Wear and Home Textiles</h3>
@@ -654,7 +679,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center g-5 sublimation-series-row">
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6 order-2 order-md-1">
+                        <div class="col-12 col-md-6 col-lg-7 col-xl-7 col-xxl-7 order-2 order-md-1">
                             <div class="sublimation-series-panel">
                                 <span class="sublimation-series-kicker">Leon Series II</span>
                                 <h3 class="sec-title title-anim text-prismane">Sports Wear and Outdoor Density</h3>
@@ -667,7 +692,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6 order-1 order-md-2">
+                        <div class="col-12 col-md-6 col-lg-5 col-xl-5 col-xxl-5 order-1 order-md-2">
                             <div class="sublimation-series-media-wrap">
                                 <div class="sublimation-series-media">
                                     <img src="assets/imgs/sublimations/Sportswear.webp" alt="Leon Series II sportswear application">
@@ -676,14 +701,14 @@
                         </div>
                     </div>
                     <div class="row align-items-center g-5 sublimation-series-row">
-                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-5 col-xl-5 col-xxl-5">
                             <div class="sublimation-series-media-wrap">
                                 <div class="sublimation-series-media">
                                     <img src="assets/imgs/sublimations/Printing-paper-machine.webp" alt="Leon Series III printing paper machine application">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-7 col-xl-7 col-xxl-7">
                             <div class="sublimation-series-panel">
                                 <span class="sublimation-series-kicker">Leon Series III</span>
                                 <h3 class="sec-title title-anim text-prismane">High Density and Uncoated Paper</h3>
@@ -789,7 +814,7 @@
                         </div>
                     </div>
                     <div class="row g-5 mt-2">
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="sublimation-showcase-card">
                                 <div class="sec-title-wrapper">
                                     <h2 class="sec-sub-title title-anim">1 ltr Range</h2>
@@ -801,7 +826,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="sublimation-showcase-card">
                                 <div class="sec-title-wrapper">
                                     <h2 class="sec-sub-title title-anim">5 ltr Range</h2>
@@ -865,14 +890,14 @@
             <section class="about__area-3 black-section">
                 <div class="container pt-140 pb-140">
                     <div class="row">
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="about__img-3">
                                 <video width="100%" height="100%" autoplay muted loop>
                                     <source src="./assets/video/Sublimation-Inks.mp4" type="video/mp4">
                                 </video>
                             </div>
                         </div>
-                        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-sub-title title-anim">Colour That Becomes Part of the Fabric</h2>
                                 <h4 class="sec-title title-anim text-prismane">Your Reliable Sublimation Inks Partner</h4>
@@ -908,11 +933,11 @@
             <section class="portfolio__service service-v5 pt-140 pb-140 bg-light bg-img-none white-section">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-5 col-xxl-5">
                             <h2 class="sec-title animation__char_come text-prismane-2" style="max-width:none">The Process</h2>
                             <span class="mandarin-title-1 animation__char_come text-prismane-2" style="max-width:none">工艺流程</span>
                         </div>
-                        <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-7 col-xxl-7">
                             <div class="sec-text">
                                 <p>The dye sublimation process converts designs into fabric-embedded colour through a clear five-step production workflow.</p>
                             </div>
@@ -920,11 +945,11 @@
                     </div>
                     <div class="portfolio__service-list">
                         <div class="row">
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 1 - Load the Dyes</h3><p>Sublimation dyes are loaded into the printer in Cyan, Magenta, Yellow, and Black.</p></a></div></div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 2 - Print onto Transfer Paper</h3><p>Images are printed onto sublimation transfer paper with accurate colour placement.</p></a></div></div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 3 - Apply Heat</h3><p>Heat transfers the dye from the paper into the polyester fibres of the fabric.</p></a></div></div>
-                            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 4 - Cut the Fabric</h3><p>The garment panels are cut from the printed reels and prepared for assembly.</p></a></div></div>
-                            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 5 - Sew and Assemble</h3><p>The printed panels are sewn together to create the final finished product.</p></a></div></div>
+                            <div class="col-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 1 - Load the Dyes</h3><p>Sublimation dyes are loaded into the printer in Cyan, Magenta, Yellow, and Black.</p></a></div></div>
+                            <div class="col-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 2 - Print onto Transfer Paper</h3><p>Images are printed onto sublimation transfer paper with accurate colour placement.</p></a></div></div>
+                            <div class="col-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 3 - Apply Heat</h3><p>Heat transfers the dye from the paper into the polyester fibres of the fabric.</p></a></div></div>
+                            <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 4 - Cut the Fabric</h3><p>The garment panels are cut from the printed reels and prepared for assembly.</p></a></div></div>
+                            <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><div class="portfolio__service-item"><a href=""><h3 class="ps-title">Step 5 - Sew and Assemble</h3><p>The printed panels are sewn together to create the final finished product.</p></a></div></div>
                         </div>
                     </div>
                 </div>
