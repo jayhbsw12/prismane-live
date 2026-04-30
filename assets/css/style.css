@@ -366,6 +366,18 @@ tr td {
   }
 }
 
+/* ── New Launch page — 20px side padding at mobile ── */
+@media only screen and (max-width: 767px) {
+  .launch__hero .container,
+  .launch__colors .container,
+  .launch__features .container,
+  .launch__showcase .container,
+  .launch__cta .container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
 /* ── Connect page responsive fixes ── */
 
 /* 20px side padding on the contact section container at mobile */

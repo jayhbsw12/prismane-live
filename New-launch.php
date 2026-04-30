@@ -526,6 +526,48 @@
   @media (max-width: 991px) {
     .launch__hero { padding: 120px 0 60px; min-height: auto; }
     .launch__hero-img { margin-top: 50px; }
+    .launch__title { font-size: 80px; }
+    .section__title-white { font-size: 46px; }
+    .launch__colors, .launch__features, .launch__showcase { padding: 70px 0 80px; }
+  }
+
+  @media (max-width: 767px) {
+    .launch__hero { padding: 110px 0 50px; }
+    .launch__title { font-size: 56px; }
+    .launch__hero-img { margin-top: 40px; }
+    .launch__hero-img img { max-width: 100%; }
+    .launch__desc { max-width: 100%; font-size: 16px; }
+    .section__title-white { font-size: 36px; }
+    .section__lead { font-size: 16px; margin-bottom: 40px; }
+    .launch__colors { padding: 50px 0 50px; }
+    .launch__showcase { padding: 50px 0 30px; }
+    .launch__features { padding: 30px 0 50px; }
+    .feature__grid { margin-top: 30px; }
+    .showcase__visual img { height: 280px; }
+    .specs__list li { font-size: 16px; }
+    .specs__list li strong { font-size: 16px; }
+    .launch__cta { padding: 60px 0; }
+    .launch__cta p { font-size: 16px; }
+    .btn-launch-primary, .btn-launch-outline { font-size: 16px; padding: 13px 28px; }
+  }
+
+  @media (max-width: 480px) {
+    .launch__hero { padding: 100px 0 40px; }
+    .launch__title { font-size: 42px; }
+    .launch__sub-title { font-size: 22px; }
+    .launch__dtf-badge { font-size: 14px; padding: 12px 24px; letter-spacing: 2px; }
+    .section__title-white { font-size: 28px; }
+    .ink__card { padding: 20px 14px 18px; }
+    .ink__swatch { width: 48px; height: 48px; }
+    .feature__card { padding: 26px 20px; }
+    .showcase__visual img { height: 220px; }
+    .launch__showcase { padding: 40px 0 20px; }
+    .launch__features { padding: 20px 0 40px; }
+    .launch__hero { padding-left: 20px; padding-right: 20px; }
+    .launch__colors .container,
+    .launch__features .container,
+    .launch__showcase .container,
+    .launch__cta .container { padding-left: 20px !important; padding-right: 20px !important; }
   }
 </style>
 
@@ -538,7 +580,7 @@
         <div class="container">
           <div class="row align-items-center">
 
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
               <div class="launch__badge">
                 <span></span> New Product Launch
               </div>
@@ -555,7 +597,7 @@
               </div> -->
             </div>
 
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
               <div class="launch__hero-img">
                 <img src="assets/imgs/flyer front back (option).webp" alt="Prismane6 Pigment Inks for Ricoh Gen6">
               </div>
@@ -597,7 +639,7 @@
       <section class="launch__colors">
         <div class="container">
           <div class="row">
-            <div class="col-xxl-10 col-xl-10 col-lg-10">
+            <div class="col-12 col-lg-10 col-xl-10 col-xxl-10">
               <span class="section__eyebrow">Full Colour Range</span>
               <h2 class="section__title-white">8 Vibrant Colours.<br><span>One Superior Formula.</span></h2>
               <p class="section__lead">Every colour in the LEON INK range is precision-engineered for Ricoh Gen6 — achieving outstanding wash fastness, brightness, and fabric adhesion in Direct-to-Fabric printing.</p>
@@ -657,9 +699,9 @@
         <div class="container">
           <div class="row align-items-center g-5">
 
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
               <div class="showcase__visual">
-                <img src="assets/imgs/umbrella solutions.png" alt="Direct to Fabric Printing with Prismane6 Pigment Inks">
+                <img src="assets/imgs/Umbrella-solutions.webp" alt="Umbrella-solutions">
                 <div class="showcase__overlay">
                   <h3>Direct to Fabric Technology</h3>
                   <p>Ricoh Gen6 · <a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> LEON INK Series</p>
@@ -667,7 +709,7 @@
               </div>
             </div>
 
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
+            <div class="col-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
               <span class="section__eyebrow">Product Specifications</span>
               <h2 class="section__title-white" style="font-size: clamp(28px, 4vw, 48px); margin-bottom: 32px;">LEON INK Series<br><span>for Ricoh Gen6</span></h2>
 
