@@ -589,8 +589,8 @@
   // 13. Testimonial Slider
   var testimonial_slider = new Swiper(".testimonial__slider", {
     spaceBetween: 0,
-    loop: true,
-    freemode: true,
+    loop: false,
+    freemode: false,
     slidesPerView: 1,
     speed: 2000,
 

@@ -216,6 +216,128 @@ tr td {
   max-width: 500px !important;
 }
 
+/* ── Who We Are page component fixes ── */
+
+/* Dripping ink image — cap height across all viewports */
+.hero__about-award img {
+  max-height: 200px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Testimonial — remove quote background icon */
+.testimonial__inner-2 {
+  background-image: none !important;
+}
+
+/* ── Who We Are page responsive fixes ── */
+
+/* 20px side padding on all section containers at mobile */
+@media only screen and (max-width: 767px) {
+  .hero__about .container,
+  .story__area .container,
+  .testimonial__area-2 .container,
+  .cta__area .container {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
+/* Hero content top padding — reduce for small phones */
+@media only screen and (max-width: 480px) {
+  .hero__about-content {
+    padding-top: 100px !important;
+  }
+
+  /* Reduce letter spacing on the hero title for small phones */
+  .hero__about-content .hero-title,
+  .hero__about-content .hero-title .word,
+  .hero__about-content .hero-title .char {
+    letter-spacing: -0.02em !important;
+    word-spacing: -0.05em !important;
+  }
+}
+
+/* Hero info grid: stack to single column on mobile */
+@media only screen and (max-width: 767px) {
+  .hero__about-info {
+    grid-template-columns: 1fr;
+  }
+
+  .hero__about-award {
+    position: static;
+    justify-content: flex-start;
+  }
+
+  .hero__about-award::before {
+    display: none;
+  }
+
+  .hero__about-text p {
+    font-size: 16px;
+  }
+}
+
+/* Tablet: hero info 2-column layout */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .hero__about-info {
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .hero__about-award {
+    grid-column: 1/-1;
+  }
+}
+
+/* Story: text column spacing on mobile */
+@media only screen and (max-width: 767px) {
+  .story__text {
+    padding-top: 20px;
+  }
+
+  .story__text p {
+    font-size: 16px;
+  }
+
+  .story__img-wrapper {
+    height: auto;
+    margin-bottom: 10px;
+  }
+}
+
+/* Story: tablet — shrink image block heights */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .story__img-wrapper {
+    height: auto;
+  }
+}
+
+/* Testimonial: padding adjustments on mobile */
+@media only screen and (max-width: 767px) {
+  .testimonial__inner-2 {
+    padding: 50px 0 30px;
+    background-position: 0 0;
+  }
+
+  .testimonial__title-2 {
+    font-size: 28px;
+    padding: 15px 0;
+  }
+
+  .testimonial__text-2 {
+    font-size: 16px;
+    padding-right: 0;
+    padding-bottom: 20px;
+  }
+}
+
+/* CTA: font size on mobile */
+@media only screen and (max-width: 767px) {
+  .cta__title {
+    font-size: 28px;
+  }
+}
+
 /* ── Footer fixes ── */
 
 /* Copyright text — left-aligned at all viewports */

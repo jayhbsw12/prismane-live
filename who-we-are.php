@@ -118,11 +118,11 @@
               <!-- <div class="from-text">from <span>1990</span></div> -->
 
               <div class="row">
-                <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+                <div class="col-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
                   <h2 class="sec-sub-title title-anim">Process-Driven Manufacturing</h2>
                   <h3 class="sec-title title-anim">Our story</h3>
                 </div>
-                <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
+                <div class="col-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
                   <div class="story__text">
                     <p>
                       <a href="#" style="color: #bae800; font-weight: 500; text-decoration: none;">PRISMANE6</a> was founded with a clear purpose — to bring precision, consistency, and performance to pigment dispersion and ink manufacturing. What began as a focused manufacturing unit has grown into a trusted partner for ink producers across textile, digital printing, writing instruments, and specialised industrial applications.
@@ -136,17 +136,17 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
+              <div class="col-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
                 <div class="story__img-wrapper">
                   <img src="assets/imgs/Fabric-printing.webp" alt="Fabric-printing" class="w-100">
                 </div>
               </div>
-              <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+              <div class="col-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
                 <div class="story__img-wrapper img-anim">
                   <img src="assets/imgs/Products-about-us.webp" alt="Products-about-us" data-speed="auto">
                 </div>
               </div>
-              <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+              <div class="col-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                 <div class="story__img-wrapper">
                   <img src="assets/imgs/Fabric-&-inks.webp" alt="Fabric-&-inks">
                   <img src="assets/imgs/pink-ink.webp" alt="pink-ink">
@@ -317,7 +317,7 @@
             <span class="line-3"></span>
 
             <div class="row g-0">
-              <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
+              <div class="col-12 col-md-5 col-lg-5 col-xl-5 col-xxl-5">
                 <div class="testimonial__video">
                   <video autoplay muted loop>
                     <source src="assets/video/Testimonial-video.webm" type="video/mp4">
@@ -325,7 +325,7 @@
                 </div>
               </div>
 
-              <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-7">
+              <div class="col-12 col-md-7 col-lg-7 col-xl-7 col-xxl-7">
                 <div class="testimonial__slider-wrapper-2">
                   <div class="swiper testimonial__slider">
                     <div class="swiper-wrapper">
