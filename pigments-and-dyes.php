@@ -66,6 +66,79 @@
             display: none;
         }
     }
+
+    .pigments-dyes-benefits .service__item-7 a {
+        display: inline-block;
+    }
+
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .pigments-dyes-benefits {
+            padding-top: 90px;
+            padding-bottom: 20px;
+        }
+
+        .pigments-dyes-benefits::before,
+        .pigments-dyes-benefits::after {
+            display: none;
+        }
+
+        .pigments-dyes-benefits .service__items-7 {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .pigments-dyes-benefits .service__item-7 {
+            min-height: 100%;
+            padding: 0 24px 38px;
+            margin-bottom: 38px;
+            border-bottom: 1px solid #d7d7d7;
+        }
+
+        .pigments-dyes-benefits .service__item-7::after {
+            display: none;
+        }
+
+        .pigments-dyes-benefits .service__item-7:nth-last-child(-n+2) {
+            margin-bottom: 0;
+            border-bottom: 0;
+        }
+
+        .pigments-dyes-benefits .service__item-7:nth-child(odd) {
+            border-right: 1px solid #d7d7d7;
+        }
+
+        .pigments-dyes-benefits .service__title-7 {
+            font-size: 26px;
+            line-height: 1.25;
+            padding-bottom: 18px;
+            text-wrap: balance;
+        }
+
+        .pigments-dyes-benefits .service__title-7 span {
+            padding-left: 36px;
+        }
+
+        .pigments-dyes-benefits .service__title-7 span::before {
+            width: 26px;
+            top: 16px;
+        }
+
+        .pigments-dyes-benefits .service__item-7 p {
+            max-width: none;
+            font-size: 16px;
+            line-height: 1.65;
+            padding-bottom: 0;
+        }
+    }
+
+    @media only screen and (max-width: 767px) {
+        .pigments-dyes-benefits .service__item-7 {
+            padding-right: 0;
+        }
+
+        .pigments-dyes-benefits .service__title-7 {
+            font-size: 28px;
+        }
+    }
 </style>
 <?php include "header.php"; ?>
 
@@ -561,7 +634,7 @@
             <!-- Table section -->
 
             <!-- Service area start -->
-            <section class="service__area-7 pt-130 white-section">
+            <section class="service__area-7 pigments-dyes-benefits pt-130 white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12">

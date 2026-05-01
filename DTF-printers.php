@@ -170,6 +170,112 @@
             display: none;
         }
     }
+
+    .dtf-printers-benefits .service__item-7 a {
+        display: inline-block;
+    }
+
+    .dtf-printers-wave {
+        left: 0;
+        position: absolute;
+        top: 420px;
+        width: 100%;
+        z-index: 99;
+        line-height: 0;
+        pointer-events: none;
+        background: transparent;
+    }
+
+    .dtf-printers-wave .lqd-custom-shape {
+        display: block;
+        width: 100%;
+        height: 220px !important;
+    }
+
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .dtf-printers-benefits {
+            padding-top: 90px;
+            padding-bottom: 20px;
+        }
+
+        .dtf-printers-benefits::before,
+        .dtf-printers-benefits::after {
+            display: none;
+        }
+
+        .dtf-printers-benefits .service__items-7 {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .dtf-printers-benefits .service__item-7 {
+            min-height: 100%;
+            padding: 0 24px 38px;
+            margin-bottom: 38px;
+            border-bottom: 1px solid #d7d7d7;
+        }
+
+        .dtf-printers-benefits .service__item-7::after {
+            display: none;
+        }
+
+        .dtf-printers-benefits .service__item-7:nth-last-child(-n+2) {
+            margin-bottom: 0;
+            border-bottom: 0;
+        }
+
+        .dtf-printers-benefits .service__item-7:nth-child(odd) {
+            border-right: 1px solid #d7d7d7;
+        }
+
+        .dtf-printers-benefits .service__title-7 {
+            font-size: 24px;
+            line-height: 1.3;
+            padding-bottom: 18px;
+            text-wrap: balance;
+        }
+
+        .dtf-printers-benefits .service__title-7 span {
+            padding-left: 34px;
+        }
+
+        .dtf-printers-benefits .service__title-7 span::before {
+            width: 24px;
+            top: 15px;
+        }
+
+        .dtf-printers-benefits .service__item-7 p {
+            max-width: none;
+            font-size: 16px;
+            line-height: 1.65;
+            padding-bottom: 0;
+        }
+    }
+
+    @media only screen and (max-width: 767px) {
+        .dtf-printers-wave {
+            top: 560px !important;
+        }
+
+        .dtf-printers-benefits .service__item-7 {
+            padding-right: 0;
+        }
+
+        .dtf-printers-benefits .service__title-7 {
+            font-size: 28px;
+        }
+    }
+
+    @media only screen and (max-width: 480px) {
+        .dtf-printers-wave {
+            top: 600px !important;
+        }
+    }
+
+    @media only screen and (max-width: 390px) {
+        .dtf-printers-wave {
+            top: 640px !important;
+        }
+    }
 </style>
 <?php include "header.php"; ?>
 
@@ -257,11 +363,10 @@
                 <!-- <div id="tsparticles"></div>
                 <img src="assets/imgs/hero/1/1-bg.png" alt="image" class="hero1_bg">
                 <div id="js-map-canvas" class="map-canvas"> </div> -->
-
             </section>
             <!-- Hero area end -->
 
-            <section style="background: transparent; position: absolute; width: 100%; z-index: 99; top: 420px; " class="wave-path-prismane">
+            <section class="wave-path-prismane dtf-printers-wave">
                 <svg xmlns="http://www.w3.org/2000/svg" class="lqd-custom-shape" fill="none" height="100%"
                     viewBox="0 0 1440 461" width="100%" preserveAspectRatio="none" style="width: 100%; height: 220px;">
                     <path class="elementor-shape-fill"
@@ -714,7 +819,7 @@
             <!-- Table section -->
 
             <!-- Service area start -->
-            <section class="service__area-7 pt-130 white-section">
+            <section class="service__area-7 dtf-printers-benefits pt-130 white-section">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12">
